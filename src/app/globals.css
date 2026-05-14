@@ -2,16 +2,66 @@
 
 @custom-variant dark (&:is(.dark *));
 
+:root {
+  --bg: oklch(0.98 0 0);
+  --fg: oklch(0.13 0 0);
+  --muted: oklch(0.55 0 0);
+  --border: oklch(0.87 0 0);
+  --ring: oklch(0.87 0 0);
+  --accent: oklch(0.2 0 0);
+  --accent-fg: oklch(0.98 0 0);
+  --card: oklch(0.97 0 0);
+  --card-fg: oklch(0.13 0 0);
+  --edge: oklch(0 0 0 / 0.12);
+  --svg-text: oklch(0.4 0 0);
+  --node-1: oklch(0.2 0 0);
+  --node-2: oklch(0.3 0 0);
+  --node-3: oklch(0.4 0 0);
+  --node-4: oklch(0.5 0 0);
+  --node-5: oklch(0.35 0 0);
+  --node-6: oklch(0.45 0 0);
+  --rect-fill: oklch(0.97 0 0);
+  --rect-stroke: oklch(0 0 0 / 0.1);
+  --bar-fill: oklch(0.3 0 0);
+  --sel: oklch(0.13 0 0 / 0.08);
+  --grid: oklch(0 0 0 / 0.03);
+}
+
+.dark {
+  --bg: oklch(0.14 0 0);
+  --fg: oklch(0.93 0 0);
+  --muted: oklch(0.55 0 0);
+  --border: oklch(0.22 0 0);
+  --ring: oklch(0.22 0 0);
+  --accent: oklch(0.93 0 0);
+  --accent-fg: oklch(0.14 0 0);
+  --card: oklch(0.18 0 0);
+  --card-fg: oklch(0.93 0 0);
+  --edge: oklch(1 0 0 / 0.15);
+  --svg-text: oklch(0.6 0 0);
+  --node-1: oklch(0.7 0 0);
+  --node-2: oklch(0.6 0 0);
+  --node-3: oklch(0.55 0 0);
+  --node-4: oklch(0.5 0 0);
+  --node-5: oklch(0.45 0 0);
+  --node-6: oklch(0.4 0 0);
+  --rect-fill: oklch(0.2 0 0);
+  --rect-stroke: oklch(1 0 0 / 0.12);
+  --bar-fill: oklch(0.6 0 0);
+  --sel: oklch(0.98 0 0 / 0.1);
+  --grid: oklch(1 1 1 / 0.04);
+}
+
 @theme inline {
-  --color-background: oklch(0.98 0 0);
-  --color-foreground: oklch(0.13 0 0);
-  --color-muted: oklch(0.55 0 0);
-  --color-border: oklch(0.87 0 0);
-  --color-ring: oklch(0.87 0 0);
-  --color-accent: oklch(0.2 0 0);
-  --color-accent-foreground: oklch(0.98 0 0);
-  --color-card: oklch(0.97 0 0);
-  --color-card-foreground: oklch(0.13 0 0);
+  --color-background: var(--bg);
+  --color-foreground: var(--fg);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-ring: var(--ring);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-fg);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-fg);
   --font-sans: var(--font-inter), system-ui, -apple-system, sans-serif;
   --font-mono: "SF Mono", "Fira Code", "Fira Mono", monospace;
   --spacing-section: 8rem;
@@ -29,22 +79,26 @@
   }
 }
 
+* {
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
 body {
   font-family: var(--font-sans);
-  background-color: var(--color-background);
-  color: var(--color-foreground);
+  background-color: var(--bg);
+  color: var(--fg);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 ::selection {
-  background-color: oklch(0.13 0 0 / 0.08);
+  background-color: var(--sel);
 }
 
 .gradient-grid {
   background-image:
-    linear-gradient(oklch(0 0 0 / 0.03) 1px, transparent 1px),
-    linear-gradient(90deg, oklch(0 0 0 / 0.03) 1px, transparent 1px);
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
   background-size: 60px 60px;
 }
 

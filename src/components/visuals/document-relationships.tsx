@@ -50,7 +50,7 @@ export function DocumentRelationships() {
               y1={f.y}
               x2={t.x}
               y2={t.y}
-              stroke="oklch(0 0 0 / 0.08)"
+              stroke="var(--edge)"
               strokeWidth="1"
               className="transition-all duration-700"
               style={{
@@ -69,7 +69,7 @@ export function DocumentRelationships() {
               width="4"
               height="14"
               rx="2"
-              fill="oklch(0.3 0 0)"
+              fill="var(--bar-fill)"
               className="transition-all duration-500"
               style={{
                 opacity: animated ? 1 : 0,
@@ -80,7 +80,7 @@ export function DocumentRelationships() {
               x={doc.x + 8}
               y={doc.y + 1}
               fontSize="4.5"
-              fill="oklch(0.4 0 0)"
+              fill="var(--svg-text)"
               className="transition-all duration-500"
               style={{
                 opacity: animated ? 1 : 0,

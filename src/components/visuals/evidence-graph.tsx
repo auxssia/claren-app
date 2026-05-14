@@ -3,12 +3,12 @@
 import { useRef, useEffect, useState } from "react";
 
 const nodes = [
-  { id: "doc1", label: "Contract.pdf", x: 50, y: 50, color: "oklch(0.2 0 0)" },
-  { id: "doc2", label: "Email Chain", x: 160, y: 20, color: "oklch(0.3 0 0)" },
-  { id: "doc3", label: "Invoice #204", x: 150, y: 90, color: "oklch(0.4 0 0)" },
-  { id: "doc4", label: "Notice.jpg", x: 260, y: 110, color: "oklch(0.5 0 0)" },
-  { id: "doc5", label: "Screenshot", x: 280, y: 30, color: "oklch(0.35 0 0)" },
-  { id: "doc6", label: "Annexure A", x: 50, y: 130, color: "oklch(0.45 0 0)" },
+  { id: "doc1", label: "Contract.pdf", x: 50, y: 50 },
+  { id: "doc2", label: "Email Chain", x: 160, y: 20 },
+  { id: "doc3", label: "Invoice #204", x: 150, y: 90 },
+  { id: "doc4", label: "Notice.jpg", x: 260, y: 110 },
+  { id: "doc5", label: "Screenshot", x: 280, y: 30 },
+  { id: "doc6", label: "Annexure A", x: 50, y: 130 },
 ];
 
 const edges = [
@@ -52,7 +52,7 @@ export function EvidenceGraph() {
               y1={from.y}
               x2={to.x}
               y2={to.y}
-              stroke="oklch(0 0 0 / 0.12)"
+              stroke="var(--edge)"
               strokeWidth="1"
               className="transition-all duration-700"
               style={{
@@ -69,7 +69,7 @@ export function EvidenceGraph() {
               cx={node.x}
               cy={node.y}
               r="5"
-              fill={node.color}
+              fill={`var(--node-${i + 1})`}
               className="transition-all duration-500"
               style={{
                 opacity: animated ? 1 : 0,
@@ -80,7 +80,7 @@ export function EvidenceGraph() {
               x={node.x + 9}
               y={node.y + 1}
               fontSize="5"
-              fill="oklch(0.4 0 0)"
+              fill="var(--svg-text)"
               className="transition-all duration-500"
               style={{
                 opacity: animated ? 1 : 0,

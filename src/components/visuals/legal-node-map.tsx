@@ -48,7 +48,7 @@ export function LegalNodeMap() {
               y1={f.y}
               x2={t.x}
               y2={t.y}
-              stroke="oklch(0 0 0 / 0.1)"
+              stroke="var(--edge)"
               strokeWidth="1"
               className="transition-all duration-700"
               style={{
@@ -67,8 +67,8 @@ export function LegalNodeMap() {
               width="60"
               height="16"
               rx="3"
-              fill="oklch(0.97 0 0)"
-              stroke="oklch(0 0 0 / 0.1)"
+              fill="var(--rect-fill)"
+              stroke="var(--rect-stroke)"
               strokeWidth="0.5"
               className="transition-all duration-500"
               style={{
@@ -82,7 +82,7 @@ export function LegalNodeMap() {
               x={node.x}
               y={node.y + 1}
               fontSize="4.5"
-              fill="oklch(0.35 0 0)"
+              fill="var(--svg-text)"
               textAnchor="middle"
               dominantBaseline="middle"
               className="transition-all duration-500"

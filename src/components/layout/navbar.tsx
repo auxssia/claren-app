@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation";
 import { useState, useEffect } from "react";
 import { cn } from "@/lib/utils";
 import { Logo } from "@/components/common/logo";
+import { ThemeToggle } from "@/components/common/theme-toggle";
 import { Menu, X, Github } from "lucide-react";
 
 const navLinks = [
@@ -63,6 +64,7 @@ export function Navbar() {
               {link.label}
             </Link>
           ))}
+          <ThemeToggle />
           <a
             href="https://github.com/auxssia"
             target="_blank"
@@ -106,6 +108,7 @@ export function Navbar() {
               </Link>
             ))}
             <div className="flex items-center gap-4 pt-2 border-t border-border/30">
+              <ThemeToggle />
               <a
                 href="https://github.com/auxssia"
                 target="_blank"
