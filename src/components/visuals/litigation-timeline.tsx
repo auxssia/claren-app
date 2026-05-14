@@ -41,7 +41,7 @@ export function LitigationTimeline() {
             transition: `all 0.5s ease-out ${i * 120}ms`,
           }}
         >
-          <div className="flex items-start gap-5">
+          <div className="flex items-start gap-4 sm:gap-5">
             <div className="relative z-10 flex-shrink-0 w-6 h-6 rounded-full border-2 border-border bg-background flex items-center justify-center">
               <div className="w-2 h-2 rounded-full bg-foreground/30" />
             </div>

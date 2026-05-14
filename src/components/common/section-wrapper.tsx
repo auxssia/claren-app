@@ -12,7 +12,7 @@ export function SectionWrapper({ id, className, children, ...props }: SectionWra
     <section
       id={id}
       className={cn(
-        "mx-auto max-w-7xl px-6 pt-section pb-section-inner",
+        "mx-auto max-w-7xl px-6 pt-24 sm:pt-section pb-12 sm:pb-section-inner",
         className
       )}
       {...props}

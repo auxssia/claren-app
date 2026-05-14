@@ -37,16 +37,8 @@ export function DocumentRelationships() {
     return () => observer.disconnect();
   }, []);
 
-  const labelPositions: Record<string, "top" | "bottom" | "right"> = {
-    c: "bottom",
-    e: "top",
-    i: "bottom",
-    n: "top",
-    s: "bottom",
-  };
-
   return (
-    <div ref={ref} className="w-full aspect-[2.5/1] max-h-[220px] relative">
+    <div ref={ref} className="w-full aspect-[2/1] sm:aspect-[2.5/1] max-h-[180px] sm:max-h-[220px] relative">
       <svg viewBox="0 0 300 130" className="w-full h-full">
         {connections.map(([from, to], i) => {
           const f = docs.find((d) => d.id === from)!;

@@ -11,13 +11,34 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Claren — Visual intelligence for litigation",
+  title: {
+    default: "Claren — Visual intelligence for litigation",
+    template: "%s — Claren",
+  },
   description:
     "Claren helps lawyers and law students understand cases, evidence, timelines, and legal procedures visually. Open source litigation intelligence.",
+  icons: {
+    icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
+  },
   openGraph: {
     title: "Claren — Visual intelligence for litigation",
     description:
       "Understand law visually. Open source litigation intelligence platform.",
+    url: "https://claren.legal",
+    siteName: "Claren",
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Claren — Visual intelligence for litigation",
+    description:
+      "Understand law visually. Open source litigation intelligence platform.",
+  },
+  robots: {
+    index: true,
+    follow: true,
   },
 };
 

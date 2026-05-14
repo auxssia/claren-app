@@ -4,6 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState, useEffect } from "react";
 import { cn } from "@/lib/utils";
+import { Logo } from "@/components/common/logo";
 import { Menu, X, Github } from "lucide-react";
 
 const navLinks = [
@@ -41,9 +42,10 @@ export function Navbar() {
       <nav className="mx-auto max-w-7xl flex items-center justify-between px-6 h-16">
         <Link
           href="/"
-          className="text-lg font-semibold tracking-tight"
+          className="flex items-center gap-2"
         >
-          Claren
+          <Logo className="h-6 w-6 text-foreground" />
+          <span className="text-lg font-semibold tracking-tight">Claren</span>
         </Link>
 
         <div className="hidden md:flex items-center gap-8">
@@ -62,7 +64,7 @@ export function Navbar() {
             </Link>
           ))}
           <a
-            href="https://github.com"
+            href="https://github.com/auxssia"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted hover:text-foreground transition-colors"
@@ -105,7 +107,7 @@ export function Navbar() {
             ))}
             <div className="flex items-center gap-4 pt-2 border-t border-border/30">
               <a
-                href="https://github.com"
+                href="https://github.com/auxssia"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted hover:text-foreground transition-colors"

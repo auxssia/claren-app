@@ -11,7 +11,7 @@ export function Footer() {
           </Link>
           <span className="hidden sm:inline text-border/50">/</span>
           <a
-            href="https://github.com"
+            href="https://github.com/auxssia"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-foreground transition-colors flex items-center gap-1.5"
@@ -19,14 +19,16 @@ export function Footer() {
             <Github className="h-3.5 w-3.5" />
             GitHub
           </a>
-          <a href="#" className="hover:text-foreground transition-colors">
+          <Link href="/pricing" className="hover:text-foreground transition-colors">
             Open Source
-          </a>
-          <a href="#" className="hover:text-foreground transition-colors">
+          </Link>
+          <a
+            href="https://wa.me/917032659891"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-foreground transition-colors"
+          >
             Contact
-          </a>
-          <a href="#" className="hover:text-foreground transition-colors">
-            X / Twitter
           </a>
         </div>
         <p className="text-xs text-muted/60">

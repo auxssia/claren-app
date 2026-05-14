@@ -19,19 +19,21 @@ export function AnimatedSection({ children, className, delay = 0 }: AnimatedSect
     const el = ref.current;
     if (!el) return;
 
+    const isMobile = window.innerWidth < 768;
+
     const ctx = gsap.context(() => {
       gsap.fromTo(
         el,
-        { opacity: 0, y: 24 },
+        { opacity: 0, y: isMobile ? 12 : 24 },
         {
           opacity: 1,
           y: 0,
-          duration: 0.8,
+          duration: isMobile ? 0.5 : 0.8,
           delay,
           ease: "power2.out",
           scrollTrigger: {
             trigger: el,
-            start: "top 85%",
+            start: isMobile ? "top 90%" : "top 85%",
             toggleActions: "play none none reverse",
           },
         }
@@ -59,20 +61,22 @@ export function AnimatedStagger({
     const el = ref.current;
     if (!el) return;
 
+    const isMobile = window.innerWidth < 768;
+
     const ctx = gsap.context(() => {
       const items = el.children;
       gsap.fromTo(
         items,
-        { opacity: 0, y: 16 },
+        { opacity: 0, y: isMobile ? 8 : 16 },
         {
           opacity: 1,
           y: 0,
-          duration: 0.6,
-          stagger,
+          duration: isMobile ? 0.4 : 0.6,
+          stagger: isMobile ? Math.min(stagger, 0.04) : stagger,
           ease: "power2.out",
           scrollTrigger: {
             trigger: el,
-            start: "top 85%",
+            start: isMobile ? "top 90%" : "top 85%",
             toggleActions: "play none none reverse",
           },
         }

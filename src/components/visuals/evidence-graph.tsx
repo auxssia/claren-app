@@ -40,7 +40,7 @@ export function EvidenceGraph() {
   }, []);
 
   return (
-    <div ref={ref} className="w-full aspect-[2/1] max-h-[300px] relative">
+    <div ref={ref} className="w-full aspect-[2/1] max-h-[260px] sm:max-h-[300px] relative">
       <svg viewBox="0 0 340 160" className="w-full h-full">
         {edges.map((edge, i) => {
           const from = nodes.find((n) => n.id === edge.from)!;

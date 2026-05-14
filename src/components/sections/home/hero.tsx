@@ -11,12 +11,20 @@ export function HomeHero() {
     const el = container.current;
     if (!el) return;
 
+    const isMobile = window.innerWidth < 768;
+
     const ctx = gsap.context(() => {
       const items = el.querySelectorAll(".anim-child");
       gsap.fromTo(
         items,
-        { opacity: 0, y: 20 },
-        { opacity: 1, y: 0, duration: 0.7, stagger: 0.12, ease: "power2.out" }
+        { opacity: 0, y: isMobile ? 10 : 20 },
+        {
+          opacity: 1,
+          y: 0,
+          duration: isMobile ? 0.5 : 0.7,
+          stagger: isMobile ? 0.06 : 0.12,
+          ease: "power2.out",
+        }
       );
     });
 
