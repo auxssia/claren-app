@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: oklch(0.98 0 0);
+  --color-foreground: oklch(0.13 0 0);
+  --color-muted: oklch(0.55 0 0);
+  --color-border: oklch(0.87 0 0);
+  --color-ring: oklch(0.87 0 0);
+  --color-accent: oklch(0.2 0 0);
+  --color-accent-foreground: oklch(0.98 0 0);
+  --color-card: oklch(0.97 0 0);
+  --color-card-foreground: oklch(0.13 0 0);
+  --font-sans: var(--font-inter), system-ui, -apple-system, sans-serif;
+  --font-mono: "SF Mono", "Fira Code", "Fira Mono", monospace;
+  --spacing-section: 8rem;
+  --spacing-section-inner: 4rem;
+  --animate-fade-in: fade-in 0.8s ease-out forwards;
+  --animate-fade-up: fade-up 0.8s ease-out forwards;
+
+  @keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  @keyframes fade-up {
+    from { opacity: 0; transform: translateY(12px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background-color: oklch(0.13 0 0 / 0.08);
+}
+
+.gradient-grid {
+  background-image:
+    linear-gradient(oklch(0 0 0 / 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, oklch(0 0 0 / 0.03) 1px, transparent 1px);
+  background-size: 60px 60px;
+}
+
+@keyframes draw-line {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
