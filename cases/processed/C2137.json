@@ -1,0 +1,46 @@
+{
+  "case_id": "C2137",
+  "case_name": "Chinnammal v State of Tamil Nadu and Others",
+  "court": "Supreme Court of India",
+  "year": 1996,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Chinnammal",
+  "respondent": "State of Tamil Nadu",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Evidence Act",
+      "section": "145"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "20 November 1996",
+  "outcome": "Unknown",
+  "facts": [
+    "The six accused-respondents were tried for and convicted or offences punishable under Sections 147, 148, 307 and 302 IPC (3 counts).",
+    "The High Court set aside their convictions and acquitted them.",
+    "Aggrieved thereby the appellant, who happens to be the wife of one of the three deceased and figured as an eye witness to the incident, filed this appeal after obtaining special leave."
+  ],
+  "issues": [
+    "Whether the High Court was correct in setting aside the convictions of the accused-respondents",
+    "Whether previous statements made by witnesses can be treated as substantive evidence"
+  ],
+  "petitioner_arguments": [
+    "The statement (Ext. 01) made by the accused persons during the incident before a Magistrate which was initially recorded as her dying declaration but was subsequently treated as a statement recorded under section 164 Cr.P.C. in view of her survival and the report (Ext. P1) that she lodged with the police (which was treated as the first information Report) contradicted each other maternally."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "A case has to be decided on the basis of the evidence adduced by the witnesses during the trial and any previous statements made by any of such witnesses can be used by the defence for the purpose of only contradicting and discrediting that particular witness in the manner laid down in Section 145 of the Evidence Act.",
+    "The High Court was first required to consider the statement made by the prosecution witnesses during trial and decide for itself whether those statements should be relied upon in view of their contradictions (if any) with their earlier statements, provided those contradictions had been brought on record under Section 145 of the Evidence Act."
+  ],
+  "holding": [
+    "The impugned judgment is set aside",
+    "The matter is remanded to the High Court for disposal of the appeal in accordance with law"
+  ],
+  "cases_cited": [
+    "Chinnammal v State of Tamil Nadu"
+  ]
+}

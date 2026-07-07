@@ -1,0 +1,78 @@
+{
+  "case_id": "C261",
+  "case_name": "State of Bihar v Kalika Kuer @ Kalika Singh and others",
+  "court": "Supreme Court of India",
+  "year": 2003,
+  "judges": [
+    "Brijesh Kumar"
+  ],
+  "bench": [],
+  "petitioner": "State of Bihar",
+  "respondent": "Kalika Kuer @ Kalika Singh",
+  "citations": [
+    "AIR 1979 PATNA 250"
+  ],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "15"
+    },
+    {
+      "act": "The Act",
+      "section": "37"
+    },
+    {
+      "act": "Attaches Finality To The Decisions And Orders Passed Under The Act",
+      "section": "37"
+    },
+    {
+      "act": "Said Act",
+      "section": "37"
+    }
+  ],
+  "legal_domain": "Administrative",
+  "legal_subdomain": "Ultra Vires",
+  "court_level": "Supreme Court",
+  "decision_date": "25 April 2003",
+  "outcome": "Unknown",
+  "facts": [
+    "This is an appeal preferred by the State of Bihar against the judgment and order dated 25.9.1989 passed by the Patna High Court declaring, Sections 15 (1) and 15 (2)of the Bihar Consolidation of Holdings and Prevention of Fragmentation Act, 1956 (for short 'the Act'), ultra vires of Articles 13 and 14 of the Constitution.",
+    "It appears that the question of vires, interpretation and scope of various provisions of the Act came to be considered by a Full Bench consisting of three Hon'ble judges of the Patna High Court and considering the points raised and some decisions rendered earlier, the Full Bench held Section 15 of the Act ultra vires and further held that certain categories of disputes and matters could be entertained and decided by the civil court despite the restrictions placed under section 4(b) and 4(c) of the Act and bar of jurisdiction of Civil Court u/s 37 of the Act.",
+    "The provision contained under Section 4 (b) provides that after a Notification is published under Section 3(1) of the Act, no suit or other legal proceeding falling in the area notified, shall be entertained by any Court and Section 4(c) provides that every proceeding for correction of records and for declaration of rights or interest in any land or any other right, pending before any other Court or authority shall stand abated.",
+    "Section 15 of the Act provides that the Consolidation Officer shall grant to every raiyat to whom holding has been allotted under the Scheme of Consolidation, a Certificate which shall be a conclusive proof of the title of such raiyat and similar certificate is provided to every under-raiyat having a right of occupancy or not but having been allotted a land under the Consolidation Scheme.",
+    "It is also considered to be a conclusive proof of the title of the under-raiyat .",
+    "Section 37 attaches finality to the decisions and orders passed under the Act and the jurisdiction of the civil court is barred to entertain any suit or proceedings in respect thereof."
+  ],
+  "issues": [
+    "The vires of Section 15 of the Act has been upheld in the case of Ramkrit Singh 1979 Indlaw PAT 92 (supra) by the Full Bench, including the bar of jurisdiction of the Civil Court in respect of matters covered by notification u/s 3 read with Section 4(b) and 4(c) of the Act.",
+    "The question as to whether the consolidation authorities are courts of limited jurisdiction or not",
+    "Whether a decision can be considered to have been rendered per incuriam"
+  ],
+  "petitioner_arguments": [
+    "The Full Bench decision, impugned herein, is in direct conflict with the decision in the case of Ramkrit Singh 1979 Indlaw PAT 92 (supra), in which case also same or similar arguments and grounds were raised.",
+    "In Halsburry's Laws of England (Fourth Edition) Vol.26: Judgment and Orders Judicial Decisions as Authorities (pages 297-298, Para 578) we find it observed about per incuriam as follows:",
+    "A decision is given per incuriam when the court has acted in ignorance of a previous decision of its own or of a court of coordinate jurisdiction while covered the case before it, in which case it must decide which case to follow or when it has acted in ignorance of a House of Lords decision, in which case it must follow that decision; or when the decision is given in ignorance of the terms of a statute or rule having statutory force .",
+    "Even if a decision of the Court of Appeal has misinterpreted a previous decision of the House of lords, the Court of Appeal must follow its previous decision and leave the House of Lords to rectify the mistake."
+  ],
+  "respondent_arguments": [
+    "No reference has been made to the Full Bench decision of Ramkrit Singh 1979 Indlaw PAT 92 (Supra).",
+    "In respect of other points no reference has been made to the Full Bench decision of Ramkrit Singh 1979 Indlaw PAT 92 (Supra)."
+  ],
+  "court_reasoning": [
+    "The reasons which has been indicated to hold that the decision in the case of Ramkrit Singh 1979 Indlaw PAT 92 (supra) was per incuriam is that it did not consider the question as to whether the consolidation authorities are courts of limited jurisdiction or not.",
+    "In such a situation the civil court will have jurisdiction to decide suits relating to such matter in respect whereof its jurisdiction is not barred either in terms of section 4(b) or Section 37 of the said Act",
+    "Whatever has been held or observed in the case of Ramkrit Singh 1979 Indlaw PAT 92 (supra) may not appear to be correct or may seem to be against the provisions of the Act but that would not be a valid ground to hold that the earlier judgment was rendered per incuriam or that decision would not be binding on the Bench of a coordinate jurisdiction.",
+    "In respect of other points no reference has been made to the Full Bench decision of Ramkrit Singh 1979 Indlaw PAT 92 (Supra).",
+    "A decision by two judges, unless it is demonstrated that the said decision by any subsequent change in law or decision ceases to laying down a correct law"
+  ],
+  "holding": [
+    "The rule of per incuriam cannot be applied where a Court omits to consider a binding precedent of the same court or the superior court rendered on the same issue or where a court omits to consider any statute while deciding that issue.",
+    "A decision by two judges, unless it is demonstrated that the said decision by any subsequent change in law or decision ceases to laying down a correct law"
+  ],
+  "cases_cited": [
+    "Govt. of Andhra Pradesh and Anr. Vs B. Satyanarayana Rao (Dead",
+    "In Fuerst Day Lawson Ltd. Vs Shivaraj V",
+    "In Pradip Chandra Parija and others Vs. Pramod Chandra Patnaik",
+    "to any subsequent change in law. In State of U.P. and Another Vs. Synthetics"
+  ]
+}

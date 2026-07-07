@@ -1,0 +1,53 @@
+{
+  "case_id": "C2513",
+  "case_name": "M/S Goyal Enterprises v State Of Jharkhand & Anr",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [],
+  "bench": [],
+  "petitioner": "M/S Goyal Enterprises",
+  "respondent": "State Of Jharkhand &",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Negotiable Instruments Act",
+      "section": "138"
+    }
+  ],
+  "legal_domain": "Administrative",
+  "legal_subdomain": "Natural Justice",
+  "court_level": "Supreme Court",
+  "decision_date": "25 February 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "The application before the High Court for grant of leave was filed under Section 378(4) of the Code of Criminal Procedure, 1973.",
+    "Proceeding was initiated on the basis of a complaint filed before the learned Judicial Magistrate, Ist Class, Jamshedpur alleging commission of offence punishable under Section 138 of the Negotiable Instruments Act, 1881.",
+    "The accused who is respondent No.2 in the petition was found guilty, and was accordingly, convicted and sentenced to undergo simple imprisonment for six months.",
+    "He was also directed to pay by way of compensation the cheque amount of Rs.61,860/- and Rs.62, 860/- to the complainant within one month from the passing of the order."
+  ],
+  "issues": [
+    "Challenge in this appeal is to the order passed by a Division Bench of the Jharkhand High Court refusing to grant leave to appeal.",
+    "The requirement of indicating reasons in such cases has been judicially recognised as imperative."
+  ],
+  "petitioner_arguments": [
+    "The absence of reasons has rendered the High Court order not sustainable.",
+    "Reason is the heartbeat of every conclusion, and without the same it becomes lifeless.",
+    "Right to reason is an indispensable part of a sound judicial system; reasons at least sufficient to indicate an application of mind to the matter before court."
+  ],
+  "respondent_arguments": [
+    "Though the order is non-reasoned, yet this is not a fit case for exercise of power under Article 136 of the Constitution of India, 1950."
+  ],
+  "court_reasoning": [
+    "The High Court has not given any reasons for refusing to grant leave to file appeal against acquittal, and seems to have been completely oblivious to the fact that by such refusal, a close scrutiny of the order of acquittal, by the appellate forum, has been lost once and for all.",
+    "Reasons introduce clarity in an order. On plainest consideration of justice, the High Court ought to have set forth its reasons, howsoever brief in its order, indicative of an application of its mind;",
+    "The requirement of indicating reasons in such cases has been judicially recognised as imperative."
+  ],
+  "holding": [
+    "In view of the aforesaid legal position, the impugned judgment of the High Court is unsustainable and is set aside.",
+    "We grant leave to the State to file the appeal. The High Court shall entertain the appeal and after formal notice to the respondents hear the appeal and dispose of it in accordance with law,"
+  ],
+  "cases_cited": [
+    "M/S Goyal Enterprises v State Of Jharkhand &",
+    "respect of administrative orders Lord Denning, M.R. in Breen v. Amalgamated Engg"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "case_id": "C874",
+  "case_name": "Harapal Singh v Devinder Singh and Another",
+  "court": "Supreme Court of India",
+  "year": 1997,
+  "judges": [
+    "K. T. Thomas, J."
+  ],
+  "bench": [],
+  "petitioner": "Harapal Singh",
+  "respondent": "Devinder Singh and Another\nSupreme Court of India\n\n9 July 1997\nCriminal Appeal No. 549 of 1988 with Criminal Appeal No. 796 of 1991\nThe Judgment was delivered by : K. T. Thomas, J.\n1.  This case reflects the bizarre offshoot of unholy campus politicisation culminating in the premature end of Jasbir Singh a student who reached final year in M. A (Economics). The venue of the murderous onslaught as the precinct of Nar Hari Hostel attached to Kurukshetra university in Haryana and the time was lunch recess on 23- 10-1986. Jasbir Singh was stabbed to death while his fellow student Sumer singh received grievous hurt. Twelve persons including some student leaders of the rival wing were sent up for trial before the Designated Court of Kurukshetra as the charge included Section 6 of the Terrorist and Disruptive Activities(Prevention) Act, 1987 (for short \"the TADA') But all of them were acquitted by the trial Judge and these appeals have been filed under Section 19 of the TADA",
+  "citations": [
+    "AIR 1965 SC 202",
+    "AIR 1965 SC 328",
+    "AIR 1992 SC 214"
+  ],
+  "statutes": [
+    {
+      "act": "Terrorist And Disruptive Act",
+      "section": "6"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "162"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "114"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "9 July 1997",
+  "outcome": "Unknown",
+  "facts": [
+    "The case reflects the bizarre offshoot of unholy campus politicisation culminating in the premature end of Jasbir Singh a student who reached final year in M.A (Economics).",
+    "Jasbir Singh was stabbed to death while his fellow student Sumer singh received grievous hurt.",
+    "Twelve persons including some student leaders of the rival wing were sent up for trial before the Designated Court of Kurukshetra as the charge included Section 6 of the Terrorist and Disruptive Activities(Prevention) Act, 1987 (for short 'the TADA')",
+    "The backdrop disquieting from the angle of campus discipline, was the college students' union election on the lines of political party loyalties of the students.",
+    "Himat won the election, but its fallout was the acrimonious tension which persisted for long between two rival student wings in the campus.",
+    "Skirmishes erupted as a daily occurrence between them and police had to register criminal cases against offending students.",
+    "On the previous day of occurrence in this case the victorious group made all efforts to get their budget proposals approved by the general body but such efforts were thwarted by the stiff resistance offered by jasbir Singh and his followers."
+  ],
+  "issues": [
+    "Whether the evidence of Harpal Singh is reliable",
+    "Whether the delay in lodging the FIR affects the reliability of Harpal Singh's testimony"
+  ],
+  "petitioner_arguments": [
+    "The trial court should not have declined to believe that he had witnessed the occurrence.",
+    "Harpal Singh's evidence would then become capable of corroborating the testimony of Sumer Singh."
+  ],
+  "respondent_arguments": [
+    "The delay in lodging the FIR and the failure to collect the clothes worn by Harpal Singh are flaws in his testimony",
+    "The supplementary statement recorded by the Investigating officer could only have been used to contradict the witness"
+  ],
+  "court_reasoning": [
+    "We have bestowed our consideration on the facts of these appeals keeping the aforesaid rule of caution.",
+    "If the presence of Harpal Singh at the place of occurrence can be believed as a certainty his evidence would then become capable of corroborating the testimony of Sumer Singh."
+  ],
+  "holding": [
+    "The acquittal of all the accused is set aside and the case is remitted to the Designated Court for retrial"
+  ],
+  "cases_cited": [
+    "Girish Yadav & others vs. state of M",
+    "Gurmej Singh & others vs. State Punjab",
+    "Harapal Singh v Devinder Singh",
+    "In Darya Singh & others vs. State of Punjab",
+    "Malkan Singh & others vs state of U",
+    "Rai Saheb & others vs. State Of Haryana",
+    "Rajbir vs. State of Haryana",
+    "Ram Sanjiwan Singh & others vs state of Bihar",
+    "vide Masalti vs. State of U",
+    "vide state of Karnataka vs. Moin Patel"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "case_id": "C2777",
+  "case_name": "Ranjit Singh v Commissioner of Income Tax, U. P. and Others",
+  "court": "Supreme Court of India",
+  "year": 1961,
+  "judges": [
+    "S. K. Das"
+  ],
+  "bench": [],
+  "petitioner": "Ranjit Singh",
+  "respondent": "Commissioner of Income Tax, U. P.",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "6"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    },
+    {
+      "section": "8(1)"
+    },
+    {
+      "section": "8(2)"
+    },
+    {
+      "section": "23"
+    },
+    {
+      "section": "24B"
+    },
+    {
+      "section": "25A"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "14 April 1961",
+  "outcome": "Unknown",
+  "facts": [
+    "One Ranjit Singh is the petitioner before us.",
+    "The facts are shortly these.",
+    "In 1948 the Central Government referred a number of cases in which the petitioner was concerned to the Income-tax Investigation Commission set up under the relevant provisions of the Taxation on Income (Investigation Commission) Act, 1947 (Act XXX of 1947), hereinafter referred to as the Act.",
+    "On May 30, 1948, the Secretary of the Commission issued a notice to the petitioner to furnish a list of businesses or concerns in which the petitioner was interested and to produce the account books, registers etc. relating thereto.",
+    "The petitioner complied with the notice.",
+    "Then, an Autho- rised Official appointed by the Commission commenced an investigation into the cases in February, 1949, and in due course submitted a report to the Commission.",
+    "The Commission heard the petitioner and on April 16, 1949, submitted a report under s.8-A(1) of the Act.",
+    "The findings of the Commission appear from the following extract from their report:",
+    "The report of the Commission and the terms suggested by the petitioner for a settlement were accepted by the Central Government and an order was passed under s.8-A(2) of the Act on November 21, 1949,",
+    "A demand notice was accordingly issued to the petitioner on December 2, 1949.",
+    "The petitioner alleges, however, that he received the notice in or about April, 1950, after the Constitution of India had come into force.",
+    "Thereafter, in pursuance of the demand notice certain payments were made by the petitioner.",
+    "The result was that according to the terms of settlement the whole amount outstanding at the time became immediately payable by the petitioner.",
+    "Then, certain properties of the petitioner and his family were attached by the Collector of the district concerned in pursuance of the orders received from time to time from the Income-tax Officer."
+  ],
+  "issues": [
+    "The main contention is that the proceedings taken against the petitioner in pursuance of the order under s.8-A(2) are violative of the guarantee of equal protection of the laws under Art.14 of the Constitution."
+  ],
+  "petitioner_arguments": [
+    "The case of the petitioner is that after the coming into force of the Constitution of India on January 26, 1950, the demand notice could not be given effect to and the proceedings taken in pursuance of that notice are unconstitutional inasmuch as they violate his fundamental rights guaranteed by the Constitution.",
+    "In the petition a reference has been made to Articles 14, 31 and 19(1)(g) of the Constitution, but the argument before us has proceeded on the contention urged on behalf of the petitioner that there has been a violation of the fundamental right of equal protection of the laws guaranteed to him under Art.14 of the Constitution inasmuch as he has been dealt with differently from other debtors who owe money to the State under a contractual liability."
+  ],
+  "respondent_arguments": [
+    "The principal point taken on their behalf is that the legality of the demand notice dated December 2, 1949, cannot be challenged by the petitioner on the strength of the provisions of the Constitution, because the Constitution is prospective and not retrospective; secondly, it is contended on behalf of the respondents that the subsequent proceedings taken in pursuance of the demand notice aforesaid do not in any way violate the right of equal protection of the laws guaranteed under Art.14 of the Constitution."
+  ],
+  "court_reasoning": [
+    "The point which requires emphasis with regard to these earlier decisions is this: they all dealt with the operation of a discriminatory procedure under the different provisions of the Act after the commencement of the Constitution.",
+    "The position in the case under our present consideration is that the settlement, the order under s.8-A(2) of the Act, and even the notice of demand in pursuance of that order-all these took place before the coming into force of the Constitution, and this' vital distinction must be borne in mind in considering the contentions urged by learned Counsel for the petitioner."
+  ],
+  "holding": [
+    "The result is that barring the cases of persons which were already concluded by reports made by the Commission and the directions given by the Central Government u/s.8(2) of the Act XXX of 1947 culminating in the assessment or reassessment of the escaped income, those cases which were pending on the 26th January 1950 for investigation before the Commission as also the assessment or reassessment proceedings which were pending on the 26th January 1950 before the Income-tax Officers concerned in pursuance of the directions given by the Central Government u/s.8(2) of the Act would be hit by Art.14 of the Constitution and would be invalidated."
+  ],
+  "cases_cited": [
+    "In Shree Meenakshi Mills Ltd., Madurai V. A. V",
+    "Ranjit Singh v Commissioner of Income Tax",
+    "on the decision in M. L. M. Muthiah Chettiar and Others v. Commissioner of Income-tax",
+    "the decision of this Court in M. CT. Muthiah & two Others v. The Commissioner of Income-tax",
+    "this Court delivered judgment in Suraj Mall Mohta and Co. v. A. V"
+  ]
+}

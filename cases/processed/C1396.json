@@ -1,0 +1,76 @@
+{
+  "case_id": "C1396",
+  "case_name": "S. Harnam Singh v tate",
+  "court": "Supreme Court of India",
+  "year": 1976,
+  "judges": [
+    "SARKARIA"
+  ],
+  "bench": [],
+  "petitioner": "S. Harnam Singh",
+  "respondent": "tate (Delhi Admn.)\nSupreme Court of India\n\n23 March 1976\nCr.A. No. 245 of 1971.\nThe Judgment was delivered by : SARKARIA, J.\n1. In this case the appellant, a goods loading clerk in the Outward Goods Shed, Northern Railway, New Delhi was tried along with on Naresh Chand, an agent of the Birla Cotton & Spg. Wvg. Mills Ltd., Delhi by the Special Judge, on charges under Sections 120B, 477-A, Penal Code and u/s. 5(2) of the Prevention of Corruption Act.\n2. The trial Court acquitted the appellant of the charge of criminal conspiracy, but found him guilty of the other two charges and sentenced him one each of those counts to rigorous imprisonment for one year. A fine of Rs. 200 was further imposed in addition to the substantive sentence of imprisonment u/s. 5(2) of the Prevention of Corruption Act.The sentences were directed to run concurrently. Naresh Chand, the coaccused, was acquitted of all the charges.\n3. On appeal, the High Court of Delhi set aside the conviction of th",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "5(2)"
+    },
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    },
+    {
+      "section": "477"
+    },
+    {
+      "section": "342"
+    },
+    {
+      "section": "5(1)"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "537"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "23 March 1976",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant, a goods loading clerk in the Outward Goods Shed, Northern Railway, New Delhi, was tried along with Naresh Chand, an agent of the Birla Cotton & Spg. Mills Ltd., Delhi.",
+    "The trial Court acquitted the appellant of the charge of criminal conspiracy, but found him guilty of the other two charges and sentenced him one each of those counts to rigorous imprisonment for one year.",
+    "A fine of Rs. 200 was further imposed in addition to the substantive sentence of imprisonment u/s. 5(2) of the Prevention of Corruption Act.",
+    "The sentences were directed to run concurrently.",
+    "Naresh Chand, the coaccused, was acquitted of all the charges."
+  ],
+  "issues": [
+    "Whether the appellant's actions constituted an offence under Section 477-A, Penal Code",
+    "Whether the prosecution had led sufficient evidence to prove the factum and time of receipt of the cloth bales at the goods shed"
+  ],
+  "petitioner_arguments": [
+    "The appellant could not be said to have the mens rea requisite for a offence under Section 477-A, Penal Code.",
+    "His duty commenced from 10 a.m. and ended at 5-00 p.m. on working days.",
+    "He made the entries in question showing the receipt of the goods on January 10, 1967, believing that representation to be true.",
+    "The entries were not made by the appellant 'wilfully and with intent to defraud' within the meaning of Section 477-A."
+  ],
+  "respondent_arguments": [
+    "The prosecution had led sufficient evidence to prove the factum and time of receipt of the cloth bales at the goods shed.",
+    "The appellant's actions were made in furtherance of a criminal conspiracy with Naresh Chand, agent of M/s. Birla Cotton Spg. & Wvg. Mills Ltd., Delhi."
+  ],
+  "court_reasoning": [
+    "The court held that the appellant's acquittal on the charge u/s. 5(1) of the Prevention of Corruption Act by the High Court precludes the prosecution from contending that his intention in making these entries was fraudulent.",
+    "The court noted that the best evidence with regard to this vital fact could be given by Chiranji Lal, the truck driver who is said to have brought these goods from the mills to the goods shed, Mohan Lal, the gate clerk of the goods shed, and Mukand Lal, the marker of the goods."
+  ],
+  "holding": [
+    "The court set aside the conviction of the appellant u/s. 5(2) of the Prevention of Corruption Act but maintained his conviction and sentence under Section 477-A, Penal Code."
+  ],
+  "cases_cited": [
+    "S. Harnam Singh v tate (Delhi Admn",
+    "made to this Court's decisions in Sahaj Ram's case Sahaj Ram v. State of U"
+  ]
+}

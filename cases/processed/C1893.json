@@ -1,0 +1,41 @@
+{
+  "case_id": "C1893",
+  "case_name": "State of Punjab v Gurdeep Singh",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [
+    "Umesh C. Banerjee"
+  ],
+  "bench": [],
+  "petitioner": "State of Punjab",
+  "respondent": "Gurdeep Singh\nSupreme Court of India\n\n8 September 1999\nCriminal Appeal No. 393 of 1992\nThe Judgment was delivered by : Umesh C. Banerjee, J.\n1.  The short question involved in the matter in issue before this Court is the justifiability of the order of acquittal passed by the High Court by reason of lack of probative value of an extra judicial confession, as found by the High Court, in an appeal against conviction and sentence under section 376 read with sections 302 and 201 of the Indian Penal Code. Admittedly, there is no direct evidence available on the record so as to attribute the commission of crime to the respondent herein but it is only on the basis of an extra judicial confession that the learned Sessions Judge thought it fit to pass the sentence for life imprisonment, which stands reversed by the High Court. Confession in common acceptation means and implies acknowledgment of guilt its evidentiary value and its acceptability however shall have to be assessed",
+  "citations": [
+    "AIR 1985 SC 1678",
+    "AIR 1988 SC 1705",
+    "AIR 1991 SC 37"
+  ],
+  "statutes": [
+    {
+      "act": "Read With Sections 302 And 201 Of The Indian Penal Code",
+      "section": "376"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "8 September 1999",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The charge against the respondent has not been proved beyond all reasonable doubt and his conviction therefore cannot be sustained.",
+    "The appeal is hence dismissed."
+  ],
+  "cases_cited": [
+    "Incidentally, this Court in the case of Narayan Singh & Ors. v. State of M",
+    "of this Court in the case of State of Uttar Pradesh v. M.K"
+  ]
+}

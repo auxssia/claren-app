@@ -1,0 +1,33 @@
+{
+  "case_id": "S65",
+  "case_name": "",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "12"
+    },
+    {
+      "section": "2"
+    }
+  ],
+  "legal_domain": "Administrative",
+  "legal_subdomain": "Tribunal",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The Supreme Court or the person or institution designated by such Court shall dispose of an application made under this section for appointment of an arbitrator or arbitrators as expeditiously as possible and endeavour shall be made to dispose of the matter within a period of sixty days from the date of service of notice on the opposite party."
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,79 @@
+{
+  "case_id": "C1418",
+  "case_name": "Bahadul Alias Ghanshyam Padhan v State of Orissa",
+  "court": "Supreme Court of India",
+  "year": 1979,
+  "judges": [
+    "FAZAL ALI"
+  ],
+  "bench": [],
+  "petitioner": "Bahadul Alias Ghanshyam Padhan",
+  "respondent": "State of Orissa\nSupreme Court of India\n\n16 January 1979\nCr.A. No. 199 of 1972\nThe Judgment was delivered by: FAZAL ALI, J.\n1.  This appeal by special leave is directed against the judgment of the Orissa High Court dated March 16, 1972, upholding the conviction of the appellant u/s. 302 IPC and sentence of life imprisonment awarded by the Sessions Judge. A detailed narrative of the prosecution case is to be found in the judgment of the High Court and it is not necessary for us to repeat the same all over again. The appellant is said to have assaulted Ushabati Padhan by means of an axe on August 14, 1967 at 7.00 a.m. following a dispute between the appellant and his party and Ushabati Padhan who had laid some claim to the land which was being ploughed by the appellant. The central evidence against the appellant consisted of the following:\n(1) Evidence of PWs. 1 to 7;\n(2) Judicial confession made by the appellant before a Magistrate;\n(3) Production of the",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "164"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "8"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    },
+    {
+      "section": "27"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "16 January 1979",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal by special leave is directed against the judgment of the Orissa High Court dated March 16, 1972, upholding the conviction of the appellant u/s. 302 IPC and sentence of life imprisonment awarded by the Sessions Judge.",
+    "The central evidence against the appellant consisted of the following: (1) Evidence of PWs. 1 to 7; (2) Judicial confession made by the appellant before a Magistrate; (3) Production of the blood-stained tangia from the appellant's house after taking it from his house.",
+    "According to the statement of the eyewitnesses PWs 2 to 7 at the time of occurrence they were ploughing in the Atia land of Daitari which is a low lying area but which, according to the statement of the witnesses made before the police, was not visible from the place of occurrence nor any person standing there could be in a position to see the occurrence.",
+    "The learned Sessions Judge has dealt with the circumstances in great detail and going into this aspect observed as follows:",
+    "In view of this finding of the Sessions Judge which has neither been reversed nor noticed by the High Court it is impossible for us to rely on the evidence of PWs 2-7.",
+    "As regards PW 1 we have been taken through the evidence of this witness who is a young girl of 15 years and has admitted the before going to the police station she had met her maternal uncle and one Purna Dahuri who had asked her to go to the police station and also instructed her as to what had asked to be reported.",
+    "This leaves us to the other two pieces of evidence, namely, the judicial confession made by the appellant before a Magistrate and the evidence of the production of tangia.",
+    "As regards the confession, the High Court itself refused to act on it as it was satisfied that the confession was not a voluntary one.",
+    "In these circumstances, therefore, we are not in a position to rely on the judicial confession.",
+    "Moreover, what the accused had done was merely to take out the axe from beneath his cot.",
+    "There is nothing to show that the accuse had concealed it at a place which was known to him alone and no one else other than the accused had knowledge of it."
+  ],
+  "issues": [
+    "Whether the evidence of PWs. 1 to 7 can be relied upon?",
+    "Whether the judicial confession made by the appellant before a Magistrate is voluntary and true?",
+    "Whether the production of the tangia by the accused before the police is admissible as evidence?"
+  ],
+  "petitioner_arguments": [
+    "The prosecution has not been able to prove the case against the appellant beyond reasonable doubt.",
+    "The evidence of PWs. 1 to 7 cannot be relied upon due to contradictions and tutoring.",
+    "The judicial confession made by the appellant before a Magistrate is not voluntary and true."
+  ],
+  "respondent_arguments": [
+    "The prosecution has presented sufficient evidence to prove the case against the appellant beyond reasonable doubt.",
+    "The evidence of PWs. 1 to 7 can be relied upon as it is corroborated by other evidence.",
+    "The judicial confession made by the appellant before a Magistrate is voluntary and true."
+  ],
+  "court_reasoning": [
+    "In view of this finding of the Sessions Judge which has neither been reversed nor noticed by the High Court it is impossible for us to rely on the evidence of PWs. 2-7.",
+    "As regards PW 1 we have been taken through the evidence of this witness who is a young girl of 15 years and has admitted the before going to the police station she had met her maternal uncle and one Purna Dahuri who had asked her to go to the police station and also instructed her as to what had asked to be reported.",
+    "Moreover, what the accused had done was merely to take out the axe from beneath his cot."
+  ],
+  "holding": [
+    "The appeal is accordingly allowed, the conviction and sentence imposed on the appellant are set aside and he is acquitted of the charge framed against him.",
+    "The appellant is directed to be released forthwith."
+  ],
+  "cases_cited": []
+}

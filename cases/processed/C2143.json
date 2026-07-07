@@ -1,0 +1,40 @@
+{
+  "case_id": "C2143",
+  "case_name": "Vivek Kumar v State of Uttar Pradesh",
+  "court": "Supreme Court of India",
+  "year": 2000,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Vivek Kumar",
+  "respondent": "State of Uttar Pradesh\nSupreme Court of India\n\n4 January 2000\nCr.A. No. 2 of 2000.\nThe Order of the Court was as follows:\nLeave granted.\n1.  We are told that the appellant is in Jail from 4-4-98 in connection with offences under sections 307 and 395 read with Section 149 of the Indian Penal Code. It is quite a long period that he has been in custody without commencing the trial. There is no need to detain him further in custody and therefore we are inclined to release him on bail, notwithstanding the suppression of certain factual position when the bail application was filed. It would not have been done by the appellant.\n2. We feel that lapses on the part of the counsel should not in this case be allowed to prejudice the appellant who is languishing in jail.\n3.  For the aforesaid reasons we order that the appellant be released on bail on execution of a bond with two solvent sureties to the satisfaction of Chief Judicial Magistrate, Pratapgarh.\nThe Appeal is disposed of.\nA",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "149"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "4 January 2000",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant is in Jail from 4-4-98 in connection with offences under sections 307 and 395 read with Section 149 of the Indian Penal Code.",
+    "There is no need to detain him further in custody and therefore we are inclined to release him on bail, notwithstanding the suppression of certain factual position when the bail application was filed.",
+    "It would not have been done by the appellant.",
+    "We feel that lapses on the part of the counsel should not in this case be allowed to prejudice the appellant who is languishing in jail."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "There is no need to detain him further in custody and therefore we are inclined to release him on bail, notwithstanding the suppression of certain factual position when the bail application was filed.",
+    "We feel that lapses on the part of the counsel should not in this case be allowed to prejudice the appellant who is languishing in jail."
+  ],
+  "holding": [
+    "The Appeal is disposed of.",
+    "Appeal disposed of."
+  ],
+  "cases_cited": []
+}

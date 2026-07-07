@@ -1,0 +1,76 @@
+{
+  "case_id": "C1485",
+  "case_name": "State of Uttar Pradesh v Shyam Behari and Another",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "State of Uttar Pradesh",
+  "respondent": "Shyam Behari and Another\nSupreme Court of India\n\n31 March 2009\nCriminal Appeal No. 501 of 2004\nThe Judgment was delivered by : Dr. Arijit Pasayat, J.\n1.  Challenge in this appeal is to the order of acquittal recorded by a Division Bench of the Allahabad High Court. The respondents faced trial for alleged commission of offence punishable under Section 302 read with Section 34 and 201 read with Section 34 of the Indian Penal Code, 1860 (in short 'IPC'). Learned IVth Additional District and Sessions Judge, Kanpur found the respondents guilty and sentenced them to undergo imprisonment for life and two years rigorous imprisonment respectively for the aforesaid two offences. In appeal, the High Court reversed the judgment of conviction and directed acquittal.\n2.  In support of the appeal learned counsel for the appellant State submitted that the circumstances which were highlighted by the trial court to record conviction have been without any basis reversed by the Hi",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Read With Section 34 And 201 Read With Section 34 Of The Indian Penal Code",
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "31 March 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "The respondents faced trial for alleged commission of offence punishable under Section 302 read with Section 34 and 201 read with Section 34 of the Indian Penal Code, 1860 (in short 'IPC').",
+    "In appeal, the High Court reversed the judgment of conviction and directed acquittal.",
+    "The prosecution version rested on circumstantial evidence.",
+    "The deceased Veer Singh Gautam was posted as Supervisor of Kray Vikray Samiti, Reona at the time of occurrence and the accused Udai Narain was Adhyaksha/ Supervisor of that Society.",
+    "Veer Singh Gautam after returning from his house left Reona for Daheli.",
+    "The deceased was seen going in the company of accused Shyam Behari and Udai Narain towards their house on the outskirts of village Daheli.",
+    "All the four accused were seen moving towards village Daheli at about 2 1.m. in the night of 13/14-8-1979",
+    "The recovery of the dead body of (deceased) Veer Singh Gautam was made on 23.8.1979 on the pointing out of appellant Shyam Behari.",
+    "The trial court held that the circumstances 1,3,8 and 11 were proved and presented a complete chain of circumstances which established the guilt of the accused."
+  ],
+  "issues": [
+    "Circumstantial evidence",
+    "Last seen theory"
+  ],
+  "petitioner_arguments": [
+    "The circumstances which were highlighted by the trial court to record conviction have been without any basis reversed by the High Court.",
+    "There must be something more establishing connectivity between the accused and the crime.",
+    "This Court in Bodhraj @ Bodha and others v. State of Jammu and Kashmir, 2002 (8) SCC 45 2002 Indlaw SC 1786 held as follows:",
+    "The last seen theory comes into play where the time-gap between the point of time when the accused and the deceased were last seen alive and when the deceased is found dead is so small that possibility of any person other than the accused being the author of the crime becomes impossible."
+  ],
+  "respondent_arguments": [
+    "Evidence of PW4 does not inspire confidence.",
+    "If he knew around 10 A.M. that no fertiliser was available, there was no reason as to why he would remain at Moosa Nagar up to 9-10 A.M.",
+    "So far as the alleged recovery of weapon is concerned, the High Court noted that PW12 who interrogated accused had not recorded his disclosure statement.",
+    "PW7 who is supposed to have accompanied I.O. and the accused was found to be not believeable."
+  ],
+  "court_reasoning": [
+    "The law regarding circumstantial evidence is well settled.",
+    "When a case rests upon the circumstantial evidence, such evidence must satisfy three tests:",
+    "(1) the circumstances from which an inference of guilt is sought to be drawn must be cogently and firmly established:",
+    "(2) those circumstances should be of a definite tendency unerringly pointing towards guilt of the accused;",
+    "(3) the circumstances, taken cumulatively, should form a chain so complete that there is no escape from the conclusion that within all human probabilities the crime was committed by the accused and none else.",
+    "The circumstantial evidence in order to sustain conviction must be complete and incapable of explanation of any order hypothesis than that of the guilt of the accused.",
+    "The circumstantial evidence should not only be consistent with the guilt of the accused but should be inconsistent with his innocence.",
+    "There must be something more establishing connectivity between the accused and the crime.",
+    "This Court in Bodhraj @ Bodha and others v. State of Jammu and Kashmir, 2002 (8) SCC 45 2002 Indlaw SC 1786 held as follows:",
+    "The last seen theory comes into play where the time-gap between the point of time when the accused and the deceased were last seen alive and when the deceased is found dead is so small that possibility of any person other than the accused being the author of the crime becomes impossible.",
+    "It would be difficult to some cases, to positively establish that the deceased was last seen with the accused when there is a long gap and possibility of other person coming in between exists.",
+    "In the absence of any other positive evidence to conclude that the accused and the deceased were last seen together, it would be hazardous to come to a conclusion of guilt in those cases",
+    "The impugned judgment of the High Court does not suffer from any deficiency to warrant interference."
+  ],
+  "holding": [
+    "The appeal is dismissed.",
+    "The bailable warrants executed pursuant to order dated 19.4.2004 stand discharged.",
+    "Appeal dismissed"
+  ],
+  "cases_cited": [
+    "Bodha and others v. State of Jammu",
+    "State of Uttar Pradesh v Shyam Behari",
+    "accused but should be inconsistent with his innocence. (See v. State of Maharashtra"
+  ]
+}

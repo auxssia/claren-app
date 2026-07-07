@@ -1,0 +1,57 @@
+{
+  "case_id": "C1131",
+  "case_name": "State of Kerala v M.T. Anandan and Anr",
+  "court": "Supreme Court of India",
+  "year": 1998,
+  "judges": [
+    "G. T. Nanavati"
+  ],
+  "bench": [],
+  "petitioner": "State of Kerala",
+  "respondent": "M.T. Anandan",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    },
+    {
+      "act": "Indian Penal Code"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "5 January 1998",
+  "outcome": "Unknown",
+  "facts": [
+    "The State has filed this appeal as the High Court of Kerala acquitted the respondents by setting aside their convictions under Sections 5 (2) and 5 (1) (d) of the Prevention of Corruption Act, 1947 and Sections 109 and 120- B of the Indian Penal Code.",
+    "Smt. Bitchu - A.2 was the owner of M/s. Latex India Ltd. and M/s. Excellent Rubber and Allied Industries. But as a matter of fact, both the industries were managed by her husband Abdulla koya A.3.",
+    "The prosecution case was that A.2 and A.3 in conspiracy with Anandan - A.1, who was the District Industries officers, and A.4, who was a Technical Supervisor, entered into a conspiracy to obtain for A.2 and A.3 more quantity of Titanium dioxide than what was really required by them for their industries",
+    "The trial court relied upon the evidence of PW 4, who was the Deputy Director (Controls), PW 7 - Narayanan Nambiar and PW 17 PR Pillai, the commercial Manager and the two documents - P.35 (c) and P.35 (d)",
+    "The High court on re appreciation of the evidence found that there was nothing to show that titanium dioxide was a scare commodity or that its distribution and price were controlled",
+    "We have gone through the judgments of the trial court and the High Court and also the relevant evidence"
+  ],
+  "issues": [
+    "Whether the prosecution had led any evidence to prove that titanium dioxide was a scarce commodity or that its distribution and price were controlled by any statutory provision or an administrative order",
+    "Whether the prosecution had failed to establish that in 1969 when the two certificates were issued, the two factories were either closed or that they did not require the quantity of titanium dioxide for which they had obtained the Essentiality Certificates"
+  ],
+  "petitioner_arguments": [
+    "The prosecution had led any evidence to prove that titanium dioxide was a scarce commodity or that its distribution and price were controlled by any statutory provision or an administrative order",
+    "The prosecution had failed to establish that in 1969 when the two certificates were issued, the two factories were either closed or that they did not require the quantity of titanium dioxide for which they had obtained the Essentiality Certificates"
+  ],
+  "respondent_arguments": [
+    "There was nothing to show that titanium dioxide was a scare commodity or that its distribution and price were controlled",
+    "There is nothing on the record to show that the said two firms did not require that much quantity for their use"
+  ],
+  "court_reasoning": [
+    "We find that the prosecution had not led any evidence to prove that titanium dioxide was a scarce commodity or that its distribution and price were controlled by any statutory provision or an administrative order",
+    "We also find that the prosecution had failed to establish that in 1969 when the two certificates were issued, the two factories were either closed or that they did not require the quantity of titanium dioxide for which they had obtained the Essentiality Certificates"
+  ],
+  "holding": [
+    "The High court was, therefore, justified in acquitting both the respondents",
+    "We, therefore, dismiss these appeals. Bail bonds are ordered to be cancelled."
+  ],
+  "cases_cited": [
+    "State of Kerala v M.T"
+  ]
+}

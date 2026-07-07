@@ -1,0 +1,67 @@
+{
+  "case_id": "C90",
+  "case_name": "P. S. R. Sadhanantham v Arunachalam and Another",
+  "court": "Supreme Court of India",
+  "year": 1980,
+  "judges": [
+    "V. R. Krishnaiyer",
+    "R. S. Pathak"
+  ],
+  "bench": [],
+  "petitioner": "P. S. R. Sadhanantham",
+  "respondent": "Arunachalam and Another\nSupreme Court of India\n\n1 February 1980\nW.P. No. 355 of 1979\nThe Judgment was delivered by : V. R. Krishnaiyer, J. and R. S. Pathak, J.\n1. Is it constitutionally valid or desirable on principle to permit a private citizen, who has but loose nexus with the victim of a crime, to invoke the special power under Art. 136 of the Constitution for leave to appeal against an acquittal of the alleged criminal thereby putting in peril his life or liberty in the absence of any legislative provision arming such officious outsider with the right to appeal? This issue, profound on its face but unsound on reflection, falls for decision in this writ petition under Art. 32 of the Constitution. The facts, compressed into a single sentence, are that the petitioner was acquitted of a murder charge by the High Court in appeal but the brother of the deceased-not the State nor even the first informant-moved this Court under Art. 136, got leave and had his appeal",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "21"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "136"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "1 February 1980",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner was acquitted of a murder charge by the High Court in appeal but the brother of the deceased-not the State nor even the first informant-moved this Court under Art. 136, got leave and had his appeal heard which resulted in the petitioner (accused) being convicted and sentenced to the life term under s. 302 I.P.C.",
+    "The question is whether there is any procedure, fair or otherwise, which enables a kindly neighbour who is not a complainant or first informant, to appeal to the Supreme Court against an allegedly erroneous acquittal by the High Court."
+  ],
+  "issues": [
+    "Is it constitutionally valid or desirable on principle to permit a private citizen, who has but loose nexus with the victim of a crime, to invoke the special power under Art. 136 of the Constitution for leave to appeal against an acquittal of the alleged criminal thereby putting in peril his life or liberty in the absence of any legislative provision arming such officious outsider with the right to appeal?",
+    "Whether there is any procedure, fair or otherwise, which enables a kindly neighbour who is not a complainant or first informant, to appeal to the Supreme Court against an allegedly erroneous acquittal by the High Court?"
+  ],
+  "petitioner_arguments": [
+    "The argument is ingenious but inference is fallacious.",
+    "There must be an antecedent right of appeal, absent which the question of leave by the court does not arise."
+  ],
+  "respondent_arguments": [
+    "It is apparent that there is no statutory provision which creates a right of appeal in favour of a stranger enabling him to challenge an acquittal by the High Court.",
+    "The Criminal Procedure Code does not create such a right of appeal and, speaking generally, a right of appeal is the creature of statute."
+  ],
+  "court_reasoning": [
+    "Article 136 is a special jurisdiction. It is residuary power; it is extra ordinary in its amplitude, its limit, when it chases injustice, in the sky itself.",
+    "Judicial discretion is canalised authority not arbitrary eccentricity.",
+    "The judge, even when he is free, is still not wholly free. He is to draw his inspiration from consecrated principles."
+  ],
+  "holding": [
+    "We hold that Art. 136 does not confer a right of appeal on a party as such but it confers a wide discretionary power on the Supreme Court to interfere in suitable cases.",
+    "The conclusion follows that fair procedure is imprinted on the special leave that the court may grant or refuse."
+  ],
+  "cases_cited": [
+    "Bharat Bank Ltd. As the Court observed in Durga Shankar Mehta v. Thakur Raghuraj Singh",
+    "Bharat Bank Ltd. v. Employees of",
+    "P. S. R. Sadhanantham v Arunachalam",
+    "attitude towards 'standing' in the famous case of Baker v. Carr",
+    "in the notable case of the Attorney-General of the Gambia v. Pierra Sarr N' Jie",
+    "parties. We have read the judgment of our learned brother V. R. Krishna Iyer",
+    "special leave, and ultimately allowed the appeal, Arunachalam v. P.S",
+    "to a wrong against the public welfare. Mogul Steamship Co. v. Cm Greger Gew & Co"
+  ]
+}

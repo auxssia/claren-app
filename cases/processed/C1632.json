@@ -1,0 +1,78 @@
+{
+  "case_id": "C1632",
+  "case_name": "John Martin v State of West Bengal",
+  "court": "Supreme Court of India",
+  "year": 1975,
+  "judges": [
+    "P. N. Bhagwati"
+  ],
+  "bench": [],
+  "petitioner": "John Martin",
+  "respondent": "State of West Bengal\nSupreme Court of India\n\n21 January 1975\nWrit Petition No. 467 of 1974.\nPetition under Art. 32 of the Constitution of India\nThe Judgment was delivered by : P. N. Bhagwati, J.\n1.  The petitioner in this petition seeks a writ of habeas corpus challenging the validity of his detention under an order made by the District Magistrate, Burdwan under sub-s. (1) read with sub-s. (2) of s. 3 of the Maintenance of Internal Security Act, 1971. The order of detention was made on 10th July, 1973 on the ground that it was necessary to detain the petitioner with a view to preventing him from acting in a manner prejudicial to the maintenance Of supplies and services essential to the community. Pursuant to the order of detention the petitioner was arrested on 24 August 1973 and immediately on his arrest he was served with the grounds of detention. There were two incidents referred to in the grounds of detention as forming the basis for arriving at the subjective satisfa",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "22"
+    },
+    {
+      "section": "8"
+    },
+    {
+      "section": "8(1)"
+    },
+    {
+      "section": "3"
+    },
+    {
+      "section": "14"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "21 January 1975",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner seeks a writ of habeas corpus challenging the validity of his detention under an order made by the District Magistrate, Burdwan.",
+    "The order of detention was made on 10th July, 1973 on the ground that it was necessary to detain the petitioner with a view to preventing him from acting in a manner prejudicial to the maintenance Of supplies and services essential to the community.",
+    "Pursuant to the order of detention the petitioner was arrested on 24 August 1973 and immediately on his arrest he was served with the grounds of detention.",
+    "There were two incidents referred to in the grounds of detention as forming the basis for arriving at the subjective satisfaction on the part of the District Magistrate and they were as follows...",
+    "The State Government also reported the fact of approval of the order of detention to the Central Government within seven days from the date of the order of approval.",
+    "The, State Government thereafter placed the case of the petitioner before the Advisory Board on 20th September, 1973.",
+    "On 25 September 1973 the representation of the petitioner against the order of detention was received by the State Government and after due and proper consideration the State Government rejected it by an order dated 29 September 1973.",
+    "The representation was then forwarded by the State Government to the Advisory Board and the Advisory Board, after considering the case of the petitioner and taking into account the representation received from him, made a report to the State Government on 23rd October, 1973 stating that in its opinion there was sufficient cause for the detention of the petitioner.",
+    "The State Government thereafter confirmed the order of detention by an order dated 1 November 1973."
+  ],
+  "issues": [
+    "Whether the representation of the petitioner ought to be considered by an impartial tribunal constituted by the State Government or only by the State Government itself?",
+    "Whether the order passed by the State Government rejecting the representation of the detenu should be a reasoned order?"
+  ],
+  "petitioner_arguments": [
+    "The representation of the petitioner ought to leave been considered by an impartial tribunal constituted by the State Government and it was not sufficient compliance with the requirement of art. 22, cl. (5) that it should have been considered only by the State Government.",
+    "The order passed by the State Government rejecting the representation of the detenu should be a reasoned order."
+  ],
+  "respondent_arguments": [
+    "The authority making the order of detention shall afford the detenu the earliest opportunity of making a representation against the order of detention.",
+    "The appropriate Government is to exercise its opinion and judgment on the representation before sending the case along with the detenu's representation to the Advisory Board."
+  ],
+  "court_reasoning": [
+    "Article 22, cl. (5) provides inter alia that the authority making the order of detention shall afford the detenu the earliest opportunity of making a representation against the order of detention.",
+    "Section 8, sub-s. (1) of the Act lays down in the clearest terms which admit of no doubt that the opportunity which is to be afforded to the detenu is to make a representation against the order of detention to the appropriate Government.",
+    "The Government considers the representation to ascertain essentially whether the order is in conformity with the power under the law the order of the Government rejecting the representation of the detenu must be after proper consideration."
+  ],
+  "holding": [
+    "We hold that u/s. 8(1) of the Act, it is the appropriate Government that is required to consider the representation of the detenu.",
+    "The detention of the petitioner was valid."
+  ],
+  "cases_cited": [
+    "as he then was), affirmed this position in pavanarayain Sukul v. State of West Bengal",
+    "by a decision of this Court in the case of Sahib Singh Dugal v. Union of India",
+    "must be a reasoned order. It is true that in Bhut Nath Mate v. State of West Renpal",
+    "of Fazl Ali, J., and Mahajan, J., in A. K. Gopalan v. State of Madras",
+    "refer only to one of these decisions, namely, B. C. Biswas v. State of West Bengal"
+  ]
+}

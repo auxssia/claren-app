@@ -1,0 +1,72 @@
+{
+  "case_id": "C1194",
+  "case_name": "Razakbhai Issakbhai Mansuri and Others v State of Gujarat and Others",
+  "court": "Supreme Court of India",
+  "year": 1992,
+  "judges": [
+    "SHARMA, J."
+  ],
+  "bench": [],
+  "petitioner": "Razakbhai Issakbhai Mansuri and Others",
+  "respondent": "State of Gujarat",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "64"
+    },
+    {
+      "section": "70"
+    },
+    {
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 32",
+  "court_level": "Supreme Court",
+  "decision_date": "4 December 1992",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioners have challenged the constitutional validity of the amendments made to the Bombay Prohibition Act, 1949 by the Gujarat Legislature prohibiting possession of rotten gur in excess of the prescribed limit without a permit and regulating manufacture etc. of rotten gur.",
+    "The provisions which have been challenged are those of S.2(39-A) defining 'rotten gur', S.64 imposing restriction on possession of 'rotten gur', Section 64-A regulating manufacture etc. of 'rotten gur' and Section 70-A providing for imposition of punishment of contravention of the relevant statutory provisions.",
+    "The main points raised in support of the present petitions are mentioned below: (i) The impugned amendments are ultra vires on the ground of lack of legislative competence.",
+    "It has been contended that none of the entries in List II of the Seventh Schedule to the Constitution authorities the Gujarat Legislature to incorporate the impugned provisions in the principal Act."
+  ],
+  "issues": [
+    "The constitutional validity of the amendments made to the Bombay Prohibition Act, 1949 by the Gujarat Legislature prohibiting possession of rotten gur in excess of the prescribed limit without a permit and regulating manufacture etc. of rotten gur.",
+    "Whether the State Legislature was fully competent to enact the Amendment Act."
+  ],
+  "petitioner_arguments": [
+    "The impugned amendments are ultra vires on the ground of lack of legislative competence.",
+    "As a result of the impugned amendments, the police and the other authorities of the State have been vested with arbitrary and uncontrolled power.",
+    "Even otherwise also the impugned provisions are violative of Arts. 19(1)(g) and 301."
+  ],
+  "respondent_arguments": [
+    "The Gujarat Legislature was fully competent to enact the Amendment Act.",
+    "Entry 8 confers the necessary competence on the State Legislature to enact laws for such regulation."
+  ],
+  "court_reasoning": [
+    "We have examined the contentions very closely but do not find any merit in them.",
+    "The argument overlooks the fact that the observations in Synthetics and Chemicals Ltd. v. State of U.P., 1989 Indlaw SC 286, relied upon on behalf of the petitioners, were made in the context of power to levy 'vend fee' on industrial alcohol.",
+    "It is only the regulatory power which has enabled the State Legislature to make the impugned provisions requiring the person concerned to take a permit."
+  ],
+  "holding": [
+    "We hold that Gujarat Legislature was fully competent to enact the Amendment Act.",
+    "The field for the State Legislature to enact the impugned provisions and incorporate them in the principal Act is thus, left untouched."
+  ],
+  "cases_cited": [
+    "Razakbhai Issakbhai Mansuri and Others v State of Gujarat",
+    "Synthetics and Chemical case, Synthetics and Chemicals Ltd. v. State of U",
+    "Synthetics and Chemicals Ltd. Synthetics and Chemicals Ltd. v. State of U",
+    "Synthetics and Chemicals Ltd. v. State of U",
+    "good law after the decisions in Synthetics and Chemicals Ltd. v. State of U",
+    "on the observations of this Court in the State of Bombay v. F. N"
+  ]
+}

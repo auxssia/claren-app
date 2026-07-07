@@ -1,0 +1,59 @@
+{
+  "case_id": "C253",
+  "case_name": "Land Acquisition Collector & Anr. v Durga Pada Mukherjee & Others",
+  "court": "Supreme Court of India",
+  "year": 1980,
+  "judges": [
+    "A. D. Koshal"
+  ],
+  "bench": [],
+  "petitioner": "Land Acquisition Collector & Anr",
+  "respondent": "Durga Pada Mukherjee &",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "5A"
+    },
+    {
+      "act": "The Act",
+      "section": "6"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 226",
+  "court_level": "Supreme Court",
+  "decision_date": "27 August 1980",
+  "outcome": "Unknown",
+  "facts": [
+    "A notification was issued by the Government of West Bengal stating that a piece of land was likely to be needed for a public purpose.",
+    "The respondents preferred objections to the proposed acquisition under section 5A of the Act, contending that the real purpose was to benefit the Company and not a public purpose.",
+    "A fresh notification was issued on November 3, 1961 in respect of land measuring 146.90 acres which was the same land as was covered by the first notification, except for a small area.",
+    "The respondents filed objections u/s. 5A of the Act over again contending that although the ostensible purpose of the acquisition was a public purpose, the land was really sought to be acquired for a private purpose, i.e., for the benefit of the Company."
+  ],
+  "issues": [
+    "Whether the real purpose of the proposed acquisition was not a public purpose but was to benefit the Company and whether the impugned notifications were issued in colourable exercise of power.",
+    "Whether the respondents had been deprived of the right to make effective objections under section 5A of the Act due to vagueness in the purpose stated in the notifications."
+  ],
+  "petitioner_arguments": [
+    "The real purpose of the proposed acquisition was not a public purpose but was to benefit the Company and the impugned notifications were issued in colourable exercise of power.",
+    "The respondents had been deprived of the right to make effective objections under section 5A of the Act due to vagueness in the purpose stated in the notifications."
+  ],
+  "respondent_arguments": [
+    "The land was not acquired for any public purpose, that the real purpose was to benefit the Company and that the first notification was a fraudulent exercise of the power conferred by the Act on the State Government.",
+    "Although the ostensible purpose of the acquisition was a public purpose, the land was really sought to be acquired for a private purpose, i.e., for the benefit of the Company."
+  ],
+  "court_reasoning": [
+    "The Division Bench held that although a declaration made under section 6 of the Act was final and conclusive not only in regard to the need for acquisition but also in regard to the purpose being a public purpose if it was so stated therein, it was open to a person whose land was acquired to challenge it on the ground of colourable exercise of power.",
+    "The Court observed that when the proposed acquisition is impugned as acquisition in colourable exercise of power and there is a specific allegation of the real purpose of the acquisition, it is for the respondents to disclose, except for good reasons, the relevant material or information, to enable the Court to pronounce on the matter and not to maintain a meaningful silence or indulge in equivocations and double standards."
+  ],
+  "holding": [
+    "The Supreme Court held that the Division Bench seriously erred in accepting the Letters Patent Appeals in view of the finding arrived at by them that malafides or a colourable exercise of power on the part of the State Government could not be held established.",
+    "The acquisition was not struck down and the respondents were denied any relief."
+  ],
+  "cases_cited": [
+    "Act. Reliance in this connection was placed on Barkya Thakur v. State of Bombay",
+    "Land Acquisition Collector & Anr. v Durga Pada Mukherjee &",
+    "and was considered by it at length. Relying upon Somawanti v. State of Punjab"
+  ]
+}

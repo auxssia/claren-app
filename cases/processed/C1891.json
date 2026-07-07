@@ -1,0 +1,60 @@
+{
+  "case_id": "C1891",
+  "case_name": "State of Andhra Pradesh and Others v S. K. Mohinuddin and Others",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [],
+  "bench": [],
+  "petitioner": "State of Andhra Pradesh and Others",
+  "respondent": "S. K. Mohinuddin",
+  "citations": [
+    "1977 FROM 60"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "35A"
+    },
+    {
+      "section": "2382"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Lease",
+  "court_level": "Supreme Court",
+  "decision_date": "13 July 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "The first Governmental order was issued on 7th February, 1976, bearing G.O.Ms, No. 105-Education by which the age of retirement of school teachers working in private (aided) management schools was reduced from 60 years to 55 years as in the case of teachers working in schools under the Government and Local Bodies to bring them at par in regard to conditions of service, including pension, etc.",
+    "By GOMs No. 584-Education dated 25th May, 1976, the age of retirement of college teachers was reduced and the Government having undertaken the responsibility of paying pension to the aided institutions, it was decided that no grant-in-aid will be admissible to any teacher's post, after the teacher holding the post had attained the age of 55 years.",
+    "The second batch of Civil Appeals Nos. 154-171 of 1981 and Special Leave Petitions (C) Nos. 11112 of 1981 and 3223 of 1981 arising out of the judgment of the High Court dated 25th August, 1980 relate to the later part of the Government order by which the grant-in-aid was restricted to the period up to superannuation at 55 years.",
+    "Writ Petitions Nos. 777 and 7953 of 1982, 691 of 1986 and 1085 of 1990 were filed in this Court under Art. 32 of the Constitution of India questioning the legality and validity of the said Government order."
+  ],
+  "issues": [
+    "The validity of the order is questioned",
+    "Whether the age of superannuation reduced by GOMs No. 584 dated 25th May, 1976, was retrospective in operation?",
+    "Whether the rule reducing the age of superannuation from 60 years to 55 years has retrospective operation?"
+  ],
+  "petitioner_arguments": [
+    "The Government order reducing the age of superannuation from 60 years to 55 years is invalid as it was issued by the Government in exercise of executive powers and could not, therefore, impinge on the superannuation age fixed under regulations made by the Senate in exercise of powers conferred by the Andhra University Act, 1925."
+  ],
+  "respondent_arguments": [
+    "The power to reduce the age of superannuation has been specifically conferred by S. 35A as it falls within the compass of the expression 'conditions of service' used in that Provision.",
+    "It was open to the Government to revise and reduce the age of superannuation and such act would be perfectly legal and valid."
+  ],
+  "court_reasoning": [
+    "The view of the High Court that the Government Order reducing the age of superannuation from 60 years to 55 years has retrospective operation is misconceived.",
+    "There is no retrospectivity whatsoever. Rule applies to all uniformly notwithstanding whether they entered service prior to the date of order or subsequent thereto."
+  ],
+  "holding": [
+    "Special leave granted.",
+    "Substitution application allowed."
+  ],
+  "cases_cited": [
+    "State of Andhra Pradesh and Others v S. K",
+    "in view of the decision of this Court in Bishun Narain Mishra v. State of U",
+    "of service' used in that Provision. This Court in K. Nagaraj v. State of A"
+  ]
+}

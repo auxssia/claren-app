@@ -1,0 +1,92 @@
+{
+  "case_id": "C1490",
+  "case_name": "S. M. D. Kiran Pasha v Government of Andhra Pradesh and Others",
+  "court": "Supreme Court of India",
+  "year": 1989,
+  "judges": [],
+  "bench": [],
+  "petitioner": "S. M. D. Kiran Pasha",
+  "respondent": "Government of Andhra Pradesh",
+  "citations": [
+    "1965 1 SCR 413",
+    "1984 2 SCR 67",
+    "AIR 1950 SC 27",
+    "AIR 1976 SC 1207",
+    "AIR 1978 GUJARAT 253",
+    "AIR 1987 GUJARAT 253"
+  ],
+  "statutes": [
+    {
+      "section": "3(3)"
+    },
+    {
+      "section": "10"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "7(1)"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    },
+    {
+      "section": "15"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "section": "9"
+    },
+    {
+      "section": "12"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "9 November 1989",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal is from the Judgment and Order of the High Court of Andhra Pradesh at Hyderabad dated 04 July 1988 passed in Writ Petition No. 86 10 of 1988.",
+    "According to him in December 1985 he was elected as a Chairman of the Cuddapah Municipal Council for its residuary term and in March 1987 he was elected to the Municipal Council as an independent candidate defeating the Telugu Desam and Congress (I) candidates by a large margin.",
+    "On 13 November 1987, the police having summoned him to the Police Station for taking his photograph as was done in case of criminals, he moved the Andhra Pradesh High Court by Writ Petition No. 79038 of 1987 and the High Court was pleased to issue directions as prayed for, by its order dated 07 December 1987.",
+    "Scenting a move to detain the appellant under the provisions of the Andhra Pradesh Prevention of Dangerous Activities of Bootleggers, Dacoits, Drug Offenders, Goondas, Immoral Traffic Offenders and Land Grabbers Act, 1986, hereinafter referred to as 'the Act', the appellant filed Writ Petition No. 8610 of 1988 on 06 June 1988 in the Andhra Pradesh High Court averting, inter alia, that the successive actions initiated against him were a part of political vendetta.",
+    "A learned Single Judge on 08 June 1988 was pleased to direct interim the respondents not to take the appellant into preventive custody for a period of 15 days on basis the cases already registered.",
+    "However, on 10 June 1988 the appellant was served the detention order in S.No. 7/1988 dated 03 June 1988 as well as the grounds of detention; and he was taken into custody and detained in Secunderabad jail, but was released after four days."
+  ],
+  "issues": [
+    "Whether the High Court was right in dismissing the writ petition holding that there were no extraordinary or special reasons to depart from the normal rule",
+    "Whether the grounds of detention were vague, irrelevant, stale and non-existent having no relation to the stated purpose of detention"
+  ],
+  "petitioner_arguments": [
+    "The appellant submits, inter alia, that the High Court erred in dismissing the appellant's writ petition holding that there were no extraordinary circumstance, or special reasons to depart from the normal rule",
+    "Counsel relies on a decision of the Bombay High Court reported in 1981(1) Crl. L.J. 767 1981 Indlaw MUM 4025 and one of the Gujarat High Court since reported in AIR 1978 Gujarat 253.",
+    "Counsel further submits that the detention order having not been approved by the State Government as required u/s. 3(3) of the Act and the appellant's case having not been placed before the Advisory Board as required u/s. 10 the detention order ceased to be in force and hence is liable to be quashed."
+  ],
+  "respondent_arguments": [
+    "Mr. M.S. Ganesh, the learned counsel for the respondents submits that the detention order having been passed before the writ petition was filed, the High Court was right in dismissing the same following the court's practice and procedure",
+    "Counsel however, could not deny that the detention order was not approved by the State Government and that the appellant's case was not placed before the Advisory Board"
+  ],
+  "court_reasoning": [
+    "The High Court correctly analysed the power of the High Court to interfere in such a case u/art. 226 of the Constitution of India concluding that the High Court had power to interfere",
+    "While tracing the High Court's evolving rule or practice, the Bench took the view that it was but appropriate and proper that the court evolved and followed a practice and procedure where it would not ordinarily entertain a challenge to a preventive detention unless the person concerned submitted himself to the order and not to encourage persons against whom orders of preventive detention were made by the competent authority under a valid enactment to avoid the process of law and at the same time seek the protection of law from this Court",
+    "Relying on several decisions of its own, the Court observed: 'There is no presumption that any and every order of detention is bad. The normal rule shall therefore be 'surrender to the order first and then approach this Court.' Only in extraordinary cases, where it appears that the State is exercising its power under a preventive detention statute for an oblique purpose, or in an outrageous and/or vindictive manner, or where the order of detention is ex facie invalid, would this Court depart from this rule.'"
+  ],
+  "holding": [
+    "The writ petition was accordingly dismissed."
+  ],
+  "cases_cited": [
+    "In Jayantilal Bhagwandas Shah v. The",
+    "In K.K. Kochunni v. The",
+    "In this Court in the Special Leave Petition Ground No. V is as follows",
+    "S. M. D. Kiran Pasha v Government of Andhra Pradesh",
+    "and Addl. District Magistrate, Jabalpur v. Shivakant Shukla",
+    "in the affirmative. Relying on the decisions in A.K. Gopalan v. State of Madras",
+    "of India against similar contravention. In M.C. Mehta v. Union of India",
+    "of the Gujarat High Court in Vedprakash Devkinandan Chiripal v. State of Gujarat"
+  ]
+}

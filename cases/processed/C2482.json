@@ -1,0 +1,48 @@
+{
+  "case_id": "C2482",
+  "case_name": "State of Kerala v Vasudevan Pillai",
+  "court": "Supreme Court of India",
+  "year": 2001,
+  "judges": [],
+  "bench": [],
+  "petitioner": "State of Kerala",
+  "respondent": "Vasudevan Pillai\nSupreme Court of India\n\n20 March 2001\nCr.A. No. 660 of 1992\nThe Order of the Court was as follows:\n1.  The accused respondent and his wife faced trial on charges under Section 302, 324 and 447 of the Indian Penal Code. The wife was acquitted by the trial court. The accused respondent was found guilty of the offences charged and was sentenced to undergo imprisonment for life, rigorous imprisonment for one year and simple imprisonment for three months respectively for the three offences. The accused respondent filed an appeal before the High Court putting in issue his conviction. The High Court has allowed the appeal and acquitted the accused respondent. Feeling aggrieved, the State has come up in appeal by special leave.\n2.  We have carefully perused the judgment of the trial court as also of the High Court and other material available on the record and heard the learned Counsel for the parties. We are of the opinion that no case is made out for interf",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "20 March 2001",
+  "outcome": "Unknown",
+  "facts": [
+    "The accused respondent and his wife faced trial on charges under Section 302, 324 and 447 of the Indian Penal Code.",
+    "On the previous evening of the date of the incident, Jagadamma was abused by the respondent and his wife.",
+    "A little before the time of the incident, the deceased Chandran accompanied by his nephew - Anil Kumar (PW-1) visited Jagadamma and were apprised of what had happened the previous evening.",
+    "The F.I.R. of the incident was lodged at 10 a.m. by Anil Kumar (PW-1).",
+    "The respondent further pleaded that a Police Officer attached to Pooyappally Police Station was a close relative of Jagadamma and that is why the investigation was not objective and impartial;",
+    "The High Court on a re-appraisal of evidence has found that the wife and daughter of the respondent had sustained injuries at or about the time of the incident for the treatment of which they were admitted in the hospital and remained in patients for 22 days.",
+    "The record of the injuries sustained by the wife and daughter of the accused was not placed before the Court so as to form an opinion as to the nature of the injuries sustained by them."
+  ],
+  "issues": [
+    "Whether the High Court's judgment of acquittal is reasonable?"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [
+    "The respondent pleaded that in fact the deceased, his sister and Anil Kumar (PW-1) had attacked the respondent, his wife and their daughter.",
+    "A Police Officer attached to Pooyappally Police Station was a close relative of Jagadamma and that is why the investigation was not objective and impartial;"
+  ],
+  "court_reasoning": [
+    "If the genesis of the incident was concealed from the Court, the injuries sustained by the wife and daughter of the accused respondent at or about the time of the incident were not disclosed, much less explained, and a material independent eyewitness was withheld from the Court without offering any explanation for non-examination,"
+  ],
+  "holding": [
+    "The appeal is held liable to be dismissed and is dismissed accordingly. The acquittal of the accused respondent, as recorded by the High Court, is affirmed."
+  ],
+  "cases_cited": []
+}

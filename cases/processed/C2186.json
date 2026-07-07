@@ -1,0 +1,68 @@
+{
+  "case_id": "C2186",
+  "case_name": "Shakti Dan v State Of Rajasthan",
+  "court": "Supreme Court of India",
+  "year": 2007,
+  "judges": [
+    "Dr. Arijit pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Shakti Dan",
+  "respondent": "State Of Rajasthan\nSupreme Court of India\n\n26 April 2007\nAppeal (Crl.) 630 of 2007\nThe Judgment was delivered by : Dr. Arijit pasayat, J.\nLeave granted.\n1.  Challenge in this appeal is to the judgment rendered by a Division Bench of the Rajasthan High Court upholding the conviction of the appellant for an offence punishable under Section 302 of the Indian Penal Code, 1860 (in short the 'IPC'). The appellant was convicted by learned Addl. Sessions Judge, Parbatsar who sentenced him to undergo life imprisonment and to pay a fine of Rs.200/- with default stipulation.\nBackground facts in a nutshell are as follows:\n2. A written report (Ex.P/18) was submitted before Sattar Khan, Sub-Inspector of Police, PS Nawa (PW-11) by Idan (PW-6) on 9.6.1999 with the averments that in the morning i.e. at about 7a.m. accused Shakti Dan started beating his wife at his house so she ran away from there and reached to the house of Idan (PW-6), the younger brother of the accused. The mother of the",
+  "citations": [
+    "AIR 1958 SC 465",
+    "AIR 1966 SC 1874"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "313"
+    },
+    {
+      "act": "Both Require Knowledge Of The Probability Of The Act",
+      "section": "300"
+    },
+    {
+      "act": "Would Be Applicable Where The Knowledge Of The Offender As To The Probability Of Death Of A Person Or Persons In General As Distinguished From A Particular Person Or Persons Being Caused From His Imminently Dangerous Act",
+      "section": "300"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "26 April 2007",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant, Shakti Dan, was convicted by a Division Bench of the Rajasthan High Court for an offence punishable under Section 302 of the Indian Penal Code.",
+    "The background facts are as follows: A written report was submitted before Sattar Khan, Sub-Inspector of Police, PS Nawa (PW-11) by Idan (PW-6) on 9.6.1999 with the averments that in the morning i.e. at about 7a.m. accused Shakti Dan started beating his wife at his house so she ran away from there and reached to the house of Idan (PW-6), the younger brother of the accused.",
+    "The mother of the accused, namely, Smt. Ugam Kanwar also followed her and she also reached the house of Idan which was near the house of the accused."
+  ],
+  "issues": [
+    "Whether the evidence of witnesses is credible and cogent",
+    "Whether the appellant throttled his mother which resulted in her death"
+  ],
+  "petitioner_arguments": [
+    "There was absolutely no motive for killing the mother.",
+    "The evidence of PW-4 on which reliance has been placed is not a reliable witness."
+  ],
+  "respondent_arguments": [
+    "The evidence of PW-4 though questioned to be unreliable, is credible."
+  ],
+  "court_reasoning": [
+    "Culpable homicide is genus and 'murder' its specie.",
+    "All 'murder' is 'culpable homicide' but not vice-versa.",
+    "For the purpose of fixing punishment, proportionate to the gravity of the generic offence, the IPC practically recognizes three degrees of culpable homicide."
+  ],
+  "holding": [
+    "The Supreme Court upheld the conviction and sentence of the appellant for an offence punishable under Section 302 of the Indian Penal Code."
+  ],
+  "cases_cited": [
+    "In Virsa Singh v. State of Punjab",
+    "death in the ordinary course of nature. Rajwant and Anr. v. State of Kerala",
+    "highlighted by this Court in State of Andhra Pradesh v. Rayavarapu Punnayya"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "case_id": "C1922",
+  "case_name": "V. Sivamurthy v State Of Andhra Pradesh & Ors.",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "R. V. Raveendran"
+  ],
+  "bench": [],
+  "petitioner": "V. Sivamurthy",
+  "respondent": "State Of Andhra Pradesh &",
+  "citations": [
+    "1994 2 SCC 718",
+    "1996 5 SCC 308"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "16"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "12 August 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "These appeals by special leave challenge the judgment dated 12.10.2001 of a Full Bench of Andhra Pradesh High Court holding that there can be no appointment on compassionate grounds in cases other than death of a government servant in harness, and that any scheme for compassionate appointment on medical invalidation of a government servant, is unconstitutional, being violative of Art. 16 of the Constitution of India.",
+    "By GO dated 30.7.1980, the government of Andhra Pradesh formulated a scheme for providing compassionate appointment to the dependents (spouse/son/daughter) of Government servants who retired on medical invalidation.",
+    "The said clarification led to considerable grievance.",
+    "Many of the government servants and/or their children/spouses who were denied the benefit of the scheme, on the ground that by the date of retirement on medical invalidation, 'the left over period of service' was less than five years, approached the AP Administrative Tribunal.",
+    "The said writ petitions were disposed of by a Full Bench by the impugned order dated 12.10.2001."
+  ],
+  "issues": [
+    "Whether compassionate appointment of sons/daughters/spouses of government servants who retire on medical invalidation is unconstitutional and invalid?",
+    "Whether the High Court could have considered and decided an issue which was not the subject matter of the writ petitions, particularly when neither party had raised it or canvassed it?",
+    "Whether the Government was justified in issuing clarificatory order dated 25.6.1999 that the left over period of five years should be reckoned from the date of issue of order of retirement on medical invalidation, is unreasonable and arbitrary?"
+  ],
+  "petitioner_arguments": [
+    "They contended that even when a government servant made an application for medical invalidation when the 'left over period' was more than five years, if there was delay on the part of Medical Board and/or the District Level or State Level Committee in processing and making the recommendations, the 'left over period' may get reduced to less than five years thereby making his dependant ineligible for the benefit of compassionate appointment.",
+    "They therefore contended that the five year period prior to superannuation should be calculated with reference to the date of application for medical invalidation."
+  ],
+  "respondent_arguments": [
+    "The State Government contended that its policy decision contained in GM dated 25.6.1999 was not open to interference.",
+    "Nor did they want a decision on such a question."
+  ],
+  "court_reasoning": [
+    "Employment should not be hereditary or by succession.",
+    "This Court had occasion to consider the difference between conferment of a preferential right to appointment to a family member of a government servant, merely on the ground that he happens to be a family member, and schemes relating to compassionate appointment of dependant family members of government servants who die while in service or who are incapacitated while in service."
+  ],
+  "holding": [
+    "The scheme for compassionate appointment on medical invalidation was invalid and unconstitutional.",
+    "Appointments cannot be made even in cases pending as on 12.10.2001."
+  ],
+  "cases_cited": [
+    "In Director of Education (Secondary) v. Pushpendra Kumar",
+    "In Food Corporation of India v. Ram Kesh Yadav",
+    "In Gazula Dasaratha Rama Rao vs. State of Andhra Pradesh",
+    "In Haryana State Electricity Board v. Hakim Singh",
+    "In State of Haryana v. Ankur Gupta",
+    "In Umesh Kumar Nagpal v. State of Haryana",
+    "In Yogender Pal Singh vs. Union of India",
+    "Reference may be made to W.B. State Electricity Board vs. Samir K",
+    "V. Sivamurthy v State Of Andhra Pradesh &",
+    "and Som Mittal v. State of Karnataka",
+    "to the decision of this Court in Auditor General of India v. G.Ananta Rajeswara Rao",
+    "was placed on observations of this Court in M.Purandara v. Mahadesh S"
+  ]
+}

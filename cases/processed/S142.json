@@ -1,0 +1,32 @@
+{
+  "case_id": "S142",
+  "case_name": "",
+  "court": "Courts",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The Courts shall (subject to the provisions herein contained) have jurisdiction to try all suits of a civil nature excepting suits of which their cognizance is barred by any enactment for the time being in force.",
+    "A suit in which the right to property or to an office is contested is a suit of a civil nature, notwithstanding that such right may depend entirely on the decision of questions as to religious rites or ceremonies."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The Courts shall (subject to the provisions herein contained) have jurisdiction to try all suits of a civil nature excepting suits of which their cognizance is barred by any enactment for the time being in force.",
+    "A suit in which the right to property or to an office is contested is a suit of a civil nature, notwithstanding that such right may depend entirely on the decision of questions as to religious rites or ceremonies."
+  ],
+  "holding": [
+    "The Courts shall (subject to the provisions herein contained) have jurisdiction to try all suits of a civil nature excepting suits of which their cognizance is barred by any enactment for the time being in force."
+  ],
+  "cases_cited": []
+}

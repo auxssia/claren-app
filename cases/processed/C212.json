@@ -1,0 +1,53 @@
+{
+  "case_id": "C212",
+  "case_name": "Sunil v State of Maharashtra",
+  "court": "Supreme Court of India",
+  "year": 2016,
+  "judges": [
+    "Jagdish Singh Khehar"
+  ],
+  "bench": [],
+  "petitioner": "Sunil",
+  "respondent": "State of Maharashtra\nSupreme Court of India\n\n1 September 2016\nCriminal Appeal No. 2053 of 2010\nThe Judgment was delivered by : Jagdish Singh Khehar, J.\n1. Delay condoned.\n2. The appellant before this Court, was convicted of the offence punishable under Section 302 of the Indian Penal Code (for short, the 'IPC') for having committed murder of his wife Nalu Sunil Potdukhe on 17.4.1991, at or about 8.00 p.m. to 8.30 p.m. The case having been committed to the Court of Sessions, Wardha, the trial of the appellant was conducted by the First Ad-hoc Additional Sessions Judge, Wardha. After recording the statement of the prosecution witnesses, as also, the statement of the appellant under section 313 of the Code of Criminal Procedure (for short, the 'Cr.P.C.'), the trial court by its judgment and order dated 29.4.2003, found the appellant guilty of having committed the murder of his wife Nalu Sunil Potdukhe, and therefore, sentenced him to suffer imprisonment for life, and to pay a fine",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "1 September 2016",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant was convicted of murdering his wife Nalu Sunil Potdukhe on April 17, 1991.",
+    "The case was committed to the Court of Sessions, Wardha, and the trial was conducted by the First Ad-hoc Additional Sessions Judge, Wardha.",
+    "The trial court found the appellant guilty of murder and sentenced him to life imprisonment and a fine of Rs.500/- (with default rigorous imprisonment for 15 days).",
+    "The High Court affirmed the trial court's judgment.",
+    "The prosecution relied on three dying declarations made by Nalu Sunil Potdukhe after she suffered burn injuries."
+  ],
+  "issues": [
+    "Whether the two dying declarations recorded by PW-2 Rameshwar Amnerkar and PW-6 Ashok Latare could be taken into consideration",
+    "The legal position regarding the veracity of dying declarations"
+  ],
+  "petitioner_arguments": [
+    "The appellant argued that the High Court erred in not considering the two dying declarations recorded by PW-2 Rameshwar Amnerkar and PW-6 Ashok Latare."
+  ],
+  "respondent_arguments": [
+    "The respondent (State of Maharashtra) did not present any arguments, as this was a criminal appeal."
+  ],
+  "court_reasoning": [
+    "The court held that the conclusion drawn by the Full Bench of the High Court in Ramesh S/o Gyanoba Kamble's case was the correct legal position.",
+    "The court found that the three dying declarations made by Nalu Sunil Potdukhe were sufficient to return a finding of guilt against the appellant."
+  ],
+  "holding": [
+    "The appeal is dismissed."
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,37 @@
+{
+  "case_id": "S31",
+  "case_name": "Protection against arrest and detention in certain cases",
+  "court": "",
+  "year": 0,
+  "judges": [
+    "Chief Justice",
+    "serving Judge"
+  ],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The Protection against arrest and detention in certain cases is a law that provides for the rights of individuals who are arrested or detained by the authorities.",
+    "The law states that no person who is arrested shall be detained in custody without being informed, as soon as may be, of the grounds for such arrest nor shall he be denied the right to consult, and to be defended by, a legal practitioner of his choice."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The law provides for the rights of individuals who are arrested or detained by the authorities.",
+    "The law states that no person who is arrested shall be detained in custody without being informed, as soon as may be, of the grounds for such arrest nor shall he be denied the right to consult, and to be defended by, a legal practitioner of his choice."
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,58 @@
+{
+  "case_id": "C1731",
+  "case_name": "Nandoli Mohamed Rafeeq v Union of India and others",
+  "court": "Supreme Court of India",
+  "year": 2004,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Nandoli Mohamed Rafeeq",
+  "respondent": "Union of India",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "3(1)"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "22"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 32",
+  "court_level": "Supreme Court",
+  "decision_date": "20 January 2004",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner has been detained in exercise of the powers conferred by Section 3(1)(i) of the Conservation of Foreign Exchange and Prevention of Smuggling Activities Act, 1974, with a view to prevent him from smuggling goods in future.",
+    "The petitioner was apprehended at Chennai Airport on 20-4-2003 when he arrived from a flight from Dubai. For non-declaration of electronic goods over six lakhs, the petitioner was arrested under the provisions of the Customs Act, 1962.",
+    "A voluntary statement given by the petitioner was recorded on the same day. In the said statement the petitioner, inter alia, stated that he used to sell the goods at Chennai with the help of a person Khader Moideen.",
+    "The order of detention was confirmed by the confirming authority on 14-8-2003."
+  ],
+  "issues": [
+    "Constitutional validity of the order of detention",
+    "Effect of non-supply of statement of Khader Moideen recorded on 6-8-2003, to the petitioner in the language known to him"
+  ],
+  "petitioner_arguments": [
+    "Non-supply of statement of Khader Moideen dated 6-8-2003, to the petitioner, in the language known to him has deprived the petitioner of his constitutional right to make effective representation",
+    "Detention and continued detention of the petitioner is illegal"
+  ],
+  "respondent_arguments": [
+    "The documents supplied to the detenu along with the letter dated 7-8-2003 were supplied for the purpose of reference only and were not relevant"
+  ],
+  "court_reasoning": [
+    "The supply of the aforesaid statement along with letter dated 7-8-2003, above-referred, is not in dispute.",
+    "Unfortunately, Respondent 1 has not filed any affidavit.",
+    "This Court has repeatedly laid down that the aspect of personal liberty of an individual cannot be treated lightly."
+  ],
+  "holding": [
+    "The continued detention of the petitioner is violative of Article 22(5) of the Constitution as he has been deprived of the right to make an effective representation",
+    "The rule is, therefore, made absolute. The detention of the petitioner is quashed and he is directed to be released forthwith, if not required in any other case."
+  ],
+  "cases_cited": [
+    "Nandoli Mohamed Rafeeq v Union of India"
+  ]
+}

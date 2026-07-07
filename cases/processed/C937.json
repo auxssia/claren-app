@@ -1,0 +1,97 @@
+{
+  "case_id": "C937",
+  "case_name": "Kulwant Singh and others v State of Punjab",
+  "court": "Supreme Court of India",
+  "year": 2013,
+  "judges": [
+    "Madan B. Lokur"
+  ],
+  "bench": [],
+  "petitioner": "Kulwant Singh and others",
+  "respondent": "State of Punjab\nSupreme Court of India\n\n2 April 2013\nCr.A. No. 1548 of 2007\nThe Judgment was delivered by : Madan B. Lokur, J.\n1. The question before us is whether the conviction of Kulwant Singh (appellant No.1), his father Gurtehal Singh (appellant no.2) and his mother Harminder Kaur (appellant no.3) for offences punishable under Section 304-B and Section 498-A of the Indian Penal Code (IPC) ought to be sustained. In our opinion, there is sufficient evidence on record to sustain their conviction.\nTHE FACTS:\n2. Rachhpal Kaur (deceased) married Kulwant Singh on 18th November 1984. It appears from the record that even though she brought sufficient dowry, she was harassed and maltreated by her husband and in-laws for bringing insufficient dowry. The harassment and maltreatment continued resulting in the intervention by the Panchayat on or about 13th September 1988 to sort out the problem so that the couple could live a normal married life. Unfortunately, the ef",
+  "citations": [
+    "2007 9 SCC 721",
+    "2008 16 SCC 155",
+    "2011 4 SCC 427",
+    "2012 6 SCC 204"
+  ],
+  "statutes": [
+    {
+      "section": "304"
+    },
+    {
+      "section": "498"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "500"
+    },
+    {
+      "section": "6"
+    },
+    {
+      "section": "161"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "act": "Dowry Prohibition Act, 1961"
+    },
+    {
+      "section": "113"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "2 April 2013",
+  "outcome": "Unknown",
+  "facts": [
+    "Rachhpal Kaur married Kulwant Singh in 1984.",
+    "She was harassed and maltreated by her husband and in-laws for bringing insufficient dowry.",
+    "The Panchayat intervened to sort out the problem, but the efforts did not yield any positive result.",
+    "Rachhpal Kaur died under suspicious circumstances on October 14, 1988.",
+    "Sukhdev Singh reported the matter to the police and an FIR was registered on November 2, 1988.",
+    "The investigation revealed that Rachhpal Kaur was carrying a 26-week fetus at the time of her death.",
+    "A post-mortem examination revealed the presence of aluminium phosphide in her stomach and liver.",
+    "Sukhdev Singh's daughter Avtar Kaur gave evidence about the harassment and maltreatment of Rachhpal Kaur by her husband and in-laws."
+  ],
+  "issues": [
+    "Whether there was a delay in lodging the FIR by Sukhdev Singh?",
+    "Whether the prosecution had led sufficient evidence to show that the appellants demanded dowry from Rachhpal Kaur and maltreated her as a result?",
+    "Whether the death of Rachhpal Kaur was due to aluminium phosphide poisoning?"
+  ],
+  "petitioner_arguments": [
+    "There was a delay in lodging the FIR by Sukhdev Singh.",
+    "The prosecution had not led sufficient evidence to show that the appellants demanded dowry from Rachhpal Kaur and maltreated her as a result.",
+    "The death of Rachhpal Kaur was not due to aluminium phosphide poisoning."
+  ],
+  "respondent_arguments": [
+    "There was no delay in lodging the FIR by Sukhdev Singh.",
+    "The prosecution had led sufficient evidence to show that the appellants demanded dowry from Rachhpal Kaur and maltreated her as a result.",
+    "The death of Rachhpal Kaur was due to aluminium phosphide poisoning."
+  ],
+  "court_reasoning": [
+    "The Trial Court held that there was no delay in lodging the FIR by Sukhdev Singh.",
+    "The High Court concluded that the prosecution had led sufficient evidence to show that the appellants demanded dowry from Rachhpal Kaur and maltreated her as a result.",
+    "The High Court believed the witnesses who had consistently supported the prosecution version of harassment, maltreatment and misbehavior by the appellants with Rachhpal Kaur on account of her allegedly bringing insufficient dowry."
+  ],
+  "holding": [
+    "The conviction of Kulwant Singh, Gurtehal Singh, and Harminder Kaur was sustained.",
+    "They were found guilty of offences punishable under Section 304-B and Section 498-A of the IPC.",
+    "They were sentenced to undergo rigorous imprisonment for seven years and to pay a fine of Rs.500/-."
+  ],
+  "cases_cited": [
+    "Finally, reference was made to Vipin Jaiswal v. State of Andhra Pradesh",
+    "J.) had occasion to deal with this issue in Gurmail Singh v. State of Punjab",
+    "away the entire prosecution case as held in Jitender Kumar v. State of Haryana",
+    "counsel for the appellants referred to Appasaheb & Anr. v. State of Maharashtra",
+    "observations made in Appasaheb were explained in Bachni Devi v. State of Haryana"
+  ]
+}

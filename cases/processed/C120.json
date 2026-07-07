@@ -1,0 +1,50 @@
+{
+  "case_id": "C120",
+  "case_name": "Satish Chandra Anand v Union of India",
+  "court": "Supreme Court of India",
+  "year": 1953,
+  "judges": [
+    "Vivian Bose"
+  ],
+  "bench": [],
+  "petitioner": "Satish Chandra Anand",
+  "respondent": "Union of India\nSupreme Court of India\n\n13 March 1953\nPetition (No. 201 of 1952)\nThe Judgment was delivered by : Vivian Bose, J.\n1. This is a petition under article 32 of the Constitution in which the petitioner seeks redress for what, according to him, is a breach of his fundamental rights under articles 14 and 16(1) of the Constitution. It was argued at considerable length by the petitioner in person. Then, when our judgment was nearly ready, he put in a petition asking for a rehearing and for permission to file some fresh papers. When that was refused he came again on another, day and asked for leave to engage an agent and appear through counsel as he felt he had not been able to do justice to his case in person. (It may be mentioned that though he had originally engaged an agent he dismissed him before the hearing when he appeared in person.) We granted his request and counsel reargued the case for him but has not carried the matter any further. The facts are",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Government Of India Act",
+      "section": "240"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "13 March 1953",
+  "outcome": "Unknown",
+  "facts": [
+    "In October,1945, the petitioner was employed by the Government of India on a five year contracting, the Directorate General of Resettlement and Employment of the Ministry of Labour.",
+    "After a short period of practical training, he was posted in January, 1946, at Jabalpur as the Manager of the Sub-Regional Employment Exchange and was later confirmed in this appointment.",
+    "This contract of service was due to expire in 1950.",
+    "Shortly before its expiration the Government of India made him a new offer, embodied in its letter dated the 30th June, 1950, to continue him in service on the terms specified in that letter."
+  ],
+  "issues": [
+    "Whether the petitioner's fundamental rights under articles 14 and 16(1) of the Constitution have been infringed.",
+    "Whether the termination of the petitioner's services was an ordinary case of a contract being terminated by notice under one of its clauses or not."
+  ],
+  "petitioner_arguments": [
+    "The petitioner argued that he has either been dismissed or removed from service without the safeguards which article 31(1) confers.",
+    "He says he has been discriminated against in the exercise or enjoyment of some legal right which is open to others who are similarly situated."
+  ],
+  "respondent_arguments": [
+    "The respondent argued that the petitioner's services were liable to termination at any time by one month's notice in writing, as per rule 5 of the Temporary Service Rules.",
+    "It was contended that the petitioner was not a permanent Government servant and Government was not bound either to re-employ him or to continue him in service."
+  ],
+  "court_reasoning": [
+    "The court held that article 31(1) has no application because this is neither a dismissal nor a removal from service, nor is it a reduction in rank.",
+    "It was observed that the petitioner's grievance, when analyzed, is not one of personal differentiation but is against an offer of temporary employment on special terms as opposed to permanent employment."
+  ],
+  "holding": [
+    "The petition under article 32(1) of the Constitution is dismissed with costs."
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,69 @@
+{
+  "case_id": "C2723",
+  "case_name": "Satish and another etc. v State of Haryana",
+  "court": "Supreme Court of India",
+  "year": 2017,
+  "judges": [
+    "Navin Sinha, J."
+  ],
+  "bench": [],
+  "petitioner": "Satish and another etc",
+  "respondent": "State of Haryana\nSupreme Court of India\n\n26  May  2017\nCriminal Appeal Nos. 757-758 of 2016\n(Non-Reportable)\nThe Judgment was delivered by : Navin Sinha, J.\n1. The appellants stand convicted under Section 120-B, 302, 34 IPC and sentenced to life imprisonment. The appellant Satish has been further convicted under the Arms Act.\n2. The deceased, husband of appellant Anita, was fatally assaulted inside his house at about 1.30 a.m. in the night intervening 31.03.2007/01.04.2007. PW-2 Sahil, the son of the deceased, went and informed PW-1 Sunita who lived next door. The police report was lodged by PW-1 the next morning at about 9:00 a.m. The postmortem of the deceased was conducted on 01.04.2007 by PW-10 Dr. Suman Tanwar, which revealed eight incised wounds and seventeen penetrating incised wounds.\n3. Ms. Prachi Bajpai, learned counsel for the appellants Satish and Kishan, submits that there was an unexplained delay of eight hours in lodgment of the First Informatio",
+  "citations": [
+    "1980 1 SCC 582",
+    "AIR 1952 SC 354"
+  ],
+  "statutes": [
+    {
+      "section": "120"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Arms Act, 1959"
+    },
+    {
+      "section": "161"
+    },
+    {
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "26 May 2017",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants stand convicted under Section 120-B, 302, 34 IPC and sentenced to life imprisonment.",
+    "The deceased, husband of appellant Anita, was fatally assaulted inside his house at about 1.30 a.m. in the night intervening 31.03.2007/01.04.2007.",
+    "PW-2 Sahil, the son of the deceased, went and informed PW-1 Sunita who lived next door.",
+    "The police report was lodged by PW-1 the next morning at about 9:00 a.m.",
+    "The postmortem of the deceased was conducted on 01.04.2007 by PW-10 Dr. Suman Tanwar, which revealed eight incised wounds and seventeen penetrating incised wounds."
+  ],
+  "issues": [
+    "Whether there was an unexplained delay in lodgment of the First Information Report",
+    "Whether the extra judicial confession evidence was manipulated",
+    "Whether the conviction is sustainable without corroboration"
+  ],
+  "petitioner_arguments": [
+    "There was an unexplained delay of eight hours in lodgment of the First Information Report giving sufficient time for manipulation and false implication.",
+    "The primary material against Anita is an extra judicial confession stated to have been made to PW-4 on 08.04.2007, about a week after the occurrence.",
+    "The entire edifice of a conspiracy, with the assistance of Ramesh, to engage hired killers, collapses with his acquittal by the High Court."
+  ],
+  "respondent_arguments": [
+    "It is only a rule of prudence to seek corroboration in case of a child witness.",
+    "Conviction can be based on the solitary evidence of a child witness if it is otherwise reliable and inspires confidence.",
+    "The extra judicial confession was, therefore, not made to stranger."
+  ],
+  "court_reasoning": [
+    "An extra judicial confession is a weak piece of evidence. Normally by itself it can be corroborative only.",
+    "In view of acquittal of the latter, the observations in Palvinder Kaur (supra) in this regard assumes relevance and it will not be safe to take the same into consideration.",
+    "We do not find anything from his evidence to make it suspicious as the result of any tutoring by PW-4."
+  ],
+  "holding": [
+    "The appeals are dismissed."
+  ],
+  "cases_cited": []
+}

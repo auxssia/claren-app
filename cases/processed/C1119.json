@@ -1,0 +1,85 @@
+{
+  "case_id": "C1119",
+  "case_name": "Bhau Ram v B. Baijnath Singh",
+  "court": "Supreme Court of India",
+  "year": 1962,
+  "judges": [
+    "K. N. Wanchoo"
+  ],
+  "bench": [],
+  "petitioner": "Bhau Ram",
+  "respondent": "B. Baijnath Singh\nSupreme Court of India\n\n7 March 1962\nC.A. No. 270 of 1955 with C.A. No. 430 of 1958 and C.A. No. 595 of 1960\nThe Judgment was delivered by: K. N. Wanchoo, J.\n1. These three appeals which have been heard together raise the Constitutionality of certain provisions of the pre-emption laws prevailing in the States of Madhya Pradesh (Rewa-State area), Delhi and Maharashtra (Berar- area). Three suits for pre-emption were brought by preemptors which were decreed, and the present appeals are by purchasers. Though the appeals were heard together as some of the points involved were common, it would be convenient to deal with each appeal separately because the law involved in each case is different.\n2. We shall begin with C.A. 207 of 1955. This is concerned with the Rewa State Pre-emption Act, 1946 (hereinafter called the Rewa Act), and particularly with s. 10 thereof, which is in these terms: -\n\"Classes of pre-emptors:\nPersons of' the, following classes shall have a r",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "19"
+    },
+    {
+      "section": "10"
+    },
+    {
+      "section": "13"
+    },
+    {
+      "section": "12"
+    },
+    {
+      "section": "16"
+    },
+    {
+      "section": "2(12)"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "7 March 1962",
+  "outcome": "Unknown",
+  "facts": [
+    "Three suits for pre-emption were brought by preemptors which were decreed, and the present appeals are by purchasers.",
+    "The Rewa State Pre-emption Act, 1946 provides that a person owning immovable property adjoining the property sold or foreclosed is entitled to pre-empt subject to the order provided in the proviso.",
+    "Section 10 of the Rewa Act gives a right of pre-emption first to co-sharers and secondly to owners of adjoining property to which we shall refer hereafter as pre-emption by vicinage.",
+    "The law of pre-emption creates a right which attaches to the property and on that footing only it can be enforced against the purchaser.",
+    "The Act provides that if the vendor and the vendee desire that there may be no suit for pre-emption the vendor can give notice to possible pre-emptors of the price at which the vendor is willing to sell such property.",
+    "Even where such a notice has been given and the price has not been paid or tendered, a suit for pre-emption can be filed after the sale in spite of s.13 on the ground that the price stated in the notice was not fixed in good faith."
+  ],
+  "issues": [
+    "Whether a right of pre-emption by vicinage offends Art. 19(1)(f).",
+    "Whether the restrictions imposed by the Rewa Act are reasonable and in the interests of the general public."
+  ],
+  "petitioner_arguments": [
+    "The law of pre-emption creates a right which attaches to the property and on that footing only it can be enforced against the purchaser.",
+    "Even if the liability attaches to the property, it will still amount to a restriction on the right guaranteed by Art. 19(1)(f), when it attaches to the property by the law of pre-emption."
+  ],
+  "respondent_arguments": [
+    "The fact that there was no pre-existing custom of a similar nature prevalent in any part of the area to which the Rewa Act applies, and even if any custom was prevalent in this area before the Rewa Act came into force and it was held reasonable by courts, that would not in our opinion be a decisive factor in considering whether the restrictions imposed by the Rewa Act are reasonable or not."
+  ],
+  "court_reasoning": [
+    "Even if the law of pre-emption creates a right which attaches to property it would be creating a restriction so far as the acquiring, holding or disposing of property is concerned which was not there before the law of pre-emption was enacted.",
+    "There can be no doubt that a tax on pre-emption does impose restriction on the fundamental right guaranteed under Art. 19(1)(f) and the question is whether the restriction imposed in the Rewa case is reasonable and in the interests of the general public."
+  ],
+  "holding": [
+    "The restrictions placed by the law of pre-emption in a case based on vicinage have no effect on prices being reasonably fixed, and the main effect we can see is that the law may give rise to a crop of litigation.",
+    "We cannot therefore see any advantage to the general public by such a law of pre-emption and in any case the disadvantage certainly overweighs the advantage that may result to a small section of the public."
+  ],
+  "cases_cited": [
+    "Babulal v. Gowardhan das A",
+    "In Tyson v. Smith",
+    "Later the High Court held in Sardha Ram v. Haji Abdul Majid Mohd",
+    "M.B I, Sewalal Ghanshyam v. Param Lalanju A",
+    "Mohomed Beg Amin Beg v. Narayan Meghaji Patil",
+    "Ramchandra Krishnaji Dhagale v. Janardhan Krishnappa Marwar A",
+    "We are therefore of opinion that the view taken in Ramchandra v. Janardan A",
+    "art earlier judgment of the Nagpur High Court in Ramchandra v. Janardan A",
+    "based on the decision of this Court in Shri Audh Behari Singh v. Gajadhar Jaipuria",
+    "dealt with the Act with which we are dealing), and Moti Bai v. Kand Kari Channaya A",
+    "see Ibrahim Saib v. Muni Mir Udin Saib",
+    "see Karim Ahmad v. Rahmat Elahi",
+    "see Karim Ahmed v. Rehmat Alahi A",
+    "see Panch Gujar Gaur Brahmins v. Amarsingh A",
+    "see Ramchandra Krishinaji Dhagale v. Janardan Krishnappa Marwar A",
+    "the Full Bench decision of the same High Court in Uttam Singh v. Kartar Singh A",
+    "the earlier Full Bench decision of that Court in Uttam Singh v. Kartar Singh A"
+  ]
+}

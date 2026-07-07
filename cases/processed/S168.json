@@ -1,0 +1,33 @@
+{
+  "case_id": "S168",
+  "case_name": "",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "4"
+    },
+    {
+      "section": "91"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "17 10 2000",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "Punishment with imprisonment of either description for a term which may extend to seven years, or with fine, or with both."
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,67 @@
+{
+  "case_id": "C59",
+  "case_name": "Daya Singh v State of Haryana",
+  "court": "Supreme Court of India",
+  "year": 2001,
+  "judges": [
+    "M. B. Shah, J."
+  ],
+  "bench": [],
+  "petitioner": "Daya Singh",
+  "respondent": "State of Haryana\nSupreme Court of India\n\n20 February 2001\nCriminal Appeal No. 416 of 1998\nThe Judgment was delivered by : M. B. Shah, J.\n1. In Sessions Case No.44 of 1989, 14-accused were tried for various offences including Sections 3 and 5 of the Terrorists and Disruptive Activities (Prevention) Act, 1987 (hereinafter referred to as the TADA Act) by the Additional Judge, Designated Court, Karnal at Ambala. The Additional Judge by his judgment and order dated 19 February 1998 convicted the appellant Daya Singh for committing the offence of murder of Gurdeep Singh and attempting to commit murder of PWs Dr. Harnam Singh and Smt. Jaswant Kaur. The appellant is also convicted under Section 302 read with Section 34 IPC for committing murder of Khushdev Singh, Gurpreet Kaur and his co-accused Gurjant Singh and sentenced to suffer imprisonment for life and to pay a fine of Rs.10000/- in default of payment of fine to undergo further RI for a period of one year. He is also convict",
+  "citations": [
+    "1982 3 SCC 368",
+    "1995 2 SCC 64",
+    "2000 1 SCC 471",
+    "AIR 1972 SC 102",
+    "AIR 1972 SC 283",
+    "AIR 1981 SC 1392",
+    "AIR 1983 SC 367",
+    "AIR 1988 SC 345"
+  ],
+  "statutes": [
+    {
+      "act": "Tada Act",
+      "section": "5"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "9"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "20 February 2001",
+  "outcome": "Unknown",
+  "facts": [
+    "In Sessions Case No.44 of 1989, 14-accused were tried for various offences including Sections 3 and 5 of the Terrorists and Disruptive Activities (Prevention) Act, 1987 (hereinafter referred to as the TADA Act) by the Additional Judge, Designated Court, Karnal at Ambala.",
+    "The incident relates to attack by the terrorists on 09 April 1988 in the house of one Dr. Harnam Singh at Kurukshetra which has resulted in loss of his son Khushdev Singh, daughter-in-law Gurpreet Kaur, Gurdeep Singh son of his brother-in-law and one assailant Gurjant Singh and injuries to other persons.",
+    "At the time of hearing of this appeal, prosecution version relating to the incident of the murder of four persons at the place of incident and injuries to the witnesses is not disputed."
+  ],
+  "issues": [
+    "reliability of evidence of PW37 Jaswant Kaur and PW38 Dr. Harnam Singh qua the identification of the appellant"
+  ],
+  "petitioner_arguments": [
+    "mainly with regard to reliability of evidence of PW37 Jaswant Kaur and PW38 Dr. Harnam Singh qua the identification of the appellant"
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Confessional statements are found to be not voluntary and are held to be unreliable.",
+    "There is no other evidence to connect the acquitted accused with the crime."
+  ],
+  "holding": [
+    "The Designated Court acquitted rest of the accused.",
+    "All the sentences were ordered to run concurrently."
+  ],
+  "cases_cited": [
+    "In Rameshwar Singh v. State of J & K",
+    "Wakil Singh and Others v. State of Bihar",
+    "and Soni v. State of UP",
+    "be stated that in such a situation, this Court in Suraj Pal v. State of Haryana",
+    "is succinctly stated by this Court in State of Maharashtra v. Suresh",
+    "reliance on decision of this Court in Hari Nath and Another v. State of U",
+    "relied upon the decisions of this Court in Mohd. Abdul Hafeez v. State of Andhra Pradesh",
+    "the primary and substantive evidence as to identity. In Hasib v. State of Bihar"
+  ]
+}

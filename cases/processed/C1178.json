@@ -1,0 +1,80 @@
+{
+  "case_id": "C1178",
+  "case_name": "State Of Uttar Pradesh And Anr. v Kaushal Kishore Shukla",
+  "court": "Supreme Court of India",
+  "year": 1991,
+  "judges": [
+    "K. N. Singh"
+  ],
+  "bench": [],
+  "petitioner": "State Of Uttar Pradesh And Anr",
+  "respondent": "Kaushal Kishore Shukla\nSupreme Court of India\n\n11 January 1991\nCivil Appeal (C) No. 137 of 1991\nThe Judgment was delivered by : K. N. Singh, J.\nLeave granted.\n1.  This appeal is directed against the judgment of the Allahabad High Court (Lucknow Bench) setting aside the order dated 23.9.1980 terminating the respondent's services.\n2.  The sole question which falls for consideration in this appeal is whether the order dated 23.9.1980 terminating the respondent's services, who was admittedly an ad-hoc and temporary employee is vitiated in law. The High Court has held that since juniors to the respondent were retained in service while the respondent's services were terminated, the order of termination was discriminatory in nature. It further held that since the order of termination was founded on an adverse entry awarded to the respondent his character roll without giving him any opportunity on the ground that he was not suitable, the order \"cannot be said",
+  "citations": [
+    "1955 1 SCR 26",
+    "1961 1 SCR 606",
+    "1964 5 SCR 190",
+    "1968 3 SCR 234",
+    "1975 1 SCR 814",
+    "1988 1 SCR 501"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "311"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "11 January 1991",
+  "outcome": "Unknown",
+  "facts": [
+    "The respondent, was appointed on ad-hoc basis on 18.2.1977 as an Assistant Auditor under the Local Funds Audit Examinater of the State of Uttar Pradesh, for a fixed period ending on 31.8.1977.",
+    "In December, 1977 the respondent was again appointed on ad-hoc basis for a period ending on 28.2.1978.",
+    "The terms and conditions of respondent's service as contained in the order of appointment stated that the appointment was ad-hoc, purely temporary for the term fixed in the order and his services were liable to be terminated at any time without assigning any reason.",
+    "He was awarded an adverse entry in his character roll for the year 1977-78.",
+    "The respondent made representation against the entry but the same was rejected.",
+    "The respondent and Rajendra Prasad Pandey another Sub-Auditor both were deputed to audit the accounts of Raja Raghunbar Dayal Inter College, Sitapur for the year 1979-80.",
+    "While carrying on the Audit the respondent and Rajendra Prasad Pandey both are alleged to have acted in excess of their authority in auditing the 'Boys Fund Accounts' of that College for the year 1978-79 on their own accord without any authority for the same."
+  ],
+  "issues": [
+    "Whether the order dated 23.9.1980 terminating the respondent's services, who was admittedly an ad-hoc and temporary employee is vitiated in law.",
+    "Whether the principle of 'last come first go' is applicable to a case where on account of reduction of work or shrinkage of cadre retrenchment takes place and the services of employees are terminated on a count of retrenchment."
+  ],
+  "petitioner_arguments": [
+    "The respondent's services were terminated on the assessment of his work and suitability in accordance with terms and conditions of his service.",
+    "If out of several temporary employees working in a department a senior is found unsuitable on account of his work and conduct, it is open to the competent authority to terminate his services and retain the services of juniors who may be found suitable for the service."
+  ],
+  "respondent_arguments": [
+    "The order of termination was rendered illegal since junior persons to the respondent in service were retained.",
+    "The termination of respondent's services on the basis of adverse entry in the character roll was not in good faith and the punishment imposed on him was disproportionate."
+  ],
+  "court_reasoning": [
+    "In our opinion, the principle of 'last come first go' is applicable to a case where on account of reduction of work or shrinkage of cadre retrenchment takes place and the services of employees are terminated on a count of retrenchment.",
+    "But this principle is not applicable to a case where the services of a temporary employee are terminated on the assessment of his work and suitability in accordance with terms and conditions of his service.",
+    "A temporary Govt. Servant has no right to hold the post, his services are liable to be terminated by giving him one month's notice without assigning any reason either under the terms of the contract providing for such termination or under the relevant statutory rules regulating the terms and conditions of temporary Govt. servants."
+  ],
+  "holding": [
+    "The order of termination in the instant case, could not be rendered illegal or unjustified on the ground of juniors being retained in service.",
+    "The view taken by the High Court is not sustainable in law."
+  ],
+  "cases_cited": [
+    "A.G. Benjamin v. Union of in'ia",
+    "Bench decisions of this Court in the State or Orrisa and anr. v. Ram Narayan Das",
+    "Champaklal Chimanlal Shah v. The",
+    "In State of Orissa & Anr. v. Ram Narain Dass",
+    "Jagdish Mitter v. The",
+    "R.C. Lacy v. The",
+    "and Ishwar Chand Jain v. High Court of Punjab & Haryana &",
+    "and Shamsher Singh & Anr. v. State of Punjab",
+    "and followed by a three Judge Bench in State of Punjab & Anr. v. Shri Sukh Raj Bahadur",
+    "placed reliance on the decisions of this Court in Nepal Singh v. State of U",
+    "supra) and in Shyamlal v. The",
+    "the decision of three Judge Bench of this Court in R.K. Misra v. U.P",
+    "the true nature of the order. in Parshotam Lal Dhingra v. Union of India"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "case_id": "C42",
+  "case_name": "Arunachalam v P. S. R. Sadhanantham",
+  "court": "Supreme Court of India",
+  "year": 1979,
+  "judges": [
+    "O. Chinnappa Reddy, J."
+  ],
+  "bench": [],
+  "petitioner": "Arunachalam",
+  "respondent": "P. S. R. Sadhanantham\nSupreme Court of India\n\n6 March 1979\nCriminal Appeal No. 170 of 1973.\nThe Judgment was delivered by : O. Chinnappa Reddy, J.\n1. P. S. R. Sadhanantham and four",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "6 March 1979",
+  "outcome": "Unknown",
+  "facts": [
+    "P. S. R. Sadhanantham and four others were tried by the learned Sessions Judge, Tirunelveli, on various counts.",
+    "Sadhanantham (A1) was convicted under Sections 148 and 302 Indian Penal Code while the four others were convicted under Sections 147, 323 and 149 read with 323.",
+    "The first accused was sentenced to imprisonment for life on the charge of murder and to rigorous imprisonment for a period of two years on the charge under Section 148.",
+    "The others were sentenced to suffer imprisonment for a period of one year on each of the counts on which they were convicted, the sentences to run concurrently.",
+    "All the five accused preferred an appeal to the High Court of Madras.",
+    "The High Court allowed the appeal and acquitted all the accused of all the charges."
+  ],
+  "issues": [
+    "Whether the acquittal by the High Court was proper",
+    "Whether the dying declarations were reliable"
+  ],
+  "petitioner_arguments": [
+    "The prosecution argued that the dying declarations were true and the evidence of the eye witnesses supported the case against the accused.",
+    "The prosecution also argued that the High Court had erred in rejecting the evidence of the direct witnesses."
+  ],
+  "respondent_arguments": [
+    "The respondent/defending party argued that the acquittal by the High Court was proper as the dying declarations were not reliable and the evidence of the eye witnesses was not credible.",
+    "The respondent also argued that the High Court had correctly rejected the evidence of the direct witnesses."
+  ],
+  "court_reasoning": [
+    "The court held that the High Court had erred in rejecting the evidence of the direct witnesses and that the dying declarations were reliable.",
+    "The court also held that the acquittal by the High Court was not proper as it was based on irrelevant grounds."
+  ],
+  "holding": [
+    "The Supreme Court allowed the appeal and set aside the acquittal by the High Court, ordering a retrial."
+  ],
+  "cases_cited": [
+    "Arunachalam v P. S",
+    "See State of Madras v. Vaidyanath Iyer",
+    "the pressing demands of justice (vide Durga Shankar Mehta v. Thakur Raghuraj Singh &"
+  ]
+}

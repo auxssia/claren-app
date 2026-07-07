@@ -1,0 +1,52 @@
+{
+  "case_id": "C2453",
+  "case_name": "Sudhir Chaudhary etc. v State (NCT of Delhi)",
+  "court": "Supreme Court of India",
+  "year": 2016,
+  "judges": [
+    "D.Y. Chandrachud, J."
+  ],
+  "bench": [],
+  "petitioner": "Sudhir Chaudhary etc",
+  "respondent": "State (NCT of Delhi)\nSupreme Court of India\n\n29 July 2016\nCriminal Appeal Nos. 700-701 of 2016 [Arising out of SLP (Crl) Nos. 3009-3010 of 2015]\nThe Judgment was delivered by : D.Y. Chandrachud, J.\n1. Leave granted.\n2. A judgment of the High Court of Delhi dated 11 February 2015 has given rise to these proceedings. The High Court dismissed a petition instituted under Section 482 of the Code of Criminal Procedure 1973 and affirmed an order dated 7 July 2014 of the Additional Sessions Judge-01 Patiala House Courts, New Delhi, in a Criminal Revision.\n3. On 2 October 2012, a First Information Report ('FIR') was registered at P.S. Crime Branch New Delhi, on a complaint made by Rajiv Bhadauria of Jindal Steel Company Private Limited. Briefly stated, the allegation in the FIR (FIR 240 of 2012) is that the Appellants demanded a sum of money to refrain from telecasting programmes on a television channel pertaining to the alleged involvement of a corporate entity in a wro",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure 1973",
+      "section": "482"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "29 July 2016",
+  "outcome": "Unknown",
+  "facts": [
+    "On 2 October 2012, a First Information Report ('FIR') was registered at P.S. Crime Branch New Delhi, on a complaint made by Rajiv Bhadauria of Jindal Steel Company Private Limited.",
+    "The FIR was registered against the Appellants for offences under Sections 384, 511, 420 and 120B of the Penal code.",
+    "The Appellants were arrested on 27 November 2012.",
+    "On 10 December 2012, an application was moved by the Investigating officer in the Crime Branch before the Additional Chief Metropolitan Magistrate (South), when the Appellants were in police custody in pursuance of an order of remand, requesting the court to seek the consent of the Appellants for obtaining their voice samples at the Central Forensic Science Laboratory, CBI (CFSL-CBI) for the purpose of comparing it with a recording which had been made in the course of a sting operation.",
+    "The Appellants were required by the Investigating officer to furnish their voice samples on 21 December 2012."
+  ],
+  "issues": [
+    "Whether the direction to furnish a voice sample was in violation of the fundamental right under Article 20(3) of the Constitution",
+    "Whether the process of drawing the voice samples must be fair and reasonable"
+  ],
+  "petitioner_arguments": [
+    "The requirement of a fair investigation is implicit in Article 21 and the procedure which is adopted for drawing a voice sample must be fair and reasonable.",
+    "A commonality of words is necessary to facilitate a spectrographic examination."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The purpose of a voice sample is to facilitate the process of comparing it with a recorded conversation.",
+    "A voice sample, in the view of the High Court is not a substantive piece of evidence.",
+    "Once the Appellants had furnished their consent to furnishing their voice samples, it was not open to them to dictate the course of investigation."
+  ],
+  "holding": [
+    "The directions which have been issued by this Court would allay the apprehension of the Appellants in regard to the fairness of the process involved in drawing the voice sample.",
+    "Permitting the text to contain words drawn from the disputed conversation would meet the legitimate concern of the investigating authorities for making a fair comparison."
+  ],
+  "cases_cited": [
+    "Sudhir Chaudhary etc. v State (NCT of Delhi"
+  ]
+}

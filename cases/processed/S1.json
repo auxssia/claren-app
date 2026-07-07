@@ -1,0 +1,36 @@
+{
+  "case_id": "S1",
+  "case_name": "Power of High Courts to issue certain writs",
+  "court": "High Court",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 32",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "Notwithstanding anything in Article 32 every High Court shall have powers, throughout the territories in relation to which it exercise jurisdiction,"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The power conferred by clause (1) to issue directions, orders or writs to any Government, authority or person may also be exercised by any High Court exercising jurisdiction in relation to the territories within which the cause of action, wholly or in part, arises",
+    "The power conferred on a High Court by this article shall not be in derogation of the power conferred on the Supreme court by clause (2) of Article 32"
+  ],
+  "holding": [
+    "Notwithstanding anything in Article 32 every High Court shall have powers, throughout the territories in relation to which it exercise jurisdiction, to issue to any person or authority, including in appropriate cases, any Government, within those territories directions, orders or writs, including writs in the nature of habeas corpus, mandamus, prohibitions, quo warranto and certiorari, or any of them, for the enforcement of any of the rights conferred by Part III and for any other purpose"
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,34 @@
+{
+  "case_id": "S100",
+  "case_name": "None",
+  "court": "Constitution",
+  "year": 1978,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "9"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The State shall strive to promote the welfare of the people by securing and protecting as effectively as it may a social order in which justice, social, economic and political, shall inform all the institutions of the national life.",
+    "The State shall, in particular, strive to minimise the inequalities in income, and endeavour to eliminate inequalities in status, facilities and opportunities, not only amongst individuals but also amongst groups of people residing in different areas or engaged in different vocations."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The State shall strive to promote the welfare of the people by securing and protecting as effectively as it may a social order in which justice, social, economic and political, shall inform all the institutions of the national life.",
+    "The State shall, in particular, strive to minimise the inequalities in income, and endeavour to eliminate inequalities in status, facilities and opportunities, not only amongst individuals but also amongst groups of people residing in different areas or engaged in different vocations."
+  ],
+  "cases_cited": []
+}

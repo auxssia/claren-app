@@ -1,0 +1,67 @@
+{
+  "case_id": "C2187",
+  "case_name": "Indian Copper Corporation Limited v Commissioner of Commercial Taxes, Bihar, and Others",
+  "court": "Supreme Court of India",
+  "year": 1964,
+  "judges": [
+    "SHAH"
+  ],
+  "bench": [],
+  "petitioner": "Indian Copper Corporation Limited",
+  "respondent": "Commissioner of Commercial Taxes, Bihar,",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "8"
+    },
+    {
+      "section": "8(3)"
+    },
+    {
+      "section": "8(1)"
+    }
+  ],
+  "legal_domain": "Labour",
+  "legal_subdomain": "Workmen",
+  "court_level": "Supreme Court",
+  "decision_date": "19 October 1964",
+  "outcome": "Unknown",
+  "facts": [
+    "The Indian Copper Corporation Ltd., is a company incorporated under the laws of the United Kingdom and has its registered office for the purpose of its business in India at Ghatsila, District Singhbhum in the State of Bihar.",
+    "The Corporation mines copper and iron ore from its own mines, transports the ore to its factory and manufactures finished products from the ore for sale.",
+    "Some of those goods are used in its factory in the process of manufacture and in the copper and kyanite mines, other goods are purchased for use in its offices, factory and mines and in the hospitals set up for affording medical facilities to its employees.",
+    "On April 30, 1957, the Corporation applied to the Superintendent of Sales Tax, Jamshedpur, for registration as a dealer under the Central Sales Tax Act (74 of 1956) setting out a list of goods for specification in the certificate of registration u/s. 8 of the Act.",
+    "The Corporation then petitioned the High Court of Patna u/arts. 226 and 227 of the Constitution for an order that the Superintendent of Sales Tax be directed to specify the goods mentioned in paragraph 4 of the petition in the certificate of registration granted to the petitioner, on June 24, 1957, and to forbear from levying or realising tax under the Central Sales Tax Act from the Corporation in excess of one per cent. u/s. 8(1) of the Central Sales Tax Act."
+  ],
+  "issues": [
+    "Whether the High Court was correct in excluding certain categories of goods from specification in the certificate of registration granted to the Corporation?"
+  ],
+  "petitioner_arguments": [
+    "The Corporation had submitted the following reasons for specification of the goods in the certificate of registration:",
+    "These are used in carrying raw materials and removing materials during the process of manufacture and thereafter to different places and are also used both underground and on the surface in mining operations and in transport of crude ore and stores for mining operations.",
+    "These are necessary for maintaining and ensuring continuous operation of the locomotives and motor-vehicles.",
+    "These are necessary for the hospitals run by the Corporation for maintaining the health and fitness of persons employed in mining operations and manufacture of goods.",
+    "These are essential for sampling and analysis of ore and other raw materials in mining operations and in the process of manufacture.",
+    "These are required for treatment of the workers employed in the mining of ore and manufacture of goods.",
+    "This is required for the maintenance of records, furnishing returns to various Government Departments, also Muster Rolls, payment of wages registers and all necessary forms and schedules under the Mines and Factories Acts.",
+    "These are necessary for the maintenance of motor-vehicles set out in item (i).",
+    "These are required for carrying ore and other materials used in the course of manufacture and also are used by the sanitary department for collecting refuse and thereby ensuring the health and cleanliness of the colony of workmen employed in the manufacture of goods."
+  ],
+  "respondent_arguments": [
+    "The Commissioner of Commercial Taxes, Bihar, did not file any affidavit in rejoinder to the petition filed by the Corporation.",
+    "It is difficult to appreciate the ground on which the High Court sought to exclude from the 'locomotives and motor-vehicles' those vehicles which were used by the Corporation after the mining operations were concluded and before the manufacturing process commenced, and those which were used in carrying finished products."
+  ],
+  "court_reasoning": [
+    "It is difficult to appreciate the ground on which the High Court sought to exclude from the 'locomotives and motor-vehicles' those vehicles which were used by the Corporation after the mining operations were concluded and before the manufacturing process commenced, and those which were used in carrying finished products.",
+    "There was not even an averment that vehicles which were used for the excluded purposes were different from the vehicles used in carrying and removing raw materials during the process of manufacture and vehicles used underground and on the surface in mining operations.",
+    "This by itself would be sufficient to reject the reservation made by the High Court.",
+    "We are also of the opinion that in a case where a dealer is engaged both in mining operations and in the manufacturing process - the two processes being interdependent - it would be impossible to exclude vehicles which are used for removing from the place where the mining operations are concluded to the factory where the manufacturing process starts."
+  ],
+  "holding": [
+    "The High Court was not correct in excluding certain categories of goods from specification in the certificate of registration granted to the Corporation.",
+    "The Corporation's appeal is allowed and the order of the High Court is set aside."
+  ],
+  "cases_cited": [
+    "Indian Copper Corporation Limited v Commissioner of Commercial Taxes"
+  ]
+}

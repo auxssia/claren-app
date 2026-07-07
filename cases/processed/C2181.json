@@ -1,0 +1,59 @@
+{
+  "case_id": "C2181",
+  "case_name": "Pukhraj v D. R. Kohli",
+  "court": "Supreme Court of India",
+  "year": 1962,
+  "judges": [
+    "P. B. Gajendragadkar, J."
+  ],
+  "bench": [],
+  "petitioner": "Pukhraj",
+  "respondent": "D. R. Kohli\nSupreme Court of India\n\n15 March 1962\nCivil Appeal No. 511 of 1960\nThe Judgment was delivered by : P. B. Gajendragadkar, J.\n1. On the 26th July, 1958, the Collector of Central Excise, Nagpur, passed an order directing absolute confiscation of five bars of gold weighing 290.6 Tolas found in the possession of the appellant Pukhraj and imposing upon him a personal penalty of Rs. 25,000/- under s. 167 (8) of the Sea Customs Act, 1878 read with a. 19 of the said Act and s. 23-A of the Foreign Exchange Regulation Act, 1947. Aggrieved by the said order, the appellant filed a writ petition in the High Court of Bombay at Nagpur under Arts. 226 and 227 of the Constitution on September 15, 1958. By this petition, the appellant claimed a writ of Certiorari or other appropriate writ or order quashing the impugned order. It was urged by him in support of his petit-ion, inter alia, that s. 178A of the Sea Customs Act was unconstitutional in that it infringed the appellant's fund",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Said Act",
+      "section": "23"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "15 March 1962",
+  "outcome": "Unknown",
+  "facts": [
+    "On October 25, 1956, whilst he was travelling by the passenger train from Calcutta on the Calcutta Nagpur route, he was searched at Raigarh railway station and found to be in possession of five pieces of gold bullion weighing 290.6 tolas valued at Rs.29,835/- approximately.",
+    "The said gold was then seized by the Officer concerned acting on a reasonable belief that it was smuggled gold, and notice was issued against the appellant on May 20, 1957, calling upon him to show cause why action should not be taken against him for having contravened the notification issued by the Government of India No.12 (11)-F.1/48 dated August 26, 1948 under the Foreign Exchange Regulation Act, 1947 read with s.23A of the said Act and s.19 of the Sea Customs Act and punishable under item (8) of s.167 of the Sea Customs Act.",
+    "The appellant sent a reply and thereupon, the Collector of Central Excise held an enquiry.",
+    "At the enquiry the appellant appeared by counsel and examined four witnesses in support of his plea that he was in possession of gold which belonged to him and which was not smuggled gold at all. Documentary evidence in the form of account books was also produced by the appellant in sup. port of his plea."
+  ],
+  "issues": [
+    "Whether the confiscation of gold is justified under s.167(8) because it has been found by the High Court that the appellant is not a person concerned in the offence of importation of the said gold.",
+    "Whether the personal penalty imposed upon the appellant is valid or not.",
+    "Whether s.167(8) applies to the facts of this case, and that takes us to the relevant notification issued by the Government of India in 1948."
+  ],
+  "petitioner_arguments": [
+    "The confiscation of gold is not justified under s.167(8) because it has been found by the High Court that the appellant is not a person concerned in the offence of importation of the said gold.",
+    "Even the goods cannot be confiscated under s.167(8).",
+    "Certain witnesses whose evidence was recorded by the Collector of Central Excise in the enquiry before him, were not produced for cross-examination by the appellant."
+  ],
+  "respondent_arguments": [
+    "The jurisdiction of the officer to impose a personal penalty was confined to the imposition of a penalty only up to Rs.1000/-and no more.",
+    "The High Court has also held that the appellant was not shown to have been concerned with the importation of the smuggled gold, though he was found in possession of it and this finding, according to the High Court, justified the conclusion that a personal penalty could not be imposed on him."
+  ],
+  "court_reasoning": [
+    "The language in item (8) of s.167 is clear and it permits the imposition of a penalty in excess of Rs.1000/- and that must be given effect to whatever may have been the intention in other provisions.",
+    "Once s.167(8) applies, then there can be no doubt that as soon as it is shown that certain goods have been imported contrary to the statutory prohibition or restriction, they are liable to confiscation and the confiscation of the said goods is not based on the fact that they are necessarily found with a person who was concerned with their importation.",
+    "The combined effect of the aforesaid provisions of the two Acts and the relevant notification is that the notification of 1948 has the force of a notification issued under s.19 of the Sea Customs Act, and in consequence, gold imported in contravention of the said notification is liable to be seized under %1.78 of the said Act and renders the person in possession of the said gold liable for proceedings under s.167(8) of the said Act; and since the matter falls to be considered under the relevant provisions of the Sea Customs Act, s.178A is also applicable."
+  ],
+  "holding": [
+    "The confiscation of the said goods is not based on the fact that they are necessarily found with a person who was concerned with their importation.",
+    "Once it is shown that the goods were seized in the manner contemplated by the first part of s.178A, it would be for the appellant to prove that the goods were not smuggled goods; and since it has been held by the Collector of Central Excise that the appellant had not discharged the onus imposed on him by s.178A, the statutory presumption remained un rebutted and so, the goods must be dealt with on the basis that they are smuggled goods.",
+    "As soon as we reach this conclusion, it follows that under s.167(8) of the Sea Customs Act, the said goods are liable to confiscation."
+  ],
+  "cases_cited": [
+    "Pukhraj v D. R",
+    "recently considered by this Court in M/s. Ranchhoddas Atmaram v. The",
+    "relied on certain observations made by this Court in F.N.Roy v. Collector of Customs"
+  ]
+}

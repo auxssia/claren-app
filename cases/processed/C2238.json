@@ -1,0 +1,58 @@
+{
+  "case_id": "C2238",
+  "case_name": "State of Punjab v Rajwinder Singh @ Raja and Others",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [],
+  "bench": [],
+  "petitioner": "State of Punjab",
+  "respondent": "Rajwinder Singh @ Raja",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "306"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "113A"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "26 May 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant has come up here challenging the order of the High Court dismissing the appeal filed by the State in limine.",
+    "As many as three accused persons were tried for the offence under Section 306/304-B/34 and Section 498-A of the Indian Penal Code.",
+    "The prosecution case was that Rajwinder Singh, respondent No.1 herein, was married to the deceased Paramjit Kaur alias Jeeta alias Sarabjit Kuar and she was ill-treated by all the three respondents on account of dowry demands.",
+    "On behalf of prosecution, Dr.Arun Kumar Gupta (P.W.1) was examined to prove the death by drowning.",
+    "The defence also examined witnesses namely, D.W.1, Karam Singh, who had stated that Rajwinder Singh was married with Sarabjit Kaur and after marriage he maintained good relations with Sarabjit Kaur and he had never raised any demand of dowry articles from his wife and never harassed her on demand of dowry articles.",
+    "The evidence of Jagtar Singh as also his father was not believed by the Ld.Addl.Sessions Judge.",
+    "It was further found by the Ld.Addl.Sessions Judge that there was no ante mortem injury on the body of Paramjit Kaur on the basis of which Ld.Addl.Sessions Judge came to the conclusion that immediately before her death she was not subjected to the cruelty.",
+    "The Addl.Sessions Judge also disbelieved the other witnesses and has given valid reasons for the same.",
+    "P.W.1 - Dr.Arun Kumar Gupta also admitted in his cross-examination that there was neither poison nor any injury found on the body of the deceased Paramjit Kaur.",
+    "From all these circumstances, the learned Addl.Sessions Judge came to the conclusion that all that it was proved was that the accused and particularly accused No.1 alone had committed the offence under Section 498-A."
+  ],
+  "issues": [
+    "What is the correct interpretation of Section 306/304-B/34 of Indian Penal Code?",
+    "Was there sufficient evidence to prove that Paramjit Kaur alias Jeeta alias Sarabjit Kuar was treated with cruelty or was harassed on account of demand of dowry as a result of which she had died unnatural death by jumping into the canal?"
+  ],
+  "petitioner_arguments": [
+    "The Addl.Sessions Judge had not considered the ingredients of Section 113A of Evidence Act and further he has not given any reason as to why he had acquitted the accused persons under Section 306 IPC particularly when he had convicted the accused No.1 for offence under Section 498-A of the Indian Penal Code."
+  ],
+  "respondent_arguments": [
+    "There was no material to prove that there was any demand of dowry made by the husband or by father-in-law or by mother-in-law.",
+    "There was no material on record to prove that there was any cruelty meted out to the deceased Paramjit Kaur to commit suicide."
+  ],
+  "court_reasoning": [
+    "The Addl.Sessions Judge has recorded the finding that there was no material to prove that there was any demand of dowry made by the husband or by father-in-law or by mother-in-law.",
+    "The Addl.Sessions Judge has also further found that there was no material on record to prove that there was any cruelty meted out to the deceased Paramjit Kaur to commit suicide.",
+    "We are generally satisfied with the order of the Sessions Judge and we have closely considered the judgment as also the evidence."
+  ],
+  "holding": [
+    "The appeal is accordingly dismissed."
+  ],
+  "cases_cited": []
+}

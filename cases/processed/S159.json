@@ -1,0 +1,50 @@
+{
+  "case_id": "S159",
+  "case_name": "Application for setting aside arbitral award",
+  "court": "",
+  "year": 0,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "75"
+    },
+    {
+      "section": "81"
+    },
+    {
+      "section": "33"
+    }
+  ],
+  "legal_domain": "Administrative",
+  "legal_subdomain": "Tribunal",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The Court may set aside an arbitral award if certain conditions are met.",
+    "A party making an application for setting aside an arbitral award must furnish proof that the award is invalid or the arbitration agreement is not valid under the law to which the parties have subjected it.",
+    "If the decisions on matters submitted to arbitration can be separated from those not so submitted, only that part of the arbitral award which contains decisions on matters not submitted to arbitration may be set aside.",
+    "The Court may also set aside an arbitral award if the subject-matter of the dispute is not capable of settlement by arbitration under the law for the time being in force."
+  ],
+  "issues": [
+    "What are the conditions under which an arbitral award can be set aside?",
+    "Can a party make an application to set aside an arbitral award after three months have elapsed from the date on which the party received the award?"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The Court may set aside an arbitral award if certain conditions are met.",
+    "If the decisions on matters submitted to arbitration can be separated from those not so submitted, only that part of the arbitral award which contains decisions on matters not submitted to arbitration may be set aside.",
+    "The Court may also set aside an arbitral award if the subject-matter of the dispute is not capable of settlement by arbitration under the law for the time being in force."
+  ],
+  "holding": [
+    "The Court may set aside an arbitral award if certain conditions are met.",
+    "If the decisions on matters submitted to arbitration can be separated from those not so submitted, only that part of the arbitral award which contains decisions on matters not submitted to arbitration may be set aside.",
+    "The Court may also set aside an arbitral award if the subject-matter of the dispute is not capable of settlement by arbitration under the law for the time being in force."
+  ],
+  "cases_cited": []
+}

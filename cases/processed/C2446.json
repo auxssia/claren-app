@@ -1,0 +1,98 @@
+{
+  "case_id": "C2446",
+  "case_name": "State of M. P. v Ramesh and another",
+  "court": "Supreme Court of India",
+  "year": 2011,
+  "judges": [
+    "Balbir Singh Chauhan"
+  ],
+  "bench": [],
+  "petitioner": "State of M. P",
+  "respondent": "Ramesh and another\nSupreme Court of India\n\n18 March 2011\nCriminal Appeal No. 1289 of 2005\nThe Judgment was delivered by : Balbir Singh Chauhan, J.\n1. This appeal has been preferred by the State of Madhya Pradesh against the judgment and order dated 31.3.2004 passed by the High Court of Madhya Pradesh at Jabalpur (Gwalior Bench) in Criminal Appeal No. 262 of 1997, reversing the judgment and order dated 16.8.1996 passed by the Sessions Court, Guna in Sessions Trial No. 155/1995, convicting the respondent No.1 under Section 302 of Indian Penal Code, 1860 (hereinafter called as 'IPC') and respondent No.2 under Section 302 read with Section 120-B IPC, and sentencing them to life imprisonment.\n2. FACTUAL MATRIX:\n(A) Respondent No.2 Bhaggo Bai filed an FIR dated 31.1.1995 in Police Station, Ashok Nagar, mentioning her name as Madhav Bai stating that her husband Chatra died after falling during a spell of giddiness at about 11.00 p.m. In respect of the same incident, another c",
+  "citations": [
+    "1999 9 SCC 507",
+    "2006 13 SCC 516",
+    "2010 9 SCC 85",
+    "AIR 1952 SC 54",
+    "AIR 1968 SC 1050",
+    "AIR 1995 SC 959",
+    "AIR 1998 SC 2726",
+    "AIR 2008 SC 1460",
+    "AIR 2009 SC 2292",
+    "AIR 2010 SC 3071"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Indian Oaths Act",
+      "section": "5"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "118"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "6"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "313"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "18 March 2011",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal has been preferred by the State of Madhya Pradesh against the judgment and order dated 31.3.2004 passed by the High Court of Madhya Pradesh at Jabalpur (Gwalior Bench) in Criminal Appeal No. 262 of 1997, reversing the judgment and order dated 16.8.1996 passed by the Sessions Court, Guna in Sessions Trial No. 155/1995, convicting the respondent No.1 under Section 302 of Indian Penal Code, 1860 (hereinafter called as 'IPC') and respondent No.2 under Section 302 read with Section 120-B IPC, and sentencing them to life imprisonment.",
+    "Respondent No.2 Bhaggo Bai filed an FIR dated 31.1.1995 in Police Station, Ashok Nagar, mentioning her name as Madhav Bai stating that her husband Chatra died after falling during a spell of giddiness at about 11.00 p.m.",
+    "After completing the investigation, a charge-sheet was filed against both the accused for committing the murder of Chatra.",
+    "Both the respondents-accused examined themselves as defence witnesses alongwith some other witnesses.",
+    "A large number of witnesses were examined by the prosecution."
+  ],
+  "issues": [
+    "Whether the High Court has gravely erred in showing unwarranted sympathy towards the accused and dis-believing the prosecution case?",
+    "Whether there was enmity between the accused Bhaggo Bai and Ramesh?",
+    "Whether the evidence of a child witness must find adequate corroboration before it is relied on?"
+  ],
+  "petitioner_arguments": [
+    "The High Court has gravely erred in showing unwarranted sympathy towards the accused and dis-believing the prosecution case.",
+    "There was no contradiction in the medical and ocular evidence regarding the injuries found on the person of Chatra, deceased.",
+    "Rannu Bai (PW.1) though a child, was able to understand the questions put to her and her duty to speak the truth.",
+    "The rape case filed by deceased Chatra and Bhaggo Bai against accused Ramesh remained pending for a long time and Ramesh got acquitted after the death of Chatra, deceased."
+  ],
+  "respondent_arguments": [
+    "The High Court being the first appellate court and the final court of facts had appreciated the entire evidence on record and came to the conclusion that it was not possible that Bhaggo Bai could have hatched a conspiracy with Ramesh accused for committing the murder of her husband Chatra during the pendency of the case filed by her against Ramesh under Section 376 IPC.",
+    "Munna Lal (PW.2), his wife and son had also assaulted the deceased Chatra and Bhaggo Bai, accused and wanted to grab their property and so many civil and criminal cases were pending between them, his evidence cannot be relied upon."
+  ],
+  "court_reasoning": [
+    "The Court further held as under: '.....It is desirable that Judges and magistrates should always record their opinion that the child understands the duty of speaking the truth and state why they think that, otherwise the credibility of the witness may be seriously affected, so much so, that in some cases it may be necessary to reject the evidence altogether.'",
+    "The Court must determine as to whether the child has been tutored or not.",
+    "It can be ascertained by examining the evidence and from the contents thereof as to whether there are any traces of tutoring."
+  ],
+  "holding": [
+    "The appeal lacks merit and is liable to be dismissed."
+  ],
+  "cases_cited": [
+    "Gagan Kanojia & Anr. v. State of Punjab",
+    "Himmat Sukhadeo Wahurwagh & Ors. v. State of Maharashtra",
+    "In Mangoo & Anr. v. State of Madhya Pradesh",
+    "In Nivrutti Pandurang Kokate & Ors. v. State of Maharashtra",
+    "In Panchhi & Ors. v. State of U",
+    "In Rameshwar S/o Kalyan Singh v. The",
+    "In State of U.P. v. Krishna Master &",
+    "In Sukhar v. State of U",
+    "State of M. P. v Ramesh",
+    "Tukaram G. Gaokar v. R.N",
+    "and Dehal Singh v. State of Himachal Pradesh"
+  ]
+}

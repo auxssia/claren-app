@@ -1,0 +1,54 @@
+{
+  "case_id": "C1944",
+  "case_name": "Ajmera Housing Corporation v Amrit M. Patel (Dead) Through Lrs. and Others",
+  "court": "Supreme Court of India",
+  "year": 1998,
+  "judges": [
+    "M. Jagannadha Rao"
+  ],
+  "bench": [],
+  "petitioner": "Ajmera Housing Corporation",
+  "respondent": "Amrit M. Patel (Dead) Through Lrs.",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code Of Civil Procedure",
+      "section": "115"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "3 August 1998",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant is a third party to the Suit No.1761 of 1988 which was pending before the City Civil Judge, Ahmedabad.",
+    "The suit was filed by a builder, one Amrit M. Patel, who was the predecessor-in-interest of respondents 1A to 1C,against three defendants, viz (1) Arujn Bhai Jayanti Lal Parikh (2) Nirmalaren Arjunbhai Parikh and (3) Irajit Arjunlal Bhai Parikh (predecessors-in-interest of Respondents 2Ato 4).",
+    "The relief claimed was for specific performance of an agreement dated 4.2.1982 executed by the three defendants - owners of the property(hereinafter called the 'owners') in favour of the said Amrit Mohan Lal Patel (plaintiff) (hereinafter called the 'Builder').",
+    "Six years later, the plaintiff-builder entered into an agreement dated 26.2.1988 with the appellant, Ajmera housing Corporation (hereinafter called the developer') under which the appellant was to undertake the development of the property.",
+    "On the same day, the plaintiff executed an irrevocable Power of Attorney in favour of the appellant.",
+    "The points that arise in the revision mainly turn upon the interpretation of the clauses in this agreement dated 26.2.1988 by the builder in favour of the appellant- developer."
+  ],
+  "issues": [
+    "Whether the agreement dated 26.2.88 was an assignment or entrustment of development rights?",
+    "Whether the appellant-developer could be treated as a legal representative of the deceased plaintiff?",
+    "Whether the consent of the original owners was necessary for the assignment of benefits or liabilities under the agreement dated 4.2.1982 to the appellant?"
+  ],
+  "petitioner_arguments": [
+    "The agreement dated 26.2.88amounted at least to an assignment of the 'development' rights if not of other rights of the builder and that was sufficient to bring the case under section 146 or Order 1 Rule 10 CPC."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The trial Judge by his order dated 1.8.1996 permitted withdrawal of the suit by the legal representatives of the plaintiff-builder and rejected the application of the appellant-developer for being substituted as a plaintiff in the suit.",
+    "According to him, the language of the agreement dated 26.2.88 by the builder in favour of the developer showed that under the latter agreement the development rights were merely 'entrusted' to the developer by the builder and that there was no 'assignment' of the rights which the builder got under the first agreement of 4.2.82 in favour of the developer.",
+    "The learned Judge rejected the contention of Sri Shelat on behalf of the appellant-developer that section 146 of Order 22 Rules 9, 10 were attracted to the facts of the case According to him, 'entrustment' of development work by the builder to the developer could not be equated with 'assignment' of his rights under the earlier contract."
+  ],
+  "holding": [
+    "The application of the plaintiff's legal representatives for withdrawal of the suit was allowed and the application of the appellant for being substituted as a plaintiff was dismissed.",
+    "The revision filed by the appellant in the High Court was also dismissed."
+  ],
+  "cases_cited": [
+    "Ajmera Housing Corporation v Amrit M",
+    "to be an forced. The Court relied upon Anil Kumar Singh vs. Shivnath Mishra"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "case_id": "C1918",
+  "case_name": "Kishun Singh and Others v State of Bihar",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [
+    "A. M. Ahmadi, J."
+  ],
+  "bench": [],
+  "petitioner": "Kishun Singh and Others",
+  "respondent": "State of Bihar\nSupreme Court of India\n\n11 January 1993\nCriminal Appeal No. 24 of 1993. From the Judgment and Order dated 6.8.1991 of the Patna High Court in Criminal Rev. No. 307 of 1991.\nThe Judgment was delivered by: A. M. Ahmadi, J.\nSpecial leave granted.\n1.  Whether a Court of Session to which a case is committed for trial by a Magistrate can, without itself recording evidence, summon a person not named in the Police Report presented u/s. 173 of the Code of Criminal Procedure, 1973 ('the Code' for short) to stand trial along with those already named therein, in exercise of power conferred by S. 319 of the Code? This neat question of law arises in the backdrop of the following allegations.\n2. On the evening of 27th February, 1990 Umakant Thakur, younger brother of the informant, was attacked by twenty persons including the present two appellants with sticks, etc. A First Information Report was lodged at about 9.30 p.m. on the same day in which all the twent",
+  "citations": [
+    "1964 5 SCR 37",
+    "1967 2 SCR 423",
+    "1979 1 SCR 349",
+    "1979 2 SCR 3061978",
+    "AIR 1967 SC 11671967",
+    "AIR 1978 SC 1568",
+    "AIR 1979 SC 339"
+  ],
+  "statutes": [
+    {
+      "section": "173"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "209"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "161"
+    },
+    {
+      "section": "200"
+    },
+    {
+      "section": "154"
+    },
+    {
+      "section": "190"
+    },
+    {
+      "section": "193"
+    },
+    {
+      "section": "215"
+    },
+    {
+      "section": "319(1)"
+    },
+    {
+      "section": "427"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "190(1)"
+    },
+    {
+      "section": "156(3)"
+    },
+    {
+      "section": "202"
+    },
+    {
+      "section": "191"
+    },
+    {
+      "section": "34"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "11 January 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "On the evening of 27th February, 1990 Umakant Thakur, younger brother of the informant, was attacked by twenty persons including the present two appellants with sticks, etc.",
+    "A First Information Report was lodged at about 9.30 p.m. on the same day in which all the twenty persons were named as the assailants.",
+    "The injured Umakant Thakur died in the Patna Hospital on the next day.",
+    "In the course of investigation statements of the informant as well as others came to be recorded and a charge-sheet dated 10th June, 1990 was forwarded to the Court of the learned Magistrate on 17th June, 1990 wherein eighteen persons other than the two appellants were shown as the offenders.",
+    "The names of the present two appellants were not included in the said report as in the opinion of the investigating officer their involvement in the commission of the crime was not established."
+  ],
+  "issues": [
+    "Whether a Court of Session to which a case is committed for trial by a Magistrate can, without itself recording evidence, summon a person not named in the Police Report presented u/s. 173 of the Code of Criminal Procedure, 1973 ('the Code' for short) to stand trial along with those already named therein, in exercise of power conferred by S. 319 of the Code?"
+  ],
+  "petitioner_arguments": [
+    "Unless evidence was recorded during the course of trial, the Sessions Judge had no jurisdiction under S. 319 of the Code to take cognizance and implead the appellants as co-accused solely on the basis of the material collected in the course of investigation and appended to the report forwarded u/s. 173 of the Code in view of the clear mandate of S. 193 of the Code."
+  ],
+  "respondent_arguments": [
+    "The learned Sessions Judge was justified in law in invoking S. 319 of the Code at the stage at which the proceedings were pending before him solely on the basis of the documents including statements recorded u/s. 161 of the Code during investigation without commencing trial and recording evidence therein."
+  ],
+  "court_reasoning": [
+    "S. 319 of the Code is an improved version of S. 351 of the old Code; the changes having been introduced therein on the suggestion of the Law Commission to make it comprehensive so that even persons not attending the Court can be arrested or summoned as the circumstances of the case may require and by deleting the words 'of which such Court can take cognizance' and by adding cl. (b) it is clarified that the impleadment of a new person as an accused in the pending proceedings will not make any difference insofar as taking of cognizance is concerned."
+  ],
+  "holding": [
+    "The learned Sessions Judge was justified in law in invoking S. 319 of the Code at the stage at which the proceedings were pending before him solely on the basis of the documents including statements recorded u/s. 161 of the Code during investigation without commencing trial and recording evidence therein."
+  ],
+  "cases_cited": [
+    "Bench decision of that Court in S.K Laytfur Rahman & Ors. v. The",
+    "In Joginder Singh v. State of Punjab",
+    "In the context of the said provision this Court in P.C Gulati v. L.R",
+    "in a recent decision of this Court in Sohan Lal & Ors. v. State of Rajasthan",
+    "of the Code /See Jamuna Singh & Ors. v. Bhadai Sah",
+    "offence and not the offender. This Court in Raghubans Dubey v. State of Bihar",
+    "the ratio of Dubey's case was affirmed in Hariram Satpathy v. Tikaram Agarwala"
+  ]
+}

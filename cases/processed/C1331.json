@@ -1,0 +1,102 @@
+{
+  "case_id": "C1331",
+  "case_name": "State of Uttar Pradesh and Another v Jaggo Alias Jagdish and Others",
+  "court": "Supreme Court of India",
+  "year": 1971,
+  "judges": [
+    "RAY, J."
+  ],
+  "bench": [],
+  "petitioner": "State of Uttar Pradesh and Another",
+  "respondent": "Jaggo Alias Jagdish",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "148"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "147"
+    },
+    {
+      "section": "107"
+    },
+    {
+      "section": "324"
+    },
+    {
+      "section": "423"
+    },
+    {
+      "section": "375"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "30 March 1971",
+  "outcome": "Unknown",
+  "facts": [
+    "The judgment was delivered by: RAY, J.",
+    "There were 7 accused.",
+    "They were charged for the murder of Lalu alias Raj Gopal.",
+    "All the accused excepting Jaggo alias Jagdish were committed u/s. 148 of the Indian Penal Code and S. 302 read with S. 149 of the Indian Penal Code.",
+    "Jaggo was committed u/s. 147 of the Indian Penal Code and S. 302 read with S. 149 of the Indian Penal Code.",
+    "The prosecution case was that Lalu was pairokar of Kali Charan in a criminal case filed by him against Jaggo and another person named Iqbal.",
+    "On 17 July, 1965 the day fixed for hearing of the case Sri Chand and Madan Mohan abused Lalu and threatened him for doing pairvi in that criminal case.",
+    "The same evening Lalu was talking to Ramesh, Tara Chand and Munna Lal at Bhogipura crossing at Agra City in front of Sarwan's shop.",
+    "All the accused suddenly came and shouted at Lalu that they would teach him a lesson.",
+    "Lalu ran inside the lane between the shops of Sita Ram and Lal Singh.",
+    "The accused pursued him.",
+    "Lalu was overtaken.",
+    "The accused assaulted Lalu even after he had fallen.",
+    "A number of persons including Munna Lal, Girja Prasad, Bahadur Singh, Sarwan, Hari Babu, Tara Chand and Ramesh Chand are said to have witnessed the occurrence.",
+    "After giving numerous blows the accused ran away.",
+    "Munna Lal and Sarwan took Lalu in a rickshaw to a hospital.",
+    "Dr. Balbir Singh examined Lalu at 10 p.m.",
+    "Munna wrote a report and took it to the Police Station at Loha Mandi and lodged it there shortly after 10 p.m.",
+    "Lalu died after mid-night.",
+    "The post-mortem examination was held in the early hours of the morning.",
+    "The death was due to shock and hemorrhage as a result of the injuries which were noted to be thirty eight in number."
+  ],
+  "issues": [
+    "Whether the eye-witnesses were partisan or not?",
+    "Whether Munna Lal's evidence should be accepted despite his relationship with Lalu?",
+    "Whether Sarwan's evidence should be rejected due to his enmity with some of the accused?",
+    "Whether Sita Ram and Bhikari were independent witnesses or not?"
+  ],
+  "petitioner_arguments": [
+    "The first information report was lodged within 20 minutes.",
+    "Munna Lal though a relation to Lalu would be the last person to allow the culprit to go away unpunished.",
+    "Bhikari, Sarwan and Tara Chand were not relations and were independent witnesses who had no enmity against the accused.",
+    "The High Court did not consider the evidence of Bhikari and Sita Ram.",
+    "Though the motive may not be necessary in all cases, it was said that the High Court did not deal with the question of the motive."
+  ],
+  "respondent_arguments": [
+    "Munna Lal was found to be involved in proceedings along with Krishna Swarup Upadhyaya.",
+    "Sarwan filed applications against Sri Mohan and Madan Mohan who were accused in the present appeal.",
+    "Tara Chand was found by the Sessions Court not to be a partyman of Krishna Swarup Upadhyaya.",
+    "Sita Ram was found to be a party with Krishna Swarup Upadhyaya in a case which was started against Munna Lal and Krishna Swarup Upadhyaya."
+  ],
+  "court_reasoning": [
+    "The Sessions Court held that all the accused were guilty.",
+    "The Sessions Court accepted the evidence of each of them and gave the following reasons.",
+    "The witness Munna Lal is Lalu's brother.",
+    "Munna Lal was a truthful witness because he did not deny the fact that he appeared as a witness against Sri Narain and Sri Chand.",
+    "Sita Ram admitted his connection with Lalu and Kali Charan and that would show that Sita Ram was a trustworthy witness.",
+    "The evidence of Sita Ram was corroborated by the statement of independent witness like Bhikari Lal."
+  ],
+  "holding": [
+    "The High Court held that all the eye-witnesses were partisan witnesses.",
+    "The Sessions Court found that Lalu received a number of incised wounds and the injuries in the opinion of the doctor were sufficient in the ordinary course of nature to cause death of Lalu.",
+    "The Sessions Court held that Lalu had died as a result of the injuries which he had received."
+  ],
+  "cases_cited": [
+    "State of Uttar Pradesh and Another v Jaggo Alias Jagdish",
+    "has been stressed by this Court in the case of Habib Mohammad v. The",
+    "should be before the Court. Lord Roche in Stephen Seneviratne v. The King",
+    "to the observations of Jenkins, C.J. in Ram Ranjan Roy v. Emperor"
+  ]
+}

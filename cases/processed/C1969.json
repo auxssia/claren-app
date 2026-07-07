@@ -1,0 +1,58 @@
+{
+  "case_id": "C1969",
+  "case_name": "Bhagmal v M.P., Co-Op Mktng. and Consumer Fed. Limited and Others",
+  "court": "Supreme Court of India",
+  "year": 2001,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Bhagmal",
+  "respondent": "M.P., Co-Op Mktng. and Consumer Fed. Limited",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Said Act",
+      "section": "93"
+    },
+    {
+      "act": "Limitation Act",
+      "section": "5"
+    },
+    {
+      "act": "The Act",
+      "section": "93"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 226",
+  "court_level": "Supreme Court",
+  "decision_date": "7 November 2001",
+  "outcome": "Unknown",
+  "facts": [
+    "The registrar of the co-operative societies passed an award mulcting the appellant with a liability of 2.62 lacs which includes interest also.",
+    "The appellant preferred a statutory appeal challenging the said award under section 93 of the Act before the authority concerned but there was a long delay of above six years in filing the appeal, and therefore, appellant filed an application for condoning the delay.",
+    "Appellant was not sitting idle during the period in respect of the liability imposed on him by the cooperative society. Appellant was actively taking all steps challenging the conviction and sentence imposed on him on account of the shortage attributed to him.",
+    "All these things happened during the interval between the date of passing the award and the date of his filing the appeal."
+  ],
+  "issues": [
+    "[]"
+  ],
+  "petitioner_arguments": [
+    "Appellant could have filed the appeal within time. If he had filed the appeal within time there is no question of exercising discretion under section 5 of the Limitation Act.",
+    "The delay in filing the appeal was apparently very long. Nonetheless the High Court in exercising writ jurisdiction should have been slow to upset a benefit granted to a party in having his statutory remedy to be pursued by condoning the delay albeit its length."
+  ],
+  "respondent_arguments": [
+    "[]"
+  ],
+  "court_reasoning": [
+    "Normally the High Court would be wary in interfering with an order passed in the exercise of a discretion conferred by law particularly when such discretion was exercised to enable a party to pursue his statutory remedy of appeal.",
+    "There is again no doubt that the delay in filing the appeal was apparently very long. Nonetheless the High Court in exercising writ jurisdiction should have been slow to upset a benefit granted to a party in having his statutory remedy to be pursued by condoning the delay albeit its length.",
+    "The division bench of the High Court has stated in the impugned judgment that appellant cannot be permitted to say that he was prevented by sufficient causes to file the appeal within time. It is too hard a proposition that an appellant cannot be permitted to say so."
+  ],
+  "holding": [
+    "Appeal allowed.",
+    "Now the appeal filed by the appellant under section 93 of the Act will be disposed of on merits by authority concerned."
+  ],
+  "cases_cited": [
+    "Bhagmal v M.P"
+  ]
+}

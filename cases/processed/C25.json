@@ -1,0 +1,95 @@
+{
+  "case_id": "C25",
+  "case_name": "Ashok Kumar Pandey v State of West Bengal and Others",
+  "court": "Supreme Court of India",
+  "year": 2003,
+  "judges": [
+    "Hon'ble Justice Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Ashok Kumar Pandey",
+  "respondent": "State of West Bengal",
+  "citations": [
+    "AIR 1992 SC 2100",
+    "AIR 1993 SC 280",
+    "AIR 1993 SC 284",
+    "AIR 1993 SC 852",
+    "AIR 1994 SC 2151",
+    "AIR 1999 SC 114"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "21"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Fundamental Rights",
+  "court_level": "Supreme Court",
+  "decision_date": "18 November 2003",
+  "outcome": "Unknown",
+  "facts": [
+    "This petition u/art. 32 of the Constitution of India, 1950 (in short 'the Constitution') has been filed purportedly in public interest.",
+    "The prayer in the writ petition is to the effect that the death sentence imposed on one Dhananjay Chatterjee @ Dhana (hereinafter referred to as 'the accused') by the Sessions Court, Alipur, West Bengal, affirmed by the Calcutta High Court and this Court, needs to be converted to a life sentence because there has been no execution of the death sentence for a long time.",
+    "Reliance was placed on a Constitution Bench decision of this Court in Smt. Triveniben vs. State of Gujarat, (1989 (1) SCC 678 1989 Indlaw SC 43).",
+    "According to the petitioner, he saw a news item in a TV channel wherein it was shown that the authorities were unaware about the non-execution of the death sentence and, therefore, condemned prisoner, the accused has suffered a great degree of mental torture and that itself is a ground for conversion of his death sentence to a life sentence on the basis of ratio in Triveniben's case 1989 Indlaw SC 43 (supra).",
+    "It needs to be noted here that prayer for conversion of death sentence to life sentence has already been turned down by the Governor of West Bengal and the President of India in February 1994 and June 1994 respectively as stated in the petition.",
+    "When the matter was placed for admission, we asked the petitioner who appeared in-person as to what was his locus standi and how a petition u/art. 32 is maintainable on such nature of information by which he claims to have come to know of it."
+  ],
+  "issues": [
+    "Whether the prayer for conversion of death sentence to life sentence is maintainable",
+    "What is the scope of public interest litigation"
+  ],
+  "petitioner_arguments": [
+    "The accused has suffered a great degree of mental torture due to non-execution of the death sentence",
+    "The prolonged delay in execution of sentence is violative of Article 21, so far as the accused is concerned",
+    "The petitioner has locus standi to present the petition and when the matter involved life and liberty of a citizen, this Court should not stand on technicalities and should give effect to the ratio in Triveniben's case"
+  ],
+  "respondent_arguments": [
+    "The prayer for conversion of death sentence to life sentence has already been turned down by the Governor of West Bengal and the President of India",
+    "The petitioner lacks locus standi to present the petition"
+  ],
+  "court_reasoning": [
+    "Public interest litigation should not be 'publicity interest litigation' or 'private interest litigation' or 'politics interest litigation'",
+    "A person acting bona fide and having sufficient interest in the proceeding of public interest litigation will alone have a locus standi",
+    "Courts should not allow its process to be abused by a mere busy body or a meddlesome interloper or wayfarer or officious intervener without any interest or concern except for personal gain or private profit or other oblique consideration"
+  ],
+  "holding": [
+    "The petition is dismissed",
+    "The Court must be careful to see that behind the beautiful veil of public interest an ugly private malice, vested interest and/or publicity seeking is not lurking"
+  ],
+  "cases_cited": [
+    "Ashok Kumar Pandey v State of West Bengal",
+    "Constitution Bench decision of this Court in Smt. Triveniben vs. State of Gujarat",
+    "Corporation Kamgar Union (Regd.) Sundri and Others. v. Union of India",
+    "Daya Singh vs. Union of India",
+    "In Chhetriya Pardushan Mukti Sangharsh Samiti v. State of U",
+    "In State of H.P. vs. A Parent of a Student of Medical College",
+    "In Subhash Kumar v. State of Bihar",
+    "In Union Carbide Corporation v. Union of India",
+    "S.P. Gupta vs. Union of India",
+    "Sarkaria, J. in Jasbhai Motibhai Desai vs. Roshan Kumar",
+    "also placed on few decisions, for example, Sunil Batra (II) vs. Delhi Administration",
+    "and Andhra Pradesh State Financial Corporation vs. M/s GAR Re-Rolling Mills",
+    "and Janata Dal vs. H.S",
+    "and K.R. Srinivas vs. R.M",
+    "by Pathak, J. (as he then was) in Bandhua Mukti Morcha vs. Union of India",
+    "he then was) speaking for the Bench in Ramsharan Autyanuprasi vs. Union of India",
+    "heart, clean mind and clean objective. See Ramjas Foundation vs. Union of India",
+    "in his separate supplementing judgment in Sachidanand Pandey vs. State of W",
+    "misconceived and frivolous petitions. (See Dr. B.K. Subbarao vs. Mr. K",
+    "of genuine cases. Though in Dr. Duryodhan Sahu and Others. v. Jitendra Kumar Mishra",
+    "social interest and public good. (See State of Maharashtra vs. Prabhu",
+    "supra) and Kazi Lhendup Dorji vs. Central Bureau of Investigation"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_id": "S169",
+  "case_name": "",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Inserted By Act",
+      "section": "33C"
+    }
+  ],
+  "legal_domain": "Labour",
+  "legal_subdomain": "Workmen",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The Act provides for the recovery of money due to a workman from an employer under a settlement or an award or under the provisions of Chapter VA or Chapter VB.",
+    "If any question arises as to the amount of money due or as to the amount at which such benefit should be computed, then the question may be decided by a Labour Court.",
+    "The Labour Court may appoint a Commissioner who shall submit a report and the Court shall determine the amount after considering the report and other circumstances of the case."
+  ],
+  "issues": [
+    "What is the procedure for recovering money due to a workman from an employer?",
+    "How should a Labour Court decide on the amount of money due or the computation of benefits?"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The decision of the Labour Court shall be forwarded by it to the appropriate Government and any amount found due by the Labour Court may be recovered in the manner provided for in subsection (I)."
+  ],
+  "cases_cited": []
+}

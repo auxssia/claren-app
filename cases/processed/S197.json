@@ -1,0 +1,32 @@
+{
+  "case_id": "S197",
+  "case_name": "Dacoity with murder",
+  "court": "",
+  "year": 1955,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "117"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "If any one of five or more persons..."
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "Dacoity with murder"
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,107 @@
+{
+  "case_id": "C2168",
+  "case_name": "Tukaram Kana Joshi and others through Power of Attorney Holder v M.I.D.C. and others",
+  "court": "Supreme Court of India",
+  "year": 2012,
+  "judges": [
+    "Balbir Singh Chauhan"
+  ],
+  "bench": [],
+  "petitioner": "Tukaram Kana Joshi and others through Power of Attorney Holder",
+  "respondent": "M.I.D.C.",
+  "citations": [
+    "2007 10 SCC 448",
+    "2009 1 SCC 768",
+    "2010 10 SCC 43",
+    "AIR 1970 SC 769",
+    "AIR 1974 SC 2271",
+    "AIR 1984 SC 866",
+    "AIR 1987 SC 1353",
+    "AIR 1987 SC 251",
+    "AIR 1988 SC 2123",
+    "AIR 1993 SC 802",
+    "AIR 1995 SC 142",
+    "AIR 2003 SC 1140",
+    "AIR 2011 SC 1989",
+    "AIR 2011 SC 2161",
+    "AIR 2012 SC 559",
+    "AIR 2012 SC 573"
+  ],
+  "statutes": [
+    {
+      "section": "4"
+    },
+    {
+      "section": "6"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "300"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    },
+    {
+      "section": "9"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "2 November 2012",
+  "outcome": "Unknown",
+  "facts": [
+    "The land in dispute admeasuring 0-2-3 and 0-7-1 (9500 sq.mtrs.) in Survey nos. 2 and 3 respectively, situate in the revenue estate of village Shirwame Taluka and District Thane, was owned by the predecessors-in-interest of the appellants, namely, Kana Ganpat Joshi, Maruti Kana Joshi, Dinanath Ganpat Joshi and Gopinath Ganpat Joshi.",
+    "A very large chunk of land including the said land stood notified u/s. 4 of the Land Acquisition Act, 1894 (hereinafter referred to as the Act') on 6.6.1964 for the establishment of the Ulhas Khore Project i.e. a project for industrial development.",
+    "Actual physical possession of the said land was taken by the State authorities and handed over to the Maharashtra Industrial Development Corporation (hereinafter called as the 'Development Corporation') in the year 1964 itself.",
+    "The respondent-authorities realised in 1981 that grave injustice had been done to the appellants. Thus, in respect of the land in dispute, a fresh notification u/s. 4 of the Act dated 14.5.1981 was issued.",
+    "On 30.4.1988, the Development Corporation, under the instructions of the Government of Maharashtra handed over the possession of the said land to the City Industrial Development Corporation of Maharashtra (hereinafter referred to as 'CIDCO').",
+    "The appellants were unable to get any compensation for the said land or even for that matter, any land in lieu of the lands so taken, in spite of their best efforts made in this regard.",
+    "Various beneficial schemes were floated by the State authorities in favour of persons who had been deprived of their livelihood and those, whose land had been acquired for the same purpose and under such schemes, such uprooted persons were granted a particular piece of developed land, proportionate to their area acquired."
+  ],
+  "issues": [
+    "Whether the State should be allowed to deprive a citizen of his property without adhering to the law.",
+    "Whether delay and laches extinguish the right to put forth a claim.",
+    "Whether the doctrine of delay and laches can be used as a ground for dismissing the petition/appeal."
+  ],
+  "petitioner_arguments": [
+    "The appellants were deprived of their immovable property in 1964, when Art. 31 of the Constitution was still intAct and the right to property was a part of fundamental rights u/art. 19 of the Constitution.",
+    "The State must either comply with the procedure laid down for acquisition, or requisition, or any other permissible statutory mode.",
+    "The appellants had asked repeatedly for grant of the benefit of compensation.",
+    "There is a distinction, a true and concrete distinction, between the principle of 'eminent domain' and 'police power' of the State."
+  ],
+  "respondent_arguments": [
+    "The doctrine of delay and laches extinguish the right to put forth a claim.",
+    "The appellants had not taken any steps to protect their rights for a long time.",
+    "The State has pleaded that it has right, title and interest over the said land."
+  ],
+  "court_reasoning": [
+    "In other words, Article 300-A only limits the power of the State that no person shall be deprived of his property save by authority of law. There is no deprivation without due sanction of law.",
+    "There is a distinction, a true and concrete distinction, between the principle of 'eminent domain' and 'police power' of the State.",
+    "The Court must exercise judicial discretion dependent on fActs and circumstances of the cases.",
+    "Delay and laches is one of the facets to deny exercise of discretion. It is not an absolute impediment."
+  ],
+  "holding": [
+    "The petition is not hit by the doctrine of delay and laches as the same is not a constitutional limitation, the cause of Action is continuous and further the situation certainly shocks judicial conscience."
+  ],
+  "cases_cited": [
+    "Amarjit Singh & Ors. v. State of Punjab &",
+    "Collector, Land Acquisition, Anantnag & Anr. v. Mst",
+    "Dayal Singh & Ors. v. Union of India &",
+    "Dehri Rohtas Light Railway Company Ltd. v. District Board",
+    "Durga Prasad v. Chief Controller of Imports",
+    "In the case of H.D Vora v. State of Maharashtra &",
+    "Kana Joshi and others through Power of Attorney Holder v M.I",
+    "Lachhman Dass v. Jagat Ram &",
+    "Narmada Bachao Andolan v. State of Madhya Pradesh &",
+    "P.S. Sadasivaswamy v. State of T",
+    "State of Haryana v. Mukesh Kumar &",
+    "State of M.P. & Ors. v. Nandlal Jaiswal &",
+    "and Delhi Airtech Services Pvt. Ltd. v. State of U",
+    "and Shankara Co-op Housing Society Ltd. v. M. Prabhakar &",
+    "and Tridip Kumar Dingal & Ors. v. State of West Bengal &",
+    "caprice. In Jilubhai Nanbhai Khachar, etc. etc. v. State of Gujarat &",
+    "with the similar issue, this Court in K. Krishna Reddy & Ors. v. The Special Dy"
+  ]
+}

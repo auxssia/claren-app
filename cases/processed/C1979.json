@@ -1,0 +1,70 @@
+{
+  "case_id": "C1979",
+  "case_name": "State Of Mysore & Anr. v M. M. Thammaiah & Anr.",
+  "court": "Supreme Court of India",
+  "year": 1974,
+  "judges": [
+    "Y. V. Chandrachud, J."
+  ],
+  "bench": [],
+  "petitioner": "State Of Mysore & Anr",
+  "respondent": "M. M. Thammaiah &",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "That Act",
+      "section": "102"
+    },
+    {
+      "act": "That Act",
+      "section": "202"
+    },
+    {
+      "act": "Land Revenue Act",
+      "section": "75"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "2 May 1974",
+  "outcome": "Unknown",
+  "facts": [
+    "The case involves two cross-appeals by certificate granted by the High Court of Mysore under Article 133 (1) (b) of the Constitution.",
+    "The appeals arise out of a judgment dated March 18, 1971 in Writ Petition 6394 of 1969.",
+    "Appellant No. 1, M. M. Thammaiah, is the holder of immovable properties consisting partly of 'Bane lands', situate at Nemmale in the district of Coorg.",
+    "On October 17, 1968 he sold certain soft-wood trees standing on his lands to appellant 2 for a sum of Rs. 20,000.",
+    "Appellant No. 1 made an application to respondent 2, the Divisional Forest Officer, for the issue of a permit in the name of appellant No. 2 allowing him to cut and remove the timber.",
+    "The High Court upheld the validity of Rule 137 but took the view that the appellants were liable to pay the timer value of only such trees as were in existence at the time of the Survey Settlement of 1910.",
+    "Both parties were partly hurt by the judgment of the High Court and they have therefore filed these two cross-appeals."
+  ],
+  "issues": [
+    "What is the meaning of 'Bane lands'?",
+    "Is Rule 137 of the Mysore Forest Rules, 1969 violative of Article 19(1) (f) and Article 31 of the Constitution?",
+    "Can the appellants be deemed to have become the owners of trees standing on the Bane lands by virtue of section 75(1) of the Mysore Land Revenue Act, 1964?"
+  ],
+  "petitioner_arguments": [
+    "The appellants contended that Rule 137 was violative of Article 19(1) (f) and Article 31 of the Constitution.",
+    "They argued that they were entitled to the permit to cut and remove the timber without payment of any timber value at all.",
+    "They urged that by virtue of the provisions contained in section 75(1) of the Mysore Land Revenue Act, 1964 appellant No. 1 must be deemed to have become the owner of trees standing on the Bane lands."
+  ],
+  "respondent_arguments": [
+    "The respondents contended that no distinction can be made as between trees existing in 1910 and those which came into existence later.",
+    "They argued that the appellants were liable to pay the timber value of the trees before being permitted to cut and remove the timber.",
+    "They relied on Rule 10 of the Rules for Classifiers contained in Appendix B to the Coorg Settlement Report, 1910, which contains an express reservation of the trees standing on Bane lands in favour of the State Government."
+  ],
+  "court_reasoning": [
+    "The Court held that the condition precedent to the application of section 75(1) is admittedly satisfied in this case because in regard to the village of Nemmale where the Bane lands of the 1st appellant are situated, the original survey settlement was completed before April 1, 1964 when the Mysore Land Revenue Act came into force.",
+    "The Court held that Rule 10 of the Rules for Classifiers contained in Appendix B to the Coorg Settlement Report, 1910 contains an express reservation of the trees standing on Bane lands in favour of the State Government.",
+    "The Court concluded that by virtue of section 75(1) of the Mysore Land Revenue Act, 1964 appellant No. 1 must be deemed to have become the owner of trees standing on the Bane lands."
+  ],
+  "holding": [
+    "The Court dismissed the appeals and upheld the judgment of the High Court.",
+    "The Court held that the appellants were liable to pay the timer value of only such trees as were in existence at the time of the Survey Settlement of 1910.",
+    "The Court directed the forest authorities to determine which trees were in existence in 1910 and held that the appellants would be entitled to get the required permit after payment of the timber value of those trees."
+  ],
+  "cases_cited": [
+    "State Of Mysore & Anr. v M. M",
+    "but it would appear from the Explanation contained in Chapter V of the Coorg Settlement Report"
+  ]
+}

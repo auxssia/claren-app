@@ -1,0 +1,94 @@
+{
+  "case_id": "C1772",
+  "case_name": "Raymond Limited and Another v M. P. Electricity Board and Others",
+  "court": "Supreme Court of India",
+  "year": 2000,
+  "judges": [
+    "Doraiswamy Raju"
+  ],
+  "bench": [],
+  "petitioner": "Raymond Limited and Another",
+  "respondent": "M. P. Electricity Board",
+  "citations": [
+    "AIR 1966 SC 1089",
+    "AIR 1967 SC 1643",
+    "AIR 1973 SC 1461",
+    "AIR 1993 MADH PRA 118",
+    "AIR 1993 MP 118",
+    "AIR 1997 SC 1125",
+    "AIR 1999 MADHYA PRADESH 143"
+  ],
+  "statutes": [
+    {
+      "section": "5"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "section": "87"
+    },
+    {
+      "section": "10"
+    },
+    {
+      "section": "22"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "78"
+    },
+    {
+      "section": "66"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "16 November 2000",
+  "outcome": "Unknown",
+  "facts": [
+    "The above batch of appeals arise out of a common judgment rendered in a batch of Writ Petitions by a Full Bench of the Madhya Pradesh High Court.",
+    "The appellant M/s Raymond Ltd., a company registered under the Companies Act, 1956 and having its cement manufacturing division within the State of Madhya Pradesh, entered into an agreement with the Madhya Pradesh Electricity Board on 27.3.1979 renewed periodically for supply and purchase of high tension electric energy for use in the manufacture of cement.",
+    "The Senior Account Officer concerned of the Electricity Board issued a bill dated 18 October 1995 raising a demand of Rs.2,83,18.581/- for the consumption period from 15 September 1995 to 15.10.1995.",
+    "During the pendency of the said Writ Petition, another bill dated 18.10.96 for the consumption period from 01 December 95 to 15 December 95 was said to have been issued for Rs.10,24,867/- towards minimum guarantee charges equivalent to 40% load factor of contract demand.",
+    "The batch of Writ Petitions initially came up before a Division Bench and keeping in view the earlier decision of a Division Bench reported in AIR 1993 M.P. 118 1992 Indlaw MP 103 (Supra), by an order dated 11.9.97, the matter was placed before a Full Bench with the following observations:",
+    "The Full Bench, which heard the matter, by its opinion dated 5.3.98 held as follows:"
+  ],
+  "issues": [
+    "Whether the minimum guarantee charges equivalent to 40% load factor of contract demand is justified and can be avoided by the appellants.",
+    "Whether the Electricity Board has a corresponding obligation to supply 40% load factor of the contract demand every month."
+  ],
+  "petitioner_arguments": [
+    "The consumer shall from the date of utilisation of electrical energy, or from the date of expiry of the three months notice mentioned in cl. 2 hereof guarantee such minimum consumption as when calculated at the tariff (excluding charges due to fuel adjustment clause, meter rent and miscellaneous charges) will yield an annual revenue of Rs.5,40,000/- (Rupees Five Lakhs Forty Thousand Only) or pay this sum as a minimum.",
+    "The deficit, if any, between the guaranteed minimum charges and the actual charges shall be payable by the Consumer."
+  ],
+  "respondent_arguments": [
+    "Shri C.S. Vaidyanathan, learned senior counsel for the Electricity Board, took us at length through the various clauses in the agreements and contended that the minimum charges expressly guaranteed in favour of the Board is not subject to either actual supply by the Board or consumption by the consumer."
+  ],
+  "court_reasoning": [
+    "After reviewing all these cases on the subject we are impressed with the arguments that the matter requires consideration by the larger Bench because notwithstanding the fact that as per the terms of the agreement, an obligation has been cast on the consumer 40% load factor of the contract demand and pay for the same every month.",
+    "When there is no corresponding duty on the part of the Electricity Board to supply minimum 40% of the contract demand load every month still the consumer is under an obligation to 40% of the contract demand load."
+  ],
+  "holding": [
+    "We hold with reference to Cl. 23(b) of the Agreement read with Tariff, that whenever contracted supply falls short of 40% of the contract load, then the Board shall be entitled to charge for the reduced energy (actually supplied) and will not be entitled to charge 40% of the contract load."
+  ],
+  "cases_cited": [
+    "M.G.Natesa Chettiar vs Mad",
+    "Managing Director ECIL vs B. Karunakar &",
+    "Raymond Limited and Another v M. P",
+    "Saila Bala Roy vs Chairman",
+    "Union of India vs Mohd",
+    "at his end. Again in Andhra Steel Corporation Ltd. & Others vs Andhra Pradesh",
+    "by the Hon. Supreme Court in the case of L.Chandra Kumar v. Union of India",
+    "contract. In Bihar State Electricity Board, Patna & Others vs M/s Green Rubber Industries &",
+    "expenses. In Orissa State Electricity Board & Another vs IPI Steel Ltd",
+    "of this Court in Orissa State Electricity Board & Another vs IPI Steel Ltd",
+    "placed upon the decision reported in State of H.P. & Others vs Nurpur Private Bus Operators",
+    "respective stand. In M/s Northern India Iron and Steel Co. vs. State of Haryana &",
+    "said High Court reported in M/s Gwalior Steels Private Ltd. vs M.P",
+    "this Court in the case of M/s Gwalior Steels Private Limited v M.P"
+  ]
+}

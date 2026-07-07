@@ -1,0 +1,54 @@
+{
+  "case_id": "C1681",
+  "case_name": "Director General of Income Tax (Investigation) Pune and others v Spacewood Furnishers Private Limited and others",
+  "court": "Supreme Court of India",
+  "year": 2015,
+  "judges": [
+    "Ranjan Gogoi, J."
+  ],
+  "bench": [],
+  "petitioner": "Director General of Income Tax (Investigation) Pune and others",
+  "respondent": "Spacewood Furnishers Private Limited",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Income Tax Act",
+      "section": "153A"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "13 May 2015",
+  "outcome": "Unknown",
+  "facts": [
+    "The block assessment of the respondent-assessee for the assessment years 2004-05 to 2009-10 was sought to be initiated by notices issued under Section 153A of the Income Tax Act, 1961 (hereinafter referred to as 'the Act') following a search made under the provisions of the Act.",
+    "The same has been interdicted by the High Court of Delhi by interfering with the warrant of authorization for the search issued u/s. 132 of the Act and the consequential search made between 19th June, 2009 to 21st July, 2009.",
+    "Aggrieved, the Revenue has filed this appeal by special leave u/art. 136 of the Constitution."
+  ],
+  "issues": [
+    "The issues that arise in the present appeal lie within a short circumference.",
+    "As the warrant of authorization under Section 132, which is required to be founded on a reasonable belief of the authorized official regarding the existence of the conditions precedent to the exercise of the power to issue the same, has been interdicted u/art. 226 of the Constitution,"
+  ],
+  "petitioner_arguments": [
+    "The 'classical' notion of the extent of power that the High Court would have in the exercise of its writ jurisdiction to cause such interference is formulated in ITO vs. Seth Brothers, 1969 (74) ITR 836 1969 Indlaw SC 143 (SC) and Pooran Mal vs. Director of Inspection (Investigation), Income Tax, (1974) 93 ITR 505 1973 Indlaw SC 213 (SC)."
+  ],
+  "respondent_arguments": [
+    "The Act and the Rules do not require that the warrant of authorisation should specify the particulars of documents and books of accounts a general authorisation to search for and seize documents and books of account relevant to or useful for any proceeding complies with the requirements of the Act and the Rules."
+  ],
+  "court_reasoning": [
+    "The power must be exercised strictly in accordance with the law and only for the purposes for which the law authorizes it to be exercised.",
+    "If the Action is maliciously taken or power under the section is exercised for a collateral purpose, it is liable to be struck down by the Court.",
+    "If the conditions for exercise of the power are not satisfied the proceeding is liable to be quashed."
+  ],
+  "holding": [
+    "The block assessment of the respondent-assessee for the assessment years 2004-05 to 2009-10 was sought to be initiated by notices issued under Section 153A of the Income Tax Act, 1961 (hereinafter referred to as 'the Act') following a search made under the provisions of the Act."
+  ],
+  "cases_cited": [
+    "Court also referred to an earlier decision in S. Narayanappa v. CIT",
+    "General of Income Tax (Investigation) Pune and others v Spacewood Furnishers Private Limited",
+    "SC) and Pooran Mal vs. Director of Inspection (Investigation",
+    "jurisdiction to cause such interference is formulated in ITO vs. Seth Brothers",
+    "same is the view expressed by this Court in Dr. Pratap Singh vs. Director of Enforcement"
+  ]
+}

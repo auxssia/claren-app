@@ -1,0 +1,34 @@
+{
+  "case_id": "S33",
+  "case_name": "Procedure where Court considers that case should not be dealt with under section 480",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "480"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "If the Court in any case considers that a person accused of any of the offences referred to in section 480 and committed in its view or presence should be imprisoned otherwise than in default of payment of fine, or that a fine exceeding two hundred rupees should be imposed upon him,"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "such Court, after recording the facts constituting the offence and the statement of the accused as hereinbefore provided, may forward the case to a Magistrate having jurisdiction to try the same,"
+  ],
+  "holding": [
+    "The Magistrate to whom any case is forwarded under this section, shall proceed to hear the complaint against the accused person in manner hereinbefore provided."
+  ],
+  "cases_cited": []
+}

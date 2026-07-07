@@ -1,0 +1,34 @@
+{
+  "case_id": "S35",
+  "case_name": "None",
+  "court": "None",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Or Does Any Act",
+      "section": "8"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "Punishable with imprisonment for a term which shall not be less than 6 [one year] but which may extend to three years and shall also be liable to fine",
+    "Punishable with imprisonment for a term which may extend to one year, or with fine, or with both",
+    "Punishable with imprisonment for a term which may extend to six months, or with fine of an amount which may extend to five hundred rupees, or with both",
+    "Punishable with imprisonment for a term which may extend to seven years and shall also be liable to fine"
+  ],
+  "cases_cited": []
+}

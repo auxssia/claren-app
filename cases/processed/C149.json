@@ -1,0 +1,67 @@
+{
+  "case_id": "C149",
+  "case_name": "Damji Valji Shah And Another v Life Insurance Corporation Of India & Ors.",
+  "court": "Supreme Court of India",
+  "year": 1965,
+  "judges": [
+    "Raghubar Dayal"
+  ],
+  "bench": [],
+  "petitioner": "Damji Valji Shah And Another",
+  "respondent": "Life Insurance Corporation Of India &",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Provided That No Civil Court Would Have Jurisdiction To Entertain Or Adjudicate Upon Any Matter Which A Tribunal Was Empowered To Decide Or Determine Under The Act",
+      "section": "41"
+    },
+    {
+      "act": "Inter Alia Provided That Nothing Contained In The Act",
+      "section": "44"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "8 April 1965",
+  "outcome": "Unknown",
+  "facts": [
+    "The company was a composite insurer, i.e., an insurer who carried on in addition to life insurance business other classes of-insurance business.",
+    "On July 1, 1956, the LIC Act came into force and the Corporation was established on September 1, 1956, which was the 'appointed day' according to s. 2(1) of that Act.",
+    "The company had to keep separate accounts of all receipts and payments in respect of each class of insurance business, in view of s. 10(1) of the Insurance Act.",
+    "By resolution dated December 18, 1948, Rs. 1,10,000/- were transferred from the General Department to the Life Department as advance to the Life Department Revenue Account for being added to the Life Fund.",
+    "The Profit & Loss Appropriation Account for the year 1949 shows that Rs. 60,000/- out of this amount was written off as the company had made profits.",
+    "Rs. 32,000/- were again similarly transferred to the Life Fund from the General Department with retrospective effect from December 31, 1952 in order to strengthen the position of the Life Fund.",
+    "The second actuarial valuation report for the period 1949-52, dated September 9, 1953, showed that the policy liability amounted to Rs. 15,33,068, that the Life Fund stood at Rs. 15,35,890/- and that thus the Life Fund exceeded the net liability by Rs. 2,822/-.",
+    "The resolution of January 6, 1956 was confirmed by the Board of Directors at its meeting dated February 6, 1956.",
+    "On January 19, 1956, the Life Insurance (Emergency Provisions) Ordinance, 1956 was promulgated by the President and came into force from that day which was called the 'appointed day'.",
+    "The LIC Act came into force on July 1, 1956 and the Corporation was established on September 1, 1956.",
+    "The transfer and vesting in the Corporation of all the assets and liabilities pertaining to the life insurance business took place in view of s. 7 of that Act."
+  ],
+  "issues": [
+    "What is the nature of the transaction involving the transfer of Rs. 82,000/- from the Life Fund to the General Department?",
+    "Is the resolution of January 6, 1956 valid and binding on the parties concerned?",
+    "Can the Corporation apply for relief under s. 15 of the LIC Act in respect of this transaction?"
+  ],
+  "petitioner_arguments": [
+    "The transfer of Rs. 82,000/- from the Life Fund to the General Department was illegal.",
+    "The resolution of January 6, 1956 was not valid and binding on the parties concerned.",
+    "The Corporation can apply for relief under s. 15 of the LIC Act in respect of this transaction."
+  ],
+  "respondent_arguments": [
+    "The transfer of Rs. 82,000/- from the Life Fund to the General Department was legal and valid.",
+    "The resolution of January 6, 1956 was valid and binding on the parties concerned.",
+    "The Corporation cannot apply for relief under s. 15 of the LIC Act in respect of this transaction."
+  ],
+  "court_reasoning": [
+    "The Court held that the transfer of Rs. 82,000/- from the Life Fund to the General Department was illegal and invalid.",
+    "The resolution of January 6, 1956 was not valid and binding on the parties concerned.",
+    "The Corporation can apply for relief under s. 15 of the LIC Act in respect of this transaction."
+  ],
+  "holding": [
+    "The Court ordered that the sum of Rs. 82,000/- be paid to the Corporation jointly and severally by the directors of the Vishwabharti Insurance Company."
+  ],
+  "cases_cited": [
+    "Damji Valji Shah And Another v Life Insurance Corporation Of India &"
+  ]
+}

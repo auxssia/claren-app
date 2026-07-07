@@ -1,0 +1,72 @@
+{
+  "case_id": "C2567",
+  "case_name": "Benilal (Dead) By LRs. v State of Maharashtra and Others",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Benilal (Dead) By LRs",
+  "respondent": "State of Maharashtra",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "2"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "21"
+    }
+  ],
+  "legal_domain": "Administrative",
+  "legal_subdomain": "Tribunal",
+  "court_level": "Supreme Court",
+  "decision_date": "29 September 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant's tenancy was permitted to be terminated under clauses 13(2) and 13(3) (ii) of the Central Province and Berar Letting of House and Rent Control Order, 1949, for short 'the Order' for ejectment from the demised premises on the ground that he was a habitual defaulter.",
+    "A decree for eviction ensued which had become final by dismissal of the SLP in limine by this Court.",
+    "Objections raised in the execution at the instance of his sons were overruled.",
+    "The appellant filed the W. P. No. 1370 of 1984 in the High Court of Bombay challenging the constitutional validity of sub-clause (ii) of clause 13(3), which was dismissed in limine on June 18, 1984.",
+    "Thus this appeal by special leave.",
+    "Section 2 of C. P. & Berar Regulation of Letting of Accommodation Act, 1946 reads thus;",
+    "The Provincial Government may, by general or special order which shall extend to such areas as the Provincial Government may, by notification, direct, provide for regulating the letting and sub-letting of any accommodation or class of accommodation whether residential or non-residential, whether furnished or unfurnished, and whether with or without board, and in particular -",
+    "(a) for controlling the rents for such accommodation either generally or when let to specified persons or class of persons or in specified circumstances;",
+    "(b) for preventing the eviction of tenants or sub-tenants from such accommodation in specified circumstances, etc.",
+    "Clause 13(3) (ii) of the Order provides that",
+    "A landlord who seeks to obtain permission under sub-clause (1) shall apply in writing to the Controller in this behalf that the tenant is habitually in arrears with the rent."
+  ],
+  "issues": [
+    "The constitutional validity of sub-clause (ii) of clause 13(3) of the Order.",
+    "The construction of the words 'habitually in arrears' and its application to determine tenancy for ejectment on the ground that the tenant is habitually in arrears with the rent."
+  ],
+  "petitioner_arguments": [
+    "A reading of these clauses do indicate that the Controller is a subordinate executive authority, who has been invested with judicial power to give permission to determine tenancy for ejectment on the ground of habitually in arrears.",
+    "The words 'habitually in arrears' should have been defined but it was not done.",
+    "Its construction is varied on subjective decision of the court and can vary from court to court.",
+    "Therefore, the word "
+  ],
+  "respondent_arguments": [
+    "The legislative scheme may employ words of generality conveying its policy and intention to achieve the object set out therein.",
+    "Every word need not be defined.",
+    "Mere fact that a particular word or phrase has not been defined is not a ground to declare the provisions of the Act itself or the order as unconstitutional.",
+    "The word 'habitual' cannot be put in a straitjacket formula.",
+    "It is a matter of judicial construction and always depends upon the given facts and circumstances in each case."
+  ],
+  "court_reasoning": [
+    "The words 'habitually in arrears' are not vague or indefinite.",
+    "On the other hand, clause 13(3) (i) appears to give the guidance or indicia in that behalf to clause 13(3) (ii) of the Order.",
+    "It is a legislative policy as to which authority the power of adjudication of the dispute under a particular statute needs to be conferred.",
+    "Equally for deciding the disputes arising under the local Acts like Tenancy Acts, or Land Ceiling Acts, the authorities constituted are primarily Revenue Tribunals and hierarchy of appeal or revision have been provided thereunder to them alone."
+  ],
+  "holding": [
+    "The appeal is accordingly dismissed, but in the circumstances parties are directed to bear their own costs.",
+    "Appeal dismissed."
+  ],
+  "cases_cited": [
+    "Benilal (Dead) By LRs. v State of Maharashtra"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "case_id": "C610",
+  "case_name": "State of Punjab v Bhura Singh and Others",
+  "court": "Supreme Court of India",
+  "year": 1984,
+  "judges": [
+    "THAKKAR, J."
+  ],
+  "bench": [],
+  "petitioner": "State of Punjab",
+  "respondent": "Bhura Singh",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "148"
+    },
+    {
+      "section": "27"
+    },
+    {
+      "act": "Arms Act, 1959"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "10 September 1984",
+  "outcome": "Unknown",
+  "facts": [
+    "One Gurbachan Singh was shot dead at about sunset time on April 23, 1973 at village Tajoke.",
+    "Five respondents were charged with having caused his death by gun-fire.",
+    "They were tried by the learned Additional Sessions Judge, Barnala, who found them guilty for various offences.",
+    "The High Court allowed the appeal preferred by the respondents and set aside the order of conviction and sentence.",
+    "The State of Punjab has preferred this appeal by special leave and has contended that the learned Sessions Judge was right in finding the respondents guilty of the various offences and in convicting and sentencing them."
+  ],
+  "issues": [
+    "Whether incriminating evidence of a satisfactory character was ignored or overlooked, resulting in an unwarranted acquittal",
+    "Whether the High Court was justified in reversing the order of conviction and sentence rendered by the Sessions Court"
+  ],
+  "petitioner_arguments": [
+    "The learned Sessions Judge was right in finding the respondents guilty of the various offences and in convicting and sentencing them.",
+    "The High Court had overlooked some important incriminating evidence and circumstances in reversing the order of conviction and sentence rendered by him."
+  ],
+  "respondent_arguments": [
+    "The occurrence did not take place as deposed by Bahadur Singh and Dial Singh PWs",
+    "There were some pellet marks on the outer wall and inside of the house of respondent Bhura Singh"
+  ],
+  "court_reasoning": [
+    "The evidence of the forensic expert (PW 5) clearly establishes that the empty shells of cartridges which were found from the scene of offence soon after the Police arrived and made a search and seizure, were fired from the gun belonging to the respective respondent.",
+    "Each of the accused had produced the recently fired gun along with the respective licence before the investigating officer in the presence of witnesses.",
+    "The owner of a licensed gun would normally keep it in a secure place so that it is not used by unauthorised persons and so that no mishap occurs on account of an accidental firing of the gun."
+  ],
+  "holding": [
+    "The appeal is allowed, the order of acquittal rendered by the High Court is set aside, and the order of conviction and sentence recorded by the Sessions Court must consequently be restored insofar as Bhura Singh, Chand Singh and Dasaundha Singh are concerned.",
+    "The appeal insofar as the remaining two respondents are concerned, must accordingly be dismissed."
+  ],
+  "cases_cited": [
+    "State of Punjab v Bhura Singh"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case_id": "C528",
+  "case_name": "C. G. Praveen v Mohd. Tajuddin and Another",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [],
+  "bench": [],
+  "petitioner": "C. G. Praveen",
+  "respondent": "Mohd. Tajuddin and Another\nSupreme Court of India\n\n22 April 2009\nCriminal Appeal No. 1338 of 2002, Criminal Appeal Nos. 813 of 2003, 440 of 2005 and 443 of 2005\nThe Order of the Court was as follows :\nCriminal Appeal No.1338 of 2002\nHeard learned counsel for the parties.\n1.  By the impugned order, the High Court quashed the prosecution of respondent no.1 Mohd. Tajuddin under Section 138 of the Negotiable Instruments Act, 1881 (for short, \"the Act\") only on the ground that the complaint was filed by the power of attorney holder of the payee and not the payee himself. The question whether the signing of complaint by the payee himself is sine qua non for taking cognizance of offence under Section 138 of the Act is no longer res integra. In Shankar Finance and Investments v. State of Andhra Pradesh",
+  "citations": [
+    "2008 8 SCC 536"
+  ],
+  "statutes": [
+    {
+      "act": "Negotiable Instruments Act",
+      "section": "138"
+    },
+    {
+      "act": "The Act",
+      "section": "138"
+    },
+    {
+      "act": "The Act",
+      "section": "142"
+    },
+    {
+      "act": "Code Of Criminal Procedure Is",
+      "section": "482"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "22 April 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "The Order of the Court was as follows :",
+    "Criminal Appeal No.1338 of 2002",
+    "Heard learned counsel for the parties.",
+    "In Shankar Finance and Investments v. State of Andhra Pradesh and others [(2008) 8 SCC 536 2008 Indlaw SC 2178], this Court interpreted Section 142 of the Act and held that a complaint under Section 138 can be filed by the payee through his power of attorney holder.",
+    "The complaint was filed by the payee through his power of attorney holder.",
+    "As the complaint was filed in 1996, we direct the concerned trial court to conclude the trial within six months from the date of receipt/production of the copy of this order."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "This being the position, the High Court was not justified in quashing the prosecution of respondent no.1.",
+    "In view of the order passed in Criminal Appeal No. 1338 of 2002, these appeals are allowed in the similar terms."
+  ],
+  "holding": [
+    "The appeal is allowed, impugned order is set aside and the petition filed by respondent no.1 under Section 482 of the Code of Criminal Procedure is dismissed.",
+    "Now, the trial court shall proceed with the case in accordance with law.",
+    "Appeal allowed"
+  ],
+  "cases_cited": [
+    "C. G. Praveen v Mohd",
+    "is no longer res integra. In Shankar Finance and Investments v. State of Andhra Pradesh"
+  ]
+}

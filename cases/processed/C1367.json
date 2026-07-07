@@ -1,0 +1,91 @@
+{
+  "case_id": "C1367",
+  "case_name": "Dr. A.K. Sabhapathy v State Of Kerala And Ors",
+  "court": "Supreme Court of India",
+  "year": 1992,
+  "judges": [
+    "S. C. Agrawal"
+  ],
+  "bench": [],
+  "petitioner": "Dr. A.K. Sabhapathy",
+  "respondent": "State Of Kerala",
+  "citations": [
+    "1979 3 SCR 254",
+    "1983 3 SCR 130"
+  ],
+  "statutes": [
+    {
+      "act": "State Act",
+      "section": "38"
+    },
+    {
+      "act": "The Act",
+      "section": "38"
+    },
+    {
+      "act": "Central Act",
+      "section": "15"
+    },
+    {
+      "act": "In The Light Of The Provisions Contained In Section 15 Of The Central Act",
+      "section": "38"
+    },
+    {
+      "act": "Empowers The State Government To Alter The List Of Recognised Qualifications Mentioned In The Schedule To The Act",
+      "section": "47"
+    },
+    {
+      "act": "Provides For The Constitution",
+      "section": "3"
+    },
+    {
+      "act": "Insists Upon Compliance With The Requirements Of The Provisions Of The State Act",
+      "section": "38"
+    },
+    {
+      "act": "To 14 Of The Act",
+      "section": "11"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 226",
+  "court_level": "Supreme Court",
+  "decision_date": "22 April 1992",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal by special leave is directed against the judgment of the High Court of Kerala dated October 14, 1982.",
+    "It raises the question relating to the validity of the first proviso to Section 38 of the Tranvancore-Cochin Medical Practitioners' Act, 1953 (hereinafter referred to as 'the State Act') and the order dated September 28, 1978 and notification dated April 13, 1981 issued by the Government of Kerala.",
+    "The University of Kerala awards a degree as well as a diploma in Integrated Medicine known as DAM.",
+    "By notification dated May 4, 1977 issued by the Government of Kerala under the first proviso to Section 38, it was directed that Section 38 of the Act shall not apply to the degree holders of DAM and diploma holders of DAM in practising modern medicine in the State.",
+    "The Government of Bihar through the Bihar State Board of Homoepathic Medicine awards a Diploma in Medicine and Surgery called DMS.",
+    "By order dated September 28, 1978, the Government of Kerala ordered that the said diploma (DMS) awarded by the Government of Bihar will be held in par with the integrated DAM of Kerala University for purpose of continuing in the profession only."
+  ],
+  "issues": [
+    "The validity of the first proviso to Section 38 of the State Act",
+    "Whether the Central Act and the State Act are repugnant to each other"
+  ],
+  "petitioner_arguments": [
+    "After the enactment of the Indian Medical Council Act, 1956 (hereinafter referred to as 'the Central Act'), by Parliament the first proviso to Section 38 of the State ACt, being repugnant and inconsistent with the provisions of Section 15 of the Central Act, has been rendered void and ineffective",
+    "The contention urged on behalf of the State Government that the definition of medicine contained in Section 2(f) of the Central Act would take in both Homoepathic and indigenous systems of medicine is incorrect"
+  ],
+  "respondent_arguments": [
+    "Since DAM of Kerala University had been permitted practice of modern medicine, the Government did not see any reason why the holders of DMS of Bihar Government should not practice",
+    "The order dated September 28, 1978 was passed by the Government after consultation with the University of Kerala and the Director of Indigenous Systems of Medicine"
+  ],
+  "court_reasoning": [
+    "The High Court rejected the contention urged on behalf of the State Government that the definition of medicine contained in Section 2(f) of the Central Act would take in both Homoepathic and indigenous systems of medicine",
+    "The High Court held that the Central Act concerns itself with the allopathic medicine and the modern system that is contemplated by it is the allopathic medicine",
+    "The High Court considered the question whether the first proviso to Section 38 of the State Act was repugnant to Section 15 of the Central Act in the light of the provisions contained in Article 254 of the Constitution"
+  ],
+  "holding": [
+    "The validity of the first proviso to Section 38 of the State Act was upheld",
+    "The notification dated April 13, 1981 issued under the said proviso was also upheld as valid by the High Court"
+  ],
+  "cases_cited": [
+    "A.S. Krishna v. State of Madras",
+    "Dr. A.K. Sabhapathy v State Of Kerala",
+    "Hoechst Pharmaceuticals Ltd. & Another etc. v. State of Bihar &",
+    "tests of repugnancy laid down by this Court. In Deep Chand v. The",
+    "this Court in M. Karunanidhi v. Union of India"
+  ]
+}

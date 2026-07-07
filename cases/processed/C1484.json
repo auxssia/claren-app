@@ -1,0 +1,85 @@
+{
+  "case_id": "C1484",
+  "case_name": "Bhaskar Alias Prabaskar and Others v State Represented By Inspector of Police, Vellore",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [
+    "K. T. Thomas"
+  ],
+  "bench": [],
+  "petitioner": "Bhaskar Alias Prabaskar and Others",
+  "respondent": "State Represented By Inspector of Police, Vellore\nSupreme Court of India\n\n22 September 1999\nCriminal Appeal No. 986 of 1999\nThe Judgment was delivered by : K. T. Thomas, J.\nLeave granted.\n1.  This is typical of procrastination of an already long drawn trial. But the irony is that this is at the instance of the accused who should have normally complained of prolongation of his agony in facing the ordeal of a criminal prosecution. At one level almost fifty witnesses have been examined by the prosecution, but when there was a change of venue of the trial the accused demanded that the whole exercise should of repeated de novo. However, the court to which he applied for such de novo trial spurned down his request and proposed to proceed from where the erstwhile forum arrived at with the trial of the case. The accused then approached the High Court for a direction that the trial should be conducted afresh over again but he did not succeed in the High Cour",
+  "citations": [
+    "AIR 1990 SC 1962"
+  ],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "482"
+    },
+    {
+      "act": "The Code",
+      "section": "326"
+    },
+    {
+      "act": "Tada Is Only For The Limited Purpose Of Enabling A Designated Court To Transfer The Case For Trial To Another Court Having Jurisdiction Under The Code",
+      "section": "18"
+    },
+    {
+      "act": "Of Act",
+      "section": "27"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "22 September 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "This is typical of procrastination of an already long drawn trial.",
+    "At one level almost fifty witnesses have been examined by the prosecution,",
+    "The accused then approached the High Court for a direction that the trial should be conducted afresh over again but he did not succeed in the High Court as a Single Judge declined to reverse the progress of the trial thus far attained.",
+    "Appellant was challanned before a Designated Court at Madras (now Chennai) which was constituted under the Terrorist and Disruptive Activities (Prevention) Act 1987 ('TADA' for short).",
+    "When the period of TADA expired by efflux of time the Public Prosecutor seems to have withdrawn the offences under TADA from the present prosecution.",
+    "The said Sessions Court then proposed to proceed with the trial from the stage at which the Designated Court had ceased to function by keeping the evidence already recorded before the Designated Court as duly recorded evidence in the case.",
+    "Appellant objected to the aforesaid course and demanded a de novo trial.",
+    "Learned Single Judge of the High Court found that the trial court is not obliged to hold a de novo trial in view of Section 326 of the Code.",
+    "Appellants contended that the trial under TADA is materially different from a trial in the Sessions Court particularly in view of the narrower scope of admissibility of evidence in the Sessions Court.",
+    "He further contended that there is no provision for de novo trial under TADA and hence a resort to Section 326 of the Code for the purpose of securing continuity in the trial is impermissible.",
+    "Appellant relied on the decision of this Court in Niranjan Singh Karam Singh Punjabi vs. Jitendra Bhimraj Bijja (AIR 1990 SC 1962 1990 Indlaw SC 81) to buttress up his contention.",
+    "When a Designated Court took the view that the offences involved in that case were not triable by it it was held that the course then open was to transfer the case for trial to the court having jurisdiction under the Code as provided in Section 18 of the TADA.",
+    "The position which developed in the present case was on account of abolition of the Designated Court established under TADA.",
+    "No doubt normally offences under Sections 302 and 120B of the IPC etc. are triable by Court of Sessions.",
+    "A Designated Court established under TADA could try such offences only on the strength of a charge framed against the appellant for those offences along with offences under TADA.",
+    "Under Section 12 of TADA, all Designated Courts can try any other offence also, while trying any offence under TADA if such other offence is also triable in the same case together with the offence under TADA.",
+    "So the fall out of non-existence or cessation of the existence of a Designated Court is that no offence under TADA can be tried against any accused.",
+    "But what would happen to the offences not falling under TADA, which could be tried in regular Sessions Court?",
+    "The answer is simple that the case then must go for trial to a regular court."
+  ],
+  "issues": [
+    "Whether the trial court is obliged to hold a de novo trial in view of Section 326 of the Code.",
+    "Whether the trial under TADA is materially different from a trial in the Sessions Court particularly in view of the narrower scope of admissibility of evidence in the Sessions Court.",
+    "Whether there is no provision for de novo trial under TADA and hence a resort to Section 326 of the Code for the purpose of securing continuity in the trial is impermissible."
+  ],
+  "petitioner_arguments": [
+    "The trial court is obliged to hold a de novo trial in view of Section 326 of the Code.",
+    "The trial under TADA is materially different from a trial in the Sessions Court particularly in view of the narrower scope of admissibility of evidence in the Sessions Court.",
+    "There is no provision for de novo trial under TADA and hence a resort to Section 326 of the Code for the purpose of securing continuity in the trial is impermissible."
+  ],
+  "respondent_arguments": [
+    "The trial court is not obliged to hold a de novo trial in view of Section 326 of the Code.",
+    "The trial under TADA is not materially different from a trial in the Sessions Court particularly in view of the narrower scope of admissibility of evidence in the Sessions Court.",
+    "There is provision for de novo trial under TADA and hence a resort to Section 326 of the Code for the purpose of securing continuity in the trial is permissible."
+  ],
+  "court_reasoning": [
+    "The legislative intention is clear from a reading of the section that the words 'succeeded by another Judge' must get a wide amplitude.",
+    "It is enough that the successor judge has jurisdiction to try the offences sought to be proved against the accused.",
+    "The archaic concept was that the very same judicial personage who heard and recorded the evidence must decide the case."
+  ],
+  "holding": [
+    "The appeal is allowed. The trial court is not obliged to hold a de novo trial in view of Section 326 of the Code."
+  ],
+  "cases_cited": [
+    "Bhaskar Alias Prabaskar and Others v State Represented By Inspector of Police"
+  ]
+}

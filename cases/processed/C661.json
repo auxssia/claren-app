@@ -1,0 +1,79 @@
+{
+  "case_id": "C661",
+  "case_name": "Dhan Raj and another v State of Haryana",
+  "court": "Supreme Court of India",
+  "year": 2014,
+  "judges": [
+    "Pinaki Chandra Ghose"
+  ],
+  "bench": [],
+  "petitioner": "Dhan Raj and another",
+  "respondent": "State of Haryana\nSupreme Court of India\n\n9  May  2014\nCr.A. No. 1410 of 2010 with Cr.A. No. 703 of 2011\nThe Judgment was delivered by : Pinaki Chandra Ghose, J.\n1. These appeals arise from the impugned judgment of the High Court of Punjab and Haryana wherein vide a common judgment dated February 26, 2010, the High Court disposed of Criminal Appeal No. 496-DB of 1999, Criminal Appeal No. 510- DB of 1999, Criminal Appeal No. 719-DB of 2009 and Criminal Revision No. 334 of 2000. The present appeals however arise out of Criminal Appeal No. 496-DB of 1999 filed by accused Dhan Raj challenging the judgment of conviction and order of sentence dated September 25 and 27, 1999 passed by the Additional Sessions Judge, Jhajjar in Sessions Case No.21 of 21.5.1997/13.08.1998 and Criminal Appeal No. 719-DB of 2009 filed by the State of Haryana against the judgment of acquittal dated February 18, 2009 passed by the Sessions Judge, Jhajjar in Session Case No.73 of 21.5.1997/17.3",
+  "citations": [
+    "1984 4 SCC 116",
+    "2007 13 SCC 795",
+    "2008 17 SCC 128",
+    "2011 10 SCC 165",
+    "2011 11 SCC 666",
+    "2012 10 SCC 464",
+    "2012 2 SCC 399",
+    "2012 6 SCC 403"
+  ],
+  "statutes": [
+    {
+      "section": "411"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "313"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "9 May 2014",
+  "outcome": "Unknown",
+  "facts": [
+    "The appeals arise from the impugned judgment of the High Court of Punjab and Haryana wherein vide a common judgment dated February 26, 2010, the High Court disposed of Criminal Appeal No.496-DB of 1999, Criminal Appeal No.510- DB of 1999, Criminal Appeal No.719-DB of 2009 and Criminal Revision No.334 of 2000.",
+    "The case of the prosecution revealed in the first appeal (being Crl.A. No.1410 of 2010) is that the deceased Vijaypal was serving a doctor who was posted in the Dispensary of Village Kheri Jat and residing at Jhajjar.",
+    "Vijaypal (the deceased herein) was posted as a doctor in the Kheri Jat village dispensary and he was residing at Jhajjar.",
+    "The statement of the wife of the deceased being PW 7 which was corroborated with the statement of Sub-Inspector Brij Pal (PW-10) revealed that the deceased also had with him a wrist watch and a briefcase when he had left his home, which were also missing."
+  ],
+  "issues": [
+    "Where the prosecution's case is based on circumstantial evidence, only the circumstantial evidence of the highest order can satisfy the test of proof in a criminal prosecution.",
+    "If more than one inference can be drawn then the accused should be entitled to the benefit of doubt."
+  ],
+  "petitioner_arguments": [
+    "The appellant Dhan Raj was recorded u/s.313 of the Code of Criminal Procedure, wherein he has pleaded that he has been falsely implicated and that the Sub-Inspector has fabricated a false recovery in collusion with one Rohtas @ Maharaja who was also arrested in the matter."
+  ],
+  "respondent_arguments": [
+    "The prosecution failed to connect the accused with the recovery of the wrist watch in view of a decision of the High Court that there was no sufficient motive."
+  ],
+  "court_reasoning": [
+    "In order to base conviction on circumstantial evidence, the circumstantial evidence put forth by the prosecution should establish a complete unbroken chain of events so that only one inference is drawn out from the same.",
+    "The investigation was completed and the challan was duly presented in court.",
+    "The case was duly committed to the Court of Sessions vide order dated May 8, 1997 and charge u/s.302 of the Indian Penal Code was framed against Sanjay and u/s.302 read with S.34 and Ss.395 and 397 of the Indian Penal Code, against the two accused."
+  ],
+  "holding": [
+    "The trial court after hearing the parties vide judgment dated September 25, 1999 convicted and sentenced the accused Sanjay and Dhan Raj ordering imprisonment for life and a fine of Rs.2,000/- u/s.302 read with S.341 of the Indian Penal Code along with rigorous imprisonment for eight years and a fine of Rs.1,000/- each under S.392 read with Ss.395 and 397 of the Indian Penal Code and the sentences to run concurrently.",
+    "Vide judgment dated February 18, 2009, the trial court acquitted the accused Badal."
+  ],
+  "cases_cited": [
+    "Gopal Sah vs. State of Bihar",
+    "It was held in Sahadevan and Anr. vs. State of Tamil Nadu",
+    "We would refer to the decision of this Court in Madhu vs. State of Kerala",
+    "We would refer to the decision of this Court in Munish Mubar v. State of Haryana",
+    "and Pancho vs. State of Haryana",
+    "discovery of fact, as per the decision of this Court in Mano vs. State of Tamil Nadu",
+    "landmark decision of this Court in Sharad Birdichand Sarda vs. State of Maharashtra",
+    "was committed by the accused only. In State of Rajasthan vs. Talevar"
+  ]
+}

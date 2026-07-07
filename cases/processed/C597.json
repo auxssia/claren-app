@@ -1,0 +1,100 @@
+{
+  "case_id": "C597",
+  "case_name": "Dhariwal Tobaco Products Limited and Others v Sate of Maharashtra and Another",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "Dhariwal Tobaco Products Limited and Others",
+  "respondent": "Sate of Maharashtra and Another\nSupreme Court of India\n\n17 December 2008\nCriminal Appeal No. 2055 of 2007 (Arising out of SLP (Crl.) No. 2272 of 2007)\nThe Judgment was delivered by : S. B. Sinha, J.\n1. Leave granted. Whether an application under Section 482 of the Code of Criminal Procedure, 1973, (for short 'the Code') can be dismissed only on the premise that an alternative remedy of filing a revision application under Section 397 of the Code is available, is the question involved herein.\n2.  First Appellant is a company incorporated and registered under the Companies Act, 1956 and is engaged in the business of manufacturing Gutkha. Appellant Nos. 2 and 3 are the Chairman and Managing Director of the company. It is said to be a large organization. It has multi-locational manufacturing units and each of them is said to be headed by senior officials of the company, who were responsible for the conduct of its business. Inter alia on the prem",
+  "citations": [
+    "1997 4 SCC 241",
+    "2000 2 SCC 636",
+    "2003 6 SCC 675",
+    "2006 7 SCC 188",
+    "2008 3 SCC 574",
+    "AIR 1960 SC 866",
+    "AIR 1977 SC 2185"
+  ],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "482"
+    },
+    {
+      "act": "The Code",
+      "section": "397"
+    },
+    {
+      "act": "The Code",
+      "section": "482"
+    },
+    {
+      "act": "Code Will Not Be Exercised If Recourse Can Be Taken By The Applicants To The Remedy Of Filing A Revision Application Under Section 397 Of The Code",
+      "section": "482"
+    },
+    {
+      "act": "Code Of Civil Procedure",
+      "section": "115"
+    },
+    {
+      "act": "1973 Code",
+      "section": "397"
+    },
+    {
+      "act": "Code Or Article 227 Of The Constitution",
+      "section": "482"
+    },
+    {
+      "act": "Criminal Procedure Code",
+      "section": "482"
+    }
+  ],
+  "legal_domain": "Company",
+  "legal_subdomain": "Companies Act",
+  "court_level": "Supreme Court",
+  "decision_date": "17 December 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "The case involves an application filed by Dhariwal Tobaco Products Limited and Others under Section 482 of the Code of Criminal Procedure, 1973.",
+    "The application was dismissed by the High Court without entering into the merits of the matter.",
+    "The appellants argued that the High Court committed a serious error in rejecting their application without considering the merits of the case."
+  ],
+  "issues": [
+    "Whether an application under Section 482 of the Code can be dismissed only on the premise that an alternative remedy of filing a revision application under Section 397 of the Code is available?",
+    "Whether the jurisdiction under Section 482 of the Code should not be used mechanically or routinely?"
+  ],
+  "petitioner_arguments": [
+    "The appellants argued that the High Court committed a serious error in rejecting their application without considering the merits of the case.",
+    "They contended that the issuance of summons was not an interlocutory order within the meaning of Section 397 of the Code."
+  ],
+  "respondent_arguments": [
+    "The respondents contended that having regard to the conduct of the appellants, this Court should not exercise its extra-ordinary jurisdiction under Article 136 of the Constitution of India.",
+    "They argued that the power under Section 482 of the Code should not be used mechanically or routinely."
+  ],
+  "court_reasoning": [
+    "The Court opined that the jurisdiction under Section 482 of the Code has to be exercised sparingly and only in exceptional cases.",
+    "It held that the issuance of summons is not an interlocutory order within the meaning of Section 397 of the Code.",
+    "It noted that the High Court's jurisdiction under Section 482 of the Code does not function either as a court of appeal or revision."
+  ],
+  "holding": [
+    "The application filed by the appellants was allowed, and the proceedings were quashed."
+  ],
+  "cases_cited": [
+    "Constitution of India would be available. (See Surya Dev Rai v. Ram Chander Rai",
+    "Court inter alia in Vishwanaath Ramkrishna Patil and another v. Ashok Murlidhar Sonar",
+    "Dhariwal Tobaco Products Limited and Others v Sate of Maharashtra",
+    "High Court on its earlier judgment in V.K. Jain and others v. Pratap V",
+    "In fact in Adalat Prasad v. Rooplal Jindal",
+    "We may notice that in G. Sagar Suri v. State of U",
+    "and Ashok Chaturvedi v. Shitul H",
+    "and Keki Bomi Dadiseth and others v. State of Maharashtra",
+    "could also be availed of. (See Krishnan and another v. Krishnaveni",
+    "furthermore notice that in Central Bureau of Investigation v. Ravi Shankar Srivastava",
+    "in a large number of decisions beginning from R.P. Kapur v. State of Punjab",
+    "pose unto itself a correct question. In Amar Nath and others v. State of Haryana",
+    "to Som Mittal v. Govt"
+  ]
+}

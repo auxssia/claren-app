@@ -1,0 +1,77 @@
+{
+  "case_id": "C2016",
+  "case_name": "Williams v Lourdusamy and another",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "S.B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "Williams",
+  "respondent": "Lourdusamy and another\nSupreme Court of India\n\n22 April 2008\nCivil Appeal No. 2894-2895 of 2008, (Arising out of SLP (C) Nos. 153-154 of 2007)\nThe Judgment was delivered by : S.B. Sinha, J.\n1. Leave granted.\n2. Whether principle of res-judicata is applicable to the facts and circumstances of this case, is the question involved herein.\nThe basic fact of the matter is not in dispute. Second respondent was the owner of the properties. He by reason of a registered Deed of Sale dated 25.11.1987 transferred his right, title and interest in favour of the appellant.\n3. First respondent, however, filed a suit against the appellant herein in the Court of District Munsif, Thiruvaiyaru praying for a decree for permanent injunction alleging that the land in suit admeasuring 3 cents was the subject matter of an oral agreement of sale by and between himself and the second respondent herein. It was contended that the second respondent had been in possession of the said land in terms of a pa",
+  "citations": [
+    "2000 3 SCC 350",
+    "2007 2 SCC 355",
+    "AIR 1979 SC 193"
+  ],
+  "statutes": [
+    {
+      "act": "Transfer Of Property Act",
+      "section": "53A"
+    },
+    {
+      "act": "Code Of Civil Procedure Provides",
+      "section": "11"
+    },
+    {
+      "act": "A Of The Transfer Of Property Act",
+      "section": "53"
+    },
+    {
+      "act": "The Act",
+      "section": "53A"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "22 April 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "The basic fact of the matter is not in dispute.",
+    "Second respondent was the owner of the properties.",
+    "He by reason of a registered Deed of Sale dated 25.11.1987 transferred his right, title and interest in favour of the appellant.",
+    "First respondent, however, filed a suit against the appellant herein in the Court of District Munsif, Thiruvaiyaru praying for a decree for permanent injunction alleging that the land in suit admeasuring 3 cents was the subject matter of an oral agreement of sale by and between himself and the second respondent herein.",
+    "The learned Trial Judge in the said suit, inter alia framed the following issues.",
+    "Respondent No. 2 as noticed hereinbefore was not impleaded as a party.",
+    "A decree for specific performance of contract was not prayed for in the said suit."
+  ],
+  "issues": [
+    "Whether on the date of the suit the plaintiff was in possession of the suit property?",
+    "Whether the plaintiff is entitled to the relief of permanent injunction as prayed for?",
+    "To what else (sic) relief, the plaintiff is entitled to?"
+  ],
+  "petitioner_arguments": [
+    "As no issue was framed in regard to the purported oral agreement of sale by and between respondent No. 1 and 2 nor any specific finding having been arrived at by the learned Trial Judge in the said O.S. No. 402 of 1987, the impugned judgment is wholly unsustainable."
+  ],
+  "respondent_arguments": [
+    "The High Court opined that the only substantial question of law raised by the appellant before it (respondent No. 1 herein) was the applicability of the principles of Res-Judicata."
+  ],
+  "court_reasoning": [
+    "In O.S. No. 402 of 1987, the respondent No. 2 was not impleaded as a party.",
+    "The said Court had no jurisdiction in that behalf.",
+    "If that was decided in the said suit, the findings would have been nullities.",
+    "It is one thing to say that a person is in possession of the land in suit and it is another thing to say that he has a right to possess pursuant to or in furtherance of an agreement for sale which would not only bind the vendor but also bind the subsequent predecessor."
+  ],
+  "holding": [
+    "Appeal allowed.",
+    "There shall, however, be no order as to costs."
+  ],
+  "cases_cited": [
+    "Mr. V. Prabhakar",
+    "See Chief Justice of Andhra Pradesh and another etc. Vs. L.V",
+    "Williams v Lourdusamy",
+    "and Hasham Abbas Sayyad Vs. Usman Abbas Sayyad",
+    "this case. In Sajjadanashin Sayed MD. B.E. EDR. (D) by LRs. Vs. Musa Dadabhai Ummer"
+  ]
+}

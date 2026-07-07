@@ -1,0 +1,75 @@
+{
+  "case_id": "C2388",
+  "case_name": "Hari Sao and Another v State of Bihar",
+  "court": "Supreme Court of India",
+  "year": 1969,
+  "judges": [
+    "G. K. Mitter, J."
+  ],
+  "bench": [],
+  "petitioner": "Hari Sao and Another",
+  "respondent": "State of Bihar\nSupreme Court of India\n\n15 October 1969\nCriminal Appeal No. 240 of 1966\nThe Judgment was delivered by : G. K. Mitter, J.\n1. This appeal by special leave is from a judgment and order of the High Court of Patna upholding the conviction of the two appellants under s. 420I.P.C.read with S. 34 but reducing the sentence of imprisonment on each of them by awarding rigorous imprisonment for three years in place of seven years. The imposition of fine of Rs. 6,000 on each of the appellants by the Sessions Judge was maintained by the High Court. The two appellants were charged with having cheated the Assistant Station Master of Sheonarayanpur Railway Station on or about the period13th May 1960 to 12th May 1963 by dishonestly inducing them to make a railway receipt with false particulars which was capable of being converted into a valuable security and. thereby committed an offence punishable under S. 420 I.P.C.\n2. Five other persons were charged along with th",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "58"
+    },
+    {
+      "section": "72"
+    },
+    {
+      "section": "73"
+    },
+    {
+      "section": "106"
+    },
+    {
+      "section": "58OF"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "15 October 1969",
+  "outcome": "Unknown",
+  "facts": [
+    "The two appellants were charged with having cheated the Assistant Station Master of Sheonarayanpur Railway Station on or about the period13th May 1960 to 12th May 1963 by dishonestly inducing them to make a railway receipt with false particulars which was capable of being converted into a valuable security and.",
+    "The appellant Shankar Sah met the Station Master of Sheonarayanpur Railway Station on May 11, 1960 and produced a forwarding note for, booking a consignment of dry chillies to Calcutta.",
+    "A wagon was allotted to him and stabled in the shed on May 12, 1960.",
+    "On the day following both the appellants came to the Station Master and the necessary allotment entry was made in the forwarding note.",
+    "The loading was done by the appellants without any help from any railway employee and the appellants wanted to be supplied with rivets after the wagon was loaded by them.",
+    "There was no facility for weighing the goods at the station and a note was made that the weight was as given by the consignor.",
+    "The wagon was attached to a goods train on the, same day and carried forward out of the Station on its way to Calcutta.",
+    "There were frequent checkings of the rivets and the seals of the wagon during the night of 13th May but on the morning of the 14th the seal on one side of the wagon was broken and the seal card lying on the ground.",
+    "The wagon was detached and taken to a goods shed and checked at about 2 p.m. on 15th May.",
+    "It was found that the wagon contained only 197 bags of chaff (Bhusa) instead of 251 bags of dry chillies.",
+    "An entry was made in the station diary and a first information report was lodged on 18th May."
+  ],
+  "issues": [
+    "What 'was found as a result of the checking at 2 p.m. on 15th May1960 to be present in the wagon was nothing but the consignment which had been originally loaded by the appellants at Sheonarayanpur on the afternoon of 13th May 1960'.",
+    "Whether the appellants had committed the offence of cheating acting together in pursuance of their common intention."
+  ],
+  "petitioner_arguments": [
+    "The representation made by the appellants to the Station Master (P.W. 39) both orally and in the forwarding note which they had presented to him was a false representation and on the strength of such false representation the appellants had induced the Station Master to make out for them the railway receipt in respect of 251 bags of dry chillies.",
+    "The appellants were not guilty of cheating in as much as the Station Master had written on the railway receipt that the consignment in question was said to be 251 bags of dry chillies and thus he could not be said to have acted upon the declaration of the appellants being correct."
+  ],
+  "respondent_arguments": [
+    "The making out of the railway receipt with the endorsements 'said to contain' and 'S.W.A.' were likely to cause damage or harm to the railway.",
+    "The railway administration may be liable for loss, destruction or non-delivery of the goods under s.73 if it fails to use reasonable foresight and care in the carriage of the same."
+  ],
+  "court_reasoning": [
+    "The appellants had by deceiving the Station Master induced him to deliver a railway receipt which could be used as a valuable security; but assuming that the appellants thereby induced the Station Master to make out the railway receipt it will still have to be shown that the making out of the receipt was likely to cause damage or harm to the railway.",
+    "The railway did not run any additional risk in acting upon the representation of the appellants and mentioning in the railway receipt the goods consigned were said to be 251 bags of chillies when in fact they were only 197 bags of straw."
+  ],
+  "holding": [
+    "The appellants had committed the offence of cheating acting together in pursuance of their common intention.",
+    "The railway administration may be liable for loss, destruction or non-delivery of the goods under s.73 if it fails to use reasonable foresight and care in the carriage of the same."
+  ],
+  "cases_cited": [
+    "In Dominion of India v. Firm Museram Kishunprasad (AIR",
+    "In Union of India v. S.P"
+  ]
+}

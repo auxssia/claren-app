@@ -1,0 +1,68 @@
+{
+  "case_id": "C543",
+  "case_name": "Bharat Sanchar Nigam Limited, Jammu v Teja Singh",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Bharat Sanchar Nigam Limited, Jammu",
+  "respondent": "Teja Singh\nSupreme Court of India\n\n16 January 2009\nCivil Appeal No. 292 of 2009 [Arising out of SLP(C) No. 7803/2006]\nThe Order of the Court was as follows :\nLeave granted.\n1.  The respondent was employed with the appellant company as a daily-rated Mazdoor. He was recruited in the year 1973. He was appointed on regular basis with effect from 11.8.1986. He attained the age of superannuation on 30th August, 1989. Thereafter, again while working on daily-wages, his services were terminated in 1993. He filed a representation for payment of gratuity as also other retiral benefits. He having been denied the retiral benefits on the premise that he had not completed 10 years' qualifying service as required in terms of the Service Rules, he filed an original application before the Central Administrative Tribunal.\n2.  The said application was allowed inter alia on the premise that the appellant had formulated a regularisation scheme in the year 1989 in terms",
+  "citations": [
+    "1967 1 SCR 128",
+    "1972 1 SCC 409",
+    "1979 4 SCC 507",
+    "2007 11 SCC 92"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "16"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "16 January 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "The respondent was employed with the appellant company as a daily-rated Mazdoor.",
+    "He was recruited in the year 1973.",
+    "He was appointed on regular basis with effect from 11.8.1986.",
+    "He attained the age of superannuation on 30th August, 1989.",
+    "Thereafter, again while working on daily-wages, his services were terminated in 1993."
+  ],
+  "issues": [
+    "Whether the regularisation scheme formulated by the appellant company in 1989 was enforceable",
+    "Whether the respondent's services could be regularised despite not completing 10 years' qualifying service"
+  ],
+  "petitioner_arguments": [
+    "The regularisation scheme formulated by the appellant company in 1989 was enforceable and the respondent's services should be regularised",
+    "The Constitution Bench decision in Umadevi (3) and Ors. vs. Umadevi (2006) did not apply to this case"
+  ],
+  "respondent_arguments": [
+    "The regularisation scheme formulated by the appellant company in 1989 was not enforceable and the respondent's services should not be regularised",
+    "The Constitution Bench decision in Umadevi (3) and Ors. vs. Umadevi (2006) applied to this case"
+  ],
+  "court_reasoning": [
+    "The Constitution Bench decision in Umadevi (3) and Ors. vs. Umadevi (2006) held that regularisation or permanent continuance of temporary, contractual, casual, daily-wage or ad hoc employees dehors the Constitutional scheme is impermissible in law",
+    "The High Courts should not issue directions for absorption, regularisation, or permanent continuance unless the recruitment itself was made regularly and in terms of the Constitutional scheme"
+  ],
+  "holding": [
+    "The impugned judgment is set aside and the appeal is allowed accordingly",
+    "No costs"
+  ],
+  "cases_cited": [
+    "by a three-Judge Bench of this Court in Official Liquidator vs. Dayanand"
+  ]
+}

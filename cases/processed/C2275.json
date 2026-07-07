@@ -1,0 +1,76 @@
+{
+  "case_id": "C2275",
+  "case_name": "Minerva Talkies, Bangalore and Others v State Of Karnataka & Ors. Etc.",
+  "court": "Supreme Court of India",
+  "year": 1988,
+  "judges": [
+    "K. N. Singh"
+  ],
+  "bench": [],
+  "petitioner": "Minerva Talkies, Bangalore and Others",
+  "respondent": "State Of Karnataka &",
+  "citations": [
+    "1960 2 SCR 375"
+  ],
+  "statutes": [
+    {
+      "section": "19"
+    },
+    {
+      "section": "5"
+    },
+    {
+      "section": "22"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "19"
+    },
+    {
+      "section": "12"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Fundamental Rights",
+  "court_level": "Supreme Court",
+  "decision_date": "6 January 1988",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants/petitioners hold licences for exhibiting cinematograph films in their cinema theatres under the Act and the Rules in Form prescribed by the Rules.",
+    "The Rules and conditions contained in the Licence (Form F) do not prescribe any restriction on the number of shows of films which a licensee can exhibit in his theatre.",
+    "Condition No. 11 of the licence provides that: 'No cinematograph exhibition shall continue after such time not later than 1.00 a.m.'",
+    "Normally, the cinema owners were holding four shows but later on, they increased it to five shows in a day starting from 10 a.m. to 12 noon, 12 noon to 3 p.m., 3 p.m. to 6 p.m., 6 p.m. to 9 p.m., and 9 p.m. to 12 a.m.",
+    "Thus the cinematograph films were being exhibited continuously from 10 a.m. to mid-night, which caused a number of problems."
+  ],
+  "issues": [
+    "Whether Rule 41-A of the Karnataka Cinemas (Regulations) Rules has been made 'for purposes of the Act',",
+    "Whether Rule 41-A places unreasonable restrictions on the appellants' right to carry on their business of exhibiting cinematograph films in violation of Art. 19(1)(g) of the Constitution."
+  ],
+  "petitioner_arguments": [
+    "The provisions of the Act do not confer any power on the State Government to regulate the number of shows,",
+    "The restrictions imposed by the impugned Rule 41-A limiting the number of shows to four did not fall within the purview of S. 19 of the Act.",
+    "The restriction placed by Rule 41-A was unreasonable and violative of appellants' fundamental right to carry on their business under Art. 19(1)(g) of the Constitution."
+  ],
+  "respondent_arguments": [
+    "The purpose of the Act is to regulate exhibition of cinematograph films in licensed premises,",
+    "The power of regulation of exhibition of cinematograph films was wide enough embracing the power to limit the number of shows.",
+    "The restriction placed by the impugned Rule was reasonable and made in the public interest."
+  ],
+  "court_reasoning": [
+    "The declared will of the legislature and the policy and purpose of the Act are discernable from the title, preamble and the express provisions of the Act.",
+    "The legislative will is declared by the Preamble of the Act which seeks to deal with the subject of enactment.",
+    "The main purpose of the Act is to regulate the exhibition of cinematograph films in places in respect of which a licence for that purpose may be issued."
+  ],
+  "holding": [
+    "All the writ petitions were dismissed.",
+    "The impugned Rule 41-A was held to be validly framed to carry out the purposes of the Act."
+  ],
+  "cases_cited": [
+    "Court in upholding the appellants' contention. In Shelvarajen v. State of Mysore",
+    "In D.K.V. Prasad Rao v. State of Andhra Pradesh",
+    "Minerva Talkies, Bangalore and Others v State Of Karnataka &",
+    "cinematograph films in licensed premises. In Vishnu Talkies v. State of Bihar",
+    "on a decision on the Mysore High Court in Shelvarajen v. State of Mysore",
+    "to total prohibition as held by this Court in Narender Kumar v. Union of India"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "case_id": "C2158",
+  "case_name": "Sanjeev Kumar Aggarwal v Union Of India And Others",
+  "court": "Supreme Court of India",
+  "year": 1990,
+  "judges": [
+    "K. Jayachandra Reddy"
+  ],
+  "bench": [],
+  "petitioner": "Sanjeev Kumar Aggarwal",
+  "respondent": "Union Of India",
+  "citations": [
+    "AIR 1964 SC 334"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "136"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "3(1)"
+    },
+    {
+      "section": "3(3)"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "22"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "4 April 1990",
+  "outcome": "Unknown",
+  "facts": [
+    "This is a petition under Article 136 of the Constitution of India against the judgment and order of the High Court of Delhi dismissing the writ petition filed on behalf of the detenu challenging the detention.",
+    "The detenu was detained under Section 3(1) of the Conservation of Foreign Exchange and Prevention of Smuggling Activities Act (hereinafter referred to as 'the Act') by an order dated 13.7.89.",
+    "On 7.6.89 Officers of Directorate of Revenue Intelligence, New Delhi intercepted a Maruti Car in which one Mahesh Kumar Chauhan and three others were present but no recovery was effected on the spot.",
+    "The occupants did not give any explanation for the possession of gold biscuits.",
+    "On personal search of Mahesh, a slip was recovered which contained a telephone number and Mahesh Kumar in his statement admitted that he was to hand over the smuggled goods to one Vijay Kumar."
+  ],
+  "issues": [
+    "Whether there is a total non-application of mind by the detaining authority inasmuch as he failed to note that the detenu was in jail and that there is no possibility of his being released",
+    "Whether the detention order was valid considering the detenu's subsisting detention"
+  ],
+  "petitioner_arguments": [
+    "There is a total non-application of mind by the detaining authority",
+    "The petitioner alongwith two others were in judicial custody and they were further remanded upto 20.7.1989 and no bail application was filed or pending as on the date of passing orders of detention",
+    "The other material relied upon by the detaining authority in apprehending that the detenus are likely to be released on bail is that their remand to the judicial custody was upto 20.7.89 and that the other two co-accused have also filed bail applications and they were pending"
+  ],
+  "respondent_arguments": [
+    "The detention order shows that the order had been made only on the sole ground that the detenu was trying to come out on bail",
+    "The antecedent history and the past conduct on which the order of detention would be based would, in such a case, be proximate in point of time and would have a rational connection with the conclusion drawn by the authority that the detention of the person after his release is necessary"
+  ],
+  "court_reasoning": [
+    "The detaining authority has noted in the grounds that the petitioner alongwith other two co-accused have been remanded to judicial custody and the bail application was filed on behalf of the other two detenues and there is every likelihood of the petitioner also being released on bail",
+    "We are of the opinion that it cannot be said that there was no awareness in the mind of the detaining authority about the detenu being in custody and that if he is released on bail he is likely to indulge in the prejudicial activities",
+    "The detention order shows that the order had been made only on the sole ground that the detenu was trying to come out on bail"
+  ],
+  "holding": [
+    "The detention was not ordered on the mere ground that he is likely to be released on bail but on the ground that the detaining authority was satisfied that the detenu was likely to indulge in the same activities if released on bail",
+    "The detention order was upheld since the custody was obviously of a short duration and on the basis of the antecedent activities of the detenu in the proximate past, the detaining authority could reasonably reach its subjective satisfaction in respect of the detenu that he was in custody"
+  ],
+  "cases_cited": [
+    "In Binod Singh v. District Magistrate",
+    "In N. Meera Rani v. Government of Tamil Nadu &",
+    "In Vijay Kumar v. State of Jammu",
+    "Learned counsel also relied upon the decision in Ramesh Yadav v. District Magistrate",
+    "Sanjeev Kumar Aggarwal v Union Of India",
+    "after release would not be enough. In Smt. Shashi Aggarwal v. State of U",
+    "another decision of the Supreme Court. In Ramakrishna Rawat v. District Magistrate",
+    "followed in a number of subsequent decisions. In Alijan Mian v. District Magistrate",
+    "of this Court in Shri Dharmendra Suganchand Chelawat etc. v. Union of India &",
+    "rendered by the Constitution Bench in Ramesh war Shaw v. District Magistrate"
+  ]
+}

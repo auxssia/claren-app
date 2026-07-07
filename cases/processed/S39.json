@@ -1,0 +1,33 @@
+{
+  "case_id": "S39",
+  "case_name": "Criminal misconduct by a public servant",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "7"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The offence of criminal misconduct is committed by a public servant if he habitually accepts or obtains or agrees to accept or attempts to obtain from any person for himself or for any other person any gratification other than legal remuneration as a motive or reward.",
+    "A public servant commits the offence of criminal misconduct if he habitually accepts or obtains or agrees to accept or attempts to obtain for himself or for any other person, any valuable thing without consideration or for a consideration which he knows to be inadequate from any person whom he knows to have been, or to be, or to be likely to be concerned in any proceeding or business transacted or about to be transacted by him,"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "Criminal misconduct is committed when a public servant habitually accepts or obtains gratification other than legal remuneration as a motive or reward, or dishonestly or fraudulently misappropriates or converts property entrusted to them."
+  ],
+  "cases_cited": []
+}

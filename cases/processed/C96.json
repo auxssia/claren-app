@@ -1,0 +1,70 @@
+{
+  "case_id": "C96",
+  "case_name": "Augustine Saldanha v State Of Karnataka",
+  "court": "Supreme Court of India",
+  "year": 2003,
+  "judges": [
+    "Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Augustine Saldanha",
+  "respondent": "State Of Karnataka\nSupreme Court of India\n\n26 August 2003\nAppeal (crl.) 854 of 1996, [With Criminal Appeal No. 1734 of 1996]\nThe Judgment was delivered by : Arijit Pasayat, J.\n1.  These two appeals relate to the common judgment of Karnataka High Court whereby the judgment of acquittal passed by the Trial Court was set aside. Augustine Saldanha- appellant in Criminal appeal no.854/1996 was held guilty of offence punishable under Section 302 of Indian Penal Code, 1860 (in short 'IPC') and sentenced to undergo imprisonment for life. Rocky Saldanha-appellant in Criminal appeal no.1734/1996 was found guilty for offences punishable under Section 324 IPC and sentenced to undergo imprisonment for one year. They were also sentenced to pay fine of Rs.5,000/- and Rs.1,000/- respectively with default stipulation of six months SI and one month SI respectively.\n2.  Accusations which formed foundation of prosecution version are essentially as follows:\n3. On 17.5.1989 Paul Saldanh",
+  "citations": [
+    "AIR 1958 SC 465",
+    "AIR 1966 SC 1874"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Both Require Knowledge Of The Probability Of The Act",
+      "section": "300"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "26 August 2003",
+  "outcome": "Unknown",
+  "facts": [
+    "These two appeals relate to the common judgment of Karnataka High Court whereby the judgment of acquittal passed by the Trial Court was set aside.",
+    "On 17.5.1989 Paul Saldanha (hereinafter referred to as 'the deceased') and Felix Saldanha (PW1) were returning to their houses after viewing a movie.",
+    "When they reached near the house of the appellants, accused Augustine and Rocky along with Henry Saldanha (acquitted) assaulted the deceased.",
+    "They were armed with sticks.",
+    "As a result of the assaults the deceased breathed his last while PW1 suffered grievous injuries.",
+    "The incident took place between 10.00 to 10.30 p.m.",
+    "On next day morning around 5.15, PW8 ASI, of Mulki Police Station received information from an unknown person of Kumeri that two bodies were lying at Shadguri of Aikala village."
+  ],
+  "issues": [
+    "The credibility of the report (Exhibit P-1) was doubted because the injury sustained by PW1 was so serious that he was given treatment in the emergency room and it was highly improbable that he would have been in a position to give statement (Exhibit P-1).",
+    "While PW8 stated that he had recorded the complaint, handwriting therein was similar to those in which Exhibits P-8 to P-10 (Panchnamas) were written.",
+    "The prosecution version was also doubted because PW2 stated at one place that PW1 had been taken out of the hospital at the time of spot inspection, he stated subsequently that PW1 was not taken out."
+  ],
+  "petitioner_arguments": [
+    "It was quite improbable that PW1 identified the accused persons in the dark night.",
+    "The injuries found on the body of the deceased and PW1 do not tally with the version as stated by PW1 in his evidence.",
+    "The evidence of PW1 and PW8 suffers from many infirmities.",
+    "For example, as to how PW1 who was in unconscious condition could be able to give a report without any medical aid, is not explained."
+  ],
+  "respondent_arguments": [
+    "The High Court has analysed the evidence in detail and found the acquittal not justified.",
+    "The circumstances which weighed the Trial Court are not germane and the High Court has rightly held that the conclusions were erroneous.",
+    "The analysis made by the High Court suffers from no infirmity and the conclusions are, therefore, in order."
+  ],
+  "court_reasoning": [
+    "We find that the High Court has analysed the evidence in great detail, and concluded that Trial Court's conclusions were fallacious and based on magnification of trifle and unimportant materials, which in no way affected credibility of prosecution version.",
+    "We find no deficiency in view taken by High Court."
+  ],
+  "holding": [
+    "The only other point which needs to be considered is whether Section 302 IPC has been rightly made applicable.",
+    "This brings us to the crucial question as to which was the appropriate provision to be applied.",
+    "In the scheme of the IPC culpable homicide is genus and 'murder' its specie."
+  ],
+  "cases_cited": [
+    "In Virsa Singh v. State of Punjab",
+    "death in the ordinary course of nature. Rajwant and Anr. v. State of Kerala",
+    "highlighted by this Court in State of Andhra Pradesh v. Rayavarapu Punnayya"
+  ]
+}

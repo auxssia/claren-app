@@ -1,0 +1,77 @@
+{
+  "case_id": "C1366",
+  "case_name": "State of Uttar Pradesh v Nawab Hussain",
+  "court": "Supreme Court of India",
+  "year": 1977,
+  "judges": [
+    "P. N. Shingal, J."
+  ],
+  "bench": [],
+  "petitioner": "State of Uttar Pradesh",
+  "respondent": "Nawab Hussain\nSupreme Court of India\n\n4 April 1977\nJURISDICTION:CiVil Appeal No. 2339 of 1968.\n(Appeal by Special Leave fro.m the Judgment and Order\ndated the 27-3-1968 of the Allahabad High Court in Second\nAppeal No. 2352 of 1963)\nThe Judgment was delivered by : P. N. Shingal, J.\n1. Respondent Nawab Hussain was a confirmed Sub Inspector of Police in Uttar Pradesh. An anonymous complaint was made against him and was investigated by Inspector Suraj Singh who submitted his report to the Superintendent of Police on February 25, 1954. Two cases were registered against him under the Prevention of Corruption Act and the Penal Code. They were also investigated by Inspector Suraj Singh, and the respondent was dismissed from service by an order of the Deputy Inspector General of Police dated December 20, 1954. He filed an appeal, but it was dismissed on April 17, 1956. He then filed a writ petition in the Allahabad High Court for quashing the disciplinary proceedings on",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "311"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "4 April 1977",
+  "outcome": "Unknown",
+  "facts": [
+    "Respondent Nawab Hussain was a confirmed Sub Inspector of Police in Uttar Pradesh.",
+    "An anonymous complaint was made against him and was investigated by Inspector Suraj Singh who submitted his report to the Superintendent of Police on February 25, 1954.",
+    "Two cases were registered against him under the Prevention of Corruption Act and the Penal Code.",
+    "He filed an appeal, but it was dismissed on April 17, 1956.",
+    "He then filed a writ petition in the Allahabad High Court for quashing the disciplinary proceedings on the ground that he was not afforded a reasonable opportunity to meet the allegations against him and the action taken against him was mala fide.",
+    "It was dismissed on October 30, 1959,"
+  ],
+  "issues": [
+    "The principle of estoppel per rem judicatam is a rule of evidence.",
+    "Whether the suit was barred by res judicata as 'all the matters in issue in this case had been raised or ought to have been raised both in the writ petition and special appeal.'",
+    "Whether the Deputy Inspector General of Police would be deemed to be the plaintiffs appointing authority."
+  ],
+  "petitioner_arguments": [
+    "The respondent could not be dismissed by an order of the Deputy Inspector General of Police as he had been appointed by the Inspector General of Police.",
+    "The suit was not barred by the principle of constructive res judicata."
+  ],
+  "respondent_arguments": [
+    "The State of Uttar Pradesh traversed the claim in the suit on several grounds, including' the plea that the suit was barred by res judicata as 'all the matters in issue in this case had been raised or ought to have been raised both in the writ petition and special appeal.'"
+  ],
+  "court_reasoning": [
+    "The principle of estoppel per rem judicatam is a rule of evidence.",
+    "It serves not only a public but also a private purpose by obstructing the reopening of matters which have once been adjudicated upon.",
+    "Courts have therefore treated such a course of action as an abuse of its process and Somervell L.J., has answered it as follows in Greenhalgh v. Mallard ([1947] 2 All E.R. 255 at p, 257).",
+    "The general principles of res judicata and constructive res judicata have however been acted upon in cases of renewed applications for a writ."
+  ],
+  "holding": [
+    "The suit was decreed.",
+    "The appeal by the State of Uttar Pradesh has therefore come up in appeal to this Court by special leave."
+  ],
+  "cases_cited": [
+    "Devilal Modi v. Sales Tax Officer",
+    "He made a reference to the decision in Daryao and others v. The",
+    "and Amalgamated Coalfields Ltd. and another v. Janapada Sabha",
+    "and Somervell L.J., has answered it as follows in Greenhalgh v. Mallard (",
+    "and the decisions in Amalgamated Coalfields Ltd. and others v. Janapada Sabha",
+    "earlier' decisions in Amalgamated Coalfields Ltd. and others v. Janapada Sabha",
+    "is a rule of evidence. As has been stated in Marginson v. Blackburn Borough council",
+    "lost because of the decisions, in Janakirama Iyer and others v. P.M",
+    "of the decisions this Court in L. Janakimma lyer and others v. P. M",
+    "to explain earlier decision in Amalgamated Coalfields Ltd. v. Janapada Sabha",
+    "to this Court's decision in Gulabchand Chhotalal Parikh v. State of Bombay"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "case_id": "C856",
+  "case_name": "Jai Narain And Ors. Etc. Etc. v Union Of India And Ors",
+  "court": "Supreme Court of India",
+  "year": 1995,
+  "judges": [
+    "Kuldip Singh"
+  ],
+  "bench": [],
+  "petitioner": "Jai Narain And Ors. Etc. Etc",
+  "respondent": "Union Of India",
+  "citations": [
+    "AIR 1986 SC 2025"
+  ],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "4OF"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "29 November 1995",
+  "outcome": "Unknown",
+  "facts": [
+    "These transfer cases are the writ petitions u/art. 226 of the Constitution of India which were filed before the Delhi High Court.",
+    "The petitioners have challenged the notifications dated January 6, 1995 and March 9, 1995 under Sections 4, 6 and 17(4) of the Land Acquisition Act, 1894",
+    "The land in dispute is being acquired for a public purpose namely for setting up of pumping station/sewerage treatment plant in villages Jasola, Nilothi and Shaffipur Ranola for the planned development of Delhi.",
+    "Pursuant to the directions issued by this Court in M.C. Mehta's case the NCT - Administration has issued the notifications dated January 6, 1995 and March 9, 1995 under the Act which have been impugned in the transferred cases."
+  ],
+  "issues": [
+    "The power under S. 4 of the Act can be exercised when it appears to the Government that the 'land in any locality is needed or is likely to be needed for any public purpose'.",
+    "The emergency must be reflected in the need of the acquisition.",
+    "The question of urgency cannot be determined solely by the expressions used in the notification under S. 4 of the Act."
+  ],
+  "petitioner_arguments": [
+    "The notification under S. 4 of the Act uses the expression 'likely to be needed' which means there was no existing need and the land was required sometime in the future.",
+    "There was, thus, no urgency and as such the provisions of S. 17(4) of the Act could not be invoked and the right of the land owners to file objections under Section 5-A of the Act could not be taken away."
+  ],
+  "respondent_arguments": [
+    "The public purpose on the face of it shows that the land is needed urgently, that by itself is a relevant circumstance for justifying the action under S. 17(4) of the Act.",
+    "The provision of housing accommodation in these days has become a matter of national urgency.",
+    "We may take judicial notice of this fact."
+  ],
+  "court_reasoning": [
+    "When a notification under S. 4 of the Act uses the expression 'is likely to be needed' it may be necessary, in a given case, to examine the records or the attendant circumstances to satisfy that there was material before the Government justifying the Order under Section 17, dispensing with the provisions of Section 5-A of the Act.",
+    "If the public purpose on the face of it shows that the land is needed urgently, that by itself is a relevant circumstance for justifying the action under S. 17(4) of the Act."
+  ],
+  "holding": [
+    "The Court directs the D.D.A through Mr. S. Roy, Commissioner. Lands to hand over the possession of the vacant land available for setting up of the Sewage Treatment Plants in various colonies within four weeks from today.",
+    "We further direct the M.C.D. to make payment in respect of these lands simultaneously."
+  ],
+  "cases_cited": [
+    "Jai Narain And Ors. Etc. Etc. v Union Of India",
+    "M.C. Mehta vs. Union of India &",
+    "of the Act. This Court in State of U.P. vs. Smt"
+  ]
+}

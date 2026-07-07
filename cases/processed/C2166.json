@@ -1,0 +1,79 @@
+{
+  "case_id": "C2166",
+  "case_name": "Kusum Ingots and Alloys Limited v Pennar Peterson Securities Limited and Others",
+  "court": "Supreme Court of India",
+  "year": 2000,
+  "judges": [
+    "Mohapatra, J."
+  ],
+  "bench": [],
+  "petitioner": "Kusum Ingots and Alloys Limited",
+  "respondent": "Pennar Peterson Securities Limited",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "138"
+    },
+    {
+      "section": "482"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "16"
+    },
+    {
+      "section": "17"
+    },
+    {
+      "section": "25"
+    },
+    {
+      "section": "18"
+    },
+    {
+      "section": "22(1)"
+    },
+    {
+      "section": "22"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "23 February 2000",
+  "outcome": "Unknown",
+  "facts": [
+    "Post-dated cheques were issued on behalf of the company in favour of the complainant in course of business of (the company.",
+    "When the complainant presented the cheques in the bank they were returned without payment.",
+    "Then the complainant issued notice to the company and/or its Directors stating the facts of dishonour of the cheques and demanding payment.",
+    "Since no payment was made within the period of 15 days stipulated under the NI Act the payee filed complaint against the company and/or its Directors alleging inter-alia that they had committed an offence u/s. 138 of the NI Act.",
+    "Before the cheques were presented in the bank or after the bank declined to honour the cheques the drawer company was declared sick under the provisions of the SICA by the Board of Industrial and Financial Reconstruction (for short 'BIFR').",
+    "On receipt of the summons from the Court in the criminal case registered on the basis of the complaint the accused company and/or its Directors filed petitions u/s. 482 of the Code of Criminal Procedure or u/art. 227 of the Constitution seeking quashing of the complaint/proceeding in the criminal case, mainly on the ground that in view of the provisions in s. 22 of SICA the criminal case instituted against them for commission of the alleged offence u/s. 138 NI Act is misconceived and compelling the accused to face trial in the case will amount to abuse of the process of Court."
+  ],
+  "issues": [
+    "Whether a company and its Directors can be proceeded against for having committed an offence u/s. 138 of the Negotiable Instruments Act, 1881 (for short 'the NI Act') alter the company has been declared sick under the provisions of The Sick Industrial Companies (Special Provisions) Act, 1985 (for short 'SICA') before the expiry of the period for payment of the cheque amount."
+  ],
+  "petitioner_arguments": [
+    "On the company being declared sick by the BIFR no steps could be taken by the complainants for realisation of the amounts said to be due to them and therefore the criminal proceeding initiated against the drawer company and its Director on the allegation that the cheques drawn in favour of the complainant were dishonoured by the bank is misconceived and should be quashed; alternatively it is their contention that the proceedings in the criminal case should be stayed or suspended till the accused company becomes a functional and viable unit.",
+    "Reliance is placed on ss. 22 and 22-A of the SICA."
+  ],
+  "respondent_arguments": [
+    "On the undisputed fact situation of the case a prima-facie case u/s. 138 of the NI Act is made out against the accused and on being satisfied about this position the learned magistrate took cognizance of the offence and ordered issue of summons to the appellants.",
+    "It is their submission that s. 22 has no application to, criminal proceedings and that the said section does not bar payment of dues by the accused company or its Directors; an embargo is placed only on the creditors from realising their dues from the company by a proceeding for winding up or execution or distress.",
+    "It is also the submission of learned counsel for the respondents that the criminal case cannot be said to be a proceeding for realisation of money due from the company."
+  ],
+  "court_reasoning": [
+    "The object of bringing s. 138 on statute is to inculcate faith in the efficacy of banking operations and credibility in transacting business on negotiable instruments.",
+    "It is relevant to note here that Chapter XVII of the NI Act in which the aforementioned sections are included was inserted in the Act w.e.f. 1.4.1989 by Act 66 of 1988."
+  ],
+  "holding": [
+    "The main thrust of the arguments of the learned counsel appearing for the appellants is that on the company being declared sick by the BIFR no steps could be taken by the complainants for realisation of the amounts said to be due to them and therefore the criminal proceeding initiated against the drawer company and its Director on the allegation that the cheques drawn in favour of the complainant were dishonoured by the bank is misconceived and should be quashed; alternatively it is their contention that the proceedings in the criminal case should be stayed or suspended till the accused company becomes a functional and viable unit."
+  ],
+  "cases_cited": [
+    "Kusum Ingots and Alloys Limited v Pennar Peterson Securities Limited",
+    "Trade & Technology Development Corpn. Ltd., Secunderabad v. Indian Technologists & Engineers (Electronics",
+    "refer to any criminal proceeding. In M/s. B.S.I. Ltd. & Anr. v. Gift Holdings Pvt"
+  ]
+}

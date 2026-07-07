@@ -1,0 +1,92 @@
+{
+  "case_id": "C359",
+  "case_name": "Md. Ashif and others v State of Bihar and others",
+  "court": "Supreme Court of India",
+  "year": 2010,
+  "judges": [
+    "T. S. Thakur, J."
+  ],
+  "bench": [],
+  "petitioner": "Md. Ashif and others",
+  "respondent": "State of Bihar",
+  "citations": [
+    "AIR 1997 SC 1628",
+    "AIR 1999 SC 517",
+    "AIR 2001 SC 201"
+  ],
+  "statutes": [
+    {
+      "section": "33"
+    },
+    {
+      "section": "50"
+    },
+    {
+      "section": "535"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "16"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "6 May 2010",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants were appointed as Voluntary Health Workers in State run dispensaries within the district of Darbhanga in the State of Bihar in June 1985.",
+    "In lieu of their services they were paid a monthly honorarium of Rs.50/- only.",
+    "They were absorbed as Primary Health Workers by the Chief Medical Officer which carried a pay scale of Rs.535-765.",
+    "Their services were terminated by an order dated 20th February, 2001 on the ground that their promotion/absorption as Primary Health Workers was illegal and contrary to the rules.",
+    "The termination came pursuant to an enquiry regarding procedure followed in the making of the appointments to class III posts."
+  ],
+  "issues": [
+    "Whether the initial appointment of the appellants was illegal",
+    "Whether the subsequent absorption as Primary Health Workers was legal",
+    "Whether the termination of their services was justified"
+  ],
+  "petitioner_arguments": [
+    "Their initial appointment was made after a proper advertisement and therefore valid",
+    "Their subsequent absorption as Primary Health Workers did not cure any defects in their initial appointment",
+    "Their termination was unfair and legally impermissible"
+  ],
+  "respondent_arguments": [
+    "Their initial appointment was illegal because it was made without following the rules and regulations governing such recruitment",
+    "Their subsequent absorption as Primary Health Workers was also illegal because it was based on an irregularity committed 15 years earlier",
+    "Their termination was justified because their services were terminated in accordance with the rules"
+  ],
+  "court_reasoning": [
+    "The law regarding regularization of employees was declared by a Constitution Bench of this Court in Secretary, State of Karnataka & Ors. v. Uma Devi (3) & Ors.",
+    "The Court drew a distinction between an irregularity and an illegality in the making of an appointment",
+    "In cases where the process itself is completely violative of the Constitutional scheme underlying public employment and no procedure has been followed while granting such appointments, the Court cannot allow such an illegality to continue",
+    "Merely because an employee had continued under cover of an order of the court, he would not be entitled to any right to be absorbed or made permanent in the service"
+  ],
+  "holding": [
+    "The appeals were allowed and the order passed by the learned Single Judge was set aside",
+    "The termination of the services of the appellants was held to be illegal",
+    "Their initial appointment was found to be irregular but not illegal, and therefore regularization was possible"
+  ],
+  "cases_cited": [
+    "Judge Bench of this Court in U.P. State Electricity Board v. Pooran Chandra Pandey",
+    "Md. Ashif and others v State of Bihar",
+    "State of Madhya Pradesh & Anr. v. Dharam Bir",
+    "The decision of this Court in State of Karnataka and Ors. v. G.V",
+    "and General Manager, Uttaranchal Jal Sansthan v. Laxmi Devi &",
+    "and Subedar Singh & Ors. v. District Judge",
+    "and Union of India & Ors. v. Kishorilal Bablani",
+    "and observations made by the two-Judge Bench in U.P. SEB v. Pooran Chandra Pandey",
+    "be made to the decisions of this Court in Pinaki Chatterjee v. Union of India &",
+    "has been followed by this Court in Mohd. Abdul Kadir & Anr. v. Directorate General of Police",
+    "upon the decisions of this Court in Ashwani Kumar & Ors. v. State of Bihar &",
+    "upon the decisions of this Court in Roshni Devi and Ors. v. State of Haryana"
+  ]
+}

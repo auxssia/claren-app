@@ -1,0 +1,55 @@
+{
+  "case_id": "C1945",
+  "case_name": "Samrat Shipping Company Private Limited v Dolly George",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Samrat Shipping Company Private Limited",
+  "respondent": "Dolly George\nSupreme Court of India\n\n10 December 1999\nCr.A. No. 1330 of 1999 (Arising Out of S.L.P. (Cr.) No. 2247 of 1999)\nThe Order of the Court was as follows:\nLeave granted.\n1.  The appellant Company has filed a complaint before a Magistrate's Court for offence under Section 138 of the Negotiable Instruments Act. The Magistrate dismissed the complaint on the ground that there was no resolution of the Board of Directors of the petitioner Company authorising the person who represented the Company before the Magistrate's Court.\n2. Though the appellant preferred a revision before the Sessions Court, that became futile and he moved the High Court invoking Section 482 of the Code of Criminal Procedure. Learned Single Judge dismissed the petition of the appellant in spite of the fact that the appellant produced a copy of the resolution for showing that the Company had authorised the particular individual to present the complaint before the Court",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Negotiable Instruments Act",
+      "section": "138"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "482"
+    }
+  ],
+  "legal_domain": "Company",
+  "legal_subdomain": "Board",
+  "court_level": "Supreme Court",
+  "decision_date": "10 December 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant Company has filed a complaint before a Magistrate's Court for offence under Section 138 of the Negotiable Instruments Act.",
+    "The Magistrate dismissed the complaint on the ground that there was no resolution of the Board of Directors of the petitioner Company authorising the person who represented the Company before the Magistrate's Court.",
+    "Though the appellant preferred a revision before the Sessions Court, that became futile and he moved the High Court invoking Section 482 of the Code of Criminal Procedure.",
+    "The High Court while dismissing the petition observed thus :",
+    "A company can file a complaint only through human agency. The person who presented the complaint on behalf of the Company claimed that he is the authorised representative of the Company.",
+    "Prima facie, the trial court should have accepted it at the time when a complaint was presented.",
+    "If it is a matter of evidence when the accused disputed the authority of the said individual to present the complaint, opportunity should have been given to the complainant to prove the same, but that opportunity need be given only when the trial commences.",
+    "The dismissal of the complaint at the threshold on the premise that the individual has not produced certified copy of the resolution appears to be too hasty an action."
+  ],
+  "issues": [],
+  "petitioner_arguments": [
+    "The appellant Company has filed a complaint before a Magistrate's Court for offence under Section 138 of the Negotiable Instruments Act.",
+    "The person who presented the complaint on behalf of the Company claimed that he is the authorised representative of the Company.",
+    "Prima facie, the trial court should have accepted it at the time when a complaint was presented."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "A company can file a complaint only through human agency.",
+    "The person who presented the complaint on behalf of the Company claimed that he is the authorised representative of the Company.",
+    "Prima facie, the trial court should have accepted it at the time when a complaint was presented.",
+    "If it is a matter of evidence when the accused disputed the authority of the said individual to present the complaint, opportunity should have been given to the complainant to prove the same, but that opportunity need be given only when the trial commences.",
+    "The dismissal of the complaint at the threshold on the premise that the individual has not produced certified copy of the resolution appears to be too hasty an action."
+  ],
+  "holding": [
+    "We, therefore, set aside the impugned orders and direct the trial court to proceed with the trial and dispose of it in accordance with law.",
+    "Parties are directed to appear before the trial court on 31-1-2000."
+  ],
+  "cases_cited": []
+}

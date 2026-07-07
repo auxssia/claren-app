@@ -1,0 +1,77 @@
+{
+  "case_id": "C2129",
+  "case_name": "Industrial Development Corporation of Orissa Limited v Union of India and Others",
+  "court": "Supreme Court of India",
+  "year": 1996,
+  "judges": [
+    "A. M. Ahmadi, J."
+  ],
+  "bench": [],
+  "petitioner": "Industrial Development Corporation of Orissa Limited",
+  "respondent": "Union of India",
+  "citations": [
+    "AIR 1991 SC 818"
+  ],
+  "statutes": [
+    {
+      "section": "180"
+    },
+    {
+      "section": "27"
+    },
+    {
+      "section": "18"
+    },
+    {
+      "section": "8(2)"
+    },
+    {
+      "section": "8(3)"
+    },
+    {
+      "section": "10838"
+    },
+    {
+      "section": "22710"
+    },
+    {
+      "section": "6"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Lease",
+  "court_level": "Supreme Court",
+  "decision_date": "23 July 1996",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants, Tata Iron and Steel Company, Limited (TISCO) and Industrial Development Corporation of Orissa Limited (IDCOL), sought to challenge a common judgment and order of the Orissa High Court dated April 4, 1995.",
+    "TISCO claimed that it was the first to discover Chrome ore in the Sukinda Valley, Orissa, in 1949 and had spent over Rs.180 crores for the development of the mine.",
+    "The lease was granted by the Central Government under Section 8(2) of the Mines & Minerals (Regulation & Development) Act, 1957, for a period of 20 years.",
+    "TISCO applied for a second renewal under Section 8(3) of the Act for a further period of 20 years, but the lease was reduced to 651 hectares by the Central Government.",
+    "The High Court struck down the renewal of TISCO's lease and directed the Central Government to reconsider TISCO's application for renewal in accordance with law."
+  ],
+  "issues": [
+    "Whether the Central Government had the power to renew TISCO's lease without considering the recommendations made by the Rao Committee",
+    "Whether the High Court was correct in striking down the renewal of TISCO's lease and directing the Central Government to reconsider TISCO's application for renewal"
+  ],
+  "petitioner_arguments": [
+    "TISCO argued that it had spent over Rs.180 crores for the development of the mine and that the reduction of the lease area would cause significant financial loss",
+    "TISCO argued that the High Court was incorrect in striking down the renewal of TISCO's lease and directing the Central Government to reconsider TISCO's application for renewal"
+  ],
+  "respondent_arguments": [
+    "The State Government argued that the Central Government had not kept in view the recommendation made by the Rao Committee",
+    "The Central Government argued that it was entitled to renew TISCO's lease without considering the recommendations made by the Rao Committee"
+  ],
+  "court_reasoning": [
+    "The Court held that the Central Government had not kept in view the recommendation made by the Rao Committee and that the High Court was correct in striking down the renewal of TISCO's lease",
+    "The Court directed the Central Government to reconsider TISCO's application for renewal in accordance with law"
+  ],
+  "holding": [
+    "The Supreme Court granted special leave to appeal against the order of the Orissa High Court and the decision of the Central Government dated August 17, 1995",
+    "The Supreme Court held that the Central Government had not kept in view the recommendation made by the Rao Committee and that the High Court was correct in striking down the renewal of TISCO's lease"
+  ],
+  "cases_cited": [
+    "Industrial Development Corporation of Orissa Limited v Union of India",
+    "this Court in the case of Indian Metals & Ferro Alloys Ltd. v. Union of India"
+  ]
+}

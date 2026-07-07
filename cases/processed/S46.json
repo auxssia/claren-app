@@ -1,0 +1,38 @@
+{
+  "case_id": "S46",
+  "case_name": "None",
+  "court": "None",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "7"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The State shall, in particular, direct its policy towards securing-",
+    "that the citizens, men and women equally, have the right to an adequate means of livelihood;",
+    "that the ownership and control of the material resources of the community are so distributed as best to subserve the common good;",
+    "that the operation of the economic system does not result in the concentration of wealth and means of production to the common detriment;",
+    "that there is equal pay for equal work for both men and women;",
+    "that the health and strength of workers, men and women, and the tender age of children are not abused and that citizens are not forced by economic necessity to enter avocations unsuited to their age or strength;",
+    "that children are given opportunities and facilities to develop in a healthy manner and in conditions of freedom and dignity and that childhood and youth are protected against exploitation and against moral and material abandonment."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The State shall, in particular, direct its policy towards securing-"
+  ],
+  "cases_cited": []
+}

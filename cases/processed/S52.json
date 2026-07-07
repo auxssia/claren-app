@@ -1,0 +1,33 @@
+{
+  "case_id": "S52",
+  "case_name": "",
+  "court": "",
+  "year": 0,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "117"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "Criminal breach of trust",
+    "Punishment"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "Imprisonment for life or imprisonment for 10 years and fine"
+  ],
+  "cases_cited": []
+}

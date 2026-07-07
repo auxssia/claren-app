@@ -1,0 +1,58 @@
+{
+  "case_id": "C2716",
+  "case_name": "Dewan Singh v Champat Singh and others",
+  "court": "Supreme Court of India",
+  "year": 1969,
+  "judges": [
+    "K. S. Heode"
+  ],
+  "bench": [],
+  "petitioner": "Dewan Singh",
+  "respondent": "Champat Singh",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Limitation Act, 1963"
+    },
+    {
+      "section": "115"
+    }
+  ],
+  "legal_domain": "Administrative",
+  "legal_subdomain": "Natural Justice",
+  "court_level": "Supreme Court",
+  "decision_date": "17 October 1969",
+  "outcome": "Unknown",
+  "facts": [
+    "The appeal by special leave arises from an arbitration proceeding.",
+    "The arbitrators made their award on October 11, 1955, and served notice of making and signing the award on the parties to the arbitration agreement.",
+    "The appellant filed a suit in the Court of Munsiff Hawaii Meerut praying that the award be made a rule of the court and decree passed in accordance with the same.",
+    "The defendants challenged the validity of the award on various grounds, including misconduct by the arbitrators and undue influence.",
+    "The Trial Court accepted the contention of the defendants that the arbitrators were guilty of misconduct.",
+    "The appellate Court reversed the decree of the Trial Court, holding that the arbitrators had used their personal knowledge in deciding the disputes referred to them."
+  ],
+  "issues": [
+    "Whether the arbitrators' decision was vitiated by misconduct",
+    "Whether the arbitration agreement empowered the arbitrators to decide the disputes on the basis of their personal knowledge"
+  ],
+  "petitioner_arguments": [
+    "The arbitrators were not guilty of misconduct",
+    "The arbitration agreement did empower the arbitrators to decide the disputes on the basis of their personal knowledge"
+  ],
+  "respondent_arguments": [
+    "The arbitrators were guilty of misconduct",
+    "The arbitration agreement did not empower the arbitrators to decide the disputes on the basis of their personal knowledge"
+  ],
+  "court_reasoning": [
+    "The arbitrators' decision was vitiated by misconduct because they decided the disputes referred to them primarily on the basis of their personal knowledge.",
+    "The arbitration agreement did not specifically empower the arbitrators to decide the disputes on the basis of their personal knowledge."
+  ],
+  "holding": [
+    "The appeal fails and is dismissed with costs",
+    "The decision reached by the High Court is an eminently just one"
+  ],
+  "cases_cited": [
+    "Dewan Singh v Champat Singh",
+    "the dispute in accordance with the ordinary law-see Chandris v. Isbrandtsen Moller Co"
+  ]
+}

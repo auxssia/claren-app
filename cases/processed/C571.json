@@ -1,0 +1,71 @@
+{
+  "case_id": "C571",
+  "case_name": "Narendra Kumar And Others v The Union Of India And Others",
+  "court": "Supreme Court of India",
+  "year": 1959,
+  "judges": [
+    "K. C. Das Gupta"
+  ],
+  "bench": [],
+  "petitioner": "Narendra Kumar And Others",
+  "respondent": "The Union Of India",
+  "citations": [
+    "AIR 1954 SC 634"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "19"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "21"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "3 December 1959",
+  "outcome": "Unknown",
+  "facts": [
+    "The three persons who have filed this petition under Art. 32 of the Constitution for enforcement of their fundamental rights conferred by Art. 14, Art. 19(1)(f) and Art. 19(1)(g) thereof are dealers in imported copper and carry on their business at Jagadhri in the State of Punjab.",
+    "On different dates prior to April 3, 1958, they entered into contracts of purchase of copper with importers at Bombay and Calcutta.",
+    "Before, however, they could take delivery from the importers the Government of India issued on April 2, 1958, an order called the 'Non-ferrous Metal Control Order, 1958' hereafter referred to as 'the order' in exercise of its powers under s. 3 of the Essential Commodities Act (Act X of 1955) referred to hereafter as 'the Act'.",
+    "The Order was from the very beginning made applicable to imported copper.",
+    "Clause 4 is designed to regulate the acquisition of non-ferrous metal by permit only and provides that 'no person shall acquire or agree to acquire any non-ferrous metal except under and in accordance with a permit issued in this behalf by the Controller in accordance with such principles as the Central Government may from time to time specify'.",
+    "Certain principles were however specified by the Central Government in a communication addressed by the Deputy Secretary to the Government of India dated April 18, 1958, to the Chief Industrial Adviser to the Government of India, New Delhi.",
+    "The petitioners applied on April 14, 1958, for permits to enable them to take delivery of the copper in respect of which they had entered into contracts with different parties."
+  ],
+  "issues": [
+    "Whether cl. 4 of the Order read with the principles specified in the letter of the 18th April violates the right conferred on them as citizens of India by Art. 19(1)(f) of the Constitution to acquire property and also the right conferred by Article 19(1)(g) to carry on trade.",
+    "Whether the fixation of the price at the landed cost plus 3-1/2% as the maximum also abridge the rights conferred on them by Arts. 19(1)(f) and 19(1)(g) of the Constitution.",
+    "Whether the principles specified being discriminatory in nature as between the manufacturers and dealers in copper have resulted in violating the right to equal protection of laws to the petitioners and thus infringe the right guaranteed by Art. 14 of the Constitution."
+  ],
+  "petitioner_arguments": [
+    "The main contention of the petitioners is two-fold.",
+    "It is said that cl. 4 of the Order read with the principles specified in the letter of the 18th April violates the right conferred on them as citizens of India by Art. 19(1)(f) of the Constitution to acquire property and also the right conferred by Article 19(1)(g) to carry on trade.",
+    "It is said that the fixation of the price at the landed cost plus 3-1/2% as the maximum also abridge the rights conferred on them by Arts. 19(1)(f) and 19(1)(g) of the Constitution.",
+    "A further contention is that the principles specified being discriminatory in nature as between the manufacturers and dealers in copper have resulted in violating the right to equal protection of laws to the petitioners and thus infringe the right guaranteed by Art. 14 of the Constitution."
+  ],
+  "respondent_arguments": [
+    "The respondents, their main contention being that cls. 3 and 4 of the Order and the 'principles' specified are laws which impose reasonable restrictions on the exercise of rights conferred by Arts. 19(1)(f) and 19(1)(g) in the interest of the general public.",
+    "While this was the main contention on behalf of the respondents, it was also contended that as the petitioners have not challenged the validity of the Essential Commodities Act and have admitted the power of the Central Government to make an order in exercise of the powers conferred by s. 3 of the Act it is not open to the Court to consider whether the law made by the Government in making the non-ferrous metal control order and in specifying the principles under cl. 4 of the order violates any of the fundamental rights under the Constitution.",
+    "It is urged that once it is found that the Government has power under a valid law to provide for regulating or prohibiting the production, supply and distribution of an essential commodity and trade and commerce therein as soon as it is of opinion that it is necessary or expedient so to do for maintaining or increasing supplies of the essential commodity or for securing its equitable distribution and availability at fair prices, the order made by them can be attacked only if it is outside the power granted by the section or if it is mala fide.",
+    "Malafides have not been suggested and we are proceeding on the assumption that the Central Government was honestly of opinion that it was necessary and expedient to make an order providing for regulation and prohibition of the supply and distribution of imported copper and trade and commerce therein."
+  ],
+  "court_reasoning": [
+    "The Court is of the view that when s. 3 confers power to provide for regulation or prohibition of the production, supply and distribution of any essential commodity it gives such power to make any regulation or prohibition in so far as such regulation and prohibition do not violate any fundamental rights granted by the Constitution of India.",
+    "It is clear therefore that when s. 3 confers power to provide for regulation or prohibition of the production, supply and distribution of any essential commodity it gives such power to make any regulation or prohibition in so far as such regulation and prohibition do not violate any fundamental rights granted by the Constitution of India.",
+    "The Court is of the view that the Order does not go beyond such provisions and therefore must be held to be good."
+  ],
+  "holding": [
+    "The petitioners' prayer for an appropriate writ or order or direction (1) restraining the respondents, the Union of India, the Chief Industrial Adviser to the Government of India and the Development Officer, Ministry of Industry from enforcing cls. 3 and 4 of the order; (2) to quashing the order of the Development Officer rejecting the petitioners' application for grant of permit by a direction to the 2nd and 3rd respondents to grant the applications for permits and (3) restraining them from granting permits to others than the petitioners in respect of copper covered by their contracts with importers is allowed."
+  ],
+  "cases_cited": [
+    "Narendra Kumar And Others v The",
+    "not have been intended for general application. Chintaman Rao v. The"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "case_id": "C1141",
+  "case_name": "Babu Ram and Another v State of Uttar Pradesh and Others",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [
+    "R. C. Lahoti"
+  ],
+  "bench": [],
+  "petitioner": "Babu Ram and Another",
+  "respondent": "State of Uttar Pradesh",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Ipc The Court Should Be Able To Draw An Inference That The Result Reached Was The Consequence Of The Concerted Act",
+      "section": "34"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "1 August 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "The five accused persons were tried on charges under Section 302/149, 148 and 147 IPC.",
+    "Ram Swarup and Raja Ram were convicted for the offences under Sections 148 and 302/149 IPC and sentenced to suffer two years' rigorous imprisonment and imprisonment for life respectively.",
+    "Babu Ram, Deshraj and Dularey were convicted under Section 147 and 302/149 of IPC and sentenced respectively to one year's rigorous imprisonment and imprisonment for life.",
+    "All the accused persons preferred an appeal before the high Court."
+  ],
+  "issues": [
+    "Whether the conviction of all other accused persons in so far as referable to Section 147, 148 and 302/149 IPC has been set aside?",
+    "Whether Ram Swarup, Raja Ram, Babu Ram, Deshraj have been held guilty of an offence punishable under Section 302/34 of IPC?"
+  ],
+  "petitioner_arguments": [
+    "The accused persons vehemently denied their involvement in the incident.",
+    "It is submitted that Shri Krishna is the brother of the deceased and therefore a witness interested' in prosecution and at the same time there is a background of strained relationship available between the accused and the deceased."
+  ],
+  "respondent_arguments": [
+    "The ocular evidence adduced on behalf of the prosecution proves beyond reasonable doubt the prosecution story including the role assigned to each of the accused persons excepting Dularey who has been acquitted by the High Court.",
+    "It is submitted that according to Shri Krishna his brother Mangali, the deceased and he had taken the breakfast which consisted of Dal-Roti but according to post-mortem report the semi digested food in the intestine of the deceased consisted of rice and that shows that Shri Krishna, PW1 was not with the deceased ."
+  ],
+  "court_reasoning": [
+    "The Court has held the accused Dularey not to have participated in the incident at all and therefore there was no unlawful assembly of the accused persons.",
+    "None of the grounds can be enough for discarding over board the testimony of Shri Krishna.",
+    "An effort should be made at appreciating the worth of such evidence as has been adduced."
+  ],
+  "holding": [
+    "The conviction of all other accused persons in so far as referable to Section 147, 148 and 302/149 IPC has been set aside.",
+    "Ram Swarup, Raja Ram, Babu Ram, Deshraj have been held guilty of an offence punishable under Section 302/34 of IPC."
+  ],
+  "cases_cited": [
+    "Babu Ram and Another v State of Uttar Pradesh",
+    "In Mahbub Shah v. Emperor",
+    "above said statement of law, this court held in Shankar Lal v. State of Gujarat",
+    "be held liable, recently, this Court has held in Mithu Singh v. State of Punjab"
+  ]
+}

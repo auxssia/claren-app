@@ -1,0 +1,112 @@
+{
+  "case_id": "C2784",
+  "case_name": "Harbeer Singh and another v Sheeshpal and others",
+  "court": "Supreme Court of India",
+  "year": 2016,
+  "judges": [
+    "Pinaki Chandra Ghose"
+  ],
+  "bench": [],
+  "petitioner": "Harbeer Singh and another",
+  "respondent": "Sheeshpal",
+  "citations": [
+    "1971 3 SCC 192",
+    "1972 1 SCC 249",
+    "1972 3 SCC 79",
+    "1973 2 SCC 808",
+    "1975 3 SCC 167",
+    "1978 4 SCC 371",
+    "1979 3 SCC 1",
+    "1992 3 SCC 106",
+    "2002 7 SCC 334",
+    "2003 10 SCC 670",
+    "2003 12 SCC 377",
+    "2003 8 SCC 180",
+    "2003 9 SCC 468",
+    "2004 10 SCC 632",
+    "2004 13 SCC 279",
+    "2004 9 SCC 431",
+    "2005 10 SCC 216",
+    "2005 3 SCC 68",
+    "2007 4 SCC 415",
+    "2009 4 SCC 271",
+    "2009 9 SCC 719",
+    "2010 13 SCC 657",
+    "2010 3 SCC 721",
+    "2010 6 SCC 1",
+    "2012 5 SCC 171",
+    "2013 11 SCC 150",
+    "2014 12 SCC 473",
+    "2015 11 SCC 124",
+    "2015 11 SCC 242",
+    "AIR 1953 SC 459",
+    "AIR 1965 SC 328"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "20 October 2016",
+  "outcome": "Unknown",
+  "facts": [
+    "On 21.12.1993, at 7.55 P.M., Bhagwara Ram (PW-8), the brother of the deceased Balbir Singh, gave a written report at P.S. Kotwali Sikar, stating that on 21.12.1993 in the evening at about 6.00 P.M., when his younger brother Balbir (deceased) was returning to his house, two men were standing near the Dhaba of Shankar and he started talking to them.",
+    "It is also mentioned in the written report that at the time of the incident, Sheeshpal was driving the jeep and Nemichand, Shiv Bhagwan, Rajendra and Prakash were with him in the Jeep and it is not mentioned that Bhanwarwal was present in the jeep or at the place of occurrence.",
+    "Formal FIR was registered, place of occurrence was inspected, site plan was prepared, post-mortem of the dead body was done, Panchnama of the dead body was prepared and the vehicle used in the crime along with number plate of the vehicle and broken parts was seized."
+  ],
+  "issues": [
+    "The legal questions or points of law being debated"
+  ],
+  "petitioner_arguments": [
+    "The Appellant argued that the High Court had erred in ignoring the prosecution evidence which conclusively proved the guilt of the accused persons who had conspired to kill the deceased in a garb of accident.",
+    "Further, the High Court had also erred in reversing the conviction of the accused persons despite presence of sufficient evidence which indicated involvement of all the accused persons and a complete chain of incriminating circumstances proved by the prosecution."
+  ],
+  "respondent_arguments": [
+    "The Respondents argued that the prosecution was not able to prove its case beyond all reasonable doubt since the eye-witnesses were interested in the complainant and hence unreliable, while most other prosecution witnesses were chance witnesses.",
+    "The evidence of the eye-witnesses both as to the fact of the alleged conspiracy and the murder of the deceased, did not inspire confidence; there were inconsistencies and improvements in the deposition of the prosecution witnesses made over their statements recorded under Section 161 Cr.P.C."
+  ],
+  "court_reasoning": [
+    "The Court held that if two views are possible on the evidence adduced in the case, one pointing to the guilt of the accused and the other to his innocence, the view which is favourable to the accused should be adopted.",
+    "The Court also reiterated the principle that the guilt of the accused must be proved beyond all reasonable doubt."
+  ],
+  "holding": [
+    "The High Court acquitted the Respondents on the ground that the prosecution was not able to prove its case beyond all reasonable doubt since the eye-witnesses were interested in the complainant and hence unreliable, while most other prosecution witnesses were chance witnesses."
+  ],
+  "cases_cited": [
+    "Chandrappa & Ors. vs. State of Karnataka",
+    "Further, in Raghubir Singh Vs. State of U",
+    "Harbeer Singh and another v Sheeshpal",
+    "However, Ganesh Bhavan Patel Vs. State Of Maharashtra",
+    "In Darya Singh Vs. State of Punjab",
+    "In Himachal Pradesh Administration Vs. Shri Om Prakash",
+    "In Mousam Singha Roy and Ors. Vs. State of W",
+    "Manu Sharma vs. State (NCT of Delhi",
+    "Maruti Rama Naik Vs. State of Mahrashtra",
+    "Mohd. Khalid Vs. State of W",
+    "Prithvi (Minor) Vs. Mam Raj &",
+    "Radha Kumar Vs. State of Bihar (now Jharkhand",
+    "See Ashok Vishnu Davare Vs. State Of Maharashtra",
+    "See Ganeshlal Vs. State of Mahrashtra",
+    "See State of U.P. Vs. Harihar Bux Singh &",
+    "See also Balakrushna Swain Vs. State Of Orissa",
+    "State of Haryana Vs. Shakuntla &",
+    "State of Karnataka Vs. Amajappa &",
+    "State of Rajasthan Vs. Raja Ram",
+    "State of U.P. Vs. Gopi &",
+    "State of U.P. Vs. Gurucharan &",
+    "State of Uttar Pradesh Vs. Ashok Kumar &",
+    "Sunil Kumar Sambhudayal Gupta (Dr.) & Ors. Vs. State of Maharashtra",
+    "Upendra Pradhan Vs. State of Orissa",
+    "Vide Kali Ram Vs. State of Himachal Pradesh",
+    "and Baldev Singh Vs. State of Punjab",
+    "and Golbar Hussain & Ors. Vs. State of Assam",
+    "and Jagjit Singh Vs. State of Punjab",
+    "and Jarnail Singh & Ors. Vs. State of Punjab",
+    "lightly discarded by the Courts below. Similarly, Shankarlal Vs. State of Rajastahan",
+    "witness' were explained by Mahajan, J., in the case of Puran Vs. The"
+  ]
+}

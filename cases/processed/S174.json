@@ -1,0 +1,30 @@
+{
+  "case_id": "S174",
+  "case_name": "",
+  "court": "Court",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "If the defendant or other person refuses to sign the acknowledgment,"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "the serving-officer shall affix a copy of the summons on the outer door of the house in which the defendant ordinarily resides"
+  ],
+  "holding": [
+    "the serving-officer shall affix a copy of the summons on the outer door of the house in which the defendant ordinarily resides and then return the original to the Court from which it issued, with a return endorsed thereon or annexed thereto stating that he has so affixed the copy and the circumstances under which he did so"
+  ],
+  "cases_cited": []
+}

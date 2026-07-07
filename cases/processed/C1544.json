@@ -1,0 +1,66 @@
+{
+  "case_id": "C1544",
+  "case_name": "Rahul Builders v Arihant Fertilizers and Chemical and Another",
+  "court": "Supreme Court of India",
+  "year": 2007,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "Rahul Builders",
+  "respondent": "Arihant Fertilizers and Chemical and Another\nSupreme Court of India\n\n2 November 2007\nCriminal Appeal No. 525 of 2005\nThe Judgment was delivered by : S. B. Sinha, J.\n1.  Failure on the part of the appellant to serve a proper notice strictly in terms of proviso appended to Section 138 of the Negotiable Instruments Act (for short \"the Act\") whether would lead to quashing of a criminal proceedings initiated by II Additional Sessions Judge, Ne much on a complaint made by the appellant herein is the question involved in this appeal which arises out of a judgment and order dated 22.11.2004 passed by the High Court of Madhya Pradesh in Misc. Criminal Case No. 2924 of 2004.\n2.  Appellant is a partnership firm. Respondent No. 1 entered into a contract with it for construction of a building and factory premises. Appellant executed the said contract. It submitted bills for execution of contractual work for a sum of Rs. 26,46,647/-. Respondent No. 1 had made payments of Rs. 17,74,2",
+  "citations": [
+    "2000 2 SCC 380",
+    "2003 8 SCC 300"
+  ],
+  "statutes": [
+    {
+      "act": "Negotiable Instruments Act",
+      "section": "138"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "482"
+    },
+    {
+      "act": "The Act",
+      "section": "138"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "2 November 2007",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant, Rahul Builders, is a partnership firm that executed a contract with Respondent No. 1 to construct a building and factory premises.",
+    "Respondent No. 1 had made payments of Rs. 17,74,238/- and a balance of Rs. 8,72,409/- was said to be outstanding.",
+    "A cheque for a sum of Rs. 1,00,000/- drawn on Federal Bank Limited, Indore was issued by Respondent No. 1 in favour of the appellant.",
+    "Upon presentation of the said cheque, it was not honoured on the ground that Respondent No. 1 had closed its account with the bank."
+  ],
+  "issues": [
+    "Whether the notice issued by the appellant to Respondent No. 1 was valid under Section 138 of the Negotiable Instruments Act",
+    "Whether the High Court erred in quashing the criminal proceedings against Respondent No. 1"
+  ],
+  "petitioner_arguments": [
+    "The notice issued by the appellant was not invalid, as it did not specify a particular period for payment",
+    "The demand made by the appellant was not vague, as it specified the amount due under the dishonoured cheque"
+  ],
+  "respondent_arguments": [
+    "The notice issued by the appellant was invalid, as it did not comply with the requirements of Section 138 of the Negotiable Instruments Act",
+    "The demand made by the appellant was vague, as it did not specify the amount due under the dishonoured cheque"
+  ],
+  "court_reasoning": [
+    "Section 138 of the Negotiable Instruments Act does not speak of a 15 days' notice, but rather contemplates service of notice and payment of the amount of cheque within 15 days from the date of receipt thereof",
+    "The notice issued by the appellant was valid, as it made a demand for the payment of the said amount of money"
+  ],
+  "holding": [
+    "The High Court's decision to quash the criminal proceedings against Respondent No. 1 is set aside",
+    "The criminal proceedings pending against Respondent No. 1 are allowed to continue"
+  ],
+  "cases_cited": [
+    "Mr. Jain relied upon a decision of this Court in Suman Sethi v. Ajay K",
+    "On this aspect of the matter, we may consider K.R. Indira v. Dr. G",
+    "Rahul Builders v Arihant Fertilizers"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "case_id": "C257",
+  "case_name": "Kashi Prashad v State of Uttar Pradesh",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Kashi Prashad",
+  "respondent": "State of Uttar Pradesh\nSupreme Court of India\n\n16 July 2008\nCr.A. No.of 2008 (Arising out of S.L.P (Cr.) No. 111 of 2003)\nThe Judgment was delivered by : Dr. Arijit Pasayat, J.\n1.  Challenge in this appeal is to the judgment of a Division Bench of the Allahabad High Court holding the appellant guilty of offence punishable u/s. 302 read with S. 34 of the Indian Penal Code, 1860 (in short the 'IPC') and S. 323 read with S. 34 IPC.\n2.  The appellant and his father Baldu had filed the appeal before the High Court questioning the correctness of the conviction and imposition of sentence as done by the learned Sessions Judge, Hamirpur in Sessions Trial No.287 of 1980. The appellant's father Baldu died during the pendency of the appeal before the High Court and, therefore, the appeal stood abated so far as he is concerned.\nThe prosecution version as unfolded during trial is essentially as follows:\n3. Kali Charan, first informant (PW-1), his father Lachhi Ram (hereinafter referr",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "304"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "16 July 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "Kashi Prashad and his father Baldu filed an appeal against their conviction for murder and causing injuries to Kali Charan, Lachhi Ram, and others.",
+    "The prosecution version was that Kali Charan's bullocks strayed into the field of Chandra Bhan, leading to a quarrel between the parties.",
+    "Kashi Prashad claimed self-defense, stating that he and his father were attacked by Kali Charan and Lachhi Ram.",
+    "The trial court found that the plea of self-defense was not made out and convicted the accused of murder.",
+    "The High Court dismissed the appeal, upholding the conviction."
+  ],
+  "issues": [
+    "Whether the accused's plea of self-defense was valid?",
+    "Whether the prosecution proved its case beyond reasonable doubt?"
+  ],
+  "petitioner_arguments": [
+    "The accused claimed that they were attacked by Kali Charan and Lachhi Ram without provocation.",
+    "They argued that their actions were in self-defense and did not constitute murder."
+  ],
+  "respondent_arguments": [
+    "The prosecution argued that the accused's actions were premeditated and constituted murder.",
+    "They contended that the accused had taken undue advantage of the situation and caused unnecessary harm."
+  ],
+  "court_reasoning": [
+    "The court held that the plea of self-defense was not made out, as there was no evidence to show that the accused were attacked without provocation.",
+    "It found that the prosecution had proved its case beyond reasonable doubt, and convicted the accused of murder."
+  ],
+  "holding": [
+    "The appeal was allowed in part, with the conviction being reduced from murder to culpable homicide not amounting to murder (Section 304 Part I IPC).",
+    "A custodial sentence of 10 years was imposed."
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,88 @@
+{
+  "case_id": "C1511",
+  "case_name": "Kathi Bharat Vajsur & Anr. v State Of Gujarat",
+  "court": "Supreme Court of India",
+  "year": 2012,
+  "judges": [
+    "H. L. Dattu"
+  ],
+  "bench": [],
+  "petitioner": "Kathi Bharat Vajsur & Anr",
+  "respondent": "State Of Gujarat\nSupreme Court of India\n\n8  May  2012\nCRIMINA L APPEA L NO . 1042 OF 200 2\nThe Judgment was delivered by: H. L. Dattu, J.\n1.  This appeal is directed against the judgment and order passed by the Division Bench of the High Court of Gujarat in Criminal Appeal No. 744/1985 dated 15.07.2002. By the impugned judgment and order, the High Court has reversed the order of acquittal passed by the Additional Sessions Judge, Amreli in Sessions Case No. 22/84 and convicted the two appellants for the offence punishable u/s. 302 read with s. 34 of the Indian Penal Code, 1860 [\"IPC\" for short], sentencing them to imprisonment for life and a fine of ' 1000/- each, in default of which they are directed to further undergo rigorous imprisonment for six months.\n2.  At the outset, we note that initially there were three accused before the Trial Court, and they were all acquitted for the offences alleged against them. During the pendency of the appeal before the H",
+  "citations": [
+    "1988 4 SCC 302",
+    "1990 1 SCC 445",
+    "1999 9 SCC 525",
+    "2003 1 SCC 204",
+    "2009 11 SCC 334",
+    "2010 13 SCC 657",
+    "2011 9 SCC 698"
+  ],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "161"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "34"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "8 May 2012",
+  "outcome": "Unknown",
+  "facts": [
+    "The case of the prosecution is that, a part of the adjoining land of the primary school in village Gigasan was leased out to A1, where he had constructed a storage tank for storage of kerosene.",
+    "Prior to the date of the incident, when one Amra Pitha and other labourers had commenced the work on the said plot, A1 protested to it and did not permit them to carry out the proposed work, due to which Amra Pitha had to complain to the Sarpanch Jagu Dada and the Secretary of the Panchayat Shri. Kanubhai about the interference caused by A1.",
+    "On the morning of the incident, i.e. 30th March 1984, when Jagu Dada (PW6), Mulu Dada (deceased) and Dhoha Vasta (Informant) informed the President of the Taluka Development Officer about the attitude of A1 towards Amra Pitha and other labourers, he directed Mulu Dada to ignore the threat and complete the construction as resolved by the Panchayat.",
+    "On the same day, at about 3.30 pm, PW6, the deceased and two labourers, namely Jetha (PW8) and Natha (PW7) went to the plot and began the construction work as directed and they were assisted by Manjibhai and Patel who were teachers working in the Primary School.",
+    "When they began digging for laying the foundation, A1 along with his brothers A2 and A3 came near the plot and asked them not to dig the pit. After verbal exchange, A1 took out a double bore tamancha from his pocket and pointed at PW6, and threatened him to leave."
+  ],
+  "issues": [
+    "Whether the prosecution has proved its case beyond reasonable doubt?"
+  ],
+  "petitioner_arguments": [
+    "The Trial Court was justified in acquitting the accused persons, as the Trial Court had recorded that there are material contradictions in the statements of PW5 and PW6 recorded by the police u/s. 161 of the Code of Criminal Procedure, 1973 [hereinafter referred to as 'the Code'] and the evidence that was tendered in the Court during the trial.",
+    "The tamancha allegedly used, was a single barrel gun, which needs to be reloaded after firing a single shot and that there was no evidence of such reloading.",
+    "There must be a live link between all the alleged events, in order to prove the guilt of the appellants beyond reasonable doubt, which he would submit, is missing in this case."
+  ],
+  "respondent_arguments": [
+    "If the evidence is read as a whole, there would not be even an iota of doubt left as to the guilt of the appellants.",
+    "Even if portions of the evidence of the hostile witnesses are eschewed from consideration, still it is possible to arrive at the same conclusion as has been done by the High Court.",
+    "The factum of an altercation between the two parties was also established from the evidence on record, and that of the gun shots fired."
+  ],
+  "court_reasoning": [
+    "This Court must not give undue importance to the non-recognition of the weapons by PW5 and PW6 during the trial.",
+    "The panch witnesses have identified the weapons recovered at the instance of the accused during the trial.",
+    "It is reasonable for the eyewitnesses, one of whom was injured in the incident, not to have seen the weapons in the commotion of the incident properly."
+  ],
+  "holding": [
+    "The appeal stands dismissed."
+  ],
+  "cases_cited": [
+    "Abdul Sayeed v. State of M",
+    "Court, in the case of Sunil Kumar Sambhudayal Gupta (Dr.) v. State of Maharashtra",
+    "In the case of Gurbachan Singh v. Satpal Singh",
+    "In the case of Leela Ram v. State of Haryana",
+    "This Court, in the case of Rakesh v. State of M",
+    "We cannot agree. This Court, in the case of Appabhai v. State of Gujarat",
+    "and Bhajan Singh v. State of Haryana",
+    "have behaved or reacted in an unusual manner. In Rana Pratap v. State of Haryana Chinnappa Reddy",
+    "its case beyond reasonable doubt. (Vide Mahendra Pratap Singh v. State of U",
+    "lacks credence and is liable to be discarded. (Vide State v. Sait",
+    "of this, he would rely on the case of Mahendra Pratap Singh v. State of UP",
+    "order to convict him. This court in the case of State of U.P. v. Krishna Gopal",
+    "party's case, material discrepancies do so. (See Syed Ibrahim v. State of A",
+    "settled by catena of decisions of this Court. In Dwarka Dass v. State of Haryana",
+    "the same again without justifiable reasons. (Vide State v. Saravanan"
+  ]
+}

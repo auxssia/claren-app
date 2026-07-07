@@ -1,0 +1,49 @@
+{
+  "case_id": "C2393",
+  "case_name": "M.T.Bhatt v M.K.Pandita and Others",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [],
+  "bench": [],
+  "petitioner": "M.T.Bhatt",
+  "respondent": "M.K.Pandita",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "161"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 226",
+  "court_level": "Supreme Court",
+  "decision_date": "13 February 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "An FIR was registered being no. 3/1997, and that FIR made some allegations against the respondent of commission of offence under section 420/120-B, IPC, in relation to certain allotment of land in Delhi.",
+    "The respondent having invoked jurisdiction of the High Court under Article 226 of the Constitution in Crl. W.P. no. 969/1999, the division bench of Delhi High Court on a detailed examination of the entire materials including the statement recorded in course of investigation quashed the FIR on a conclusion that the allegations in the FIR do not constitute an offence.",
+    "The investigation is complete and challan has been filed.",
+    "The accused respondent has the right to make application for being discharged, if he is of the opinion that the materials collected, in fact, do not make out the offence for which the challan has been filed."
+  ],
+  "issues": [
+    "Whether the High Court exceeded its jurisdiction and the parameters prescribed in a catena of decisions where a Court could be justified in quashing the FIR.",
+    "Whether the court would be justified in quashing an FIR by appreciating and shifting the materials collected during the investigation."
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [
+    "Since the informant-complainant is a retired judge of Allahabad High Court, he is apprehending that he will not get justice before the magistrate."
+  ],
+  "court_reasoning": [
+    "The High Court exceeded its jurisdiction and the parameters prescribed in a catena of decisions where a Court could be justified in quashing the FIR.",
+    "The court would not be justified in quashing an FIR by appreciating and shifting the materials collected during the investigation.",
+    "Notwithstanding the status of the complainant, the magistrate would examine the records and pass appropriate orders in accordance with law."
+  ],
+  "holding": [
+    "We set aside the impugned order of the Delhi High Court and direct that the criminal proceedings pending before the appropriate court may be proceeded with.",
+    "The special leave petition stands disposed of accordingly.",
+    "Petition disposed of."
+  ],
+  "cases_cited": [
+    "M.T.Bhatt v M.K"
+  ]
+}

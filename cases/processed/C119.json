@@ -1,0 +1,67 @@
+{
+  "case_id": "C119",
+  "case_name": "State of Uttar Pradesh v Sukhbasi and Others",
+  "court": "Supreme Court of India",
+  "year": 1985,
+  "judges": [
+    "SEN"
+  ],
+  "bench": [],
+  "petitioner": "State of Uttar Pradesh",
+  "respondent": "Sukhbasi",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "section": "34"
+    },
+    {
+      "section": "449"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "10 May 1985",
+  "outcome": "Unknown",
+  "facts": [
+    "The case involves a brutal and dastardly murder of Lala Bhagwat Dayal and his wife Smt. Ramwati Devi at their house in Chhibramau.",
+    "During the night between December 25/26, 1970, miscreants broke open the iron safe kept in the bedroom of Bhagwat Dayal and removed all gold and silver ornaments worth about Rs. 10 lakhs and cash worth Rs. 22,424/-.",
+    "The respondents Sukhbasi, Ram Sanehi, and Ram Shanker were acquitted by the High Court for the commission of offences with which they were charged.",
+    "The prosecution case against the respondents rests purely on circumstantial evidence."
+  ],
+  "issues": [
+    "Whether the conviction of the respondents by the learned Sessions Judge was proper or not?",
+    "Whether the order of acquittal recorded by the High Court has caused a flagrant miscarriage of justice which warrants an interference?"
+  ],
+  "petitioner_arguments": [
+    "The prosecution case against the respondents rests purely on circumstantial evidence.",
+    "The circumstances relied upon by the prosecution against the principal accused Sukhbasi, Ram Sanehi and Ram Shanker for the charge of commission of murder of the old couple Bhagwat Dayal and his wife Smt. Ramwati Devi and robbery of their gold and silver ornaments are :"
+  ],
+  "respondent_arguments": [
+    "The High Court has with meticulous care analyzed the entire evidence to support its judgment of acquittal.",
+    "There is not an iota of evidence to establish that the three accused prior to the commission of the offences had conspired together with the accused Ashok Kumar and got forged from him the ruqqa (Exh. Ka 42) in the name of Kirpal Singh Munim to secure an entry into the house of the deceased."
+  ],
+  "court_reasoning": [
+    "The heinous manner in which the diabolical act was committed is apt to prejudice one's mind and therefore, we have scrutinized the prosecution evidence with care to determine whether the conviction of the respondents by the learned Sessions Judge for different offences with which they were charged was proper or not or whether the order of acquittal recorded by the High Court has caused a flagrant miscarriage of justice which warrants an interference.",
+    "The circumstances appearing against the accused Ashok Kumar are that the slip (Exh. Ka 42) purported to have been given by Kirpal Singh Munim was in his handwriting and given to the accused Sukhbasi, Ram Sanehi and Ram Shanker by way of introduction."
+  ],
+  "holding": [
+    "We cannot say that this was a case where the only view possible was the one taken by the learned Sessions Judge, namely, that of guilt of the respondents particularly the accused Sukhbasi, Ram Sanehi and Ram Shanker.",
+    "The order of acquittal recorded by the High Court has not caused a flagrant miscarriage of justice which warrants an interference."
+  ],
+  "cases_cited": [
+    "State of Uttar Pradesh v Sukhbasi"
+  ]
+}

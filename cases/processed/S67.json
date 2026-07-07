@@ -1,0 +1,105 @@
+{
+  "case_id": "S67",
+  "case_name": "None",
+  "court": "None",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Employees State Insurance Act",
+      "section": "3"
+    },
+    {
+      "act": "Coal Mines Provident Fund And Miscellaneous Provisions Act",
+      "section": "3A"
+    },
+    {
+      "act": "Life Insurance Corporation Act",
+      "section": "3"
+    },
+    {
+      "act": "Deposit Insurance And Credit Guarantee Corporation Act",
+      "section": "3"
+    },
+    {
+      "act": "Warehousing Corporations Act",
+      "section": "3"
+    },
+    {
+      "act": "Unit Trust Of India Act",
+      "section": "3"
+    },
+    {
+      "act": "Airports Authority Of India Act",
+      "section": "3"
+    },
+    {
+      "act": "Regional Rural Banks Act",
+      "section": "3"
+    },
+    {
+      "act": "National Housing Bank Act",
+      "section": "3"
+    },
+    {
+      "act": "24 Banking Companies Act",
+      "section": "5"
+    },
+    {
+      "act": "Small Industries Development Bank Of India Act",
+      "section": "3"
+    },
+    {
+      "act": "Insurance Act",
+      "section": "2"
+    },
+    {
+      "act": "Khadi And Village Industries Commission Act",
+      "section": "2"
+    },
+    {
+      "act": "Indian Ports Act",
+      "section": "3"
+    },
+    {
+      "act": "Mines Act",
+      "section": "2"
+    },
+    {
+      "act": "Indian Railways Act",
+      "section": "3"
+    },
+    {
+      "act": "And Substituted By Act",
+      "section": "3"
+    },
+    {
+      "act": "And 2Nd Schedule Substituted By Act",
+      "section": "53"
+    },
+    {
+      "act": "And Omitted By Act",
+      "section": "2"
+    },
+    {
+      "act": "Of Act",
+      "section": "2"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [],
+  "cases_cited": []
+}

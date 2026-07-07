@@ -1,0 +1,75 @@
+{
+  "case_id": "C951",
+  "case_name": "Bhutnath Chatterjee v State of West Bengal and Others",
+  "court": "Supreme Court of India",
+  "year": 1969,
+  "judges": [
+    "SHAH, J."
+  ],
+  "bench": [],
+  "petitioner": "Bhutnath Chatterjee",
+  "respondent": "State of West Bengal",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "5"
+    },
+    {
+      "section": "4(1)"
+    },
+    {
+      "section": "18"
+    },
+    {
+      "section": "17(4)"
+    },
+    {
+      "section": "6"
+    },
+    {
+      "section": "11"
+    },
+    {
+      "section": "23"
+    }
+  ],
+  "legal_domain": "Administrative",
+  "legal_subdomain": "Tribunal",
+  "court_level": "Supreme Court",
+  "decision_date": "14 March 1969",
+  "outcome": "Unknown",
+  "facts": [
+    "On January 12 1955, the Government of West Bengal published a Notification under the Land Acquisition Act,1894 (I of 1894), that land was likely to be needed for a public purpose.",
+    "A notification was published on November 12, 1956, that a piece of land measuring more or less 1860.92 acres and comprising cadastral plots as detailed were likely to be needed for the aforesaid public purpose at the public expenses in the district of Burdwan.",
+    "Another notification was published on June 3, 1958, that certain other lands which were no waste or arable lands were likely to be needed for a public purpose.",
+    "Pursuant to those notifications steps were taken for compulsory acquisition of lands belonging to the appellant.",
+    "The Special Land Acquisition Collector awarded to the appellant, for compulsory acquisition of his land, compensation determined on the basis of the market-value prevailing on January 12, 1955.",
+    "At the instance of the appellant a reference was made to the District Court u/s.18 of the Land Acquisition Act.",
+    "The District Judge upheld the contention raised by the appellant that compensation payable for the plots of land notified for acquisition ought to be determined on the basis of the market-value prevailing on November 12, 1956 and June 3, 1958."
+  ],
+  "issues": [
+    "What is the correct date for determining the market-value of the land?",
+    "Can the High Court exercise jurisdiction under Article 227 of the Constitution to revise the decision of the District Court?"
+  ],
+  "petitioner_arguments": [
+    "The compensation payable for the plots of land notified for acquisition ought to be determined on the basis of the market-value prevailing on November 12, 1956 and June 3, 1958.",
+    "There was no absolute rule that where there are successive notifications issued under S.4 compensation must be determined."
+  ],
+  "respondent_arguments": [
+    "The first notification dated January 12, 1955, set out a 'general route for the survey of the lands' likely to be needed for public purpose.",
+    "In the absence of special circumstances when there are successive notifications u/s.4(1) in respect of the same land, the first notification will govern the assessment of the market-value u/s.23 of the Land Acquisition Act."
+  ],
+  "court_reasoning": [
+    "The jurisdiction with which the High Court is invested is not appellate : it cannot seek to correct what it regards as merely an error of law or fact.",
+    "The question in each case is whether there was an intention to supersede the previous notification; and if the Government does not choose to explain the reasons which persuaded it to issue a second notification, the Court may be justified in inferring that it was intended to supersede the earlier notification by the later notification.",
+    "This was not a case in which the jurisdiction of the High Court u/art.227 of the Constitution could be invoked or exercised."
+  ],
+  "holding": [
+    "The order passed by the High Court is set aside.",
+    "We direct that the District court do proceed to determine the compensation payable to the appellant according to law.",
+    "It will be open to the High Court, if an appeal is filed against the award, to consider the question whether the District Court was justified in computing the compensation payable to the appellant u/s.23 firstly, with reference to the date of the notification dated January 12, 1955, or the later notifications."
+  ],
+  "cases_cited": [
+    "Bhutnath Chatterjee v State of West Bengal"
+  ]
+}

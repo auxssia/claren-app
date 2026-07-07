@@ -1,0 +1,38 @@
+{
+  "case_id": "S141",
+  "case_name": "Punishment for kidnapping",
+  "court": "",
+  "year": 0,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "363"
+    },
+    {
+      "section": "3"
+    },
+    {
+      "section": "12"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "Whoever kidnaps any person from [India] or from lawful guardianship, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "Punishment for kidnapping"
+  ],
+  "cases_cited": []
+}

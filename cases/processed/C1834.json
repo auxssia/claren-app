@@ -1,0 +1,67 @@
+{
+  "case_id": "C1834",
+  "case_name": "Shaikh Maqsood v State of Maharashtra",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Shaikh Maqsood",
+  "respondent": "State of Maharashtra\nSupreme Court of India\n\n4  May  2009\nCriminal Appeal No. 898 of 2009 (Arising out of SLP(Crl) No. 690 of 2008)\nThe Judgment was delivered by : Dr. Arijit Pasayat, J.\nLeave granted.\n1.  Challenge in this appeal is to the judgment of a Division Bench of the Bombay High Court at Aurangabad Bench upholding the conviction of the appellant for offences punishable under Section 302 of the Indian Penal Code, 1860 (in short the 'IPC') as recorded by learned Ad hoc Additional Sessions Judge, Biloli, Maharashtra. Appellant faced trial for alleged commission of offence punishable under Sections 498A, 304(B) and 302 IPC for committing murder of his wife Shaheen Begum (hereinafter referred to as the 'deceased'). Trial court acquitted the appellant of the charges relatable to Sections 498A and 304B while recording conviction under Section 302 IPC.\nProsecution version in a nutshell is as follows:\n2. The appellant was married Shaheeb Begum (hereinafter referred to",
+  "citations": [
+    "AIR 1953 SC 468"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "313"
+    },
+    {
+      "act": "The Code",
+      "section": "313"
+    },
+    {
+      "act": "In The Code",
+      "section": "315"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "4 May 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "Shaikh Maqsood was married to Shaheen Begum in the year 1994.",
+    "After marriage, she started residing with her husband at village Hanegon for some period.",
+    "The appellant used to ill-treat her on account of non-fulfilment of demand of dowry.",
+    "He threatened her that he would undergo a second marriage.",
+    "On 22-10-2000 at 03.00 hours, the appellant informed his father-in-law that Shaheen died due to burns.",
+    "The father-in-law and other family members went to the house of the appellant and noticed that Shaheen Begum was lying on the ground and was dead.",
+    "Appellant had poured kerosene on the person of the deceased and set her on fire."
+  ],
+  "issues": [
+    "Whether the circumstantial evidence is sufficient to hold the accused guilty?"
+  ],
+  "petitioner_arguments": [
+    "The case is based on circumstantial evidence.",
+    "Sections 304B and 302 are conceptually different.",
+    "In any event, in the examination under Section 313 of the Code no question was asked even remotely regarding existence of any material to hold the appellant guilty."
+  ],
+  "respondent_arguments": [
+    "The circumstances show that the deceased died due to 80% burn and the death was homicidal has been established as also role of accused and, therefore, the conviction as recorded by the trial court and upheld by the High Court does not suffer from any infirmity."
+  ],
+  "court_reasoning": [
+    "The purpose of Section 313 of the Code is set out in its opening words- 'for the purpose of enabling the accused to explain any circumstances appearing in the evidence against him'.",
+    "The object of examination under this Section is to give the accused an opportunity to explain the case made against him.",
+    "Where there is an onus on the accused to discharge, it depends on the facts and circumstances of the case if such statement discharges the onus."
+  ],
+  "holding": [
+    "The appeal is allowed. The appellant be set at liberty forthwith unless required to be in custody in connection with any other case."
+  ],
+  "cases_cited": []
+}

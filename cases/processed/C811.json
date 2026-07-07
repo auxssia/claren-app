@@ -1,0 +1,63 @@
+{
+  "case_id": "C811",
+  "case_name": "State of Rajasthan and Another v Rajendra Kumar Godika and Others",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [
+    "Jagdish Saran Verma"
+  ],
+  "bench": [],
+  "petitioner": "State of Rajasthan and Another",
+  "respondent": "Rajendra Kumar Godika",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "18 February 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "These appeals by special leave are by the State of Rajasthan and certain candidates whose promotions are adversely affected by the impugned judgment of the Rajasthan High Court.",
+    "The dispute in the writ petitions filed in the High Court was between members of the Rajasthan Educational Service belonging to Group 'E' and Group 'F pertaining to their rival claims for promotion to the posts of principal Higher Secondary School, which posts are in Group 'D', Section-II of the Rajasthan Educational Service.",
+    "The dispute between these two groups arises from the fact that in the Rajasthan Educational Service Rules, 1970 (hereinafter referred to as 'the Rules'), the aforesaid two groups-'E' and 'F'-are clubbed together as the feeder cadre for promotion to Group 'D', Section-II, even though in the service hierarchy the lowest is Group 'F', above which is Group 'E' and then comes Group 'D'.",
+    "In the writ petitions filed in the High Court, the writ petitioners challenged the Constitutional validity of this provision in the Rules clubbing together Group 'E' and Group 'F for the purpose of promotion to Group 'D'."
+  ],
+  "issues": [
+    "Whether the impugned judgment of the Rajasthan High Court is correct in holding that the provision in the Rajasthan Educational Service Rules, 1970 clubbing together Group 'E' and Group 'F for the purpose of promotion to Group 'D', Section-II violates the equality clause.",
+    "Whether the State Government's policy of promoting members of Group 'F' to posts in Group 'D', Section-II without considering the seniority of members of Group 'E' is fair and reasonable."
+  ],
+  "petitioner_arguments": [
+    "The Rules require preparation of a combined seniority list of eligible members of Group 'E' and 'F and prescribed the placing of those in Group 'E' en bloc above the persons belonging to Group 'F';",
+    "It is also prescribed that amongst those selected for promotion to Group 'D', the preexisting inter se seniority within the Group and also between the two groups is to be maintained, that is, all those from Group 'E' are to rank above those from Group 'F'."
+  ],
+  "respondent_arguments": [
+    "Ex-facie clubbing of Group 'F', a lower cadre, with Group 'E' for promotion to Group 'D', Section-II violates the equality clause.",
+    "The explanation now given by the State Government to justify the promotions made is not based on a policy adopted and followed, but on the fortuitous circumstances which have emerged from the results of the promotions."
+  ],
+  "court_reasoning": [
+    "We are satisfied that the net result of the working of the Rules in accordance with the principle adopted has been fair and it cannot be held that those not selected for promotion in Group 'E' have been dealt with unfairly, in any manner, to justify quashing the promotions made at this selection.",
+    "It would be advisable for the State Government to lay down more clearly its policy for the future to avoid even the semblance of treating unequals as equals for the purpose of promotion."
+  ],
+  "holding": [
+    "We do hope that the State Government would take advantage of the experience gained from this litigation to dispel the misapprehension from the minds of a section of its employees who think that the State's action is not fair.",
+    "The High Court was denied the benefit of the material which the State Government placed before us, on our directions, which enabled us to remove the gloss of seeming inequality in the policy adopted under the Rules read with the guidelines for its working."
+  ],
+  "cases_cited": [
+    "In Chiranjit Lal Chowdhuri v. The",
+    "In Mohd. Hanif Quareshi & Others v. The",
+    "PART V PROCEDURE FOR RECRUITMENT BY PROMOTION Eligibility",
+    "Reference may also be made to Md. Usman & Ors. v. State of Andhra Pradesh &",
+    "Schedule IV for Institutions of Language Studies. Schedule V for Institutions of Physical Education",
+    "State of Rajasthan and Another v Rajendra Kumar Godika",
+    "b) by promotion in accordance with the provisions of Part V of these rules",
+    "making the challenge when they failed to get selected. Shri V. M. Tarkunde"
+  ]
+}

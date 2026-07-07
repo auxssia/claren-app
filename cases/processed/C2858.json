@@ -1,0 +1,54 @@
+{
+  "case_id": "C2858",
+  "case_name": "Binod Bihari Mahato v State of Bihar and Others",
+  "court": "Supreme Court of India",
+  "year": 1974,
+  "judges": [
+    "P. N. Bhagwati"
+  ],
+  "bench": [],
+  "petitioner": "Binod Bihari Mahato",
+  "respondent": "State of Bihar",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Maintenance Of Internal Security Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "1 October 1974",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner, an advocate practising in the courts in Dhanbad in the State of Bihar, has filed a petition challenging the validity of an order of detention made by the District Magistrate, Dhanbad under section 3 of the Maintenance of Internal Security Act, 1971.",
+    "The case of the petitioner is that he is a prominent public figure in the District of Dhanbad and has been associated with numerous social, educational and political institutions in the district.",
+    "The order of detention was made on March 18, 1974, and the grounds of detention were that the petitioner had been propagating communal hatred between Adibasis and outsiders (Biharis) and also between Adibasis and non-Adibasis for quite some time.",
+    "The grounds of detention also included instances where the petitioner had instigated the Adibasis to take up arms and laws in their own hands, which had resulted in public order being disturbed several times at several places."
+  ],
+  "issues": [
+    "Whether the order of detention was valid",
+    "Whether the District Magistrate applied his mind with any seriousness to the acts alleged in the grounds of detention against the petitioner"
+  ],
+  "petitioner_arguments": [
+    "The order of detention was not based on any serious consideration by the District Magistrate.",
+    "The grounds of detention were vague and did not specify any particular act or activity that had been committed by the petitioner."
+  ],
+  "respondent_arguments": [
+    "The order of detention was necessary to prevent the petitioner from acting in any manner prejudicial to the maintenance of public order.",
+    "The grounds of detention were based on specific instances where the petitioner had instigated the Adibasis to take up arms and laws in their own hands, which had resulted in public order being disturbed."
+  ],
+  "court_reasoning": [
+    "The Court held that the order of detention was not valid as it did not show any serious consideration by the District Magistrate.",
+    "The Court also held that the grounds of detention were vague and did not specify any particular act or activity that had been committed by the petitioner."
+  ],
+  "holding": [
+    "The petition is allowed, and the order of detention is declared invalid."
+  ],
+  "cases_cited": [
+    "Binod Bihari Mahato v State of Bihar",
+    "and Akshoy Konai v. State of West Bengal A",
+    "in view of the decisions of this Court in Kishori Mohan Bera v. The"
+  ]
+}

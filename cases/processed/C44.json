@@ -1,0 +1,54 @@
+{
+  "case_id": "C44",
+  "case_name": "Kanpur Nagar Mahapalika v Messrs Narain Das Haribansh",
+  "court": "Supreme Court of India",
+  "year": 1969,
+  "judges": [
+    "A. N. Ray"
+  ],
+  "bench": [],
+  "petitioner": "Kanpur Nagar Mahapalika",
+  "respondent": "Messrs Narain Das Haribansh\nSupreme Court of India\n\n20 August 1969\nCivil Appeal No. 1749 of 1966. Appeal from the judgment and decree dated May 3, 1962 of the Allahabad High Court in F.A.F.O. No. 330 of 1960.\nThe Judgment was delivered by : A. N. Ray, J.\n1. This is an appeal from the judgment dated 3rd May, 1962 passed by the High Court at Allahabad reversing the order of the Civil Judge setting aside an award. The appellant was formerly known as Municipal Board, Kanpur and thereafter as Kanpur Nagar Mahapalika. The appellant in the former name of Municipal Board, Kanpur and the respondent entered into, a contract in writing for construction of zone pumping stations and reservoirs at Kanpur. One of the clauses in the said agreement in writing contained an arbitration agreement between the parties.\n2. The respondent filed original suit No. 45 of 1946 in the Court of Civil and Sessions Judge, Kanpur, against the Municipal Board, Kanpur and claimed a sum of Rs. 6",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Arbitration Act",
+      "section": "34"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "20 August 1969",
+  "outcome": "Unknown",
+  "facts": [
+    "This is an appeal from the judgment dated 3rd May, 1962 passed by the High Court at Allahabad reversing the order of the Civil Judge setting aside an award.",
+    "The appellant was formerly known as Municipal Board, Kanpur and thereafter as Kanpur Nagar Mahapalika.",
+    "The respondent filed original suit No. 45 of 1946 in the Court of Civil and Sessions Judge, Kanpur, against the Municipal Board, Kanpur and claimed a sum of Rs. 60,802-4-9 representing the claims on account of balance sum due according to the final bills, interest on the amount due, refund of security deposit and interest thereon.",
+    "The suit was instituted in the year 1946.",
+    "The Municipal Board, Kanpur thereafter made an application under section 34 of the Arbitration Act, 1940 for stay of the suit contending that the suit related to a matter agreed to be referred to arbitration."
+  ],
+  "issues": [
+    "Whether the award in the present case was bad by reason of an error apparent on the face of the award.",
+    "Whether the arbitrator misconducted himself in the proceedings by not properly considering and deciding that the claim of the plaintiff was barred by s. 326 of the U.P. Act 2 of 1916."
+  ],
+  "petitioner_arguments": [
+    "The award does not lay down any proposition of law on the question of limitation.",
+    "The arbitrator should have specifically dealt with the question of limitation.",
+    "It is sufficient if the arbitrator gives an award on the whole case and he need not deal with each issue separately."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "In our view all that is necessary for an award to disclose an error on the face of it is that it must contain either in itself or in some paper intended to be incorporated in it, some legal proposition which on the face of it and without more, can be said to be erroneous.",
+    "It cannot be predicated of the award that there is any proposition of law forming the basis of the award, and, therefore, it cannot be said that there is any error apparent on the face of the award."
+  ],
+  "holding": [
+    "The appeal fails and is dismissed with costs.",
+    "For the reasons mentioned above"
+  ],
+  "cases_cited": [
+    "This Court in the case of Dr. S. Dutt v. University of Delhi",
+    "This Court in the case of Messrs. Alopi Parshad and Sons Ltd. v. Union of India",
+    "the Municipalities Act. Lord Dunedin in Champsey Bhara & Co. v. Jivraj Balloo Spinning"
+  ]
+}

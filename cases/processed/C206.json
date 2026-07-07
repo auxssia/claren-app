@@ -1,0 +1,78 @@
+{
+  "case_id": "C206",
+  "case_name": "Naresh Kumar v State of Maharashtra",
+  "court": "Supreme Court of India",
+  "year": 1980,
+  "judges": [
+    "FAZAL ALI"
+  ],
+  "bench": [],
+  "petitioner": "Naresh Kumar",
+  "respondent": "State of Maharashtra\nSupreme Court of India\n\n1 February 1980\nCr.A. No. 327 of 1975.\nThe Judgment was delivered by: FAZAL ALI, J.\n1. This appeal u/s. 2 of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970 is directed against the judgment of the Bombay High Court convicting the appellant Naresh Kumar u/s. 302 read with S. 34 to imprisonment for life and u/s. 376 read with S. 34 of the Indian Penal Code to five years' rigorous imprisonment. The appellant was acquitted of all the charges by the trial Court mainly on the ground that he was not properly identified. The State filed an appeal against the acquittal of the appellant, before the High Court as a result of which the High Court reversed the acquittal and convicted the appellant as indicated above. Hence, this appeal.\n2. The facts of the case are detailed in the judgment of the trial Court and the High Court. The incident took place on the night between September 16 and 17, 1972, when in the",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "2"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "376"
+    },
+    {
+      "act": "Indian Penal Code"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "1 February 1980",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal u/s. 2 of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970 is directed against the judgment of the Bombay High Court convicting the appellant Naresh Kumar u/s. 302 read with S. 34 to imprisonment for life and u/s. 376 read with S. 34 of the Indian Penal Code to five years' rigorous imprisonment.",
+    "The incident took place on the night between September 16 and 17, 1972, when in the absence of PW 1, Suresh, the husband of the deceased Gayabai, the four accused entered the house of Suresh where the deceased was sleeping along with PWs 4 and 5 whom she had called to give her company as her husband had gone out.",
+    "The trial Court had accepted the evidence of PW 4 and 5 which appears to be the central evidence in the case and had acquitted the appellant mainly on two grounds.",
+    "In fact, so far as the question of identification is concerned the trial Court itself gave a finding that the light was sufficient for identification but he conjectured that there may be some mistake in identification as the witnesses may have had a fleeting glimpse of the appellant.",
+    "As regards the presence of the accused in the crowd which assembled some time after the offence the High Court has rightly explained this fact on the ground that as the appellant was an influential person he may have been present amongst the crowd firstly to prove his so-called innocence and secondly to keep a watch and vigil on the children PWs 4 and 5 lest they may disclose anything about the offence to the members of the crowd or to the police.",
+    "The post-mortem report shows that although no external injuries were found by the doctor on the person of the deceased but there were bruises and other kinds of injuries on her private parts.",
+    "There is however no evidence to indicate the complicity of the appellant in the actual act of murder.",
+    "This is, however, a pure surmise and the appellant cannot be convicted on mere speculation.",
+    "The evidence of PW 9 cannot be accepted because he admits in his statement that in spite of being questioned by the police day after day he kept quiet and did not disclose these facts until four months were over.",
+    "We have gone through the evidence of PW 9 and his evidence does not impress us on this point.",
+    "In the case of circumstantial evidence no such presumption can be drawn unless the circumstances proved are completely incompatible with the innocence of the accused."
+  ],
+  "issues": [
+    "What is the legal basis for convicting the appellant?",
+    "Can the trial Court's reasons for acquitting the appellant be sustained?",
+    "Is there sufficient evidence to connect the appellant with the murder of the deceased?",
+    "Can the conviction be based on mere speculation?"
+  ],
+  "petitioner_arguments": [
+    "The trial Judge was impressed by the fact that the appellant was seen amongst the crowd soon after the offence which the trial Court thought was inconsistent with his guilt.",
+    "The Sessions Judge thought that it would not have been possible for the witnesses at midnight to identify the appellant.",
+    "The trial Judge observed as follows :These two witnesses may have had a fleeting glimpse of accused 1, Naresh Kumar, even though the light was itself not insufficient to make identification impossible.",
+    "Both these witnesses have consistently stated that the appellant along with other accused dragged away the deceased and that some of the accused threatened these witnesses that they should not disclose these facts to anybody as a result of which both these witnesses remained silent for some time."
+  ],
+  "respondent_arguments": [
+    "There is clear evidence of PW 9 that the appellant along with the other accused was found carrying the dead body and therefore it must be inferred that the appellant also shared the common intention to murder the deceased.",
+    "The evidence of PW 9 cannot be accepted because he admits in his statement that in spite of being questioned by the police day after day he kept quiet and did not disclose these facts until four months were over.",
+    "Since the appellant was a party to the dragging of the deceased he must be presumed to have committed the murder.",
+    "In the case of circumstantial evidence no such presumption can be drawn unless the circumstances proved are completely incompatible with the innocence of the accused."
+  ],
+  "court_reasoning": [
+    "The main reasons given by the trial Court are legally erroneous.",
+    "The High Court has rightly pointed out that the main reasons given by the trial Court are legally erroneous.",
+    "We find ourselves in complete agreement with the reasons given by the High Court for reversing the acquittal of the appellant and we are also satisfied that no other reasonable view was possible in the circumstances.",
+    "In the case of circumstantial evidence no such presumption can be drawn unless the circumstances proved are completely incompatible with the innocence of the accused.",
+    "The appellant therefore cannot be convicted of murder.",
+    "We have gone through the evidence of PW 9 and his evidence does not impress us on this point.",
+    "In the case of circumstantial evidence no such presumption can be drawn unless the circumstances proved are completely incompatible with the innocence of the accused."
+  ],
+  "holding": [
+    "We allow the appeal to this extent that we set aside the conviction and sentence of the appellant under Sections 302/34 and acquit him of these charges.",
+    "But we maintain his conviction under Sections 376/34, Indian Penal Code, but reduce his sentence to the period already served as we understand that he has served more than four years.",
+    "The appeal is accordingly disposed of."
+  ],
+  "cases_cited": []
+}

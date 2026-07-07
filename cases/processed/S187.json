@@ -1,0 +1,37 @@
+{
+  "case_id": "S187",
+  "case_name": "Disqualifications for membership",
+  "court": "",
+  "year": 1985,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "5"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "A person shall be disqualifed for being chosen as, and for being, a member of the Legislative Assembly or Legislative Council of a State",
+    "The following are grounds for disqualification: holding any office of profit under the Government of India or the Government of any State specified in the First Schedule, being of unsound mind and stands so declared by a competent court, being an undischarged insolvent, not being a citizen of India, or having voluntarily acquired the citizenship of a foreign State, or being under any acknowledgment of allegiance or adherence to a foreign State",
+    "The Constitution (Fifty-second Amendment) Act, 1985 , Section 5, substituted and inserted certain provisions"
+  ],
+  "issues": [
+    "What are the grounds for disqualification from being a member of the Legislative Assembly or Legislative Council of a State?"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "A person shall be disqualified for being chosen as, and for being, a member of the Legislative Assembly or Legislative Council of a State if he holds any office of profit under the Government of India or the Government of any State specified in the First Schedule, other than an office declared by the Legislature of the State by law not to disqualify its holder;",
+    "A person shall be disqualified for being a member of the Legislative Assembly or Legislative Council of a State if he is so disqualified under the Tenth Schedule."
+  ],
+  "cases_cited": []
+}

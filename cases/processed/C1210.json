@@ -1,0 +1,64 @@
+{
+  "case_id": "C1210",
+  "case_name": "Jagan M. Seshadri v State of Tamil Nadu",
+  "court": "Supreme Court of India",
+  "year": 2001,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Jagan M. Seshadri",
+  "respondent": "State of Tamil Nadu\nSupreme Court of India\n\n25 September 2001\nCr.A. No. 169 of 1999, Dt. 25 September 2001.\nThe Order of the Court was as follows:\n1.  On the allegations that during the check period from 11-5-1977 to 31-3-1984, the appellant, who, at the relevant time, was serving as a Superintendent of Police, had acquired assets disproportionate to his known source of income, First Information Report was lodged on 18-6-1986 by the Superintendent of Police, Western Range, Vigilance and Anti-Corruption, Madras alleging commission of offence under S. 5(1)(d) and (e) read with S. 5(2) of the Prevention of Corruption Act, 1947. The appellant, after the prosecution obtained requisite sanction, was sent up for trial. Charges were framed and evidence was led. The learned IVth Additional Special Judge, Madras, on appreciation of evidence, both documentary and oral, vide judgment dated 9-7-1990, acquitted the appellant of all the charges by a detailed judgment.\nAggrieved by",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    },
+    {
+      "section": "30(2)"
+    },
+    {
+      "section": "13"
+    },
+    {
+      "section": "50"
+    },
+    {
+      "section": "40"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "25 September 2001",
+  "outcome": "Unknown",
+  "facts": [
+    "During the check period from 11-5-1977 to 31-3-1984, the appellant, who was serving as a Superintendent of Police, had acquired assets disproportionate to his known source of income.",
+    "A First Information Report (FIR) was lodged on 18-6-1986 by the Superintendent of Police, Western Range, Vigilance and Anti-Corruption, Madras alleging commission of offence under S.5(1)(d) and (e) read with S.5(2) of the Prevention of Corruption Act, 1947.",
+    "The appellant was sent up for trial after obtaining requisite sanction from the prosecution.",
+    "Charges were framed and evidence was led in the trial court."
+  ],
+  "issues": [
+    "Whether the charge framed by the trial court under S.5(1)(e) of the Prevention of Corruption Act, 1947 was valid or not",
+    "Whether the High Court correctly held that the appellant should have been charged under S.13(1)(e) read with S.13(2) of the Prevention of Corruption Act, 1988"
+  ],
+  "petitioner_arguments": [
+    "The explanation offered by the appellant regarding receipt of Rs.50,000/- and Rs.40,000/- from his mother-in-law was not accepted by the High Court",
+    "The evidence of P.W.19, P.W.27, P.W.30, and P.W.31 clearly support the explanation given by the appellant"
+  ],
+  "respondent_arguments": [
+    "The charge framed by the trial court under S.5(1)(e) of the Prevention of Corruption Act, 1947 was invalid",
+    "The High Court correctly held that the appellant should have been charged under S.13(1)(e) read with S.13(2) of the Prevention of Corruption Act, 1988"
+  ],
+  "court_reasoning": [
+    "The High Court failed to deal with various reasons given by the trial court in support of an order of acquittal",
+    "The explanation offered by the appellant has not been accepted by the High Court",
+    "The High Court was dealing with an appeal against acquittal and should have dealt with various grounds on which acquittal had been based"
+  ],
+  "holding": [
+    "The judgment of the High Court reversing a well-merited order of acquittal recorded by the trial court cannot be sustained",
+    "The order of the trial court is hereby restored",
+    "The appeal is accordingly allowed"
+  ],
+  "cases_cited": [
+    "In fairness to Mr. T. L. V. Iyer"
+  ]
+}

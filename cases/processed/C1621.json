@@ -1,0 +1,81 @@
+{
+  "case_id": "C1621",
+  "case_name": "P. Venkateswarlu v State of A.P. and others",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [
+    "Arun Kumar"
+  ],
+  "bench": [],
+  "petitioner": "P. Venkateswarlu",
+  "respondent": "State of A.P.",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "149"
+    },
+    {
+      "section": "148"
+    },
+    {
+      "section": "323"
+    },
+    {
+      "section": "2"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "10 December 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "24 persons were charged and tried by the First Additional Sessions Judge, Guntur, State of Andhra Pradesh.",
+    "Seven charges were framed.",
+    "The charge under Section 302 was for the murder of Kota Subbarao while the charges under Sections 323 and 324 were directed against some of the other accused persons.",
+    "The learned Additional Sessions Judge convicted accused A.1 to A.5 and A.7 for offences under Sections 148, 302 read with Section 149 IPC and sentenced each of them to three months' rigorous imprisonment under Section 148 IPC and to undergo life imprisonment for offences under Section 302 read with Section 149 IPC.",
+    "For the charges framed under Section 323 and 324, all the accused were acquitted.",
+    "The prosecution case is that admittedly there are two factions in the village Manchala District Guntur.",
+    "About four months prior to the Assembly Elections held in November, 1989, the deceased was beaten by A.2 and others.",
+    "On the night of 20th April, 1990, a drama was being staged in the village in which both the political factions were participating.",
+    "The 24 accused who were armed with weapons including battle axes, spears, iron rods, sticks and soda bottles, chased the deceased.",
+    "When they reached near the house of Chandu Paramaiah, A.1 and A.2 gave axe blows on the head of the deceased."
+  ],
+  "issues": [
+    "Whether the High Court erred in acquitting all the accused persons?",
+    "Whether the FIR was delayed or fabricated?",
+    "Whether the eye-witnesses were interested witnesses and therefore unreliable?",
+    "Whether there is a discrepancy between medical and oral evidence regarding injuries suffered by the deceased?"
+  ],
+  "petitioner_arguments": [
+    "The FIR, Ex.P.6 was not delayed and could be supported by the evidence of PW 1 who lodged the FIR.",
+    "The eye-witnesses were not interested witnesses and their account of the incident given by the eye-witnesses is consistent and tallies with each other.",
+    "There is no reason to doubt the statements of the eye-witnesses as they are natural, consistent and supported by other evidence on record."
+  ],
+  "respondent_arguments": [
+    "The FIR was delayed and could be result of deliberations.",
+    "The eye-witnesses were interested witnesses and therefore unreliable.",
+    "There is a discrepancy between medical and oral evidence regarding injuries suffered by the deceased."
+  ],
+  "court_reasoning": [
+    "We are inclined to accept the argument of the learned counsel for the appellant that no fault can be found with the FIR, Ex.P.6.",
+    "The account of the incident given by the eye-witnesses is consistent and tallies with each other.",
+    "Some of the eye-witnesses themselves received injuries in the course of the incident which establishes their presence on the scene of occurrence.",
+    "When, as in the present case, the eye-witness account given by all the eye-witnesses is natural, consistent and supported by other evidence on record, there is no reason to doubt the statements of the eye-witnesses."
+  ],
+  "holding": [
+    "The High Court erred in acquitting all the accused persons.",
+    "The FIR was not delayed or fabricated.",
+    "The eye-witnesses were not interested witnesses and their account of the incident given by the eye-witnesses is consistent and tallies with each other.",
+    "There is no reason to doubt the statements of the eye-witnesses as they are natural, consistent and supported by other evidence on record."
+  ],
+  "cases_cited": [
+    "P. Venkateswarlu v State of A"
+  ]
+}

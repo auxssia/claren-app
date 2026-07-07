@@ -1,0 +1,67 @@
+{
+  "case_id": "C710",
+  "case_name": "Ramesh Chandra Sinha and Others v State of Bihar and Others",
+  "court": "Supreme Court of India",
+  "year": 2003,
+  "judges": [
+    "Shivaraj V. Patil"
+  ],
+  "bench": [],
+  "petitioner": "Ramesh Chandra Sinha and Others",
+  "respondent": "State of Bihar",
+  "citations": [
+    "1994 TILL 5"
+  ],
+  "statutes": [
+    {
+      "act": "Criminal Procedure Code",
+      "section": "468"
+    },
+    {
+      "act": "The Code",
+      "section": "473"
+    },
+    {
+      "act": "Code And As Such There Was No Need To Exercise The Jurisdiction Under Section 482 Of The Code",
+      "section": "473"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "18 August 2003",
+  "outcome": "Unknown",
+  "facts": [
+    "In this appeal, the appellants have questioned the legality, validity and correctness of the impugned order.",
+    "The appellant no. 1 was the Chairman of the Bihar State Pollution Control Board, Patna.",
+    "Prior to joining the Board, he served as Professor in the Department of Geology, Patna University and he had teaching experience of 26 years.",
+    "On account of certain irregularities and misconduct, he was dismissed from service after holding enquiry.",
+    "He challenged the order of dismissal before the High Court in a writ petition.",
+    "He lodged the F.I.R. at Harijan Police Station (Patna Sadar) alleging that right from the day he filed the writ petition, he was pressurized by the officials of the Pollution Control Board to withdraw the said writ petition.",
+    "He complained that on 30.11.1992, the appellant no. 1 had abused and scolded him.",
+    "Subsequently on 28.10.1993, he was beaten by the other appellants."
+  ],
+  "issues": [
+    "The legality, validity and correctness of the impugned order",
+    "Whether taking of cognizance was barred under Section 468(2) of the Code"
+  ],
+  "petitioner_arguments": [
+    "That the charge-sheet having been filed after a period of three years, taking of cognizance was barred under Section 468(2) of the Code",
+    "That the CJM as well as the High Court committed serious error in refusing to quash the criminal proceedings"
+  ],
+  "respondent_arguments": [
+    "That in spite of stay order passed by the High Court, at one stage the learned Magistrate had taken cognizance but subsequently recalled the order realizing the mistake",
+    "That the delay was condoned by the discretion of the Magistrate while taking cognizance and under the circumstances, the impugned order need not be interfered with"
+  ],
+  "court_reasoning": [
+    "The CJM as well as the High Court committed serious error in upholding taking cognizance when it is clearly barred by Section 468(2) of the Code",
+    "The delay was condoned by the discretion of the Magistrate while taking cognizance and under the circumstances, the impugned order need not be interfered with"
+  ],
+  "holding": [
+    "The appeal is allowed. The impugned order is set aside and the criminal proceedings in P.S. Case No. 16/94 in the court of CJM, Patna, are quashed."
+  ],
+  "cases_cited": [
+    "Ramesh Chandra Sinha and Others v State of Bihar",
+    "Shivaraj V. Patil"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_id": "S61",
+  "case_name": "Right of Equality",
+  "court": "",
+  "year": 1971,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "368"
+    },
+    {
+      "section": "2"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Fundamental Rights",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The Right of Equality is a fundamental right.",
+    "All laws in force in the territory of India immediately before the commencement of this Constitution shall be void to the extent of their inconsistency with the provisions of this Part.",
+    "The State shall not make any law which takes away or abridges the rights conferred by this Part and any law made in contravention of this clause shall, to the extent of the contravention, be void."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "In so far as they are inconsistent with the provisions of this Part, shall, to the extent of such inconsistency, be void.",
+    "The State shall not make any law which takes away or abridges the rights conferred by this Part and any law made in contravention of this clause shall, to the extent of the contravention, be void."
+  ],
+  "holding": [
+    "All laws in force in the territory of India immediately before the commencement of this Constitution, in so far as they are inconsistent with the provisions of this Part, shall, to the extent of such inconsistency, be void.",
+    "The State shall not make any law which takes away or abridges the rights conferred by this Part and any law made in contravention of this clause shall, to the extent of the contravention, be void."
+  ],
+  "cases_cited": []
+}

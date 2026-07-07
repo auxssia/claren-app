@@ -1,0 +1,101 @@
+{
+  "case_id": "C867",
+  "case_name": "V.C. Banaras Hindu University and Others v Shrikant",
+  "court": "Supreme Court of India",
+  "year": 2006,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "V.C. Banaras Hindu University and Others",
+  "respondent": "Shrikant\nSupreme Court of India\n\n12  May  2006\nAppeal (civil) 4147 of 2003, With Civil Appeal No. 248 of 2004\nThe Judgment was delivered by : S. B. Sinha, J.\n1. Banaras Hindu University was constituted under the Banaras Hindu University Act No. XVI of 1915. ('the Act'). the Act contains Constitution of various bodies functioning thereunder. Section 10 of the Act, inter alia, provides for Constitution of an Executive Council as an executive body to be in-charge of the management and administration of the revenue and property of the University and conduct of all administrative affairs thereof, not otherwise provided for. Section 17 of the Act lays down the mode and manner in which the Statutes of the University are to be framed subject to the provisions of the Act which includes all appointments, powers, duties and affairs of the University. Section 18 of the Act provides for ordinance making power in respect of the matters enumerated thereunder",
+  "citations": [
+    "1990 3 SCC 182",
+    "1993 3 SCC 259",
+    "1998 6 SCC 538",
+    "2000 7 SCC 529",
+    "2001 1 SCC 214",
+    "2001 1 SCC 61",
+    "2002 6 SCC 552",
+    "2004 2 SCC 297",
+    "2005 5 SCC 337",
+    "AIR 1966 SC 492",
+    "AIR 1971 SC 1409",
+    "AIR 1988 SC 686",
+    "AIR 1989 SC 568"
+  ],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "10"
+    },
+    {
+      "act": "Act Lays Down The Mode And Manner In Which The Statutes Of The University Are To Be Framed Subject To The Provisions Of The Act",
+      "section": "17"
+    },
+    {
+      "act": "The Act",
+      "section": "18"
+    },
+    {
+      "act": "Or 18 Of The Act",
+      "section": "17"
+    },
+    {
+      "act": "Act Must Be Those In Respect Whereof No Specific Provision Exists In The Act",
+      "section": "10"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "12 May 2006",
+  "outcome": "Unknown",
+  "facts": [
+    "Banaras Hindu University was constituted under the Banaras Hindu University Act No. XVI of 1915.",
+    "Dr. Shrikant, the Respondent herein, was appointed as Lecturer in Ophthalmology, Institute of Medical Sciences, Banaras Hindu University, Varanasi.",
+    "The Respondent desired to assist his wife in joining her fellowship as also to attend the Retina meeting from 7th to 9th April, 2000 at Frankfurt, Germany as well as the Annual Congress of Royal College of Ophthalmology at Harrowgate, United Kingdom from 23-24th May, 2000.",
+    "The Respondent filed a writ petition before the High Court of Allahabad, which was disposed of by an order dated 14 July 2000 directing the Vice Chancellor of the University to consider the said representation sympathetically and for a period of six weeks the impugned order dated 20/22 May 2000 was stayed.",
+    "The Respondent filed a representation pursuant thereto before the Executive Council on 15 March 2001."
+  ],
+  "issues": [
+    "Whether the University's decision to terminate the Respondent's services was valid in law?",
+    "Whether the Respondent's absence from duties without prior sanction/permission of the competent authority constitutes 'misconduct' and action shall be initiated as per rules?"
+  ],
+  "petitioner_arguments": [
+    "The University, having regard to the provisions contained in Section 10 as also the Ordinance making power, could have passed an execution instruction creating a legal fiction that any member of faculty who wants to go abroad without the permission of the Vice Chancellor or without obtaining leave would be deemed to have abandoned his service.",
+    "Having regard to the fact that the High Court had directed the Executive Council to dispose of the Respondent's representation which having been done by resolution dated 9 January 2003 and the same having been confirmed on 23 March 2003 and the same having not been challenged by the writ petitioners, the impugned judgment cannot be sustained.",
+    "The High Court should have remitted the matter back to the disciplinary authority for imposing appropriate punishment on the Respondent."
+  ],
+  "respondent_arguments": [
+    "The University admittedly did not proceed on the basis that the Respondent committed an act of misconduct.",
+    "By reason of the impugned circulars, the Vice Chancellor had not been conferred with the power to declare the services of an employee of the University have been abandoned.",
+    "Even if it be held that the said circulars were valid in law the principles of natural justice were required to be complied with."
+  ],
+  "court_reasoning": [
+    "The University is a creature of the said Act. It can make statutes and ordinances by way of subordinate legislation to deal with the subjects enumerated therein.",
+    "Statute 20 provides for the 'Penalties and Disciplinary Authorities'.",
+    "It covers minor and major penalties."
+  ],
+  "holding": [
+    "The fact situation obtaining in this case is entirely different. Not only the Respondent made all attempts to join his duties, but, the situation prevented him from doing so beyond his control."
+  ],
+  "cases_cited": [
+    "Assam Sillimanite Ltd. v. Union of India",
+    "In DDA and Ors. v. Joginder S",
+    "In K.I. Shephard & Ors. etc. etc. v. Union of India &",
+    "In Lakshmi Precision Screws Ltd. v. Ram Bhagat",
+    "In State of Madhya Pradesh & Anr. v. M/s",
+    "In Uptron India Ltd. v. Shammi Bhan &",
+    "In the case of Deokinandan Prasad v. State of Bihar",
+    "The said legal position was reiterated in Scooters India Ltd. v. M. Mohammad Yaqub &",
+    "a three-Judge Bench decision of this Court, in D.K. Yadav v. JMA Industries Ltd",
+    "and Deokinandan Prasad v. State of Bihar",
+    "and H.L.Trehan v. Union of India",
+    "before the Patna High Court in Sobhana Das Gupta v. The",
+    "came up for consideration yet again in Viveka Nand Sethi v. Chairman",
+    "fails to do so, as was the case in Punjab & Sind Bank & Ors. v. Sakattar Singh",
+    "upon the decision of this Court in Aligarh Muslim University v. Mansoor Ali Khan",
+    "wherein the said Rule was struck down relying on Jai Shanker v. State of Rajasthan"
+  ]
+}

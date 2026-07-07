@@ -1,0 +1,72 @@
+{
+  "case_id": "C1704",
+  "case_name": "Deepak Pahwa and Others v Lt. Governer of Delhi and Others",
+  "court": "Supreme Court of India",
+  "year": 1984,
+  "judges": [
+    "Chinnappa Reddy"
+  ],
+  "bench": [],
+  "petitioner": "Deepak Pahwa and Others",
+  "respondent": "Lt. Governer of Delhi",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "5"
+    },
+    {
+      "section": "17"
+    },
+    {
+      "section": "9"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "22 August 1984",
+  "outcome": "Unknown",
+  "facts": [
+    "The judgment was delivered by Chinnappa Reddy, J.",
+    "A combined notification under ss. 4 and 17 and a declaration under s. 6 of the Land Acquisition Act were published in the Delhi Extraordinary Gazette on 18.6.1984",
+    "Public Notice of the substance of the notification under s. 4 was alleged to have been given in the locality on 17.7.1984",
+    "A Writ Petition was filed in the Delhi High Court impugning the notification and the declaration on two grounds"
+  ],
+  "issues": [
+    "Whether the delay of 29 days in giving public notice of the substance of notification in the locality after the publication of the notification under s. 4 in the Gazette was fatal to the notification itself",
+    "Whether the very circumstance that a period of eight years was spent in interdepartmental discussion showed that there was no urgency necessitating the invocation of s 17 (4) of the Land Acquisition Act"
+  ],
+  "petitioner_arguments": [
+    "Reliance was placed by Dr. L. M. Singhvi, learned counsel for the petitioners, on Narinderjit Singh v. State of Utter Pradesh, Rattan Singh v. State, S. K Gupta v. Union of India, Satish Kapur v. State of Haryana 1982 Indlaw PNH 187 and C. Suryanarayana v. Govt. of Andhra Pradesh"
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Publication in the official Gazette and public notice in the locality are two vital steps required to be taken under s. 4 (1) before proceeding to take the next step of entering upon the land under s. 4 (2)",
+    "The time factor is not a vital element of s. 4 (1) and there is no warrant for reading the words 'simultaneously' or 'immediately thereafter' into s. 4 (1)",
+    "Notice to interested persons of a proposed acquisition of land is given by publicising a notification to the effect that land in any locality is needed or is likely to be needed for any public purpose in two ways-first, by causing publication of the substance of the notification to be given at convenient places in the locality",
+    "The period of 30 days may be reckoned from either the date of publication in the gazette or the date of public notice of the substance of the notification in the locality, whichever is later"
+  ],
+  "holding": [
+    "We are dismissing both the Special Leave Petitions",
+    "The requirements of s. 4 (1) must be held to be satisfied unless the two are unlinked from each other by a gap of time so large as may lead one to the prima facie conclusion of lack of bona fides in the proceedings for acquisition"
+  ],
+  "cases_cited": [
+    "Deepak Pahwa and Others v Lt. Governer of Delhi",
+    "Full Bench of the Andhra Pradesh High Court in Shahnaz Salima v. Govt",
+    "In Kash Reddy Papiah v Govt of Andhra Pradesh",
+    "In Khub Chand and Ors. v. State of Rajasthan",
+    "Mohammad KHawaza v. Govt",
+    "Rattan Singh v. State",
+    "S. K Gupta v. Union of India",
+    "State of Mysore v. Abdul Rajak",
+    "Suryanarayana Reddy v. Andhra Pradesh",
+    "and C. Suryanarayana v. Govt",
+    "and Mohd. Khawaza v. Govt",
+    "and Sanjivaiah Nagar Depressed and Backward Classes Sangh v. District Collector",
+    "learned counsel for the petitioners, on Narinderjit Singh v. State of Utter Pradesh",
+    "that Sanjivaiah Nagar Depressed and Backward Classes Sangh v. District Collector",
+    "the land acquisition proceedings void. In Narinderjit Singh v. State of Uttar Pradesh (supra",
+    "time was not an issue at all in that case. In State of Mysore v. Abdul Rajak (supra",
+    "to say nothing about post-notification delay. In Jaga Ram v. State of Haryana"
+  ]
+}

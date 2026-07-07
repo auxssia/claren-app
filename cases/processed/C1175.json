@@ -1,0 +1,66 @@
+{
+  "case_id": "C1175",
+  "case_name": "Sri Srinivasa Theatre and Others v Government Of Tamil Nadu And Ors.",
+  "court": "Supreme Court of India",
+  "year": 1992,
+  "judges": [
+    "B. P. Jeevan Reddy"
+  ],
+  "bench": [],
+  "petitioner": "Sri Srinivasa Theatre and Others",
+  "respondent": "Government Of Tamil Nadu",
+  "citations": [
+    "1961 3 SCR 77"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "4(I.E., ADMISSION SYSTEM)"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "12 March 1992",
+  "outcome": "Unknown",
+  "facts": [
+    "The case involves a batch of writ petitions filed by various cinema theatres against the Tamil Nadu Government.",
+    "The theatres are challenging the validity of certain provisions in the Tamil Nadu Entertainment Tax Act, 1939.",
+    "The main issue is whether the classification of theatres based on their location and the method of taxation imposed on them is reasonable and constitutional."
+  ],
+  "issues": [
+    "Whether the classification of theatres based on their location is reasonable and constitutional",
+    "Whether the method of taxation imposed on the theatres is confiscatory and violative of Article 14 of the Constitution"
+  ],
+  "petitioner_arguments": [
+    "The Act classifies theatres situated in a local area into two categories, subjecting one category to a hostile treatment.",
+    "The classification is arbitrary, unreasonable, and violative of Article 14 of the Constitution.",
+    "The impugned provision seeks to treat unequals equally, which itself is a negation of the guarantee of equal protection of laws."
+  ],
+  "respondent_arguments": [
+    "The classification of theatres based on their location is reasonable and constitutional.",
+    "The method of taxation imposed on the theatres is not confiscatory and does not violate Article 14 of the Constitution."
+  ],
+  "court_reasoning": [
+    "The court held that the classification of theatres based on their location is unreasonable and violative of Article 14 of the Constitution.",
+    "The court also held that the method of taxation imposed on the theatres is confiscatory and violative of Article 19(1)(g) of the Constitution."
+  ],
+  "holding": [
+    "The court allowed the writ petitions and declared the impugned provisions of the Tamil Nadu Entertainment Tax Act, 1939 to be unconstitutional.",
+    "The court held that the classification of theatres based on their location is unreasonable and violative of Article 14 of the Constitution."
+  ],
+  "cases_cited": [
+    "But as observed by this Court in East India Tobacco Co. v. State of Andhra Pradesh",
+    "CJ., (as he then was) in Gorantia Butchavva Chowdary & Ors., v. The",
+    "One of the latest decisions is in Spences Hotel Pvt. Ltd. v. State of West Bengal",
+    "Sanjeev Coke Manufacturing Company v. Bharat Cooking Coal Ltd",
+    "Sri Srinivasa Theatre and Others v Government Of Tamil Nadu",
+    "That has been laid down by this Court in Moopil Nair v. State of Kerala",
+    "and Elel Hotel and Investments Ltd. v. Union of India",
+    "if we refer to two of them namely S.K. Datta, I.T.O v. Lawrence Singh Ingty",
+    "on the above aspect are legion, starting from Moopil Nair v. State of Kerala",
+    "the House of ords in Council of civil Service Unions and Ors. v. Minister for"
+  ]
+}

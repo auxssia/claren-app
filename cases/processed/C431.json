@@ -1,0 +1,55 @@
+{
+  "case_id": "C431",
+  "case_name": "State of Maharashtra v Hemant Kawadu Chauriwal Etc",
+  "court": "Supreme Court of India",
+  "year": 2015,
+  "judges": [
+    "Pinaki Chandra Ghose"
+  ],
+  "bench": [],
+  "petitioner": "State of Maharashtra",
+  "respondent": "Hemant Kawadu Chauriwal Etc\nSupreme Court of India\n\n16 December 2015\nCriminal Appeal Nos. 1828 - 1829 of 2013\nThe Judgment was delivered by : Pinaki Chandra Ghose, J.\n1. These appeals, by special leave, have been directed against the judgment and order dated 2.07.2012 passed by the High Court of Judicature at Bombay, Nagpur Bench, Nagpur, in Criminal Appeal Nos.53 of 2007 and 70 of 2007. Criminal Appeal No.53 of 2007 was filed by accused No.1, who was husband of the deceased and Criminal Appeal No.70 of 2007 was filed by accused No.4, who was the mother-in-law of the deceased. Both these accused are respondents herein. Apart from the above two accused, there were three other accused but they were acquitted by the Trial Court while the respondents were convicted. In appeal by the convicted respondents, the High Court quashed and set aside their conviction and sentence and absolved them of all the charges.\n2. The facts of the case, as disclosed by the prosecution",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "And Also Under Section 498A Of The Indian Penal Code",
+      "section": "34"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "16 December 2015",
+  "outcome": "Unknown",
+  "facts": [
+    "An FIR was lodged on 21.06.2004 at Ghatanji Police Station after receipt of dying declaration recorded on 20.06.2004, by Naib Tehsildar at Yavatmal General Hospital.",
+    "The deceased died on 22.06.2004 due to septicemia as a result of 88% dermo epidermal infected burn injuries.",
+    "After investigation, charge-sheet was filed against five accused.",
+    "The Trial Court by its judgment and order convicted accused Nos.1 and 4.",
+    "The prosecution case as accepted by the Trial Court was based on two important evidences: Firstly, the dying declaration made by the deceased to the Naib Tehsildar based upon which the accused husband was convicted for the murder of the deceased.",
+    "Secondly, the Trial Court relied on the letters allegedly written by the deceased to her father, which disclosed mental and physical cruelty imputed on the deceased by her in-laws, based upon which the Trail Court convicted accused husband and accused mother-in-law for the offence of cruelty."
+  ],
+  "issues": [
+    "The weightage of the dying declaration as evidence",
+    "The veracity of the alleged letters written by the deceased to her father"
+  ],
+  "petitioner_arguments": [
+    "The dying declaration was truthful and reliable and was correctly recorded.",
+    "The evidence of PW1 (Naib Tehsildar) and PW5 (attending Doctor) along with the certificate of the doctor leads to the conclusion that the dying declaration was truthful and reliable",
+    "The alleged letters were written by the deceased in her own handwriting"
+  ],
+  "respondent_arguments": [
+    "The FIR was delayed by about one full day.",
+    "There were various lapses and the prosecution failed to materially explain few facts.",
+    "The alleged letters were not proved by the prosecution to be in the own handwriting of the deceased."
+  ],
+  "court_reasoning": [
+    "Dying declaration must be judged and appreciated in light of the surrounding circumstances and its weight determined by reference to the principle governing the weighing of evidence",
+    "The prosecution failed to establish the veracity of such an important piece of evidence",
+    "The testimonies of PW3 (father of the deceased), PW4 (mother of the deceased) and PW5 (investigating officer) are worth considering"
+  ],
+  "holding": [
+    "The appeals are, accordingly, dismissed."
+  ],
+  "cases_cited": []
+}

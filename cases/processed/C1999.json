@@ -1,0 +1,57 @@
+{
+  "case_id": "C1999",
+  "case_name": "Mrs. Asha Sharma v Chandigarh Administration & Ors",
+  "court": "Supreme Court of India",
+  "year": 2011,
+  "judges": [
+    "Swatanter Kumar"
+  ],
+  "bench": [],
+  "petitioner": "Mrs. Asha Sharma",
+  "respondent": "Chandigarh Administration &",
+  "citations": [
+    "1979 3 SCC 489",
+    "1992 1 SCC 380",
+    "1996 4 SCC 416",
+    "2000 8 SCC 262",
+    "2002 4 SCC 578",
+    "2003 7 SCC 546",
+    "2006 10 SCC 1"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Damages",
+  "court_level": "Supreme Court",
+  "decision_date": "30 August 2011",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The State shall not allot two different houses to one government servant.",
+    "No case of retention of government accommodation beyond the periods specified in the table to Rule 13(2) of the Allotment Rules shall be entertained by any authority under the Allotment Rules.",
+    "The authorities are directed not to take recourse to Rule 13(5) of the Allotment Rules under any circumstance."
+  ],
+  "cases_cited": [
+    "Court in the case of Reliance Airport Developers (P) Ltd. v. Airport Authority of India",
+    "In the case of Chandigarh Administration v. Manpreet Singh",
+    "In the case of E.S.P. Rajaram and Ors. v. Union of India",
+    "Judge Bench of this Court in the case of P. Ramachandra Rao v. State of Karnataka",
+    "Mrs. Asha Sharma v Chandigarh Administration &",
+    "case. Reference in this regard can also be made to Netai Bag v. State of West Bengal",
+    "entitled Court on its own motion v. Advisor to",
+    "in the case of Guruvayoor Devaswom Managing Committee vs. C.K",
+    "of the case titled Union of India & Ors. vs. M. Bhaskar &",
+    "well settled. Right from the case of Ramana Dayaram Shetty v. International Airport Authority of India"
+  ]
+}

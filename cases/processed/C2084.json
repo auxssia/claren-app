@@ -1,0 +1,78 @@
+{
+  "case_id": "C2084",
+  "case_name": "N. Suriyakala v A. Mohandoss and Others",
+  "court": "Supreme Court of India",
+  "year": 2007,
+  "judges": [
+    "Markandey Katju"
+  ],
+  "bench": [],
+  "petitioner": "N. Suriyakala",
+  "respondent": "A. Mohandoss",
+  "citations": [
+    "2002 4 SCC 666",
+    "AIR 1950 SC 169",
+    "AIR 1959 SC 633",
+    "AIR 1960 SC 391",
+    "AIR 1962 SC 1326",
+    "AIR 2002 SC 335",
+    "AIR 2003 SC 1386",
+    "AIR 2003 SC 2889",
+    "AIR 2004 SC 1815",
+    "AIR 2004 SC 2351"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Dowry Prohibition Act, 1961"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "136"
+    },
+    {
+      "section": "498A"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Damages",
+  "court_level": "Supreme Court",
+  "decision_date": "12 February 2007",
+  "outcome": "Unknown",
+  "facts": [
+    "The appeal has been filed against the impugned judgment of the Madras High Court dated 1.8.2003 in Cr.O.P. No.24782 of 2003.",
+    "The appellant and respondent were married with each other on 14.11.1996 but the marriage did not work out.",
+    "The husband had filed a petition before the First Additional Family Court, Chennai seeking a declaration that his marriage with appellant was null and void but he withdrew that petition stating that he wishes to resume marital life and that petition was dismissed by the Family Court on 9.7.2003.",
+    "By the impugned judgment the High Court relying on the decision of this Court in B.S. Joshi and Ors. vs. State of Haryana & Anr. AIR 2003 SC 1386 2003 Indlaw SC 230 quashed the criminal case filed by the appellant against her husband.",
+    "The special leave petition was filed 978 days after the delivery of the impugned judgment i.e. after a delay of 888 days."
+  ],
+  "issues": [
+    "Whether the appeal is liable to be dismissed on the ground of delay in filing the special leave petition?",
+    "Whether the Supreme Court has discretion to interfere with the judgment or order of any court or tribunal in India?"
+  ],
+  "petitioner_arguments": [
+    "The appellant argued that the impugned judgment of the High Court quashing the criminal case filed by her against her husband was incorrect and that she should be allowed to pursue the case."
+  ],
+  "respondent_arguments": [
+    "The respondent did not file any arguments in this appeal."
+  ],
+  "court_reasoning": [
+    "The Supreme Court observed that Art. 136 of the Constitution is a residual provision which enables the Supreme Court to interfere with the judgment or order of any court or tribunal in India in its discretion.",
+    "The Court noted that the discretionary power vested in it under Art. 136 has to be exercised sparingly and in exceptional cases only."
+  ],
+  "holding": [
+    "The appeal is dismissed."
+  ],
+  "cases_cited": [
+    "In Ashok Nagar Welfare Association Vs. R.K",
+    "In Jamshed Hormusji Wadia Vs. Board of Trustees",
+    "In Municipal Board, Pratabgarh & Anr. Vs. Mahendra Singh Chawla &",
+    "Kunhayammed & Ors. Vs. State of Kerala &",
+    "N. Suriyakala v A. Mohandoss",
+    "and in exceptional cases only. Thus, in Pritam Singh Vs. The",
+    "limitations upon its own powers vide Ram Saran Das and Bros. Vs. Commercial Tax Officer",
+    "relying on the decision of this Court in B.S. Joshi and Ors. vs. State of Haryana &"
+  ]
+}

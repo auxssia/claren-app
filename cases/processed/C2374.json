@@ -1,0 +1,76 @@
+{
+  "case_id": "C2374",
+  "case_name": "Union Of India & Anr. v Sneha Khemka & Anr.",
+  "court": "Supreme Court of India",
+  "year": 2004,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "Union Of India & Anr",
+  "respondent": "Sneha Khemka &",
+  "citations": [
+    "1981 2 SCC 420",
+    "1982 1 SCC 12",
+    "1982 3 SCC 10",
+    "1990 1 SCC 568",
+    "1991 2 SCC 1",
+    "1995 4 SCC 51"
+  ],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "11"
+    },
+    {
+      "act": "General Clauses Act",
+      "section": "21"
+    },
+    {
+      "act": "Act Would Clearly Shows That The Authority Vested In The Central Government Or The State Government To Revoke An Order Of Detention Is Without Prejudice To The Provisions Contained In Section 21 Of The General Clauses Act",
+      "section": "11"
+    },
+    {
+      "act": "Cofeposa Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "23 January 2004",
+  "outcome": "Unknown",
+  "facts": [
+    "The husband of the first respondent herein was arrested on 17.6.1995 on the charge of having grossly undervalued imported Floppy Disk Drives whereby customs duty to the extent of Rs.21.53 lakhs was evaded.",
+    "He was granted bail in the aforementioned case.",
+    "The detenu, made three representations - firstly, on 4.9.1995 before the Joint Secretary, COFEPOSA which was rejected on 21.9.1995; the second on 11/12.9.1995 addressed to Shri K.L. Verma, Joint Secretary to the Government of India which upon obtaining the comments of the Sponsoring Authority was rejected on 9.10.1995; and the third on 14.9.1995, addressed to the Secretary to the Government of India which was rejected by the Finance Minister on 16.10.1995.",
+    "The first respondent herein thereafter filed a writ application before the Calcutta High Court for quashing the statement allegedly obtained from her husband by the Customs Officer."
+  ],
+  "issues": [
+    "Whether representation made by the detenu or on his behalf is required to be considered by all the authorities"
+  ],
+  "petitioner_arguments": [
+    "The first two representations being made to the Joint Secretary who was the detaining authority, the same were required to be considered by him and not by the Central Government.",
+    "Similarly, the third representation having been made to the Central Government, it was for it to consider the same independent of the representations made by the detenu before the detaining authority."
+  ],
+  "respondent_arguments": [
+    "Different representations may contain different grounds and in that view of the matter unless the Central Government or for that matter, the detaining authority is possessed of the representation(s) made before other authorities, effective disposal thereof would not be possible.",
+    "As several other contentions were raised by the respondent before the High Court, having regard to the fact that the period of detention is long over, this Court may not exercise its jurisdiction under Article 136 of the Constitution of India."
+  ],
+  "court_reasoning": [
+    "The proposition of law has been well established that all the representations as made to either of the three Authorities namely, the Detaining Authority, the Central Government and the Advisory Board have to be considered by all the three Authorities independently of each other and unless there be separate consideration of each one, there will be no sufficient compliance of law in so far as the provision under Article 22(5) of the Constitution of India is concerned.",
+    "The object and purpose of the representation is to enable the detenu to obtain relief at the earliest opportunity wherefor, he may make representation before such authority which can revoke the same by setting him at liberty."
+  ],
+  "holding": [
+    "The order of detention has been rendered otiose in view of the non-consideration of all the representations by all the three Authorities on account of which the detenu is liable to be released from detention..."
+  ],
+  "cases_cited": [
+    "Kubic Darusz vs. Union of India",
+    "Raj Kishore Prasad vs. State of Bihar",
+    "Referring to Sat Pal vs. State of Punjab",
+    "Union Of India & Anr. v Sneha Khemka &",
+    "and Smt. Gracy vs. State of Kerala",
+    "as also the decision in Santosh Anand vs. Union of India",
+    "decisions of this Court in Kamleshkumar Ishwardas Patel etc. vs. Union of India"
+  ]
+}

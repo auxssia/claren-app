@@ -1,0 +1,65 @@
+{
+  "case_id": "C2242",
+  "case_name": "Sri. C. I. Emden v State of Uttar Pradesh",
+  "court": "Supreme Court of India",
+  "year": 1959,
+  "judges": [
+    "GAJENDRAGADKAR"
+  ],
+  "bench": [],
+  "petitioner": "Sri. C. I. Emden",
+  "respondent": "State of Uttar Pradesh\nSupreme Court of India\n\n15 December 1959\nCr.A. No. 68 of 1958 (Arising as an appeal by special leave from the judgment and order Dt. 11 July 1957, of the Allahabad High Court (Lucknow Bench), Lucknow, in Cr.A. No. 515 of 1955, arising out of the judgment and order Dt. 31 October 1955, of the Special Judge, Anticorruption, Lucknow, in Criminal Case No. 2/3/32/45 of 1953-55).\nThe Judgment was delivered by GAJENDRAGADKAR, J. :\n1. This appeal by special leave has been filed by C. I. Emden (hereinafter called the appellant) who has been convicted under s. 161 of the Indian Penal Code and under s. 5(2) of the Prevention of Corruption Act 2 of 1947 (hereinafter called the Act). The case against him was that he had accepted a bribe of Rs. 375 from Sarat Chandra Shukla on January 8, 1953. The appellant was a Loco Foreman at Alambagh Loco Shed, and Shukla had secured a contract at the same place for the removal of cinders from ash pits and for loading co",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    },
+    {
+      "section": "161"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "15 December 1959",
+  "outcome": "Unknown",
+  "facts": [
+    "The case against him was that he had accepted a bribe of Rs. 375 from Sarat Chandra Shukla on January 8, 1953.",
+    "Shukla was told by the appellant that he had been receiving a monthly payment from Ram Ratan who had held a similar contract before him and that it would be to his interest to agree to pay the bribe.",
+    "The agreement then was that Shukla would pay the money to the appellant on January 8, 1953.",
+    "Shukla approached the Deputy Superintendent of Police, Corruption Branch, and gave him information about the illegal demand made by the appellant.",
+    "A signal was then made by Shukla and the raiding party immediately arrived on the scene.",
+    "The magistrate disclosed his identity to the appellant and asked him to produce the amount paid to him by Shukla."
+  ],
+  "issues": [
+    "Whether s. 4(1) of the Act which requires a presumption to be raised against an accused person is unconstitutional and ultra vires as it violates the fundamental right guaranteed by Art. 14 of the Constitution.",
+    "When does the statutory presumption fall to be raised, and what is the content of the said presumption?"
+  ],
+  "petitioner_arguments": [
+    "The appellant denied the charge.",
+    "He admitted that he had received Rs. 375 from Shukla but his case was that at his request Shukla had advanced the said amount to him by way of loan for meeting the expenses of the clothing of his children who were studying in school."
+  ],
+  "respondent_arguments": [
+    "The prosecution case was that the appellant demanded from Shukla Rs. 400 per month in order that Shukla may be allowed to carry out his contract peacefully without any harassment.",
+    "The learned special judge who tried the case believed the evidence given by Shukla, held that it was sufficiently corroborated, and found that the defence story was improbable and untrue."
+  ],
+  "court_reasoning": [
+    "The scope and effect of the fundamental right guaranteed by Art. 14 has been considered by this Court on several occasions; as a result of the decisions of this Court it is well established that Art. 14 does not forbid reasonable classification for the purposes of legislation.",
+    "It is based on an intelligible differentia and there can be no difficulty in distinguishing the class of persons covered by the impugned section from other classes of persons who are accused of committing other offences."
+  ],
+  "holding": [
+    "The challenge to the vires of s. 4(1) on the ground that it violates Art. 14 of the Constitution must fail.",
+    "We have, therefore, not hesitation in holding that the statutory presumption cannot be raised merely on proof of the fact that the appellant had received Rs. 375 from Shukla; in order to justify the raising of the statutory presumption it must also be shown by the prosecution that the amount was paid and accepted as by way of bribe."
+  ],
+  "cases_cited": [
+    "Shri Ram Krishna Dalmia v. Shri Justice S",
+    "that could fairly be supposed. The same view was taken in Rex v. Carr Briant (",
+    "we may refer to the decision of this Court in A. S. Krishna v. The"
+  ]
+}

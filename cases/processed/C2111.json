@@ -1,0 +1,47 @@
+{
+  "case_id": "C2111",
+  "case_name": "State of Karnataka v M. Muniswamy",
+  "court": "Supreme Court of India",
+  "year": 2000,
+  "judges": [],
+  "bench": [],
+  "petitioner": "State of Karnataka",
+  "respondent": "M. Muniswamy\nSupreme Court of India\n\n1 November 2000\nCr.A. No. 6 of 1996\nThe Order of the Court was as follows:\n1.  This appeal by the State of Karnataka is against the judgment of the High Court by which the respondent was acquitted of the offences under the Prevention of Corruption Act, 1947 besides Sections 420 and 471 of the Indian Penal Code, 1860.\n2.  The respondent was employed as Head Guard in the Security Department of Ashoka Hotel, Bangalore. He is alleged to have concocted some bills for supporting a bogus claim for medical reimbursement on the pretension that his son Raja was treated in a hospital. The Special Court established under the Prevention of Corruption Act tried the case and found him guilty and convicted him and sentenced him to rigorous imprisonment for 2 years each under various counts.\n3.  When he filed an appeal before the High Court a learned Single Judge mainly considered the question whether the respondent was a public servant falling",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "21"
+    },
+    {
+      "act": "Code Of Criminal Procedure No",
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "1 November 2000",
+  "outcome": "Unknown",
+  "facts": [
+    "The respondent was employed as Head Guard in the Security Department of Ashoka Hotel, Bangalore.",
+    "He is alleged to have concocted some bills for supporting a bogus claim for medical reimbursement on the pretension that his son Raja was treated in a hospital.",
+    "The Special Court established under the Prevention of Corruption Act tried the case and found him guilty and convicted him and sentenced him to rigorous imprisonment for 2 years each under various counts.",
+    "When he filed an appeal before the High Court a learned Single Judge mainly considered the question whether the respondent was a public servant falling within the ambit of Section 21 of the Indian Penal Code, 1860."
+  ],
+  "issues": [
+    "Whether the respondent was a public servant falling within the ambit of Section 21 of the Indian Penal Code, 1860"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The evidence in the case is totally insufficient for holding that Ashoka Hotel or Indian Tourism Development Corporation (of which Ashoka Hotel is a unit) was a government company.",
+    "If PW 16 had further said that the Government held more than 50% of the shares of that Company the Court could perhaps have come to the conclusion that, even in spite of a specific statement made by the witness, the Corporation was a government company.",
+    "Due to paucity of evidence in this case we are unable to disturb the finding of the learned Single Judge of the High Court that the prosecution failed to establish that ITDC was a government company."
+  ],
+  "holding": [
+    "This appeal is accordingly dismissed.",
+    "Appeal dismissed."
+  ],
+  "cases_cited": []
+}

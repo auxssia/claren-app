@@ -1,0 +1,30 @@
+{
+  "case_id": "S4",
+  "case_name": "Special leave to appeal",
+  "court": "Supreme Court",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [],
+  "legal_domain": "Administrative",
+  "legal_subdomain": "Tribunal",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "What constitutes special leave to appeal"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The Supreme Court may grant special leave to appeal in its discretion"
+  ],
+  "holding": [
+    "Special leave to appeal can be granted from any judgment, decree, determination, sentence or order passed by any court or tribunal in India"
+  ],
+  "cases_cited": []
+}

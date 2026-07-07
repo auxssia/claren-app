@@ -1,0 +1,48 @@
+{
+  "case_id": "S27",
+  "case_name": "Procedure and powers of special Judge",
+  "court": "",
+  "year": 1974,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "308"
+    },
+    {
+      "act": "That Code",
+      "section": "307"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The procedure and powers of a special Judge are being discussed.",
+    "A special Judge may take cognizance of offences without the accused being committed to him for trial.",
+    "A special Judge may tender a pardon to any person supposed to have been directly or indirectly concerned in, or privy to, an offence.",
+    "The provisions of the Code of Criminal Procedure, 1973 shall apply to the proceedings before a special Judge.",
+    "A special Judge may pass upon any person convicted by him any sentence authorised by law for the punishment of the offence of which such person is convicted."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The procedure and powers of a special Judge are being discussed.",
+    "The provisions of the Code of Criminal Procedure, 1973 shall apply to the proceedings before a special Judge.",
+    "A special Judge may pass upon any person convicted by him any sentence authorised by law for the punishment of the offence of which such person is convicted."
+  ],
+  "holding": [
+    "A special Judge may take cognizance of offences without the accused being committed to him for trial.",
+    "A special Judge may tender a pardon to any person supposed to have been directly or indirectly concerned in, or privy to, an offence.",
+    "The provisions of the Code of Criminal Procedure, 1973 shall apply to the proceedings before a special Judge.",
+    "A special Judge may pass upon any person convicted by him any sentence authorised by law for the punishment of the offence of which such person is convicted."
+  ],
+  "cases_cited": []
+}

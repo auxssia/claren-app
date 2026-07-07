@@ -1,0 +1,81 @@
+{
+  "case_id": "C1375",
+  "case_name": "Dalip Singh v State of Punjab",
+  "court": "Supreme Court of India",
+  "year": 1997,
+  "judges": [
+    "M. K. Mukherjee"
+  ],
+  "bench": [],
+  "petitioner": "Dalip Singh",
+  "respondent": "State of Punjab\nSupreme Court of India\n\n8 July 1997\nCr.A. No. 188 of 1985\nThe Judgment was delivered by: M. K. Mukherjee, J.\n1. Dalip Singh the appellant before us and five",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "148"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "6"
+    },
+    {
+      "section": "190"
+    },
+    {
+      "section": "173"
+    },
+    {
+      "section": "1"
+    },
+    {
+      "section": "68"
+    },
+    {
+      "section": "313"
+    },
+    {
+      "section": "4"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "8 July 1997",
+  "outcome": "Unknown",
+  "facts": [
+    "Dalip Singh and five others were tried by a Special Court for rioting, murder, and other related offenses.",
+    "The trial ended in conviction of Dalip Singh and others under various IPC sections.",
+    "Only Dalip Singh appealed to the Supreme Court.",
+    "The case involved a dispute over a water outlet on a field.",
+    "Mohinder Singh died as a result of injuries sustained by him.",
+    "Shabeg Singh, Bagicha Singh, and Rachhpal Singh were injured during the incident."
+  ],
+  "issues": [
+    "Whether the incident took place in the manner alleged by the prosecution or the defense?",
+    "Whether the evidence presented was legally admissible?"
+  ],
+  "petitioner_arguments": [
+    "The prosecution relied on the testimonies of Shabeg Singh (P.W.6) and Bagicha Singh (P.W 7).",
+    "Dalip Singh gave two gandasa blows to Mohinder Singh, who fell down.",
+    "Bagicha Singh tried to intervene and both Shabeg Singh and Rachhpal Singh gave takwa blows on him with their takwas."
+  ],
+  "respondent_arguments": [
+    "The defense claimed that the incident did not occur as alleged by the prosecution.",
+    "The accused were not present at the scene of the incident.",
+    "The outlet was near the place where Mohinder Singh was injured."
+  ],
+  "court_reasoning": [
+    "The court found that the undisputed facts showed that Mohinder Singh died as a result of injuries sustained by him, and Shabeg Singh, Bagicha Singh, and Rachhpal Singh were injured during the incident.",
+    "The court rejected the defense's claim that the accused were not present at the scene of the incident.",
+    "The court held that the evidence presented was not legally admissible."
+  ],
+  "holding": [
+    "The Supreme Court upheld the conviction of Dalip Singh and others under various IPC sections.",
+    "The court rejected the appeal and affirmed the impugned order of conviction and sentence."
+  ],
+  "cases_cited": [
+    "evidence as it is not legally admissible. In Vijender etc. vs. The"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "case_id": "C1662",
+  "case_name": "State of Uttar Pradesh v Chandrika",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [
+    "Shah, J."
+  ],
+  "bench": [],
+  "petitioner": "State of Uttar Pradesh",
+  "respondent": "Chandrika\nSupreme Court of India\n\n29 October 1999\nAppeal (Cr.) 1131-32 of 1999\nThe Judgment was delivered by: Shah, J.\nLeave granted.\n1. These appeals by special leave are filed by the State of U.P. against the judgment and order dated 28 November, 1997 passed by the High Court of Judicature at Allahabad in Criminal Appeal Nos. 2747-48 of 1980 whereby the High Court accepted the plea bargain and maintained the conviction of the respondent u/s. 304 part I, I.P.C. but altered the sentence to the period of imprisonment already undergone (without stating actual period of imprisonment undergone by the respondent) plus a fine of Rs. 5000 in default of payment R.I. for six months. The respondent along with two",
+  "citations": [
+    "1968 3 SCR 34"
+  ],
+  "statutes": [
+    {
+      "section": "304"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "16(L)"
+    },
+    {
+      "section": "16(F )"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "29 October 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "The respondent along with two others was charged u/s. 302 read with Ss. 307 and 34 I.P.C. for committing the murder of one Shyamadeo in Sessions Case No. 233 of 1980.",
+    "The Sessions Judge, Ballia by his judgment and order dated 28.11.1980 convicted the respondent u/s. 304 I.P.C. and sentenced him to undergo eight years R.I.",
+    "Aggrieved by the said order, respondent preferred an appeal before the High Court and at the time of hearing opted not to challenge the findings of conviction recorded by the trial Court with a view to bargain on the question of sentence."
+  ],
+  "issues": [
+    "The concept of 'plea bargaining' is not recognised and is against public policy under our criminal justice system.",
+    "Whether the High Court was justified in accepting the plea bargain and altering the sentence?"
+  ],
+  "petitioner_arguments": [
+    "The State has challenged that judgment and order by filing these appeals.",
+    "It appears that the learned Judge has overlooked the settled law or is unaware that concept of 'plea bargaining' is not recognised and is against public policy under our criminal justice system."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Offences should be tried and punished according to the guilt of the accused.",
+    "The court should never be a party to a bargain by which money is recovered for the complainant through their agency.",
+    "To begin with, we are free to confess to a hunch that the appellants had hastened with their pleas of guilty hopefully induced by an informal, tripartite understanding of light sentence in lieu of nolo contenders stance."
+  ],
+  "holding": [
+    "The Court set aside the order passed by the High Court enhancing the sentence and remanded the matter to the Judicial Magistrate for trial of the accused in accordance with the law.",
+    "This Court strongly disapproved the practice of plea bargain in Kachhia Patel Shantilal Koderlal v. State of Gujarat and another, [1980] 3 SCC 120 1980 Indlaw SC 117."
+  ],
+  "cases_cited": [
+    "In Ganeshmal Jashraj v. Government of Gujarat",
+    "admission of guilt by the accused. Similarly, in Thippaswamy v. State of Karnataka",
+    "and Thippaswamy v. State of Karnataka",
+    "first refer to the decision in Madanlal Ram Chandra Daga etc. v. State of Maharashtra",
+    "of Constitution unfolded in the case of Maneka Gandhi v. Union of India",
+    "was considered by this Court in Murlidhar Meghraj Loya v. State of Maharashtra"
+  ]
+}

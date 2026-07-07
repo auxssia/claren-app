@@ -1,0 +1,35 @@
+{
+  "case_id": "S92",
+  "case_name": "Kidnapping or abducting in order to murder",
+  "court": "",
+  "year": 1955,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "117"
+    },
+    {
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "Whoever kidnaps or abducts any person in order that such person may be murdered or may be so disposed of as to be put in danger of being murdered,"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "punished with imprisonment for life or rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine"
+  ],
+  "cases_cited": []
+}

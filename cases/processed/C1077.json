@@ -1,0 +1,71 @@
+{
+  "case_id": "C1077",
+  "case_name": "Zippers Karamchari Union v Union of Inida and Others",
+  "court": "Supreme Court of India",
+  "year": 1998,
+  "judges": [
+    "S. P. Kurdukar, J."
+  ],
+  "bench": [],
+  "petitioner": "Zippers Karamchari Union",
+  "respondent": "Union of Inida",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "29"
+    },
+    {
+      "section": "29(B)"
+    },
+    {
+      "section": "3"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    },
+    {
+      "section": "2"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "3 September 1998",
+  "outcome": "Unknown",
+  "facts": [
+    "MS YKK Corporation, Japan, submitted a proposal representation to the Foreign Investment Promotion Board seeking approval to set up integrated plants for manufacturing zip fasteners (metallic and non-metallic) with hundred per cent own capital investment with no export obligation.",
+    "The petitioners claiming to be the members of various trade unions operating in the companies engaged in manufacture of zip fasteners have filed this Writ Petition u/art. 32 of the Constitution of India seeking mandamus to quash the permission granted to YKK for setting up 'INTEGRATED PLANTS' for manufacturing metallic and non-metallic zip fasteners in India.",
+    "Zip fasteners and its components were being manufactured in India since 1949. Since 1971, the manufacturing of zip fasteners has been reserved exclusively for the small scale sector.",
+    "There are about 150 small scale units in India engaging over 45,000 workers in the manufacturing process of various components for the end product i.e. zip fastener.",
+    "Most of these manufacturers fall within the parameters of small scale industry. They have been supplying zip fasteners to the manufacturers of readymade garments, leather garments and allied articles."
+  ],
+  "issues": [
+    "Whether the permission granted to YKK for setting up integrated plants for manufacturing zip fasteners (metallic and non-metallic) is valid and sustainable.",
+    "Whether the reservation contained in Section 29-B(2B) read with item 38(3) in the First Schedule of the Act has been violated by the Central Government."
+  ],
+  "petitioner_arguments": [
+    "The permission granted to YKK for setting up integrated plants for manufacturing zip fasteners (metallic and non-metallic) is ultra vires Section 29-B(2B) of the Act.",
+    "The reservation contained in Section 29-B(2B) read with item 38(3) in the First Schedule of the Act has been violated by the Central Government."
+  ],
+  "respondent_arguments": [
+    "The permission granted to YKK for setting up integrated plants for manufacturing zip fasteners (metallic and non-metallic) is valid and sustainable.",
+    "The reservation contained in Section 29-B(2B) read with item 38(3) in the First Schedule of the Act has not been violated by the Central Government."
+  ],
+  "court_reasoning": [
+    "The Legislature's intent is quite clear that zip fasteners (metallic and non-metallic) were reserved for small scale industry under Section 29-B(2B) read with Entry 38(3) in the Schedule of the Act.",
+    "The concept of integrated plant is well known in the business circle to mean that all components needed for the end product are manufactured under one roof."
+  ],
+  "holding": [
+    "The permission granted to YKK for setting up integrated plants for manufacturing zip fasteners (metallic and non-metallic) is valid and sustainable."
+  ],
+  "cases_cited": [
+    "Cl. V quoted hereinabove",
+    "Zippers Karamchari Union v Union of Inida",
+    "indicated in the statement on Industrial Policy in paragraph V sub cl",
+    "to the decision of this Court in State of Bihar etc. etc. Vs. Kripalu Shanker etc"
+  ]
+}

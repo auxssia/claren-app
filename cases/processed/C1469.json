@@ -1,0 +1,72 @@
+{
+  "case_id": "C1469",
+  "case_name": "Anwar @ Addha v State (NCT of Delhi)",
+  "court": "Supreme Court of India",
+  "year": 2017,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Anwar @ Addha",
+  "respondent": "State (NCT of Delhi)\nSupreme Court of India\n\n8 September 2017\nCriminal Appeal No. 2557 of 2014\nThe Order of the Court was as follows :\n1. The appellant is challenging his conviction recorded for the offences committed under Section 302 read with Section 34 of the Indian Penal Code (IPC) as well as under Section 307 read with Section 34 IPC. Since the appellant is convicted under Section 302 IPC as well, he has been sentenced to undergo life imprisonment. The said conviction and sentence passed by the Trial Court has been upheld by the High Court vide impugned judgment dated 28.01.2013.\n2. It may not be necessary to state the facts in detail as the arguments which are made by the learned counsel for the appellant are confined to the validity of Test Identification Parade (TIP) which was conducted by the Trial Court and submission was that since the said TIP is legally unsustainable, the entire case of the prosecution, as a result thereof would collapse. Therefore, we are",
+  "citations": [
+    "2003 5 SCC 746",
+    "AIR 1993 SC 1243",
+    "AIR 1993 SC 1245"
+  ],
+  "statutes": [
+    {
+      "act": "Read With Section 34 Of The Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "9"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "162"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "8 September 2017",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant is challenging his conviction recorded for the offences committed under Section 302 read with Section 34 of the Indian Penal Code (IPC) as well as under Section 307 read with Section 34 IPC.",
+    "Shakil died during the trial of the case.",
+    "Both the appellant and Tahib have been convicted.",
+    "The charge against these accused persons was of committing the murder of one Mr. Amit Kumar Sundriyal and attempt to kill Mr. Ramesh Chand Sundriyal, who was the complainant and had appeared in the witness box as PW-1.",
+    "Amit was fired at by a person, who had tried to enter the shop.",
+    "PW-1 has deposed that the shot had hit on the shoulder of Amit.",
+    "The assailants fired another shot which touched PW-1's abdomen and then probably hit his son."
+  ],
+  "issues": [
+    "The validity of Test Identification Parade (TIP) conducted by the Trial Court",
+    "Whether the identification of the appellant in the said TIP is a no consequence"
+  ],
+  "petitioner_arguments": [
+    "Once the photograph of the appellant had been published in the newspaper and PW-1 had seen the said photograph, there was no purpose for conducting TIP and, therefore, the identification of the appellant in such TIP by PW-1 would be a no consequence.",
+    "The conviction based on mere identification of the appellant at the time of the trial is unsustainable, as it would be an evidence of weak character."
+  ],
+  "respondent_arguments": [
+    "From the aforesaid depositions, it cannot be discerned that the PW-1 had, in fact, seen the said photograph appearing in the newspaper.",
+    "Even if it was seen, it has not come on record as to whether it was a muffled face of the appellant which was published in the newspaper or not."
+  ],
+  "court_reasoning": [
+    "Appellant Anwar was identified by PW-1 in the TIP (Ex. PW-24/2) conducted on 17th May, 2007.",
+    "He was brought in muffled face and shown with ten other persons.",
+    "It would be wrong to presume that the newspaper photograph was of uncovered face, without any proof been produced before us."
+  ],
+  "holding": [
+    "The conviction and sentence passed by the Trial Court has been upheld by the High Court vide impugned judgment dated 28.01.2013."
+  ],
+  "cases_cited": [
+    "Addha v State (NCT of Delhi",
+    "In Mullagiri Vajram v. State of A",
+    "and in Binod Bihari Singh Vs. Union of India",
+    "could be sustained on that basis as held in Mullagiri Vajram v. State of A",
+    "had clearly identified him in the Court. In Malkhansingh v. State of M",
+    "has referred the judgment of this Court in Mullagiri Vajram v. State of A",
+    "two judgments of this Court in Mullagiri Vajram and Others Vs. State of Andhra Pradesh"
+  ]
+}

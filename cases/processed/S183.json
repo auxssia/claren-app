@@ -1,0 +1,30 @@
+{
+  "case_id": "S183",
+  "case_name": "",
+  "court": "Indian Court",
+  "year": 0,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "Neither the President nor the Governor shall be personally liable in respect of any contract or assurance made or executed"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The words 'or the Rajpramukh' omitted by Constitution (Seventh Amendment) Act, 1956 s. 29 and Sch. (w.e.f. 1-11-1956)"
+  ],
+  "holding": [
+    "Neither the President nor the Governor shall be personally liable in respect of any contract or assurance made or executed for the purposes of this Constitution, or for the purposes of any enactment relating to the Government of India heretofore in force, nor shall any person making or executing any such contract or assurance on behalf of any of them be personally liable in respect thereof."
+  ],
+  "cases_cited": []
+}

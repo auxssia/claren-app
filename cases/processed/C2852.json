@@ -1,0 +1,63 @@
+{
+  "case_id": "C2852",
+  "case_name": "Bal Chand Bansal v Union Of India And Ors.",
+  "court": "Supreme Court of India",
+  "year": 1988,
+  "judges": [
+    "Hon'ble Justice A. P. Sen"
+  ],
+  "bench": [],
+  "petitioner": "Bal Chand Bansal",
+  "respondent": "Union Of India",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "3(1)"
+    },
+    {
+      "section": "85"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "11 April 1988",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner has challenged his order of detention made u/s. 3(1) of the Conservation of Foreign Exchange and Prevention of Smuggling Activities Act, 1974 (hereinafter referred to as the COFEPOSA).",
+    "In January 1987, on receipt of a confidential information by the Directorate of Enforcement, Delhi Zone, New Delhi, that a group of persons were engaged in illegal activities causing remittances of large amounts of money to foreign countries, an inquiry was instituted.",
+    "Information collected in the course of inquiry disclosed that a number of persons were engaged in the criminal activities and were operating through five Indian firms and a number of foreign firms in Hong Kong and Singapore.",
+    "On 20-2-1987, one Sita Ram Aggarwal, associate of the petitioner, disclosed during his interrogation, facts which indicated that the petitioner was the main person directing the illegal activities.",
+    "The petitioner was apprehended in a hotel in Calcutta on 2-4-1987 and on being questioned, made certain statements.",
+    "He was formally arrested the next day and was produced before the Additional Chief Metropolitan Magistrate, New Delhi, who remanded him to judicial custody till 13-4-1987."
+  ],
+  "issues": [
+    "Whether there was compelling necessity for passing the order as the petitioner was already in judicial custody",
+    "Whether the order was passed for the collateral purpose to frustrate the grant of bail and was punitive in nature"
+  ],
+  "petitioner_arguments": [
+    "The impugned order amounts to double detention of the petitioner as he was already in jail when the detention order was made.",
+    "It is essential for the detaining authority to have been aware of the fact that the petitioner was already in jail and was likely to be released on bail",
+    "He had to be satisfied that compelling necessity existed for the detention"
+  ],
+  "respondent_arguments": [
+    "The detaining authority was fully aware of the fact that the petitioner was already in custody and that he was likely to be released on bail on 13-4-1987.",
+    "The awareness of the detaining authority ought to have appeared from the grounds themselves",
+    "The object of detention has to be prevention of a detenu from indulging in activities prejudicial to the conservation of foreign exchange resources, and not to facilitate his trial in a criminal case nor as a punitive measure"
+  ],
+  "court_reasoning": [
+    "A perusal of the grounds which runs into many pages clearly indicates that the detaining authority was conscious of the fact that the petitioner was in judicial custody and was apprehensive that he would be released on bail.",
+    "The order could not have been passed for the purpose of circumventing the expected bail order.",
+    "The statements indicate that the offences in respect of which the detenu is accused of are, in language of Mukharji, J., in Suraj Pal Sahu v. State of Maharashtra, [1986] 4 SCC 378 1986 Indlaw SC 785, 'so interlinked and continuous in character and are of such nature' that they fully justify the detention order."
+  ],
+  "holding": [
+    "In the circumstances, we do not doubt the satisfaction of the detaining authority specifically recorded in paragraph 41 of the grounds.",
+    "It was also urged on behalf of the petitioner that since the prayer for bail made on behalf of the petitioner was not opposed on behalf of the respondents before the Additional Chief Metropolitan Magistrate, it must be held that this detention was not called for.",
+    "In any view of the matter, this factor is not of much consequence in the facts of the present case."
+  ],
+  "cases_cited": [
+    "Bal Chand Bansal v Union Of India",
+    "of are, in language of Mukharji, J., in Suraj Pal Sahu v. State of Maharashtra",
+    "of the judgment in Ramesh Yadav v. District Magistrate"
+  ]
+}

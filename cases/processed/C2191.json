@@ -1,0 +1,62 @@
+{
+  "case_id": "C2191",
+  "case_name": "Devi Lal and Another v State of Rajasthan",
+  "court": "Supreme Court of India",
+  "year": 1971,
+  "judges": [
+    "RAY"
+  ],
+  "bench": [],
+  "petitioner": "Devi Lal and Another",
+  "respondent": "State of Rajasthan\nSupreme Court of India\n\n8 April 1971\nCr.A. No. 28 of 1969.\nThe Judgment was delivered by: RAY, J.\n1.  This is an appeal by special leave from the judgement, dated May 6, 1968, of the High Court of Rajasthan convicting the appellants Devi Lal and Bihari under Section 302, read with S. 34 of the Indian Penal Code and sentencing them to imprisonment for life.\n2.  There were seven accused in the case. The accused were Devi Lal, Brijlal, Jagram, Bihari, Mukhtiar Singh, Bahadur and Nathu. The Sessions Court tried the accused for offences under Sections 148, 307/149 and 302/149 of the Indian Penal Code. The Sessions Court convicted Devi Lal, Jagram and Bihari under Section 302, read with S. 34 of the Indian Penal Code, and sentenced each of them to imprisonment for life. The other accused were acquitted.\n3.  The State of Rajasthan preferred an appeal against the acquittal. The High Court dismissed the appeal of the State against accused Brijlal and Na",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "307"
+    },
+    {
+      "section": "34"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "8 April 1971",
+  "outcome": "Unknown",
+  "facts": [
+    "Around midnight of June 11, 1966, Dhannaram and Sultan went to a liquor shop at village Dhaulatpura.",
+    "There were two groups. One was Motaram's and the other was of Binjaram and Nathuram.",
+    "When they reached near the house of Surja, accused Brijlal and his brother Ladu met them.",
+    "Ladu gave a blow with the but end of the gun on the eye of Dhannaram.",
+    "Dhannaram had an axe with which he gave a blow to Ladu.",
+    "Ladu fired his gun.",
+    "Motaram, his son Brijlal, P.W. 1 and Dhanna, P.W. 3 nephew of Motaram all went to the bus stand to make a report at the police station Hindumalkote."
+  ],
+  "issues": [
+    "Whether the prosecution evidence was reliable",
+    "Whether the accused were present at the occurrence",
+    "Whether the accused participated in the offence"
+  ],
+  "petitioner_arguments": [
+    "The accused did not know what the exact prosecution case was",
+    "The prosecution witnesses were highly interested and inimical",
+    "The trial Court did not accept the evidence of the prosecution witnesses"
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The High Court found that the prosecution evidence was totally false in regard to the version of Brijlal and Nathu going to the bus stand with guns",
+    "The court disbelieved that among the seven accused one was armed with rifle and the other a gun, that Nathu was present and instigated and on his instigation accused Brijlal fired",
+    "The court also disbelieved that accused Brijlal and Nathu the two gun-men stood there and threatened the witnesses not to approach the accused"
+  ],
+  "holding": [
+    "The conviction of Devi Lal, Jagram and Bihari was upheld by the High Court",
+    "The conviction of Jagram was set aside on the ground that in view of the finding of the Sessions Court that the evidence of the prosecution witnesses was not reliable in regard to the accused Mukhtiar Singh and Bahadur"
+  ],
+  "cases_cited": []
+}

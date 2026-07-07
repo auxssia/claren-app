@@ -1,0 +1,66 @@
+{
+  "case_id": "C1103",
+  "case_name": "Baburam v State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [
+    "Santosh Hegde"
+  ],
+  "bench": [],
+  "petitioner": "Baburam",
+  "respondent": "State of Madhya Pradesh\nSupreme Court of India\n\n29 January 2002\nAppeal (Crl.) 1913 of 1996\nThe Judgment was delivered by : Santosh Hegde, J.\n1.  Deceased Bhagwan Devi was married to one Ram Kumar son of the appellant herein. It is stated by the prosecution that on 27.2.1988, the said Bhagwan Devi was found charred to death in the house where she was living with her husband, and at that time, the appellant was visiting them for about 3 days prior to the ghastly incident. After investigations, the Police filed a charge sheet against the appellant and his son under Sections 302 and 201 IPC and alternative charges were also framed under Section 306 read with Section 498A IPC. Almost all material witnesses examined by the prosecution had turned hostile and the trial court after considering the material on record came to the conclusion that the charges under Sections 201 and 302 were not proved against said Ram Kumar and the appellant and, therefore, acquitted them of the said char",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "306"
+    },
+    {
+      "section": "498A"
+    },
+    {
+      "section": "34"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "201"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "29 January 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "Deceased Bhagwan Devi was married to one Ram Kumar son of the appellant herein.",
+    "It is stated by the prosecution that on 27.2.1988, the said Bhagwan Devi was found charred to death in the house where she was living with her husband, and at that time, the appellant was visiting them for about 3 days prior to the ghastly incident.",
+    "After investigations, the Police filed a charge sheet against the appellant and his son under Sections 302 and 201 IPC and alternative charges were also framed under Section 306 read with Section 498A IPC.",
+    "Almost all material witnesses examined by the prosecution had turned hostile and the trial court after considering the material on record came to the conclusion that the charges under Sections 201 and 302 were not proved against said Ram Kumar and the appellant and, therefore, acquitted them of the said charges."
+  ],
+  "issues": [
+    "Whether the death of Bhagwan Devi was caused by strangulation or burning?",
+    "Whether the prosecution has established beyond all reasonable doubt that it was the appellant who was last found in the residence where Bhagwan Devi was found murdered?"
+  ],
+  "petitioner_arguments": [
+    "The death of the deceased Bhagwan Devi was caused not by strangulation but due to the burn injuries received by her.",
+    "The evidence of Dr. Fayaj Hussan, PW-1, is rather uncertain in terms since that evidence postulates more than one possible circumstance."
+  ],
+  "respondent_arguments": [
+    "There was enough circumstantial evidence to drive home the point that the death of Bhagwan Devi was not only caused by the burn injuries she received but also by strangulation.",
+    "The prosecution has established beyond all reasonable doubt that it was the appellant who was last found in the residence where Bhagwan Devi was found murdered."
+  ],
+  "court_reasoning": [
+    "The evidence of the doctor does not in any manner support the prosecution case to prove beyond all reasonable doubt that the appellant had caused the strangulation of the deceased.",
+    "It is extremely difficult why the appellant who was visiting his son and daughter-in-law and had come only 3 days prior to the incident in question, should go to such an extent of murdering or abetting the suicide of his daughter-in-law for not bringing in sufficient dowry."
+  ],
+  "holding": [
+    "The appeal succeeds and the same is allowed accordingly.",
+    "The conviction and the sentence imposed on the appellant by the High Court as well as the trial court are set aside.",
+    "The appellant shall be set at liberty, if not required in any other case."
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,48 @@
+{
+  "case_id": "C1123",
+  "case_name": "Vijay Kumar Dharna Alias Koka v Union of India and Others",
+  "court": "Supreme Court of India",
+  "year": 1990,
+  "judges": [
+    "AHMADI, J."
+  ],
+  "bench": [],
+  "petitioner": "Vijay Kumar Dharna Alias Koka",
+  "respondent": "Union of India",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "9 February 1990",
+  "outcome": "Unknown",
+  "facts": [
+    "By an order dated July 13, 1989 passed u/s. 3 (1) of the Conservation of Foreign Exchange and Prevention of Smuggling Activities Act, 1974 (hereinafter called 'the Act'), the appellant was detained with a view to preventing him from abetting the smuggling of goods.",
+    "The appellant challenged his detention by a writ petition filed u/art. 226 of the Constitution in the High Court of Delhi which, however, came to be dismissed on December 12, 1989.",
+    "The appellant has, therefore, approached this Court by special leave which we have granted."
+  ],
+  "issues": [
+    "Whether the variance between the Gurmukhi and English versions of the detention order and grounds of detention was sufficient to deny the detenu his right u/art. 22(5) of the Constitution"
+  ],
+  "petitioner_arguments": [
+    "The appellant who knows the Gurmukhi script only was supplied with copies of the detention order and grounds of detention in that language along with the detention order and grounds of detention in English.",
+    "Because of this discrepancy he was unable to effectively represent against the impugned detention order."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "There is considerable force in this contention.",
+    "The satisfaction recorded in the Gurmukhi version of the grounds for detention is not consistent with the purpose for detention found in the detention order.",
+    "We are, therefore, of the opinion that because of this variance the detenu was unable to make an effective representation against his detention and was thereby denied his right u/art. 22(5) of the Constitution"
+  ],
+  "holding": [
+    "Appeal allowed.",
+    "Quash the detention order and direct that the detenu shall be set at liberty at once."
+  ],
+  "cases_cited": [
+    "Vijay Kumar Dharna Alias Koka v Union of India"
+  ]
+}

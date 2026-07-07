@@ -1,0 +1,87 @@
+{
+  "case_id": "C1657",
+  "case_name": "Kaushik Cooperative Building Society v N. Parvathamma and others",
+  "court": "Supreme Court of India",
+  "year": 2017,
+  "judges": [
+    "Pinaki Chandra Ghose"
+  ],
+  "bench": [],
+  "petitioner": "Kaushik Cooperative Building Society",
+  "respondent": "N. Parvathamma",
+  "citations": [
+    "1970 1 SCC 673",
+    "1975 4 SCC 690",
+    "1976 4 SCC 780",
+    "1977 2 SCC 181",
+    "2000 3 SCC 350",
+    "2000 7 SCC 522",
+    "2003 2 SCC 464",
+    "2008 5 SCC 647",
+    "2009 12 SCC 613",
+    "2010 2 SCC 461",
+    "2013 9 SCC 438",
+    "AIR 1916 PC 78",
+    "AIR 1976 SC 1569",
+    "AIR 1977 SC 1268"
+  ],
+  "statutes": [
+    {
+      "act": "Code Of Civil Procedure",
+      "section": "11"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "11 April 2017",
+  "outcome": "Unknown",
+  "facts": [
+    "One V.R.K. Shastry had purchased the land to an extent of 12 acres 9 guntas out of 16 acres 9 guntas of land in Survey No.129/68 Paiki from one Md. Moulana vide agreement dated 29.12.1963.",
+    "A suit for specific performance of the said agreement having been dismissed, V.R.K. Shastry filed an appeal before the High Court of Andhra Pradesh which was numbered as CCCA No.14 of 1972.",
+    "The decree in CCCA No.14 of 1972 came to be amended by the High Court and the judgment debtors were directed to execute the sale deed in favour of the decree holder or his nominee.",
+    "Part of said land was purchased by the appellant society and Municipal Corporation of Hyderabad sanctioned layout in File No.45/layout/8/85 in favour of the appellant society for development of 7.00 acres of land out of 12 acres 9 guntas in Survey No.129/68 Paiki.",
+    "Rest of the portion in the above said decreetal land was assigned to one V. Narsimha Reddy and others under the Assignment Deed dated 15.01.1988.",
+    "Later, 41 sale deeds were registered in favour of the assignees, after this Court on 12.09.1994 dismissed SLP(C) No.11381/1994 filed by the judgment debtors and upheld the order of the executing court permitting the assignees to obtain registered sale deeds in their favour.",
+    "Between year 1989 and 1996, three different land grabbing cases under the Act were filed in the Special Court against the appellant society by the legal representatives of deceased Md. Moulana, Sai Nagar Housing Co-operative Society and the State of Andhra Pradesh, being LGC No.46/1989, LGC No.29/1992 and LGC No.15/1996 respectively.",
+    "All the land grabbing cases were dismissed and when a batch of writ petitions were filed in the High Court of Andhra Pradesh, the same were dismissed vide a common judgment dated 01.05.2007 passed by the High Court.",
+    "One K. Balram and few others filed another Land Grabbing Case No.44 of 2000 before the Special Court established under the Act in respect of Land in Survey No.129/52, RS No.327, claiming that he and other members of the Hindu Joint Family, he as the manager, had purchased the disputed property under the registered Sale Deed dated 25.03.1967 from one of the legal representatives of Md. Moulana, namely, Abdul Rub."
+  ],
+  "issues": [
+    "Whether the Special Court committed any illegality in taking cognizance of the case under Section 8(1) of the Act?",
+    "Whether LGC pending before the Special Court is liable to be rejected by setting aside the common order dated 30.04.2010 passed in I.A Nos.585/2007 and 216/2010 and allowing the said petitions?"
+  ],
+  "petitioner_arguments": [
+    "The main point revolves around the principles of res-judicata which is neither against public policy nor res-integra to civil procedure prevailing in our country.",
+    "The doctrine of res judicata is a wholesome one which is applicable not merely to matters governed by the provisions of the Code of Civil Procedure but to all litigations, as was observed by A.Alagiriswami, J. in Bombay Gas Co. Vs. Jagannath Pandurang, (1975) 4 SCC 690 1975 Indlaw SC 61 (para 11)."
+  ],
+  "respondent_arguments": [
+    "The High Court has answered both the above questions in the negative and observed that entire trial has already been completed except the cross-examination of Mandal Revenue Officer in the said pending LGC."
+  ],
+  "court_reasoning": [
+    "The doctrine of res judicata is not confined to a decision in a suit but it applies to decisions in other proceedings as well.",
+    "But how far a decision which is rendered in other proceedings will bind the parties depends upon other considerations one of which is whether that decision determines substantial rights of parties and the other is whether the parties are given adequate opportunities to establish the rights pleaded by them."
+  ],
+  "holding": [
+    "The present appeals by special leave are allowed. The impugned common judgment dated 6th August, 2010 passed by the High Court of Andhra Pradesh is set aside. The proceedings in LGC No.44/2000 pending before the Special Court are quashed."
+  ],
+  "cases_cited": [
+    "Being aggrieved the appellant herein and the above named V. Narsimha Reddy filed Writ Petition Nos",
+    "In the case of Narayana Prabhu Venkateswara Prabhu Vs. Narayana Prabhu Krishna Prabhu",
+    "Kaushik Cooperative Building Society v N. Parvathamma",
+    "Rub. The above-noted purchaser/ assignee of the land, namely, V. Narsimha Reddy was impleaded in",
+    "Sajjadda Nashin Sayyeed Vs. Musa Dada Bhai Umar",
+    "Sheoparsan Singh Vs. Ramanandan Prasad Narayan Singh",
+    "Williams Vs. Lourdu Swamy &",
+    "and Malia Bajrangi dead through LRs & Anr. Vs. Badri Bai wife of Jagannath &",
+    "as observed by this Court in Syed Mohd. Salie Labbai Vs. Mohd",
+    "as was observed by A.Alagiriswami, J. in Bombay Gas Co. Vs. Jagannath Pandurang",
+    "has been elaborated upon by this Court in Om Parkash Singh Vs. M. Lingamaiah &",
+    "judgment of this Court in the case of Mandal Revenue Officer Vs. Goundla Venkaiah &",
+    "judgment of this Court in the case of Ramji Gupta & Anr. Vs. Gopi Krishan Agrawal (dead",
+    "portion in the above said decreetal land was assigned to one V. Narsimha Reddy",
+    "the said case and the applications filed by the said V. Narsimha Reddy",
+    "this Court in the case of Sri Bhavanarayanaswamivari Temple Vs. Vadapalli Venkata Bhavanarayana Charyulu",
+    "upon the law laid down by this Court in Shama Prassanth Raji Vs. Ganapath Rao &"
+  ]
+}

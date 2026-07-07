@@ -1,5 +1,3 @@
-"use client";
-
 import { SectionWrapper, SectionHeader } from "@/components/common/section-wrapper";
 import { AnimatedSection } from "@/components/common/animated-section";
 import { ProceduralTree } from "@/components/visuals/procedural-tree";

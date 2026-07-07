@@ -1,0 +1,56 @@
+{
+  "case_id": "C2005",
+  "case_name": "Jharu and Others v State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "year": 1990,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Jharu and Others Avadh Ram and Others",
+  "respondent": "State of Madhya Pradesh\nSupreme Court of India\n\n13 September 1990\nCr.A. Nos. 308 and 526 of 1979\nThe Order of the Court was as follows:\n1. On the allegation of commission of murder with rioting and other cognate offences punishable under the Indian Penal Code, the appellants in these two appeals and some other accused persons who have since been acquitted were put on trial. The occurrence took place within a house and PW 1 was the only eye-witness. The trial court convicted 5 persons for offences punishable under Section 302/149 IPC and other offences which are not relevant to be stated here while acquitting",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "325"
+    },
+    {
+      "section": "428"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "13 September 1990",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants in these two appeals and some other accused persons who have since been acquitted were put on trial.",
+    "The occurrence took place within a house and PW 1 was the only eye-witness.",
+    "The trial court convicted 5 persons for offences punishable under Section 302/149 IPC and other offences which are not relevant to be stated here while acquitting others.",
+    "The State of Madhya Pradesh carried an appeal to the High Court challenging the acquittal.",
+    "PW 1 has apparently given somewhat varying versions of the occurrence at different stages.",
+    "There is clear evidence of rioting leading to causing of grievous hurt.",
+    "We dismiss the appeal of Firatram upholding the charge of murder against him and conviction under Section 302 IPC and confirm his sentence of imprisonment for life."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "In view of the fact that evidence indicates that he was so armed and PW 1 has implicated him consistently we are of the view that he alone should have been convicted by the courts below for the offence of murder.",
+    "We are not in a position to find out who exactly are the persons who caused the hurt but since there was rioting and the convicted accused persons have participated and the evidence has been accepted, we would hold that the accused persons who were convicted by the courts below should have their conviction under Section 325/149 and should be acquitted of the charge under Section 302/149.",
+    "Firatram's sentences under Sections 302 and 325/149 IPC shall run concurrently."
+  ],
+  "holding": [
+    "We dismiss the appeal of Firatram upholding the charge of murder against him and conviction under Section 302 IPC and confirm his sentence of imprisonment for life.",
+    "All the eight shall stand convicted under Section 325/149 IPC. Each of them shall be sentenced to three years' rigorous imprisonment.",
+    "Firatram's sentences under Sections 302 and 325/149 IPC shall run concurrently."
+  ],
+  "cases_cited": []
+}

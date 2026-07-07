@@ -1,0 +1,45 @@
+{
+  "case_id": "case_001",
+  "case_name": "Arjun Singh v. The State of Maharashtra",
+  "court": "SUPREME COURT OF INDIA",
+  "year": 2020,
+  "judges": [
+    "D.Y. Chandrachud"
+  ],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [
+    "2020 INSC 88",
+    "AIR 2020 SC 145"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal arises out of a conviction under Penal Code Section 302 for the offense of Murder.",
+    "The appellant challenges the judgment of the High Court on grounds of systemic failure."
+  ],
+  "issues": [],
+  "petitioner_arguments": [
+    "We have heard the explicit points argued by the petitioner"
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "After careful consideration of the facts, the appeal is hereby allowed and the conviction is set aside."
+  ],
+  "holding": [
+    "The appeal is hereby allowed and the conviction is set aside."
+  ],
+  "cases_cited": []
+}

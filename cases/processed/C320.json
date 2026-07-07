@@ -1,0 +1,67 @@
+{
+  "case_id": "C320",
+  "case_name": "Dhirendra Pandua v State Of Orissa & Ors",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "D. K. JAIN, J"
+  ],
+  "bench": [],
+  "petitioner": "Dhirendra Pandua",
+  "respondent": "State Of Orissa &",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "38"
+    },
+    {
+      "section": "16(1)"
+    },
+    {
+      "section": "16"
+    },
+    {
+      "section": "19"
+    },
+    {
+      "act": "Constitution of India"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "19 September 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant was elected as a Councillor of two different municipal wards in the election held on 19th September, 2003.",
+    "On 30th September, 2003, the appellant was also elected as the Chairperson of the Municipal Council.",
+    "The complainant filed an Election Petition u/s.38 of the Orissa Municipal Act, 1950 questioning the election of the appellant as Councillor and Chairperson on the ground that being a leprosy patient, he had incurred disqualification u/ss.16(1)(iv) and 17(1)(b) of the Act.",
+    "The Election Tribunal framed five issues, with two main issues being whether the petition was barred by limitation and whether the appellant is a leprosy patient and as such disqualified to contest and hold the posts of a Councillor and Chairperson of the Municipality."
+  ],
+  "issues": [
+    "Whether the petition was barred by limitation",
+    "Whether the appellant is a leprosy patient and as such disqualified to contest and hold the posts of a Councillor and Chairperson of the Municipality"
+  ],
+  "petitioner_arguments": [
+    "The Election Petition was not barred by limitation.",
+    "The appellant was fully cured of the ailment and was, thus, qualified to contest the election.",
+    "The petition was maintainable."
+  ],
+  "respondent_arguments": [
+    "The petition was barred by limitation.",
+    "The appellant is a leprosy patient and as such disqualified to contest and hold the posts of a Councillor and Chairperson of the Municipality."
+  ],
+  "court_reasoning": [
+    "A conjoint reading of the aforenoted provisions of the Act makes it clear that Ss.18 and 38 operate in two independent fields.",
+    "The scope of S.18 is limited as compared to S.38.",
+    "When a question with regard to the validity of election of a Councillor arises, it has to be dealt with in accordance with the procedure prescribed under S.19 of the Act.",
+    "However, when the question raised is as to whether or not the Councillor has incurred any disqualification and thereby ceased to hold the office, it has to be referred and determined as per the procedure laid down in S.38 of the Act."
+  ],
+  "holding": [
+    "The High Court affirmed the order of the Election Tribunal-cum-District Judge on both counts, namely, (i) that the petition was not barred by limitation and (ii) that the appellant was still suffering from risk prone leprosy.",
+    "The appeal is dismissed."
+  ],
+  "cases_cited": [
+    "Dhirendra Pandua v State Of Orissa &"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "case_id": "C2472",
+  "case_name": "Biru Mahato v District Magistrate, Dhanbad",
+  "court": "Supreme Court of India",
+  "year": 1982,
+  "judges": [
+    "D. A. Desai"
+  ],
+  "bench": [],
+  "petitioner": "Biru Mahato",
+  "respondent": "District Magistrate, Dhanbad\nSupreme Court of India\n\n15 October 1982\nORIGINAL JURISDICTION : Writ -Petition (Criminal) No. 1125 of 1982. (Under article 32 of the Constitution of India) WITH Criminal Appeal No. 488 of 1982. (Appeal by special leave from the judgment and order dated 7-4-1982 of the Patna High Court (Ranchi Bench) in Writ Jurisdiction Case No. 40 of 1982 (R).\nThe Judgment was delivered by : D. A. Desai, J.\n1. By our order dated October 8, 1982, the order of detention dated February 5, 1982, made by the District Magistrate, Dhanbad, against detenu Biru Mahato was quashed and set aside by us further stating that the reasons would follow. Here are the reasons.\n2. Detenu Biru Mahato was arrested on January 13, 1982, on the allegation that he was involved in two incidents which occurred, first at 5 p.m. and the second at 5.30 p.m. on January 12, 1982. In the first occurrence detenu and his associates appear to have committed offences under ss. 341, 323 and 506 re",
+  "citations": [
+    "1964 4 SCR 921",
+    "AIR 1982 SC 1023"
+  ],
+  "statutes": [
+    {
+      "act": "National Security Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "15 October 1982",
+  "outcome": "Unknown",
+  "facts": [
+    "Detenu Biru Mahato was arrested on January 13, 1982, on the allegation that he was involved in two incidents which occurred, first at 5 p.m. and the second at 5.30 p.m. on January 12, 1982.",
+    "In respect of the first occurrence bail application of the detenu was accepted but in respect of the second occurrence the bail application was rejected by the learned District & Sessions Judge, Dhanbad on February 12, 1982.",
+    "The grounds of detention referred to the two incidents which occurred on January, 12, 1982.",
+    "Detenu perferred a petition for a writ of habeas corpus in the High Court at Patna which was dismissed in limine by a Division Bench of the High Court."
+  ],
+  "issues": [
+    "Whether an order of detention can be made against a person who is already detained",
+    "Whether the detaining authority must show awareness of the fact that the person against whom the detention order is being made is already under detention or in jail"
+  ],
+  "petitioner_arguments": [
+    "The date on which the detention order came to be made the detenu was already deprived of his liberty as he was arrested and was confined in jail and, therefore, he was already prevented from pursuing any activity which may prove prejudicial to the maintenance of public order",
+    "The detaining authority was not even aware that the detenu was already in jail and the order suffers from the vice of non-application of mind"
+  ],
+  "respondent_arguments": [
+    "An order for preventive detention is made on the subjective satisfaction of the detaining authority",
+    "The detaining authority before exercising the power of preventive detention would take into consideration the past conduct or antecedent history of the person and as a matter of fact it is largely from the prior events showing the tendencies or inclinations of a man that an inference could be drawn whether he is likely even in the future to act in a manner prejudicial to the maintenance of public order"
+  ],
+  "court_reasoning": [
+    "The postulate of the section is that if preventive step is not taken the person sought to be prevented may indulge into an activity prejudicial to the maintenance of public order",
+    "If the subjective satisfaction of the detaining authority leads to this conclusion it can put an end to the Activity by making, a preventive detention order",
+    "The antecedent history and the past conduct on which the order of detention would be based would, in such a case, be proximate in point of time and would have a rational connection with the conclusion drawn by the authority that the detention of the person after his release is necessary"
+  ],
+  "holding": [
+    "The order of detention dated February 5, 1982, made by the District Magistrate, Dhanbad, against detenu Biru Mahato was quashed and set aside",
+    "The reasons for the quashing and setting aside of the order were that the detaining authority was not aware that the detenu was already in jail and the order suffers from the vice of non-application of mind"
+  ],
+  "cases_cited": [
+    "Biru Mahato v District Magistrate",
+    "In Rameshwar Shaw v. District Magistrate",
+    "and Jagir Singh v. State of Punjab",
+    "by making, a preventive detention order. (see Ujagar Singh v. State of Punjab",
+    "support from the decision of this Court in Vijay Kumar v. State of J & K"
+  ]
+}

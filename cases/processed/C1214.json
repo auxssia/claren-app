@@ -1,0 +1,67 @@
+{
+  "case_id": "C1214",
+  "case_name": "State Of West Bengal v Mir Mohammad Omar And Others",
+  "court": "Supreme Court of India",
+  "year": 2000,
+  "judges": [
+    "K. T. Thomas, J."
+  ],
+  "bench": [],
+  "petitioner": "State Of West Bengal",
+  "respondent": "Mir Mohammad Omar",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Read With Section 34 Of The Indian Penal Code",
+      "section": "364"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "27"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "313"
+    },
+    {
+      "act": "Is Incorporated In The Evidence Act",
+      "section": "114"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "106"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "29 August 2000",
+  "outcome": "Unknown",
+  "facts": [
+    "A young businessman from Calcutta was abducted and killed.",
+    "The kingpin of the abductors and some of his henchmen were later nabbed and were tried for the offences.",
+    "The trial court convicted them under Section 364 read with Section 34 of the Indian Penal Code, but not for murder, and sentenced them each to rigorous imprisonment for 10 years.",
+    "A Division Bench of the Calcutta High Court rejected the State appeal against the acquittal for murder and reduced the sentence to a short term imprisonment restricting it to the period which the convicted persons had already undergone."
+  ],
+  "issues": [
+    "Whether Mahesh was abducted by the accused on the night in question",
+    "Whether the abduction was done for the purpose of finishing him off"
+  ],
+  "petitioner_arguments": [
+    "The prosecution failed to establish that the dead body on which PW-30 (Dr. Debabrata Choudhury) conducted the autopsy could not have been that of Mahesh.",
+    "The identity of the corpus delicti has not been established in this case."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "There is abundant evidence for showing that Mahesh was abducted by the accused on the night in question.",
+    "If the words attributed to the abductors can be believed we have no doubt that the abduction was done for the purpose of finishing him off."
+  ],
+  "holding": [
+    "We have no difficulty to conclude that all the accused abducted Mahesh in order to murder him.",
+    "The trial court convicted them under Section 364 read with Section 34 of the Indian Penal Code, but not for murder, and sentenced them each to rigorous imprisonment for 10 years."
+  ],
+  "cases_cited": [
+    "State Of West Bengal v Mir Mohammad Omar",
+    "within the knowledge of the accused. In Shambu Nath Mehra vs. The"
+  ]
+}

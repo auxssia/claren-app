@@ -1,66 +1,44 @@
-"use client";
-
 import Link from "next/link";
-import { useRef, useEffect } from "react";
-import gsap from "gsap";
+import { ArrowRight } from "lucide-react";
 
 export function HomeHero() {
-  const container = useRef<HTMLDivElement>(null);
-
-  useEffect(() => {
-    const el = container.current;
-    if (!el) return;
-
-    const isMobile = window.innerWidth < 768;
-
-    const ctx = gsap.context(() => {
-      const items = el.querySelectorAll(".anim-child");
-      gsap.fromTo(
-        items,
-        { opacity: 0, y: isMobile ? 10 : 20 },
-        {
-          opacity: 1,
-          y: 0,
-          duration: isMobile ? 0.5 : 0.7,
-          stagger: isMobile ? 0.06 : 0.12,
-          ease: "power2.out",
-        }
-      );
-    });
-
-    return () => ctx.revert();
-  }, []);
-
   return (
-    <section ref={container} className="relative min-h-screen flex items-center justify-center overflow-hidden">
-      <div className="gradient-grid absolute inset-0 opacity-40" />
-      <div className="relative mx-auto max-w-7xl px-6 pt-32 pb-24 text-center">
-        <h1 className="anim-child text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-semibold tracking-tight leading-[0.95] mb-6">
-          Visual intelligence
-          <br />
-          for litigation.
+    <section className="relative overflow-hidden min-h-[calc(100vh-4rem)] flex flex-col items-center justify-center py-24 text-center">
+      <div className="gradient-grid absolute inset-0 opacity-40 pointer-events-none" />
+      <div className="relative z-10 max-w-4xl mx-auto px-6">
+        <h1 className="opacity-0 animate-fade-up text-5xl sm:text-6xl md:text-7xl font-semibold tracking-tight text-foreground leading-[1.08] mb-6 max-w-3xl mx-auto text-balance">
+          Visual Intelligence for <br className="hidden sm:inline" />Litigation Workflows.
         </h1>
-        <p className="anim-child text-base sm:text-lg text-muted max-w-xl mx-auto leading-relaxed mb-10">
-          Claren helps lawyers and law students understand cases, evidence,
-          timelines, and legal procedures visually — instead of digging through
-          endless PDFs and documents.
+        <p
+          className="opacity-0 animate-fade-up text-base sm:text-lg text-muted leading-relaxed max-w-xl mx-auto mb-10"
+          style={{ animationDelay: "120ms" }}
+        >
+          Claren maps unstructured case documents, procedural stages, and
+          statutory relationships into deterministic timelines. Built to stop
+          2 AM manual chronology extraction.
         </p>
-        <div className="anim-child flex flex-col sm:flex-row items-center justify-center gap-4">
+        <div
+          className="opacity-0 animate-fade-up flex flex-col sm:flex-row items-center justify-center gap-4 mb-12"
+          style={{ animationDelay: "240ms" }}
+        >
           <Link
-            href="/arch"
-            className="inline-flex items-center justify-center rounded-lg bg-foreground text-background px-6 py-3 text-sm font-medium transition-all hover:opacity-90"
+            href="/atlas"
+            className="w-full sm:w-auto inline-flex items-center justify-center rounded-lg bg-foreground text-background px-7 py-3 text-sm font-medium transition-all hover:opacity-90"
           >
-            Explore Arch
+            Launch Engine
           </Link>
           <Link
-            href="/pricing"
-            className="inline-flex items-center justify-center rounded-lg border border-border px-6 py-3 text-sm font-medium text-foreground transition-all hover:bg-card"
+            href="/philosophy"
+            className="w-full sm:w-auto inline-flex items-center justify-center gap-1.5 rounded-lg border border-border bg-card px-6 py-3 text-sm font-medium text-foreground hover:bg-card/60 transition-colors"
           >
-            View pricing
+            Read the Manifesto <ArrowRight className="h-3.5 w-3.5 ml-1" />
           </Link>
         </div>
-        <p className="anim-child text-xs text-muted/50 mt-8 tracking-wider uppercase">
-          Open source &middot; Explainable &middot; Built in public
+        <p
+          className="opacity-0 animate-fade-up text-[11px] font-mono tracking-[0.2em] text-muted/60 uppercase"
+          style={{ animationDelay: "360ms" }}
+        >
+          DETERMINISTIC · EXPLAINABLE · BUILT IN PUBLIC
         </p>
       </div>
     </section>

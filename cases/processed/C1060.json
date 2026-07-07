@@ -1,0 +1,52 @@
+{
+  "case_id": "C1060",
+  "case_name": "State of Punjab v Hardial Singh and Others",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "State of Punjab",
+  "respondent": "Hardial Singh",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "482"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "8 May 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "Challenge in this appeal is to the judgment of a learned Single Judge of the Punjab and Haryana High Court passed in an application under Section 482 of the Code of Criminal Procedure, 1973.",
+    "The respondents were accused of having committed the offences punishable under Sections 364, 324, 323, 149 and 148 of the Indian Penal Code, 1860 (in short the 'IPC') and Section 3(2)(v) of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989.",
+    "The stand taken was that as per Rule 7 of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Rules, 1995 (in short the 'Rules') framed under the Act, investigation had to be undertaken by an officer not below the rank of Deputy Superintendent of Police specially appointed by the State Government/Director General of Police/Superintendent of Police after taking into account of his experience, sense of ability and justice to perceive the implication of the case and investigate it along with right lines within the shortest possible time.",
+    "The stand of the State was that SP (D), Ferozepur had authorized Shri Manwinder Singh to investigate the case.",
+    "It was admitted that there is a SSP in Ferozpur district who shall come within the definition of SP under Rule 7 of the Rules."
+  ],
+  "issues": [
+    "Whether investigation done by the police officer specifically authorized to do so in terms of the Rule 7 is illegal qua offences not relatable to any provision under the Act"
+  ],
+  "petitioner_arguments": [
+    "The order is absolutely confusing.",
+    "At one stage the High Court had directed the charges against the accused persons for all the offences both under the IPC and the Act to be dropped but at subsequent stage it had noted that it cannot be said that there was no prima facie case against the accused persons to frame the charges."
+  ],
+  "respondent_arguments": [
+    "Supported the judgment"
+  ],
+  "court_reasoning": [
+    "Having the view expressed in Chunnilal's case 2009 Indlaw SC 509 (supra) we hold that only investigation qua the offence under the Act is vulnerable and not those relatable to IPC.",
+    "It is open to the State to authorize any person in the manner prescribed to investigate into the offences under the Act."
+  ],
+  "holding": [
+    "The appeal is allowed to the aforesaid extent.",
+    "Appeal allowed"
+  ],
+  "cases_cited": [
+    "State of Punjab v Hardial Singh"
+  ]
+}

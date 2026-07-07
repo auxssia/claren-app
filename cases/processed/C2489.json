@@ -1,0 +1,87 @@
+{
+  "case_id": "C2489",
+  "case_name": "Bijoy Singh and Another v State of Bihar",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [
+    "R. P. Sethi"
+  ],
+  "bench": [],
+  "petitioner": "Bijoy Singh and Another",
+  "respondent": "State of Bihar\nSupreme Court of India\n\n17 April 2002\nAppeal (Crl.) 1339-1340 of 1999, (With Crl.A. No. 1341/99)\nThe Judgment was delivered by : R. P. Sethi ,J.\n1. Though sad, yet it is a fact that people do not hesitate in resorting to vengeance even on the unfortunate deaths of their nears and dears. There is a tendency to rope in as many people as possible for facing the trial relating to the death or injuries to the unfortunate victims. Sometimes it is over-enthusiasm and many a times designed effort to harass the relations and friends of the real culprits. It has been found that on occasions innocent persons including aged, infirm, ladies and children are booked for standing at the dock and remain confined in jails till the pendency of the cases. Some are acquitted by the trial court and many by the appellate courts but only after their languishing in confinements for years. Such efforts of unscrupulous survivors of the crime or the relations of the victim",
+  "citations": [
+    "AIR 1973 SC 1409"
+  ],
+  "statutes": [
+    {
+      "act": "Arms Act",
+      "section": "27"
+    },
+    {
+      "act": "Ipc And Under Section 27 Of The Arms Act",
+      "section": "149"
+    },
+    {
+      "act": "And 3 Years Rigorous Imprisonment Under Section 27 Of The Arms Act",
+      "section": "302"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "161"
+    },
+    {
+      "act": "That Act",
+      "section": "145"
+    },
+    {
+      "act": "Criminal Procedure Code",
+      "section": "157"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "17 April 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "The case involves the death of Vijay Singh and an attempt to murder Sanuj Singh.",
+    "All the accused belong to one clan and very closely related to each other.",
+    "The trial court convicted all of them under Section 302, 307 read with Section 149 IPC and under Section 27 of the Arms Act and sentenced them to rigorous imprisonment for life under Section 302 and 3 years rigorous imprisonment under Section 27 of the Arms Act.",
+    "Appeals filed by the accused persons were dismissed by the High Court vide judgment impugned in this case."
+  ],
+  "issues": [
+    "The doctrine of presumption of innocence in favour of the accused makes the justice itself a victim which ultimately weakens the criminal justice dispensation system.",
+    "In cases involving number of accused persons, a balance approach by the courts is required to be insisted upon.",
+    "The courts should be cautious to rely upon the testimony of witnesses speaking generally and in an omnibus way without specific reference to the accused or the role played by them."
+  ],
+  "petitioner_arguments": [
+    "The prosecution has tried to implicate innocent persons as accused persons only on account of enmity with the object of taking revenge.",
+    "Except Accused Nos.2 and 3 no other accused person is proved to have done any overt act in furtherance of the alleged common object.",
+    "There was a delay in lodging the FIR and sending its copy to the Magistrate.",
+    "The prosecution did not assign any reason for not recording the statement of Sanuj Singh (PW5), admittedly, the injured person in the occurrence for a period of about 9 days.",
+    "No reliance can be placed upon the witnesses who are related with each other and interested in the success of the prosecution case."
+  ],
+  "respondent_arguments": [
+    "The FIR is a vital and valuable piece of evidence for the purpose of appreciating the evidence led at the trial.",
+    "The object of insisting upon lodging of the FIR is to obtain the earliest information regarding the circumstance in which the crime was committed, including the names of the actual culprits and the parts played by them, the weapons, if any, used as also the names of the eye-witnesses, if known to the informant.",
+    "Delay in sending the copy of the FIR may by itself not render the whole of the case of the prosecution as doubtful but shall put the court on guard to find out as to whether the version as stated in the Court was the same version as earlier reported in the FIR or was the result of deliberations involving some other persons who were actually not involved in the commission of the crime."
+  ],
+  "court_reasoning": [
+    "The doctrine of presumption of innocence in favour of the accused makes the justice itself a victim which ultimately weakens the criminal justice dispensation system.",
+    "In cases involving number of accused persons, a balance approach by the courts is required to be insisted upon.",
+    "The courts should be cautious to rely upon the testimony of witnesses speaking generally and in an omnibus way without specific reference to the accused or the role played by them."
+  ],
+  "holding": [
+    "No separate sentence was passed for the offence under Section 307 in view of the life imprisonment.",
+    "All the accused belong to one clan and very closely related to each other.",
+    "The doctrine of presumption of innocence in favour of the accused makes the justice itself a victim which ultimately weakens the criminal justice dispensation system."
+  ],
+  "cases_cited": [
+    "Dandu Lakshmi Reddy vs. State of A",
+    "In view of the judgments of this Court in Raja Ram & Ors. v. State of M",
+    "This Court in L/NK. Meharaj Singh v. State of U",
+    "and Anil Rai v. State of Bihar",
+    "have actually committed the offence. This Court in Deep Chand v. State of Haryana",
+    "same effect is the judgment of this Court in Ranbir & Ors. v. State of Punjab"
+  ]
+}

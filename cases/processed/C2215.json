@@ -1,0 +1,73 @@
+{
+  "case_id": "C2215",
+  "case_name": "State of Madhya Pradesh v Bhailal Bhai and Others",
+  "court": "Supreme Court of India",
+  "year": 1964,
+  "judges": [
+    "K. C. Das Gupta, J."
+  ],
+  "bench": [],
+  "petitioner": "State of Madhya Pradesh",
+  "respondent": "Bhailal Bhai",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "3"
+    },
+    {
+      "section": "72"
+    },
+    {
+      "act": "Indian Contract Act, 1872"
+    },
+    {
+      "act": "Limitation Act, 1963"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "20 January 1964",
+  "outcome": "Unknown",
+  "facts": [
+    "These 31 appeals by the State of Madhya Pradesh are against the orders made by the High Court' of Madhya Pradesh in 31 applications under Art.",
+    "All these petitioners carried on business in Madhya Bharat which later became part of the State of Madhya Pradesh.",
+    "They were assessed to sales tax on their sales of tobacco in accordance with the notification issued by the State Government in exercise of powers under s.",
+    "The petitioners contended that the taxing provisions under which the tax was assessed and collected from them was unconstitutional as it infringed Art.",
+    "Accordingly, they prayed for appropriate writs or orders for refund of all the taxes that has been collected from them."
+  ],
+  "issues": [
+    "Whether the taxing provision was unconstitutional",
+    "Whether the assessment and collection of tax had been without any legal authority"
+  ],
+  "petitioner_arguments": [
+    "The taxing provisions under which the tax was assessed and collected from them was unconstitutional as it infringed Art.",
+    "They prayed for appropriate writs or orders for refund of all the taxes that has been collected from them."
+  ],
+  "respondent_arguments": [
+    "The Wing provisions did not offend Art.",
+    "In any case, they satisfied the requirements of Art.",
+    "Even if the taxing provision was unconstitutional and the assessment and collection of tax had been without any legal authority the petitioners were not entitled to the order for refund prayed for."
+  ],
+  "court_reasoning": [
+    "The tax payable at the point of sale by the importer in Madhya Bharat directly impeded the freedom of trade and commerce guaranteed by Art.",
+    "It is true that the import by itself would not bring in the liability to tax and that if the imported goods were not sold in Madhya Bharat no tax would be -payable.",
+    "The only reasonable interpretation of the notification as it stands, viz., that tax on tobacco leaves, manufactured tobacco and tobacco used for Bidi manufacturing would be payable at the point of sale by the importer, is that only the sale of goods which the importer had imported would be liable to tax and not sale of any other goods by him."
+  ],
+  "holding": [
+    "The tax contravenes the provisions of Art.",
+    "The prayer for refund was allowed in the applications out of which C.A. Nos.",
+    "The orders for refund made in some of the petitions mentioned above were upheld"
+  ],
+  "cases_cited": [
+    "State of Madhya Pradesh v Bhailal Bhai",
+    "as the High Court's decision in the case of Mohammad Siddique v. The",
+    "authority of this Court's decision in Atiabari Tea Co., Ltd. v. State of Assam (",
+    "is not disputed. In a recent case in Firm Mehtab Majid & Co., v. The",
+    "no scope for such a claim (See Firm Mehtab Majid & Co. v. State of Madras",
+    "of Madhya Pradesh in their decision in Mohammad Siddique v. The",
+    "of this Court in Automobile Transport (Rajasthan) Ltd. v. State of Rajasthan (",
+    "the date of the High Court's decision in Mohammad Siddique v. The",
+    "was not however raised there. in Sales Tax Officer, Banaras v. Kanhaiya Lal Mukundlal Saraf"
+  ]
+}

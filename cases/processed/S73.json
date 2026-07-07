@@ -1,0 +1,43 @@
+{
+  "case_id": "S73",
+  "case_name": "",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "2"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "3"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "368"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "What laws can be made under articles 2 and 3"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "No reasoning provided"
+  ],
+  "holding": [
+    "Any law referred to in Article 2 or Article 3 shall contain such provisions..."
+  ],
+  "cases_cited": []
+}

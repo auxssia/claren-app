@@ -1,0 +1,72 @@
+{
+  "case_id": "C1127",
+  "case_name": "Sadashio Mundaji Bhalerao v State Of Maharashtra",
+  "court": "Supreme Court of India",
+  "year": 2006,
+  "judges": [
+    "A. K. Mathur"
+  ],
+  "bench": [],
+  "petitioner": "Sadashio Mundaji Bhalerao",
+  "respondent": "State Of Maharashtra\nSupreme Court of India\n\n28 November 2006\nAppeal (Crl.) 478 Of 2005 W I T H Criminal Appeal Nos. 479 & 480 Of 2005\nThe Judgment was delivered by : A. K. Mathur, J.\n1.  These appeals are directed against the order dated 17.1.2005 passed by the Division Bench of the Bombay High Court at Nagpur Bench in Criminal Appeal No.242 of 1996 whereby the Division Bench has reversed the acquittal of all the accused- appellants and convicted them under Sections 302 read with Section 34 of the Indian Penal Code (for short, 'IPC') and sentenced them to suffer life imprisonment. The Division Bench also directed payment of fine of Rs.30,000/- each by original accused Nos.1,2 & 3; Rs.15,000/- by original accused No.6; Rs.10,000/- each by original accused Nos.10, 11, 13, 15, 16 & 17. In default of payment of fine, they were also directed to undergo rigorous imprisonment for five years. So far as the offence under section 201 read with 34, IPC was concerned",
+  "citations": [
+    "1995 4 SCC 262",
+    "2002 7 SCC 157",
+    "2003 1 SCC 534",
+    "2005 9 SCC 15"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "34"
+    },
+    {
+      "act": "Code Of Criminal Procedure Is",
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "28 November 2006",
+  "outcome": "Unknown",
+  "facts": [
+    "The deceased has died in police custody.",
+    "This is one of the unfortunate cases where the deceased has died in the police custody.",
+    "The investigation was taken over by P.I. Bhadikar, the accused appellant.",
+    "The police arrested seven persons and sought for judicial remand from the Judicial Magistrate for the purpose of investigation.",
+    "On the night intervening between 5.11.1987 and 6.11.1987, the police was interrogating all the accused at the Police-station, Arvi.",
+    "It is alleged that Dilip died on account of beating but in order to cover up this fact, the police registered a case under section 224, IPC on 6.11.1987.",
+    "The dead body was found lying in Adilabad, Andhra Pradesh and the post-mortem was conducted on the dead body by the P.S. Adilabad.",
+    "One Dr. Shyam Sundr Bhutada approached the concerned Superintendent of Police and informed him that it was a rumour in the town that one Dilip has died in the police custody.",
+    "The case was committed to the court of session.",
+    "Learned Second Additional Sessions Judge after recording necessary evidence came to the conclusion that the prosecution has failed to substantiate the allegation against the accused police personnel and gave the benefit of doubt to all the accused persons and acquitted all of them."
+  ],
+  "issues": [
+    "Whether the deceased died in police custody?",
+    "Whether the police covered up the fact of death by registering a case under section 224, IPC?",
+    "Whether the prosecution has failed to substantiate the allegation against the accused police personnel?"
+  ],
+  "petitioner_arguments": [
+    "The accused-appellants argued that the prosecution has failed to substantiate the allegation against them.",
+    "They contended that the evidence produced by the prosecution was unreliable and that the witnesses were motivated by vengeance."
+  ],
+  "respondent_arguments": [
+    "The respondent-State argued that the deceased died in police custody as a result of beating by the accused police personnel.",
+    "They contended that the evidence produced by the prosecution was reliable and that the witnesses were not motivated by vengeance."
+  ],
+  "court_reasoning": [
+    "The court held that the testimony of the witnesses who claimed to have seen the deceased being beaten and dying in police custody was unreliable due to their criminal records and the fact that they had an axe to grind with the police.",
+    "It also noted that the prosecution failed to produce any direct evidence of the accused police personnel's involvement in the death of the deceased."
+  ],
+  "holding": [
+    "The court acquitted all the accused persons, including the accused police personnel, due to lack of sufficient evidence to prove their guilt beyond reasonable doubt."
+  ],
+  "cases_cited": [
+    "our attention to a decision of this Court in Mani Kumar Thapa v. State of Sikkim",
+    "our attention to a decision of this Court in State of M.P. v. Shyamsunder Trivedi &",
+    "to a decision of the Calcutta High Court in A.E.G.Carapiet v. A.Y",
+    "to a decision of this Court in Devender Kumar Singla v. Baldev Krishan Singla",
+    "to a decision of this Court in Sahadevan alias Sagadevan v. State represented by Inspector of Police"
+  ]
+}

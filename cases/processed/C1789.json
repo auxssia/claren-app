@@ -1,0 +1,65 @@
+{
+  "case_id": "C1789",
+  "case_name": "Taherakhatoon (D) By Lrs v Salambin Mohammad",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [
+    "M. Jagannadha Rao, J."
+  ],
+  "bench": [],
+  "petitioner": "Taherakhatoon (D) By Lrs",
+  "respondent": "Salambin Mohammad\nSupreme Court of India\n\n26 February 1999\nCM Appeal No. 4341 of 1988\nThe Judgment was delivered by : M. Jagannadha Rao, J.\n1.  This appeal has been preferred by the plaintiff in the suit against the judgment and decree of the Bombay High Court in S.A.No.543 of 1979 dated 19.1.1987. By that judgment the Second Appeal was allowed, the judgment dated 16.3.1979 of the lower appellate court decreeing the plaintiff appellant's suit was set aside and the judgment of the trial court in Civil Suit No. 151 of 1975 passed by the Third Joint Civil Judge, Junior Division, Aurangabad dated 23.2.1977 was restored. The dispute between the parties, who are neighbours, covers an extent of 25' x 11' upon which the defendant constructed two rooms. The appellant's case is that the above extent is part of the appellant's property and that the defendant respondent has encroached upon it and has made the construction of the two rooms. The suit is for possession of t",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Transfer Of Property Act",
+      "section": "53A"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "26 February 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal has been preferred by the plaintiff in the suit against the judgment and decree of the Bombay High Court in S.A.No.543 of 1979 dated 19.1.1987.",
+    "The dispute between the parties, who are neighbours, covers an extent of 25' x 11' upon which the defendant constructed two rooms.",
+    "The plaintiff purchased open space 75' x 25' from the commonowner, one Mohd. Ali on 14.1.1966 for Rs.700 under a registered sale deed in Mohalla Shahabazar in Aurangabad town.",
+    "According to the Plaintiff, she constructed two rooms on Western side of the purchased portion leaving some open space on the eastern side and long thereafter, the defendant purchased land from the same vendor, Mohd. Ali on the eastern side on 13.12.1967 and allegedly occupied the disputed area of 25' x 11' in question on 30.12.1967.",
+    "The plaintiff issued notice on 14.6.1974 and the defendant sent reply refusing to vacate or remove the construction.",
+    "The suit was, therefore, laid on 14.2.1975 for possession of the land, for mandatory injunction for removal of the two rooms and for damages for 3 years, at Rs.600 in all."
+  ],
+  "issues": [
+    "Whether the High Court could have interfered with the finding of fact relating to the genuineness of the agreement of sale deed dated 10.2.1962?",
+    "Whether the discretionary power available to this Court at the time of grant of special leave continues with the Court even after grant of special leave and when the appeal is being heard on merits?",
+    "Whether, once the law is declared, this Court is bound to grant possession and the mandatory injunction?",
+    "To what relief?"
+  ],
+  "petitioner_arguments": [
+    "The plaintiff's case is that the above extent is part of the appellant's property and that the defendant respondent has encroached upon it and has made the construction of the two rooms.",
+    "The suit is for possession of the area of 25' x 11' and for directing removal of the two rooms."
+  ],
+  "respondent_arguments": [
+    "The defendant respondent contended that prior to his purchase under sale deed dated 13.12.1967, he had entered into an agreement of purchase on 10.2.1962 for an extent of land of 53' x 23 yards 2' which included the disputed portion and that he had constructed the two shops long before 14.1.1966, when the plaintiff purchased the vacant piece of land by the side of the land which he had purchased under the agreement.",
+    "According to him, there was no question of any encroachment on 30.12.1967."
+  ],
+  "court_reasoning": [
+    "The finding is based upon a rejection of the oral evidence adduced in the case.",
+    "It is true that one of the reasons given by the first appellate Court namely that the agreement of 1962 contained a reference to the plaintiff's name (who came into the picture only in 1966) is not factually correct and the High Court was right in pointing out this error.",
+    "But the finding of the first appellate Court is not based only on the sad fact.",
+    "The finding was based on the rejection of the evidence of the attestor of the agreement and the evidence of the defendant in relation to the said agreement."
+  ],
+  "holding": [
+    "Inasmuch as the plaintiff had proved title and the defendant had encroached, the suit for possession was required to be decreed and the two rooms were liable to be removed.",
+    "Mesne profits were accordingly allowed at one rupee per month, in all, Rs.36 for 3 years."
+  ],
+  "cases_cited": [
+    "Bench of five learned Judges of this Court in Pritam Singh vs. The",
+    "M/s Bengal Chemical & Pharmaceutical Works Ltd. vs. Their Workmen",
+    "also refer to Municipal Board, Pratapgarh & Another vs. Mahendra Singh Chawla &",
+    "and Sheel Chand vs. Prakash Chand",
+    "followed and reiterated by a three Judge Bench in Hem Raj vs. State of Ajmer",
+    "of the Judgments of this Court in Kshitish Chandra Purkait vs. Santosh Kumar Purkait &",
+    "to the following dicta of the Privy Council in Ibrahim vs. Rex"
+  ]
+}

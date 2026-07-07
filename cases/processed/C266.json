@@ -1,0 +1,65 @@
+{
+  "case_id": "C266",
+  "case_name": "Balaji v Income Tax Officer, Special Investigation Circle",
+  "court": "Supreme Court of India",
+  "year": 1961,
+  "judges": [
+    "K. Subbarao"
+  ],
+  "bench": [],
+  "petitioner": "Balaji",
+  "respondent": "Income Tax Officer, Special Investigation Circle\nSupreme Court of India\n\n4 August 1961\nPetition No. 240 of 1960\nThe Judgment was delivered by : K. Subbarao, J.\n1.  This writ petition filed under Art. 32 of the  Constitution raises the question of' the Constitutional validity of: S. 16(3)(a)(i) of the Indian Income-tax Act, 1922 (Act XI of 1922), (hereinafter called the Act).\nThe facts are not in dispute and may be briefly narrated.\n2.  The petitioner, Balaji, his six soils and his wife, by name Godawaribai, constituted a Joint Hindu family. The family was a trading family and it had, besides business in money lending, considerable agricultural lands. On November 23, 1946, two of his sons became divided from the family. In the year 1951, through the intervention of mediators the other members of the family were also divided and another major member started a separate business on his own. Thereafter, the petitioner and his wife formed themselves into a partnership to carry on th",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "16(3)"
+    },
+    {
+      "section": "16"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "4 August 1961",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner, Balaji, his six sons and his wife, Godawaribai, constituted a Joint Hindu family.",
+    "The family was a trading family and it had, besides business in money lending, considerable agricultural lands.",
+    "On November 23, 1946, two of his sons became divided from the family.",
+    "In the year 1951, through the intervention of mediators the other members of the family were also divided and another major member started a separate business on his own.",
+    "Thereafter, the petitioner and his wife formed themselves into a partnership to carry on their business and admitted their three minor sons to the benefits thereof",
+    "On September 22, 1952, a partnership deed was executed giving an equal share to each of the partners."
+  ],
+  "issues": [
+    "Whether the appropriate Legislature had the competence to enact s.16(3)(a)(i) and (ii) of the Act.",
+    "Whether the provision is a provision made by the Legislature to prevent evasion of tax."
+  ],
+  "petitioner_arguments": [
+    "Entry 54 in the Federal Legislative List of the Government of India Act, 1955, did not confer on the Legislature any power to tax A on the income of B.",
+    "Income-tax is a tax imposed upon a person in relation to his income and, therefore, A can only be taxed on his own income."
+  ],
+  "respondent_arguments": [
+    "The express terms of the Entry did not restrict the legislative power to tax only the income of the person assessed.",
+    "What could be taxed under that Entry was 'income' and, therefore, nothing prevented the legislature from imposing the incidence of the tax on a person other than the person whose income was to be assessed."
+  ],
+  "court_reasoning": [
+    "The Entries in the Lists are not powers but are only fields of legislation.",
+    "The Legislature accepted those recommendations and the loopholes were sought to be plugged by enacting the said sub-section.",
+    "What Art. 14 prohibited was class legislation and not reasonable classification for the purpose of legislation."
+  ],
+  "holding": [
+    "Sub-s. (3)(a)(i) and (ii) was therefore enacted for preventing evasion of tax and was well within the competence of the Federal Legislature.",
+    "The Constitutional validity of the said provision was next questioned on the ground that it violated the doctrine of equality before the law enshrined in Art. 14 of the Constitution."
+  ],
+  "cases_cited": [
+    "Balaji v Income Tax Officer",
+    "State Legislature, this Court held in Himmatlal Harilal Mehta v. The",
+    "This question was directly raised in B. M. Amina Umma v. Income- tax Officer",
+    "direct decision of the Madras High Court in B. M. Amina Umma v. Income Tax Officer",
+    "expressed by this Court in Kunnathat Thathunni Moopil Nair v. The",
+    "of the U. P. Municipalities Act, this Court in Mohammad Yasin v. The Town Area Committee",
+    "of the restrictions will be apparent. In the State of Madras v. V. G",
+    "question was posed before this Court in Sardar Baldev Singh v. Commissioner of Income Tax"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "case_id": "S83",
+  "case_name": "Examination of witnesses by police",
+  "court": "",
+  "year": 2008,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Or Section 509 Of The Indian Penal Code",
+      "section": "376E"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "12"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The police officer may examine orally any person supposed to be acquainted with the facts and circumstances of the case.",
+    "This Chapter refers to the Code of Criminal Procedure.",
+    "The police officer shall make a separate and true record of the statement of each such person whose statement he records."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [],
+  "cases_cited": []
+}

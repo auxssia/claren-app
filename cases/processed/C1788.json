@@ -1,0 +1,64 @@
+{
+  "case_id": "C1788",
+  "case_name": "State of Uttar Pradesh v Sahai and Others",
+  "court": "Supreme Court of India",
+  "year": 1981,
+  "judges": [
+    "FAZAL ALI"
+  ],
+  "bench": [],
+  "petitioner": "State of Uttar Pradesh",
+  "respondent": "Sahai",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "section": "148"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "452"
+    },
+    {
+      "section": "147"
+    },
+    {
+      "act": "Constitution of India"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "14 April 1981",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal by special leave is directed against a judgment dated November 4, 1974 of the Allahabad High Court by which respondents 1 to 4 were acquitted of the charges under Section 302/149 as also u/s.",
+    "The occurrence as a result of which four persons died was undoubtedly a very unfortunate and ghastly one which arose out of a petty land dispute as a consequence of which the tempers of the parties ran so high that members of the prosecution party as also those constituting the party of the accused received injuries.",
+    "It appears that there was some litigation between Brijraj Singh of the prosecution party and Shyam Behari of the accused party for the last 8 or 10 years before the occurrence.",
+    "The first information report (FIR) was lodged by P.W.1 at 10.15 a.m. on the next day, i.e., December 5, 1972, at Qasimpur Police Station, District Hardoi."
+  ],
+  "issues": [
+    "Whether the respondents acted in self-defence or not",
+    "Whether the occurrence took place in the field of the widows or the accused"
+  ],
+  "petitioner_arguments": [
+    "The prosecution party had entered into their paddy field and tried to remove the paddy and when they protested, they were mercilessly assaulted by the deceased persons as a result of which they were forced to fire at the deceased persons and assault P.W.2 in the exercise of the right of private defence of person and property."
+  ],
+  "respondent_arguments": [
+    "The respondents had acted in self-defence and were justified in killing the four persons"
+  ],
+  "court_reasoning": [
+    "The High Court has not disbelieved the substratum of the prosecution case but seems to have laboured under the impression that the occurrence did not take place in the field of the widows, as alleged by the prosecution, but that the prosecution party entered into the field of the accused and an altercation ensued",
+    "The High Court thus found that the respondents had acted in the exercise of the right of private defence and were, therefore, justified in killing the four persons"
+  ],
+  "holding": [
+    "The appeal is allowed and the judgment of the High Court is set aside. The respondents are convicted and sentenced as indicated in the trial court's judgment."
+  ],
+  "cases_cited": [
+    "State of Uttar Pradesh v Sahai"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "case_id": "C366",
+  "case_name": "Prem Chand Somchand Shah And Anr.Etc. Etc v Union Of India And Anr",
+  "court": "Supreme Court of India",
+  "year": 1991,
+  "judges": [
+    "S. C. Agrawal, J."
+  ],
+  "bench": [],
+  "petitioner": "Prem Chand Somchand Shah And Anr.Etc. Etc",
+  "respondent": "Union Of India",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    },
+    {
+      "section": "10"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 32",
+  "court_level": "Supreme Court",
+  "decision_date": "5 February 1991",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioners are partnership firms carrying on business of import of rough diamonds and export of cut and polished diamonds.",
+    "The Import & Export Policy for the period April 1978 to March 1979 made provision for grant of certain import facilities to Export Houses which were registered in accordance with the provisions of the said Policy.",
+    "One of the said facilities was grant of an Additional licence in terms of para 176 of the said Policy for an amount to be calculated at one third the f.o.b. value of the exports of select products made by the Export House in the year 1977-78.",
+    "The petitioners submitted application for registration as Export Houses and for grant of Export House Certificate which would have entitled them to the grant of such Additional licence.",
+    "The said applications of the petitioners were rejected by the authorities on the view that petitioners had failed to diversify their export of 'Other Products' during the year 1977-78."
+  ],
+  "issues": [
+    "Validity of sub-para (10) of para 218 of the Import & Export Policy for the period April, 1988 to March 1991"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The Court has held that the grantees of the Additional licences were not only prohibited from importing items which were excluded under the Export Policy 1978-79 but also from importing items excluded under the Import Policy prevailing at the time of import and that the word 'banned' was intended to take in terms which were banned altogether as well as items which were banned for import by the holder of an Additional licence.",
+    "The Court would not know whether in the future certain canalised items could be imported directly by an Export House holding an Additional licence and that the possibility of a policy being framed in the future enabling an Export House holding an Additional licence to directly import items which are 'non-canalised' and also item which are 'canalised' could not be ruled out."
+  ],
+  "holding": [
+    "The petitioners were granted the Export House Certificate and were also granted an Additional licence dated November 16, 1987.",
+    "The licences were valid for a period of 12 months and they contained the following endorsement:"
+  ],
+  "cases_cited": [
+    "In Union of India v. M/s",
+    "Prem Chand Somchand Shah And Anr.Etc. Etc v Union Of India",
+    "Raj Prakash Chemicals Ltd. & Anr. v. Union of India &",
+    "by this Court in D.Navinchandra & Co. Bombay & Anr. Etc. v. Union of India &",
+    "of import. The decision in Indo Afghan Chambers of Commerce v. Union of India",
+    "recent decision of this Court in B. Vijay Kumar & Co. etc. v. Collector of Central Excise"
+  ]
+}

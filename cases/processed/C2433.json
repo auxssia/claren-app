@@ -1,0 +1,56 @@
+{
+  "case_id": "C2433",
+  "case_name": "Mujeeb and Another v State of Kerala",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [
+    "S. N. Phukan"
+  ],
+  "bench": [],
+  "petitioner": "Mujeeb and Another",
+  "respondent": "State of Kerala\nSupreme Court of India\n\n29 November 1999\nCriminal Appeal No. 284 of 1997\nThe Judgment was delivered by : S. N. Phukan, J.\n1.  This appeal is directed against the Judgment and Order dated 24.01.97 passed by the High Court of Kerala in Criminal Appeal No. 485/93. The High Court allowed the appeal filed by the State by setting aside the judgment of the Sessions Judge, Kozhikode Division dated 26th March, 1993 in Sessions Case No. 9/92. The learned Sessions Judge acquitted accused Mujeeb @ Mujeeb Rahman (A1), Johnson(A2) and Akbar (A3) who were charged under Sections 302, 392, 201 and 120-B IPC read with Section 34 IPC. The High Court as stated above allowed the appeal filed by the State and convicted all the three accused under the above Sections. The present appeal has been filed only by two accused namely A1 and A3. A2 is not before us. The prosecution case was that on 30.03.91 at about 11.30 a.m A1 reached Koyilandy Taxi Stand, hired the Tourist Tax",
+  "citations": [
+    "AIR 1974 SC 1144",
+    "AIR 1978 SC 424"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "34"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "29 November 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "The appeal is directed against the Judgment and Order dated 24.01.97 passed by the High Court of Kerala in Criminal Appeal No. 485/93.",
+    "On 30.03.91 at about 11.30 a.m A1 reached Koyilandy Taxi Stand, hired the Tourist Taxi (Ambassador Car) driven by Balan of Thazha Valappil.",
+    "The accused took the car to Mysore and Bangalore and altered the registration number and also sold the watch and some other things of the deceased at Mysore and stayed there.",
+    "They returned to Sultans Battery and on 04.04.91 in the evening they entrusted the car for service in an automobile workshop informing that they would take the car on the next day morning.",
+    "The sub-Inspector along with other police personnel came to the workshop in mufti and when the accused came to the workshop they were apprehended and taken to the police station."
+  ],
+  "issues": [
+    "When a case rests on circumstantial evidence, such evidence must be cogently and firmly established.",
+    "If any link in the chain is missing the guilt of the accused cannot be established.",
+    "In a case resting on circumstantial evidence all the circumstances brought out by the prosecution, must inevitably and exclusively point to the guilt of the accused."
+  ],
+  "petitioner_arguments": [
+    "The prosecution tried to prove the case through circumstantial evidence.",
+    "When a case rests on circumstantial evidence, such evidence must be cogently and firmly established."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "We are of the opinion that both the courts below rightly discarded the above version of the prosecution story.",
+    "According to the prosecution the accused took the car driven by the deceased first to Pookod Lake in Wayanad for boating.",
+    "The High Court laid too much stress on the subsequent alleged conduct of the accused."
+  ],
+  "holding": [
+    "We find that the High Court erred in law in not giving a clear finding inasmuch as medical evidence is clear.",
+    "We are unable to accept the above version of the story of the prosecution, accepting it."
+  ],
+  "cases_cited": []
+}

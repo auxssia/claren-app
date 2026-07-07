@@ -1,0 +1,67 @@
+{
+  "case_id": "C1829",
+  "case_name": "State of Bihar and another v Bishwanath Rai and Others",
+  "court": "Supreme Court of India",
+  "year": 1997,
+  "judges": [
+    "G. T. Nanavati"
+  ],
+  "bench": [],
+  "petitioner": "State of Bihar and another",
+  "respondent": "Bishwanath Rai",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "149"
+    },
+    {
+      "section": "323"
+    },
+    {
+      "section": "2"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "3 September 1997",
+  "outcome": "Unknown",
+  "facts": [
+    "These three appeals, first two by the State of Bihar and the other by injured witness Ramesh Prasad Thakur and Shanti Devi widow of deceased, Bacha Thakur, are directed against their judgement and order of acquittal dated 4th September, 1985 passed by the Patna High Court in Criminal Appeal Nos. 506 and 569 of 1981.",
+    "As many as 16 accused were tried for the murder of Bacha Thakur and for causing injuries to Ram Prasad Thakur and Chandra Mohan Thakur.",
+    "The trial Court acquitted accused Nos. 13 to 16.",
+    "It held that the other accused had formed an unlawful assembly and in prosecution of their common object, caused the death of Bacha Thakur.",
+    "Ram Chandra Singh, one of the respondents in these appeals was convicted under Section 302 IPC and others were convicted under Section 302 read with Section 149 IPC.",
+    "They were also convicted under Section 323 read with Section 149 IPC."
+  ],
+  "issues": [
+    "Whether the evidence of eyewitnesses is reliable",
+    "Whether the High Court was justified in discarding their evidence"
+  ],
+  "petitioner_arguments": [
+    "The learned counsel for the appellants challenged the finding recorded by the High Court that the fard-bayan of injured witness, Ramesh Prasad Singh was not recorded till 2.00 P.m. on the Next day as incorrect.",
+    "It was submitted that the evidence of eyewitness being consistent, ought to have been accepted by the high Court."
+  ],
+  "respondent_arguments": [
+    "The High Court has pointed out is that though the evidence of the eye-witness appears to be consistent inter-se, is not consistent with the real manner in which the incident had taken place.",
+    "Moreover, as rightly observed by the High Court, all the eye-witnesses are residents of village Patahi and they belong to the rival political party."
+  ],
+  "court_reasoning": [
+    "The fard-bayan of injured witness, Ramesh Prasad Thakur was really recorded at about 11.30 p.m. on 24.5.1977.",
+    "Once it found that the eye-witnesses had not given the correct account of the manner in which the incident had taken place, the High Court was justified in discarding their evidence even though it was otherwise consistent."
+  ],
+  "holding": [
+    "We, therefore, see no reason to interfere with the order of acquittal passed by the High Court and accordingly dismiss these appeals.",
+    "Bail bonds are ordered to be cancelled.",
+    "Appeal dismissed"
+  ],
+  "cases_cited": [
+    "State of Bihar and another v Bishwanath Rai"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "case_id": "C1011",
+  "case_name": "Sohrabkhan v State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "year": 1992,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Sohrabkhan",
+  "respondent": "State of Madhya Pradesh\nSupreme Court of India\n\n14 January 1992\nCr.A. No. 141 of 1981\nThe Order of the Court was as follows:\n1.  This appeal is preferred by the convicted accused by name Sohrabkhan, aged about 26 years as on the date of the occurrence, on being aggrieved by the judgment of the High Court rendered in Criminal Appeal No. 26 of 1976 on the file of the High Court of Madhya Pradesh at Indore Bench by setting aside the judgment of the trial court acquitting him of the offences punishable under Section 302 and Section 323 IPC and under Section 27 of the Arms Act and further convicting him of the above-said offences and sentencing to life imprisonment under Section 302 IPC and to other various terms of imprisonment for other offences. The matrix of the prosecution case can be summarised as follows:\n2.   The appellant is the son of one Ishaq Khan. The appellant and his father were on inimical terms with the deceased Aziz Khan who was none other than the nephew of I",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "And Section 323 Ipc And Under Section 27 Of The Arms Act",
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "14 January 1992",
+  "outcome": "Unknown",
+  "facts": [
+    "The Order of the Court was as follows: ... The matrix of the prosecution case can be summarised as follows:",
+    "On August 20, 1973 at about 7.30 a.m. the deceased was grazing his cattle in the field whilst his brother PW 3 Latif was cutting grass in the nearby field.",
+    "Ishaq Khan armed with a gun, accompanied by his son, the appellant herein armed with a stick came to the scene of occurrence.",
+    "Thereafter, the injured Aziz Khan was carried to Badagaon hospital where PW 2 rendered the first-aid and advised the parties to take the injured to Nalkhoda hospital.",
+    "PW 3 lodged the FIR, Ex. P 4 on the same day at about 11 a.m. at Nalkhoda police station which is situated about 14 kms from the scene of occurrence.",
+    "The trial court rejected the dying declaration Ex. P 20 for the reasons mentioned in its judgment and on that basis discarded the testimony of PW 3 and finally concluded that the prosecution has not made out the case against the appellant and his father and consequently acquitted them."
+  ],
+  "issues": [
+    "[]"
+  ],
+  "petitioner_arguments": [
+    "After going through the evidence of PW 3, we are convinced that his evidence is wholly reliable and it does not suffer from any infirmity.",
+    "Ex. P 20 is also a document which can be accepted and acted upon."
+  ],
+  "respondent_arguments": [
+    "[]"
+  ],
+  "court_reasoning": [
+    "The totality of the evidence adduced by the prosecution is twofold; one, the direct evidence of PW 3 who is an injured witness; and two, the dying declaration Ex P 20 recorded by PW 17 at the hospital.",
+    "In our view, the mere mentioning of the presence of the brother of the appellant at the scene cannot be said to have whittled down the veracity of the dying declaration.",
+    "This Court in Vadivelu Thevar v. State of Madras 1957 Indlaw SC 711957 Indlaw SC 711957 Indlaw SC 71 has laid down the dictum that the evidence of a single witness if wholly reliable, a conviction can be safely based on that evidence alone."
+  ],
+  "holding": [
+    "In the result, we confirm the conviction and the sentence recorded by the High Court and dismiss the appeal as devoid of any merit.",
+    "Appeal dismissed."
+  ],
+  "cases_cited": []
+}

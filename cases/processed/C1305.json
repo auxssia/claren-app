@@ -1,0 +1,53 @@
+{
+  "case_id": "C1305",
+  "case_name": "Ayodhya Pathak and Another v State of Bihar",
+  "court": "Supreme Court of India",
+  "year": 2001,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Ayodhya Pathak and Another",
+  "respondent": "State of Bihar\nSupreme Court of India\n\n14 August 2001\nCr.As. Nos. 1312-1313 of 1998\nThe Order of the Court was as follows:\n1.  This is a double murder case. Two brothers Rajendra Mishra and Binay Mishra were done to death at about 6.30. p.m. on 16.2.1988. Seven persons were charge-sheeted by the police for the said murders. Out of them, two were reported to be within the age of juvenile and hence the trial court proceeded against the other five accused including the present appellants. Among the five, four were charged with sections 302, 307 read with section 34 of the Indian Penal Code, 1860 while one (Shakuntala Devi) was charged only with section 307 of the Indian Penal Code, 1860. The trial court convicted all the five for the offences charged and sentenced them to imprisonment for life. But on appeal, a division bench of the High Court confirmed the conviction only in regard to two persons who are the appellants before us (A1-Ayodhya Pathak and A4-Ram",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "34"
+    },
+    {
+      "act": "Indian Penal Code",
+      "section": "307"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "14 August 2001",
+  "outcome": "Unknown",
+  "facts": [
+    "The Order of the Court was as follows: ... Two brothers Rajendra Mishra and Binay Mishra were done to death at about 6.30. p.m. on 16.2.1988.",
+    "The two appellants before us are brothers. The prosecution case itself is that when the accused persons were trying to install a flagpost on the street abutting the house of the deceased, an altercation took place during which the accused attacked the deceased persons with blunt objects and inflicted blows on both of them as a consequence of which the deceased sustained serious injuries to which they succumbed later.",
+    "There are only three eye-witnesses to speak to the occurrence. They are PW-7 Ram Sunder Devi (widow of deceased Binay Mishra), PW-8 Shatrughna Mishra and PW-9 Dewanti Devi (the son and daughter respectively of PW 7).",
+    "Mr. J.P. Dhanda, learned counsel for the appellants contended that the three eye-witnesses would not have seen the occurrence as they were inside the house when the incident happened.",
+    "There is nothing to indicate that the accused persons went to the street for the purpose of attacking any one of the inmates of the house of the deceased. On the contrary, they went there only for the purpose of installing a flagpost when the deceased saw it they went near them and objected.",
+    "We have perused the injuries described in the postmortem report. None of the injuries could be attributed to any sharp cutting weapon. Most of them lacerated injuries and others were bruises or abrasions.",
+    "The aforesaid narration of the prosecution version gives us the impression that the accused would have had a reasonable apprehension that when the deceased used force, they would be assaulting."
+  ],
+  "issues": [],
+  "petitioner_arguments": [
+    "the three eye-witnesses would not have seen the occurrence as they were inside the house when the incident happened"
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The incident happened right in front of their house and therefore in all probabilities, the inmates of the house would have witnessed the occurrence.",
+    "It is quite unreasonable to think that those inmates would have adopted an indifferent attitude by keeping themselves down when spectators would have surged forward during the course of the occurrence.",
+    "The accused did not take heed to such objections and they proceeded to carry out the work which they started.",
+    "The acts of the accused were pre-dominantly aimed at thwarting the said apprehended assault.",
+    "Hence an initial right of private defence cannot altogether be ruled out as for the accused."
+  ],
+  "holding": [
+    "We alter the conviction from section 302 read with section 34 to section 304, part I read with section 34 of the Indian Penal Code, 1860.",
+    "The alteration calls for commensuration in the sentence also as the incident resulted in the death of two persons and serious injuries to one lady-Usha Devi.",
+    "We feel that the ends of justice would meet by imposing a sentence of rigorous imprisonment for a period of ten years each for the two appellants."
+  ],
+  "cases_cited": []
+}

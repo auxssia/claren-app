@@ -1,0 +1,74 @@
+{
+  "case_id": "C1120",
+  "case_name": "Budhi Lal v State Of Uttarakhand",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "Dr. Arijit Pasayat J."
+  ],
+  "bench": [],
+  "petitioner": "Budhi Lal",
+  "respondent": "State Of Uttarakhand\nSupreme Court of India\n\n26 September 2008\nCriminal Appeal No.1537 Of 2008 (Arising Out Of S.L.P. (Crl.) No.1988 Of 2008)\nThe Judgment was delivered by : Dr. Arijit Pasayat J.\nHeard learned counsel for the parties.\nLeave granted.\n1.  Challenge in this appeal is to the judgment of a Division Bench of the Uttarakhand High Court dismissing the appeal filed by the appellant. In the appeal challenge was to the order of conviction recorded by the learned Sessions Judge, Chamoli in Sessions Trial No.8 of 1986 for offence punishable under Section 302 the Indian Penal Code, 1860 (in short 'IPC'). The appellant was sentenced to undergo rigorous imprisonment for life.\n2.  Prosecution story in brief is that house of Budhi Lal (appellant) is one kilometer away from village abadi in village Airash. Appellant got married firstly to one Sobati Devi, but he had no issue from her. Later, he got married to Jashu Devi (hereinafter referred to as the 'deceased') and from her",
+  "citations": [
+    "AIR 1958 SC 465",
+    "AIR 1966 SC 1874"
+  ],
+  "statutes": [
+    {
+      "act": "The Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "313"
+    },
+    {
+      "act": "Section 300 A Person Commits Culpable Homicide Subject To Certain Exceptions If The Act",
+      "section": "299"
+    },
+    {
+      "act": "Both Require Knowledge Of The Probability Of The Act",
+      "section": "300"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "26 September 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "The case involves Budhi Lal, who was convicted of murdering his wife Jashu Devi.",
+    "Budhi Lal had married twice and had seven children with his second wife.",
+    "On August 9, 1985, Jaspal (PW.3) visited the house where Budhi Lal lived with his family.",
+    "That night, Budhi Lal allegedly murdered Jashu Devi while she was sleeping.",
+    "The next morning, Budhi Lal told the villagers that Jashu Devi had died of pain in her stomach.",
+    "An investigation was conducted, and a charge sheet was filed against Budhi Lal.",
+    "Budhi Lal pleaded innocence, and a trial was held.",
+    "Six witnesses were examined to further the prosecution version."
+  ],
+  "issues": [
+    "Whether the evidence of PW.3 should be relied upon",
+    "Whether a case under Section 302 IPC was made out"
+  ],
+  "petitioner_arguments": [
+    "Presence of PW.3 in the house has not been established",
+    "In view of the accepted prosecution version, a case under Section 302 IPC is not made out"
+  ],
+  "respondent_arguments": [
+    "The presence of PW.3 has been clearly established by evidence on record",
+    "The accused accepted that he was with the deceased in the night of occurrence and they were sleeping in the same room"
+  ],
+  "court_reasoning": [
+    "The academic distinction between 'murder' and 'culpable homicide not amounting to murder' has always vexed the Courts.",
+    "The safest way of approach to the interpretation and application of these provisions seems to be to keep in focus the keywords used in the various clauses of Sections 299 and 300."
+  ],
+  "holding": [
+    "The Trial Court and the High Court were justified in holding the appellant guilty",
+    "Section 302 IPC has application"
+  ],
+  "cases_cited": [
+    "In Virsa Singh v. State of Punjab",
+    "death in the ordinary course of nature. Rajwant and Anr. v. State of Kerala",
+    "highlighted by this Court in State of Andhra Pradesh v. Rayavarapu Punnayya"
+  ]
+}

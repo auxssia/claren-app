@@ -1,0 +1,31 @@
+{
+  "case_id": "S16",
+  "case_name": "",
+  "court": "Constitution",
+  "year": 1956,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "regulation of recruitment",
+    "conditions of service"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "rules regulating recruitment and conditions of service"
+  ],
+  "holding": [
+    "The President or the Governor may make rules regulating the recruitment and conditions of service of persons appointed to public services and posts in connection with the affairs of the Union or a State until provision is made by or under an Act of the appropriate Legislature."
+  ],
+  "cases_cited": []
+}

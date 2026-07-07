@@ -1,0 +1,77 @@
+{
+  "case_id": "C756",
+  "case_name": "N. Jayaram Reddy and Another v Revenue Divisional Officer and Land Acquisition Officer, Kurnool",
+  "court": "Supreme Court of India",
+  "year": 1979,
+  "judges": [
+    "P. N. Shingal"
+  ],
+  "bench": [],
+  "petitioner": "N. Jayaram Reddy and Another",
+  "respondent": "Revenue Divisional Officer and Land Acquisition Officer, Kurnool\nSupreme Court of India\n\n23 March 1979\nCivil Appeal No. 2314 of 1969\nThe Judgment was delivered by : P. N. Shingal, J.\n1. This appeal is by a certificate of the High Court of Andhra Pradesh on the valuation of the subject matter and is directed against its judgment dated February 4, 1969.\n2. The State Government acquired 2 acres and 79 cents of the land of the appellants in Kurnool town, for locating a bus depot of the Andhra Pradesh State Transport Corporation. It was arable land within the municipal limits of the town, with two trees and an old compound wall. Its possession was taken by the State Government on May 25, 1962. The market value of the land was fixed at Rs. 27,042.53 at the rate of Rs. 2/- per square yard. The compound wall and the trees were valued at Rs. 930/- and after allowing a solatium of 15 per cent and interest at 4 per cent per annum, the total compensation was worked o",
+  "citations": [
+    "1965 1 SCR 231",
+    "1965 3 SCR 211",
+    "1966 1 SCR 937",
+    "1971 3 SCR 301",
+    "1975 2 SCR 932",
+    "AIR 1917 PC 156",
+    "AIR 1968 RAJ 14"
+  ],
+  "statutes": [
+    {
+      "act": "Land Acquisition Act",
+      "section": "18"
+    }
+  ],
+  "legal_domain": "Administrative",
+  "legal_subdomain": "Natural Justice",
+  "court_level": "Supreme Court",
+  "decision_date": "23 March 1979",
+  "outcome": "Unknown",
+  "facts": [
+    "The State Government acquired 2 acres and 79 cents of land from the appellants in Kurnool town for locating a bus depot.",
+    "The market value of the land was fixed at Rs. 27,042.53 at the rate of Rs. 2/- per square yard.",
+    "N. Jayarama Reddy, Y. Prabhakar Reddy and C. Manikya Reddy were the three owners of the land who accepted the compensation under protest and applied for a reference under section 18 of the Land Acquisition Act.",
+    "After recording evidence and inspecting the site, the Subordinate Judge held that the claimants were entitled to payment at the rate of Rs. 12/- per square yard for the value of land, a solatium of 15 per cent and interest at 4 per cent."
+  ],
+  "issues": [
+    "Whether the government appeal abated against the deceased respondent Y. Prabhakar Reddy",
+    "Whether the High Court's decree dated February 4, 1969 was a nullity merely because it was passed against a dead person"
+  ],
+  "petitioner_arguments": [
+    "The appeal before the High Court was directed against the joint decree and the appellate court could not take a decision on the basis of the separate shares of the claimants",
+    "The whole of the government appeal should have been dismissed because of its abatement against the deceased respondent"
+  ],
+  "respondent_arguments": [
+    "The decree against a dead person is not necessarily a nullity for all purposes",
+    "It will be sufficient to say that such a decree has been held to be a nullity because it cannot be executed against his legal representative for the simple reason that he did not have a full opportunity of being heard in respect of it"
+  ],
+  "court_reasoning": [
+    "The law has provided and accepted modes for reopening and hearing the appeal in such cases",
+    "A decree against a dead person is treated as a nullity because it cannot be allowed to operate against his legal representative when he was never brought on the record to defend the case"
+  ],
+  "holding": [
+    "The High Court's decree dated February 4, 1969 was not a nullity merely because it was passed against a dead person",
+    "The government appeal did not abate against the deceased respondent Y. Prabhakar Reddy"
+  ],
+  "cases_cited": [
+    "In Dasondha Singh v. Shadi Ram Sardha Ram &",
+    "In Sankaranaraina Saralaya v. Laxmi Hengsu &",
+    "In State of Rajasthan & Ors. v. Raghuraj Singh",
+    "In a very early decision in Brij Indar Singh v. Lala Kanshi Ram &",
+    "N. Jayaram Reddy and Another v Revenue Divisional Officer",
+    "N. K. Mohammad Sulaiman v. N. C",
+    "Rameshwar Prasad and others v. M/s Shyam Beharilal Jagannath",
+    "Simpson and another v. Crowle",
+    "Town Municipal Council, Athani v. Presiding Officer",
+    "and Harihar Prasad Singh & Ors. v. Balmiki Prasad Singh &",
+    "and Harihar Prasad Singh and others v. Balmiki Prasad Singh",
+    "and others, Chief Justice of Andhra Pradesh and another v. L. V",
+    "been consistently adopted by this Court in Daya Ram & Ors. v. Shyam Sundari (",
+    "has however made a reference to Gaekwar Baroda State Railway v. Hafiz Habib-ul-haq",
+    "not result in abatement of the action. In Mahabir Prasad v. Jage Ram &",
+    "of this decision this Court in Rangubai Kom Shankar Jagtap v. Sunderabai Bharatar Sakharam Jedhe &",
+    "to Maharana Shri Davlatinghji Thjakore Saheb of Limit v. Khachar Hamir Mon"
+  ]
+}

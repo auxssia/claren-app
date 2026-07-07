@@ -1,0 +1,72 @@
+{
+  "case_id": "C2380",
+  "case_name": "Narayan Prasad Agrawal v State of M.P. and others",
+  "court": "Supreme Court of India",
+  "year": 2003,
+  "judges": [
+    "K.G. BALAKRISHNAN"
+  ],
+  "bench": [],
+  "petitioner": "Narayan Prasad Agrawal",
+  "respondent": "State of M.P.",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Land Acquisition Act",
+      "section": "4"
+    },
+    {
+      "act": "Land Acquisition Act",
+      "section": "6"
+    },
+    {
+      "act": "The Act",
+      "section": "5A"
+    },
+    {
+      "act": "And The Remedy Open To The Aggrieved Party Is To Invoke The Extraordinary Jurisdiction Of The High Court Under Article 226 Of The Constitution",
+      "section": "6"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "29 April 2003",
+  "outcome": "Unknown",
+  "facts": [
+    "The Notification under Section 4 of the Land Acquisition Act was published on 29.12.1989.",
+    "The Declaration under Section 6 of the Land Acquisition Act was also simultaneously published.",
+    "The appellant filed Writ Petition No. 4386/2000 before the High Court of Madhya Pradesh at Jabalpur.",
+    "The Civil suit registered as C.S. No. 2-A/91 before the Court of Civil Judge, Class I challenging Section 4(1) Notification and Declaration under Section (6) of the Act was held to be not maintainable.",
+    "The Learned Single Judge held that the Writ Petition filed in 2000 challenging Section 4(1) dated 29.12.1989 was highly belated and hence declined to grant injunction.",
+    "The Division Bench also held that the order passed by the learned Single Judge dismissing the Writ Petition was justified."
+  ],
+  "issues": [
+    "Whether the acquisition proceedings are illegal as Section 17 was not invoked",
+    "Whether the appellant's property was acquired in accordance with law"
+  ],
+  "petitioner_arguments": [
+    "As regards the property of the appellant, Notification under Section 4(1) and Declaration under Section 6 were simultaneously published and as long as Section 17 was not invoked, the entire acquisition proceedings are illegal.",
+    "The Civil suit filed by the appellant was dismissed for default on 15.10.1998 and it was restored to file on 4.1.1999.",
+    "The appellant moved for temporary injunction and the same was refused by the trial court."
+  ],
+  "respondent_arguments": [
+    "Some illegality has been committed as Section 5A inquiry was not conducted by the authorities before Section 6 Declaration was made.",
+    "The respondent is prepared to pay Rs. 10,18,068/- as the land value for the property acquired."
+  ],
+  "court_reasoning": [
+    "It is true that some illegality has been committed as Section 5A inquiry was not conducted by the authorities before Section 6 Declaration was made.",
+    "But it is important to note that Section 4(1) Notification and Section 6 Declaration were made as early as on 20.12.1989.",
+    "The appellant challenged only the award notice issued on 30.7.1990 pursuant to the Notification under Section 4(1) by filing the suit in the year 1991.",
+    "Having regard to the rise in land value and considering the peculiar facts and circumstances of this case and in order to put an end to further litigation, we direct that a sum of Rs. 12 lakhs would be a reasonable compensation towards land value for the property acquired from the appellant."
+  ],
+  "holding": [
+    "The appeal is disposed of accordingly without costs.",
+    "The respondent no.5 is directed to deposit Rs. 12 lakhs before the Land Acquisition Officer within a period of one month failing which it will carry interest @ 12% from this date till payment."
+  ],
+  "cases_cited": [
+    "Narayan Prasad Agrawal v State of M",
+    "in view of the decision of this Court in State of Bihar vs. Dhirendra Kumar",
+    "on the decision of this Court in State of Uttar Pradesh vs. Radhey Shyam Nigam"
+  ]
+}

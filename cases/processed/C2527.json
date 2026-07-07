@@ -1,0 +1,82 @@
+{
+  "case_id": "C2527",
+  "case_name": "State of Kerala v V. Padmanabhan Nair",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [
+    "K. T. Thomas"
+  ],
+  "bench": [],
+  "petitioner": "State of Kerala",
+  "respondent": "V. Padmanabhan Nair\nSupreme Court of India\n\n14 July 1999\nAppeal (Crl.) 632 of 1999\nThe Judgment was delivered by : K. T. Thomas, J.\nLeave granted.\n1.  In July 1-989, respondent retired from Government service as Superintending Engineer of the P.W.D. under the government of Kerala. About three years thereafter he was arraigned along with certain other persons before a Special Judge for offence under Section 5(2) of the Prevention of Corruption Act 1947 (for short 'the P.C. Act') and Sections 406,409, 201 read with Sections 120-B and 109 of the Indian Penal Code. A learned Single Judge of the High Court of Kerala quashed the criminal proceedings against the respondent for want of sanction under Section 197 of the Code of Criminal Procedure (for short 'the Code'). State of Kerala, aggrieved by the said order of the High Cout, has come up with this appeal by special leave.\n2.  The case against the respondent, in shorts is that while he was working as Executive Engineer at",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "197"
+    },
+    {
+      "act": "The Code",
+      "section": "197"
+    },
+    {
+      "act": "Penal Code",
+      "section": "409"
+    },
+    {
+      "act": "Code Of Criminal Procedure Is",
+      "section": "197"
+    },
+    {
+      "act": "The Act",
+      "section": "19"
+    },
+    {
+      "act": "Indian Penal Code",
+      "section": "409"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "14 July 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "In July 1989, respondent retired from Government service as Superintending Engineer of the P.W.D. under the government of Kerala.",
+    "About three years thereafter he was arraigned along with certain other persons before a Special Judge for offence under Section 5(2) of the Prevention of Corruption Act 1947 (for short 'the P.C. Act') and Sections 406,409,201 read with Sections 120-B and 109 of the Indian Penal Code.",
+    "A learned Single Judge of the High Court of Kerala quashed the criminal proceedings against the respondent for want of sanction under Section 197 of the Code of Criminal Procedure (for short 'the Code').",
+    "State of Kerala, aggrieved by the said order of the High Cout, has come up with this appeal by special leave.",
+    "The case against the respondent, in shorts is that while he was working as Executive Engineer at the Moovattupuzha Valley Irrigation Project Division, he joined himself into a criminal conspiracy with four other accused for defrauding the Government by misappropriating about 600 tonnes of steel rods (costing Rs. 1,26,000).",
+    "When respondent was charge-sheeted for the aforesaid offences, he appeared before the Special Judge's Court and filed a petition to discharge him on the ground that no prior sanction, as contemplated in Section 197 of the Code, has been obtained"
+  ],
+  "issues": [
+    "Whether want of sanction under Section 197 of the Code is a bar to prosecution under Section 120-B read with Section 409 of the Indian Penal Code?",
+    "Whether the High Court was correct in quashing the criminal proceedings against the respondent for want of sanction under Section 197 of the Code?"
+  ],
+  "petitioner_arguments": [
+    "The respondent conceded before the Special Judge that no previous sanction is necessary under Section 6 of the P.C. Act 1947.",
+    "The respondent argued that the offence under Section 406 of the IPC has also been fastened against the accused besides Section 409 of the IPC."
+  ],
+  "respondent_arguments": [
+    "The respondent filed a petition to discharge him on the ground that no prior sanction, as contemplated in Section 197 of the Code, has been obtained"
+  ],
+  "court_reasoning": [
+    "As far as the offence of criminal conspiracy punishable under Section 120- B, read with Section 409 of the Indian Penal Code is concerned and also Section 5(2) of the Prevention of Corruption Act are concerned they cannot be said to be of the nature mentioned in Section 197 of the Code of Criminal Procedure.",
+    "Want of sanction under Section 197 of the Code of Criminal Procedure is, therefore, no bar",
+    "It is not every offence committed by a public servant which requires sanction for prosecution under Section 197 of the Code, nor even every act done by him while he is actually engaged in the performance of his official duties.",
+    "Following the above legal position it was held in Harihar Prasad 1971 Indlaw SC 847 (supra) as follows :",
+    "When this Court held that in regard to the offence under Section 409 of the IPC read with Section 120-B it is no part of the duty of the public servant to enter into a criminal conspiracy for committing breach of trust, we find no sense in stating that if the offence is under Section 406 read with Section 120-B IPC it would make all the difference vis-a-vis Section 197 of the Code."
+  ],
+  "holding": [
+    "The case against the respondent has to go to trial in accordance with law.",
+    "Accordingly, we allow this appeal and set aside the judgment of the High Court and direct the Special Judge concerned to proceed with the trial."
+  ],
+  "cases_cited": [
+    "In S.A. Venkatarman v. State",
+    "and also Amrik Singh v. State of Pepsu",
+    "and in C.R. Bansi v. State of Maharashtra",
+    "the High Court the decision of this Court in Harihar Prasad v. State of Bihar",
+    "the correct legal position in Shreekantiah Ramayya Munnipalli v. State of Bombay",
+    "was raised before this Court in Kalicharan Mahapatra v. State of Orissa"
+  ]
+}

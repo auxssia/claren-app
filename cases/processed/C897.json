@@ -1,0 +1,80 @@
+{
+  "case_id": "C897",
+  "case_name": "Manguli Dei v State of Orissa",
+  "court": "Supreme Court of India",
+  "year": 1988,
+  "judges": [
+    "RAY"
+  ],
+  "bench": [],
+  "petitioner": "Manguli Dei",
+  "respondent": "State of Orissa\nSupreme Court of India\n\n11 October 1988\nCr.A. No. 439 of 1978\nThe Judgment was delivered by: RAY, J.\n1.  This is an appeal against the judgment and order made by the High Court of Orissa convicting the appellant under Section 302 of the Indian Penal Code and sentencing her to imprisonment for life. She was also convicted under Section 201 of the Indian Penal Code but no separate sentence has been imposed on her for this offence.\n2.  The prosecution's case is that on February 19, 1973 at night the appellant along with Nilamoni Patra, brother of the deceased assaulted Rathia Patra, husband of the appellant as a result of which Rathia Patra succumbed to injuries. The dead body was buried in a room of the deceased's house in order to conceal the death. The FIR was lodged on March 1, 1973 by Laxman Behera, PW 1 in the was recovered on the basis of the information given by the appellant after digging out the earth from the room of the deceased house in the prese",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code",
+      "section": "201"
+    },
+    {
+      "act": "Read With Section 34 Of Indian Penal Code",
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "11 October 1988",
+  "outcome": "Unknown",
+  "facts": [
+    "This is an appeal against the judgment and order made by the High Court of Orissa convicting the appellant under Section 302 of the Indian Penal Code and sentencing her to imprisonment for life.",
+    "The prosecution's case is that on February 19, 1973 at night the appellant along with Nilamoni Patra, brother of the deceased assaulted Rathia Patra, husband of the appellant as a result of which Rathia Patra succumbed to injuries.",
+    "Thereafter, the post-mortem examination was held on the following day by PW 5, Dr. R.P.Choudhary.",
+    "The prosecution, however, relied on the judicial confession of the appellant, Ex. 15 recorded by First Class Magistrate in order to bring home the guilt of the accused-appellant.",
+    "It was also held that in view of the confessional statement that the accused snatched the axe from the deceased while he was chasing to kill her, there was no apprehension of safety of the accused and the plea of self-defence in giving the fatal blows on the person of the accused was not available to the accused Manguli",
+    "The High Court, therefore, held that the crime of murder was proved against the appellant and she was convicted under Section 302 of the Indian Penal Code and was sentenced to rigorous imprisonment for life.",
+    "It is against this order that instant appeal has been filed.",
+    "In this appeal two contentions have been advanced on behalf of the appellant.",
+    "The confessional statement recorded by the First Class Magistrate has been rightly held to be correct inasmuch as in accordance with the statement the dead body was recovered from a room of the deceased's house after removing the earth on the pointing out of place by the appellant where the corpse was buried by the appellant herself.",
+    "This dead body was recovered in the presence of PW 6, who is the Tehsildar.",
+    "Secondly, the dead body was in a highly decomposed state as it was recovered after 10 days from the date of dumping the dead body under earth and as such the injuries on the dead body were not clearly visible",
+    "The evidence of the doctor was not very relevant in this connection as has been held by the High Court.",
+    "Moreover, the confession made by the appellant incriminating herself clearly proved that the crime was committed by her."
+  ],
+  "issues": [
+    "What is the nature of the judicial confession recorded by the First Class Magistrate?",
+    "Is the post-mortem report relevant in this case?",
+    "Can the plea of self-defence be available to the accused Manguli?"
+  ],
+  "petitioner_arguments": [
+    "The evidence of doctor PW 5 who held the post-mortem on the dead body states about only one injury which was simple.",
+    "This medical evidence is contrary too the judicial confession (Ex. 15) recorded by the First Class Magistrate wherein it has been stated that four strokes were given by axe on the head of the deceased by the appellant, Manguli.",
+    "The confessional statement should not be relied upon coming to a finding that the appellant committed murder of her husband, Rathia Patra, since deceased.",
+    "It should be held that the death of Rathia Patra was not homicidal.",
+    "Considering this aspect of the case the appellant should not be convicted under Section 302 IPC and she should be convicted at best under Section 304 (Part II) IPC.",
+    "The sentence should be modified accordingly."
+  ],
+  "respondent_arguments": [
+    "The confessional statement recorded by the First Class Magistrate has been rightly held to be correct inasmuch as in accordance with the statement the dead body was recovered from a room of the deceased's house after removing the earth on the pointing out of place by the appellant where the corpse was buried by the appellant herself.",
+    "This dead body was recovered in the presence of PW 6, who is the Tehsildar.",
+    "Secondly, the dead body was in a highly decomposed state as it was recovered after 10 days from the date of dumping the dead body under earth and as such the injuries on the dead body were not clearly visible",
+    "The evidence of the doctor was not very relevant in this connection as has been held by the High Court.",
+    "Moreover, the confession made by the appellant incriminating herself clearly proved that the crime was committed by her."
+  ],
+  "court_reasoning": [
+    "The confessional statement recorded by the First Class Magistrate has been rightly held to be correct inasmuch as in accordance with the statement the dead body was recovered from a room of the deceased's house after removing the earth on the pointing out of place by the appellant where the corpse was buried by the appellant herself.",
+    "This dead body was recovered in the presence of PW 6, who is the Tehsildar.",
+    "Secondly, the dead body was in a highly decomposed state as it was recovered after 10 days from the date of dumping the dead body under earth and as such the injuries on the dead body were not clearly visible",
+    "The evidence of the doctor was not very relevant in this connection as has been held by the High Court.",
+    "Moreover, the confession made by the appellant incriminating herself clearly proved that the crime was committed by her.",
+    "We do hope and expect that in consideration of the fact that the appellant is in jail for about 10 years and she was also under custody as an undertrial prisoner for some period, the State will consider the question of her premature release under the provisions of the Jail Manual if any such application is made by the accused-appellant."
+  ],
+  "holding": [
+    "The appeal is therefore, dismissed.",
+    "Appeal dismissed."
+  ],
+  "cases_cited": []
+}

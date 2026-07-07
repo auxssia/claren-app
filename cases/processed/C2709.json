@@ -1,0 +1,91 @@
+{
+  "case_id": "C2709",
+  "case_name": "Ramesh Singh @ Photti v State Of A.P.",
+  "court": "Supreme Court of India",
+  "year": 2004,
+  "judges": [
+    "N. Santosh Hegde"
+  ],
+  "bench": [],
+  "petitioner": "Ramesh Singh @ Photti",
+  "respondent": "State Of A.P.\nSupreme Court of India\n\n25 March 2004\nAppeal (crl.) 868 of 2003 (With Crl.A.No.1254/2003)\nThe Judgment was delivered by: N. Santosh Hegde, J.\n1. The appellants in these appeals were accused 2 and 3 before the 2nd Additional Metropolitan Sessions Judge, Hyderabad in S.C. No.178/99. The said Sessions Judge found the appellants and A-1 guilty of an offence punishable u/s. 302 read with S. 34 IPC and sentenced them to undergo imprisonment for life. Against the said conviction and sentence, all the accused preferred an appeal before the High Court of Judicature, Andhra Pradesh at Hyderabad which having been dismissed, the two appellants who were accused 2 and 3 have challenged the said judgment of the High Court, while accused No.1 has not challenged the said judgment and conviction.\nBrief facts necessary for the disposal of these appeals are follows:\n2. The deceased S. Mahendara Singh was residing with his mother PW-2 and elder brother PW-1 at Bapunaga",
+  "citations": [
+    "AIR 1938 PATNA 290",
+    "AIR 1971 SC 855",
+    "AIR 1991 SC 536"
+  ],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "1"
+    },
+    {
+      "section": "3"
+    },
+    {
+      "section": "164"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "25 March 2004",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants in these appeals were accused 2 and 3 before the 2nd Additional Metropolitan Sessions Judge, Hyderabad in S.C. No.178/99.",
+    "The said Sessions Judge found the appellants and A-1 guilty of an offence punishable u/s. 302 read with S. 34 IPC and sentenced them to undergo imprisonment for life.",
+    "Against the said conviction and sentence, all the accused preferred an appeal before the High Court of Judicature, Andhra Pradesh at Hyderabad which having been dismissed, the two appellants who were accused 2 and 3 have challenged the said judgment of the High Court, while accused No.1 has not challenged the said judgment and conviction.",
+    "The residents of Bapunagar were managing an Association called Basthi Youth Association which in turn was running a Bhajana Mandali.",
+    "PW-4 was the President of the said Bhajana Mandali and the deceased was the Vice President of said Bhajana Mandali.",
+    "It is stated that the deceased refused to give Bhajan samagri for being used outside the locality.",
+    "The prosecution alleges on being so called the deceased went outside the house.",
+    "Immediately thereafter PWs.1 and 2 heard the cries of the deceased, hence, they came out of the house when they saw A-2 and A-3 were holding the hands of the deceased and A-1 was stabbing the deceased on the chest.",
+    "The prosecution alleges that when these witnesses went near the victim the accused persons went away threatening these witnesses.",
+    "The further case of the prosecution is that at that time PWs.3 and 4 who were clearing certain construction materials in front of their house had also witnessed the occurrence."
+  ],
+  "issues": [
+    "Whether the courts below committed serious error in accepting the interested testimony of PWs.1 to 3 and basing a conviction on the said evidence.",
+    "Whether the prosecution has failed to establish any case against these appellants.",
+    "Whether S. 34 IPC was available to the prosecution in this case."
+  ],
+  "petitioner_arguments": [
+    "The courts below committed serious error in accepting the interested testimony of PWs.1 to 3 and basing a conviction on the said evidence.",
+    "The prosecution has failed to establish any case against these appellants.",
+    "S. 34 IPC was not available to the prosecution in this case."
+  ],
+  "respondent_arguments": [
+    "The courts below were justified in accepting the evidence of PWs.1 to 3 whose presence at the time and place of the incident cannot be seriously disputed because PW-1 & 2 were residing in the same house being deceased's brother and mother respectively and PW-3 was the cousin of the deceased and was admittedly residing in the immediate neighbourhood.",
+    "The evidence of these witnesses so far as the attack is concerned has been reasonably consistent and they had no motive to falsely implicate these accused persons."
+  ],
+  "court_reasoning": [
+    "The trial court after discussing the evidence of PWs.1 to 3 came to the conclusion that the presence of these witnesses at the time of the incident cannot be disputed because PWs.1 and 2 were residing with the deceased while PW-3, their cousin was residing close-by and having heard the call of the accused persons and the shout of the deceased at that time of the night, it was natural for these witnesses to have come out.",
+    "It did take notice of the fact that these witnesses were closely related to the deceased, therefore, it noticed the need to examine the evidence carefully."
+  ],
+  "holding": [
+    "The High Court concurred with the findings of the trial court and affirmed the said conviction and sentence."
+  ],
+  "cases_cited": [
+    "Ajay Sharma Vs. State of Rajasthan",
+    "Balak Ram Vs. State of U",
+    "Photti v State Of A",
+    "Ramashish Yadav & Ors. Vs. State of Bihar",
+    "and Balak Ram etc. Vs. State of U",
+    "and Mithu Singh Vs. State of Punjab",
+    "and Nandu Rastogi alias Nandji Rastogi & Anr. Vs. State of Bihar",
+    "in a judgment of this Court in Pandurang Tukia and Bhillia Vs. State of Hyderabad",
+    "judgments of this Court in Ram Charan & Ors. Vs. State of U",
+    "on a judgment of this Court in the case of Ram Charan & Ors. Vs. State of U",
+    "placed reliance in the case of Hamlet alias Sasi & Ors. Vs. State of Kerala"
+  ]
+}

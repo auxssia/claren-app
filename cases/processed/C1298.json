@@ -1,0 +1,38 @@
+{
+  "case_id": "C1298",
+  "case_name": "Darpan Kumar Sharma @ Dharban Kumar Sharma v State of Tamil Nadu and others",
+  "court": "Supreme Court of India",
+  "year": 2003,
+  "judges": [
+    "S. Rajendra Babu"
+  ],
+  "bench": [],
+  "petitioner": "Darpan Kumar Sharma @ Dharban Kumar Sharma",
+  "respondent": "State of Tamil Nadu",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Tamil Nadu Prevention Of Dangerous Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "20 January 2003",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The solitary instance of robbery mentioned in the grounds of detention is not relevant for sustaining the order of detention for the purpose of preventing the petitioner from acting in a manner, prejudicial to the maintenance of public order.",
+    "A solitary assault on one individual can hardly be said to disturb public peace or place public order in jeopardy so as to bring the case within the purview of the Act providing for preventive detention."
+  ],
+  "cases_cited": [
+    "Dharban Kumar Sharma v State of Tamil Nadu",
+    "and T. Devaki v. Government of Tamil Nadu",
+    "rely upon the decisions of this Court in Smt. Shashi Aggarwal v. State of UP"
+  ]
+}

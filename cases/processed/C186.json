@@ -1,0 +1,54 @@
+{
+  "case_id": "C186",
+  "case_name": "C.S. D. Swamy v State",
+  "court": "Supreme Court of India",
+  "year": 1959,
+  "judges": [
+    "B. P. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "C.S. D. Swamy",
+  "respondent": "State\nSupreme Court of India\n\n21  May  1959\nCriminal Appeal No. 177\nof 1957.\nThe Judgment was delivered by : B. P. Sinha, J.\n1.  This appeal by special leave is directed against the judgment and order of the High Court on Judicature for the State of Punjab at Chandigarh dated April 11, 1957, affirming those of the Special Judge, Delhi, dated January 19, 1955, convicting the appellant under s. 5(2) of the Prevention of Corruption Act (2 of 1947). The sentence passed upon the appellant was six months' rigorous imprisonment. The facts leading upto this appeal, may shortly be stated as follows: During and after the Second World War, with a view to augmenting the food resources of the country, the Government of India instituted a \"Grow More Food Division\" in the Ministry of Agriculture. S. Y. Krishnaswamy, a Joint Secretary in; that Ministry, was placed in charge of that Division, with effect from January 2, 1947. The appellant was working in that Department as Director of F",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    },
+    {
+      "act": "Indian Penal Code"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "21 May 1959",
+  "outcome": "Unknown",
+  "facts": [
+    "During and after the Second World War, with a view to augmenting the food resources of the country, the Government of India instituted a "
+  ],
+  "issues": [],
+  "petitioner_arguments": [
+    "(1) that on the admitted facts, the ingredients of s.5(3) of the Act, had not been established, (2) that when the charge in respect of specific instances of corruption, has not been proved, as found by the courts below, it should have been held that the contrary of the presumption contemplated by s.5(3), namely, of the guilt of criminal misconduct, had been established, and (3) that the appellant's statement under s.342 of the Code of Criminal Procedure, as also his statements contained in his written statement, had not been proved to be false, and that, therefore, it should have been held that the case against the appellant had not been proved beyond all reasonable doubt."
+  ],
+  "respondent_arguments": [
+    "The High Court, in agreement with the learned Special Judge, found the evidence of P.Ws.9 and 10, who were the principal prosecution witnesses as regards the passing of certain sums of money from certain named firms to the appellant, as wholly unreliable. Further more, Patel, being in the position of an accomplice, his evidence did not find sufficient corroboration from other facts and circumstances proved in the case."
+  ],
+  "court_reasoning": [
+    "It is true that s.5(3) of the Act, does not create a new offence but only lays down a rule of evidence, enabling the court to raise a presumption of guilt in certain circumstances a rule which is a complete departure from the established principles of criminal jurisprudence that the burden always lies on the prosecution to prove all the ingredients of the offence charged, and that the burden never shifts on to the accused to disprove the charge framed against him."
+  ],
+  "holding": [
+    "The High Court confirmed the conviction and sentence of six months' rigorous imprisonment, passed by learned Special Judge of Delhi."
+  ],
+  "cases_cited": [
+    "Hate Sing Bhagat Singh v. State of Madhya Bharat",
+    "and Regina v. Dunbar",
+    "doubt. Reference was also made to Otto George Gfeller v. The King",
+    "reference was made to a number of decisions, particularly Rex v. Carrbriant"
+  ]
+}

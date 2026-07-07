@@ -1,0 +1,78 @@
+{
+  "case_id": "C781",
+  "case_name": "Shyam Sundar Sarma v Pannalal Jaiswal and Others",
+  "court": "Supreme Court of India",
+  "year": 2004,
+  "judges": [
+    "P. K. Balasubramanyan, J."
+  ],
+  "bench": [],
+  "petitioner": "Shyam Sundar Sarma",
+  "respondent": "Pannalal Jaiswal",
+  "citations": [
+    "1982 2 SCC 596",
+    "2000 6 SCC 94",
+    "2001 1 SCC 469",
+    "2002 5 SCC 161",
+    "AIR 1966 SC 1332",
+    "AIR 1976 CALCUTTA 415"
+  ],
+  "statutes": [
+    {
+      "act": "Limitation Act",
+      "section": "5"
+    },
+    {
+      "act": "The Act",
+      "section": "5"
+    },
+    {
+      "act": "Limitation Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "4 November 2004",
+  "outcome": "Unknown",
+  "facts": [
+    "Respondent No.1 filed Title Suit No.89 of 1992 against the appellant and others for a declaration of his title as a Thika Tenant in respect of the plaint A schedule property and for other consequential reliefs.",
+    "The application for interim injunction was heard and the same was dismissed by the trial court.",
+    "The suit itself stood posted to 8.10.1996.",
+    "The first defendant, the appellant, did not appear.",
+    "On behalf of the plaintiff, an objection was raised that in view of the filing of Title Appeal No.157 of 1996 by the first defendant against the ex parte decree and in view of the explanation to Order IX Rule 13 of the Code, the application under Order IX Rule 13 of the Code could not be entertained by the court which had passed the ex parte decree.",
+    "The trial court took the view that since the appeal against the ex parte decree filed by the first defendant was not withdrawn, the petition under Order IX Rule 13 of the Code could not be entertained or relief granted to the first defendant in view of the explanation to Order IX Rule 13 of the Code."
+  ],
+  "issues": [
+    "Whether an appeal accompanied by an application for condoning the delay in filing the appeal is an appeal in the eye of law, when the application for condoning the delay in filing the appeal is dismissed and consequently the appeal is dismissed as being time barred by limitation?",
+    "Whether the bar created by the explanation to Order IX Rule 13 of the Code applies in a case where the petition under Order IX Rule 13 of the Code was filed before the appeal against the decree was dismissed for default?"
+  ],
+  "petitioner_arguments": [
+    "The first defendant, the appellant, contended that since the appeal filed by the appellant against the ex parte decree was dismissed for default as a consequence of the dismissal of the application for condoning the delay in filing that appeal being dismissed for default, the explanation created no bar to the entertaining of the petition under Order IX Rule 13 of the Code.",
+    "He submitted that on the day the trial court took up the petition under Order IX Rule 13 of the Code for consideration, the appeal against the decree itself had been dismissed for default and hence no appeal was in existence."
+  ],
+  "respondent_arguments": [
+    "The plaintiff-respondent submitted that the arguments raised could not be accepted in the light of the decisions of this Court referred to and followed by the High Court and there was also no occasion for reconsidering the correctness of those decisions since the law has been correctly laid down in those decisions.",
+    "He submitted that the dismissal of an appeal for default or on the ground that it was barred by limitation cannot be considered as a withdrawal of the appeal excluding the operation of the explanation to Order IX Rule 13 of the Code."
+  ],
+  "court_reasoning": [
+    "The Privy Council held, 'there is no definition of appeal in the Civil Procedure Code, but their Lordships have no doubt that any application by a party to an appellate Court, asking it to set aside or revise a decision of a subordinate court, is an appeal within the ordinary acceptation of the term and that it is no less an appeal because it is irregular or incompetent.'",
+    "This Court referred to and followed the view taken by the Privy Council and by this Court in the two respective decisions above referred to."
+  ],
+  "holding": [
+    "The High Court held that the question posed for decision was covered by decisions of this Court referred to by it in its order and in the light of those decisions the order of the trial court as affirmed by the District Court, could not be interfered with.",
+    "The High Court, thus, dismissed the petition filed by the first defendant under Article 227 of the Constitution of India."
+  ],
+  "cases_cited": [
+    "In Board of Revenue vs. M/s Raj Brothers Agencies Etc",
+    "In Essar Constructions vs. N.P",
+    "Learned counsel placed reliance on the decision in Ratansingh vs. Vijaysingh",
+    "Shyam Sundar Sarma v Pannalal Jaiswal",
+    "of the Calcutta High Court in Mamuda Khateen and others vs. Beniyan Bibi",
+    "of the Code was hit by the explanation. In P. Kiran Kumar vs. A.S",
+    "this Court rendered by two learned Judges in Rani Choudhury Vs. Lt.-Col",
+    "to be considered by this Court in Messrs Mela Ram and sons vs. The Commissioner of Income Tax",
+    "to with approval by this Court in Raja Kulkarni and others vs. The"
+  ]
+}

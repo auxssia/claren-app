@@ -1,0 +1,58 @@
+{
+  "case_id": "C1916",
+  "case_name": "State of Gujarat v Ismail Juma and Others",
+  "court": "Supreme Court of India",
+  "year": 1981,
+  "judges": [
+    "Baharul Islam"
+  ],
+  "bench": [],
+  "petitioner": "State of Gujarat",
+  "respondent": "Ismail Juma",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Conservation Of Foreign Exchange And Prevention Of Smuggling Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "23 October 1981",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal by special leave is by the State of Gujarat and is directed against the judgment and order of the Gujarat High Court quashing the order of detention passed by the H appellant against respondent, Ismail Juma.",
+    "The respondent was detained by the appellant in exercise of powers conferred on it by Sub-section (I) of S. 3 of the Conservation of Foreign Exchange and Prevention of Smuggling Activities Act, 1974 (hereinafter called 'the Act').",
+    "The grounds of detention inter alia were that the respondent, Hasan Malabari and Abdul Latif Fakirmohmed were the members of the crew of a vessel that was engaged in smuggling of wrist watches and some other contraband articles worth Rs. 33,70,819,00.",
+    "The respondent moved the High Court of Gujarat.",
+    "A Division Bench of the High Court by its impugned order dated January 16, 1980 quashed the order of detention."
+  ],
+  "issues": [
+    "Whether the order of detention was passed on the materials before it",
+    "Whether the detaining authority had applied its mind to the facts of the case"
+  ],
+  "petitioner_arguments": [
+    "The detaining authority had applied its mind to the materials before it and reached satisfaction that the facts of the case warranted the detention of the petitioner.",
+    "The order of detention was passed by a competent authority mentioned in the Act."
+  ],
+  "respondent_arguments": [
+    "The order of detention made against him (detenu) clearly shows that the detaining authority had not applied its mind to the facts of the case.",
+    "The impugned order nowhere states that the detaining authority on having received a proposal from the customs authorities, had applied his mind to all materials on record and had reached satisfaction that the facts of the case warranted the detention of the petitioner."
+  ],
+  "court_reasoning": [
+    "The High Court in its writ jurisdiction u/art. 226 of the Constitution is to see whether the order of detention has been passed on the materials before it.",
+    "If it is found that the order has been based by the detaining authority on materials on record, then the court cannot go further and examine whether the material was adequate or not which is the function of an appellate authority or Court.",
+    "The satisfaction mentioned in S. 3 of the Act is the satisfaction of the detaining authority and not of the Court."
+  ],
+  "holding": [
+    "In the result, this appeal succeeds and is allowed.",
+    "The impugned order of the High Court is set aside.",
+    "Appeal allowed."
+  ],
+  "cases_cited": [
+    "State of Gujarat v Ismail Juma",
+    "The same preliminary objection was raised in State of Gujarat v. Adam Kasam Bhaya (supra",
+    "is unjustified. This Court in the case of State of Gujarat v. Adam Kasam Bhaya held"
+  ]
+}

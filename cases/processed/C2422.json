@@ -1,0 +1,78 @@
+{
+  "case_id": "C2422",
+  "case_name": "B.S.N.L. and Others v Messrs Subash Chandra Kanchan and Another",
+  "court": "Supreme Court of India",
+  "year": 2006,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "B.S.N.L. and Others",
+  "respondent": "Messrs Subash Chandra Kanchan and Another\nSupreme Court of India\n\n13 September 2006\nAppeal (Civil) 4109 of 2006 [Arising out of SLP (Civil) No. 9242 of 2006]\nThe Judgment was delivered by : S. B. Sinha, J.\nLeave granted.\n1.  The parties herein entered into a contract pursuant to a notice inviting tender by Appellant No. 1 for the work of construction of 9 Nos. Type-V quarters at Jayadev Vihar, Bhubaneshwar. The said contract contained an arbitration clause in terms whereof the Chief Engineer, Telecommunication/ Postal Department in charge of the work at the time of dispute or if there be no Chief Engineer the administrative head of the said Telecommunication/ Postal Department was to be appointed as an arbitrator. The said provision envisaged that in terms thereof no person other than the one appointed by such Chief Engineer or administrative head of the Telecommunication/ Postal as aforesaid should act as arbitrator.\n2.  A notice in terms of arbitration agreement",
+  "citations": [
+    "2004 2 SCC 377",
+    "2006 6 SCC 204",
+    "AIR 1966 SC 1313"
+  ],
+  "statutes": [
+    {
+      "act": "Arbitration And Conciliation Act",
+      "section": "11"
+    },
+    {
+      "act": "Code Of Civil Procedure For",
+      "section": "151"
+    },
+    {
+      "act": "1996 Act",
+      "section": "11"
+    },
+    {
+      "act": "The Act",
+      "section": "11"
+    },
+    {
+      "act": "Code Of Civil Procedure By",
+      "section": "151"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "13 September 2006",
+  "outcome": "Unknown",
+  "facts": [
+    "The parties entered into a contract for the construction of Type-V quarters at Jayadev Vihar, Bhubaneshwar.",
+    "The contract contained an arbitration clause that provided for the appointment of a Chief Engineer or administrative head as an arbitrator.",
+    "A notice inviting tender was issued by Appellant No. 1, and Respondents submitted their bid.",
+    "The parties entered into a dispute over the appointment of an arbitrator, with Appellants arguing that only the Chief Engineer or administrative head could be appointed as arbitrator."
+  ],
+  "issues": [
+    "Whether the High Court had jurisdiction to appoint an arbitrator other than the one nominated by the Chief Engineer.",
+    "Whether the parties waived their right to object to the appointment of Shri Bhattacharya as an arbitral tribunal."
+  ],
+  "petitioner_arguments": [
+    "The High Court had no jurisdiction to appoint any person other than the one nominated by the Chief Engineer as arbitrator.",
+    "The parties waived their right to object to the appointment of Shri Bhattacharya as an arbitral tribunal."
+  ],
+  "respondent_arguments": [
+    "The High Court exercised its discretionary jurisdiction under Section 11 of the Arbitration and Conciliation Act, 1996, and this Court should not interfere therewith.",
+    "The parties are free to agree on a procedure for appointing the arbitrator or arbitrators."
+  ],
+  "court_reasoning": [
+    "The Chief Justice or any person or institution designated by him has the power to appoint an arbitrator under Section 11 of the Arbitration and Conciliation Act, 1996.",
+    "The parties waived their right to object to the appointment of Shri Bhattacharya as an arbitral tribunal."
+  ],
+  "holding": [
+    "The High Court's order appointing Shri Bhattacharya as an arbitrator is upheld.",
+    "The Appellants' objections to the appointment are rejected."
+  ],
+  "cases_cited": [
+    "B.S.N.L. and Others v Messrs Subash Chandra Kanchan",
+    "In Indu Shekhar Singh and Ors. v. State of U",
+    "In Ramdev Food Products Pvt. Ltd. v. Arvindbhai Rambhai Patel",
+    "See also Sultan Sadik v. Sanjay Raj Subba",
+    "decision of this Court in Yashwith Constructions (P) Ltd. v. Simplex Concrete Piles India Ltd",
+    "up for consideration before this Court in State of Punjab v. Amar Singh Harika"
+  ]
+}

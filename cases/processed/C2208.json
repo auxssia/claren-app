@@ -1,0 +1,68 @@
+{
+  "case_id": "C2208",
+  "case_name": "Delhi Development Authority and another v Islamuddin and others",
+  "court": "Supreme Court of India",
+  "year": 2016,
+  "judges": [
+    "Kurian Joseph"
+  ],
+  "bench": [],
+  "petitioner": "Delhi Development Authority and another",
+  "respondent": "Islamuddin",
+  "citations": [
+    "1996 11 SCC 698"
+  ],
+  "statutes": [
+    {
+      "act": "Land Acquisition Act",
+      "section": "6"
+    },
+    {
+      "act": "That Act",
+      "section": "48"
+    },
+    {
+      "act": "1894 Act",
+      "section": "6"
+    },
+    {
+      "act": "The Act",
+      "section": "11"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "29 October 2016",
+  "outcome": "Unknown",
+  "facts": [
+    "The Delhi Development Authority and another are aggrieved by the judgment dated 22.12.2014 passed by the High Court of Delhi.",
+    "In the case before us, the High Court has taken note of the fact that the compensation has never been paid to the owners.",
+    "The main contention urged is that the writ petitioner has no locus standi to file a Writ Petition for the declaration that the proceedings have lapsed.",
+    "Under the Delhi Lands (Restrictions on Transfer) Act, 1972, restriction on transfer is only after the Declaration under Section 6(1) of the 1894 Act is published.",
+    "The property is situated in Delhi and the contention of the appellant on locus standi is based on the alleged void transfer after initiation of the land acquisition proceedings.",
+    "The writ petitioner approached the High Court contending that neither the compensation was paid nor the possession taken and hence, sought for a declaration under Section 24(2) of the 2013 Act."
+  ],
+  "issues": [
+    "What is the locus standi of the writ petitioners to challenge the land acquisition?",
+    "Is the benefit under Section 24(2) of the 2013 Act available in this case?"
+  ],
+  "petitioner_arguments": [
+    "The writ petitioner contended that neither the compensation was paid nor the possession taken and hence, sought for a declaration under Section 24(2) of the 2013 Act.",
+    "There is no dispute that the compensation has not been paid."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "It was held that 'Any encumbrance created by the erstwhile owner of the land after publication of the notification under Section 4(1) does not bind the State if the possession of the land is already taken over, after the award came to be passed.'",
+    "In this case, the transfer is prior to Section 6(1) declaration, though after Section 4(1). Therefore, there is no merit in the contention advanced by the appellant that the writ petitioners did not have any locus standi to challenge the land acquisition.",
+    "The benefit under Section 24(2) of the 2013 Act is available in the event of two circumstances - (i) The compensation has not been paid though the Award has been passed under the provisions of the 1894 Act prior to 01.01.2014; (ii) Despite passing an Award and payment of compensation, possession had not been taken five years prior to 01.01.2014."
+  ],
+  "holding": [
+    "The appeal is dismissed.",
+    "In case no fresh acquisition proceedings are initiated within the said period of one year from today by issuing a Notification under Section 11 of the Act, the appellant, if in possession, shall return the physical possession of the land to the owner."
+  ],
+  "cases_cited": [
+    "Delhi Development Authority and another v Islamuddin",
+    "placed on a decision of this Court in Star Wire (India) Ltd. Vs. State of Haryana"
+  ]
+}

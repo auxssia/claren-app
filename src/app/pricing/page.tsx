@@ -7,11 +7,11 @@ import { LawFirmContact } from "@/components/sections/pricing/law-firm-contact";
 export const metadata: Metadata = {
   title: "Pricing — Simple and transparent",
   description:
-    "Claren is open source and free to use. Hosted plans for power users and teams. Custom deployments for law firms.",
+    "Claren offers a free hosted tier, pro access for power users and teams, and custom private deployments for law firms.",
   openGraph: {
     title: "Pricing — Claren",
     description:
-      "Open source litigation intelligence. Free core, hosted plans, and enterprise deployments.",
+      "Litigation intelligence with a free hosted tier, pro plans, and custom law firm deployments.",
   },
 };
 

@@ -1,0 +1,78 @@
+{
+  "case_id": "C154",
+  "case_name": "Koli Chunilal Savji and Another v tate of Gujarat",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [
+    "G.B.Pattanaik"
+  ],
+  "bench": [],
+  "petitioner": "Koli Chunilal Savji and Another",
+  "respondent": "tate of Gujarat\nSupreme Court of India\n\n29 September 1999\nCr. Appeal Nos. 1786 and 1703 of 1996\nThe Judgment was delivered by: G.B.Pattanaik, J.\n1.  These two appeals arise out of Judgment dated 21/24.6.1996 of the High Court of Gujarat at Ahmadabad in Criminal Appeal Nos. 236 and 105 of 1989 and are being disposed of by this common Judgment. The two appellants were tried for having committed an offence under Section 302/34 IPC on the allegation that on 28.6.84 at 4 A.M., while deceased Dhanuben was sleeping on her bed, the two accused persons namely her husband and mother-in-law poured kerosene and set fire with match box. Along with the deceased, her son Ajay was also there and both, the deceased and Ajay were burnt. They were taken to the hospital for treatment.\n2.  In the hospital, Police recorded the statement of Dhanuben which was treated as F.I.R. and then after registering the case, investigation started. In the hospital, both Dhanuben and her",
+  "citations": [
+    "AIR 1994 SC 840"
+  ],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "498A"
+    },
+    {
+      "section": "250"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "29 September 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "These two appeals arise out of Judgment dated 21/24.6.1996 of the High Court of Gujarat at Ahmadabad in Criminal Appeal Nos. 236 and 105 of 1989 and are being disposed of by this common Judgment.",
+    "The two appellants were tried for having committed an offence under Section 302/34 IPC on the allegation that on 28.6.84 at 4 A.M., while deceased Dhanuben was sleeping on her bed, the two accused persons namely her husband and mother-in-law poured kerosene and set fire with match box.",
+    "In the hospital, Police recorded the statement of Dhanuben which was treated as F.I.R. and then after registering the case, investigation started.",
+    "Along with the deceased, her son Ajay was also there and both, the deceased and Ajay were burnt.",
+    "They were taken to the hospital for treatment.",
+    "The learned Sessions Judge did not rely upon the dying declaration made by the deceased Dhanuben and in the absence of any other evidence to connect the accused appellants with the murder of the deceased, acquitted them of the charge under Section 302/34 IPC.",
+    "However, the State of Gujarat preferred an appeal against the acquittal of the accused persons of the charge under Section 302/34 IPC and the accused persons preferred appeal against their conviction under Section 498A."
+  ],
+  "issues": [
+    "What is the validity of the two dying declarations recorded by the Magistrate?",
+    "Can the High Court interfere with the order of acquittal passed by the learned Sessions Judge?",
+    "Is the evidence sufficient to prove the charge under Section 498A IPC?"
+  ],
+  "petitioner_arguments": [
+    "The two dying declarations cannot be relied upon inasmuch as the doctor was not present while the dying declaration was recorded by the Magistrate and further, there is no endorsement by the doctor, indicating the mental condition of the deceased to the effect that she was in a fit condition to make the statement.",
+    "The doctor himself has not been examined in this case which makes the position worse.",
+    "The deceased was surrounded by her own relations before the dying declaration was recorded by the Magistrate and as such had sufficient opportunity to be tutored and consequently the dying declaration recorded by the Magistrate becomes vitiated.",
+    "There has been gross delay which makes the dying declaration doubtful and as such should not have been accepted.",
+    "The learned Sessions Judge having recorded an order of acquittal, the same should not have been interfered with by the High Court without justifiable reasons and on this score also the conviction of the appellants under Section 302/34 IPC cannot be sustained."
+  ],
+  "respondent_arguments": [
+    "The dying declaration which has been relied upon by the High Court in the facts and circumstances, has been rightly held to be truthful and voluntary one and, therefore, in law, can form the sole basis of conviction.",
+    "Though endorsement of the doctor and presence of the doctor is ordinarily looked for but merely on that score the dying declaration recorded by the Magistrate cannot be held to be an untruthful one.",
+    "The doctor did make an entry in the Police yadi, indicating that the deceased was in a fit condition to make any statement and it is he, who took the Magistrate to the deceased and non-endorsement by the doctor on the statement recorded by the Magistrate cannot be held to be fatal nor can any doubt arise on that score.",
+    "The power of the High Court against an order of acquittal is the same as against an order of conviction and while setting aside an order of acquittal, it is necessary for the Appellate Court to look at the reasoning given by the trial Judge and be satisfied whether those reasoning are just and proper or not."
+  ],
+  "court_reasoning": [
+    "The answer to the first question would depend upon the correctness of the submission of Mr. Keshwani that in the absence of doctor while recording the dying declaration, the said declaration loses its value and cannot be accepted.",
+    "In the aforesaid case, no doubt this Court has held that when the declarant was in the hospital itself, it was the duty of the person who recorded the dying declaration to do so in the presence of the doctor and after duly being certified by the doctor that the declarant was conscious and in senses and was in a fit condition to make the declaration.",
+    "The ultimate test is whether the dying declaration can be held to be a truthful one and voluntarily given.",
+    "For not examining the doctor, the dying declaration recorded by the Executive Magistrate and the dying declaration orally made need not be doubted.",
+    "The question of genuineness of the dying declaration recorded by the Executive Magistrate to be doubted does not arise."
+  ],
+  "holding": [
+    "The two dying declarations are truthful and voluntary and can be relied upon.",
+    "The High Court did not exceed its jurisdiction in interfering with the order of acquittal, recorded by the learned Sessions Judge.",
+    "The conviction under Section 302/34 IPC is sustained.",
+    "The conviction under Section 498A IPC is also upheld."
+  ],
+  "cases_cited": [
+    "In Ravi Chander and Ors. vs. State of Punjab",
+    "relies upon the decision of this Court in the case of Maniram vs. State of Madhya Pradesh"
+  ]
+}

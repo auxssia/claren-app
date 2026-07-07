@@ -1,0 +1,80 @@
+{
+  "case_id": "C2840",
+  "case_name": "State of West Bengal v Singell Tea and Agricultural Industries Limited and Others",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [
+    "N. M. Kasliwal"
+  ],
+  "bench": [],
+  "petitioner": "State of West Bengal",
+  "respondent": "Singell Tea and Agricultural Industries Limited",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "4"
+    },
+    {
+      "act": "The Act",
+      "section": "44"
+    },
+    {
+      "act": "Code Of Civil Procedure Read",
+      "section": "115"
+    },
+    {
+      "act": "Transfer Of Property Act",
+      "section": "106"
+    },
+    {
+      "act": "The Act",
+      "section": "5"
+    },
+    {
+      "act": "The Act",
+      "section": "6"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "31 March 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "The respondent Messrs Singel Tea and Agricultural Industries Limited, a private limited company incorporated under the Companies Act, 1956 (in short 'the Company') filed a writ petition under Article 226 of the Constitution in the High Court on 22.4.1981 challenging the order dated 16.4.1981 issued by the Collector, Darjeeling whereby possession of the tea garden known as M/s. Singell Tea Estate were taken over with effect from 16.4.1981.",
+    "The State Government also issued a notification under Section 4 of the Act vesting all estates and rights of every intermediary in the State free from all encumbrances.",
+    "The Revenue Officer, Kurseong, Darjeeling issued notices to the Company initiating proceedings for assessment of rent of the said tea garden.",
+    "the Company was requested to hand over vacant and peaceful possession of the tea garden to the Junior Land Reforms Officer or the Sub Divisional Land Reforms Officer of the area or the Executive Magistrate immediately on the expiry of 14.4.1981, failing which it was directed that the Company would be deemed a trespasser and would also be liable to pay mesne profits till the Company was evicted in due course of law.",
+    "The Collector, Darjeeling issued the order dated 16.4.1981 which reads as under:--",
+    "According to the Company, by the impugned order the Collector intimated the Company that he would take possession of the estate.",
+    "But the language of the order shows as if the Collector had taken possession of the tea estate on 16.4.1981 and he recorded the fact of taking possession of the tea garden in the said order.",
+    "The further case of the Government was that the possession of the tea garden was handed over to the Corporation on 21.4.1981."
+  ],
+  "issues": [
+    "What is the correct interpretation of the impugned order dated 16.4.1981?",
+    "Can the Collector take possession of the tea garden without following the procedure laid down in the Act and the Rules?",
+    "Is the Collector's action in taking possession of the tea garden valid in the circumstances?"
+  ],
+  "petitioner_arguments": [
+    "The Company contended that it was not an intermediary within the meaning of the Act and the provisions of the Act were not applicable to the said tea garden as the same was a freehold land and the Revenue Officer had not jurisdiction to assess the rent under Section 42(2) of the Act.",
+    "The Company argued that the Collector did not make any order of summary settlement as required by paragraph 1 of Schedule F of The West Bengal Estates Acquisition Rules, 1954.",
+    "The Company contended that the Government had not accepted the initial rent determined by the Revenue Officer and had not made any demand for payment of rent at that rate."
+  ],
+  "respondent_arguments": [
+    "The State Government argued that the Company should have paid at least the rent at the rate of Rs.2,375.94 per year initially determined by the Revenue Officer under Section 42(2) of the Act.",
+    "The State Government contended that the Collector had taken possession of the tea garden in accordance with law and that the High Court's order was incorrect."
+  ],
+  "court_reasoning": [
+    "The High Court held that the Collector did not make any order of summary settlement as required by paragraph 1 of Schedule F of The West Bengal Estates Acquisition Rules, 1954.",
+    "The High Court observed that it was not disputed that tea garden was now in the possession of the West Bengal Tea Development Corporation Limited since 21.4.1981.",
+    "The High Court held that the Collector had taken the law into his own hands and took over possession otherwise than in accordance with law and such action on the part of the responsible officer like the Collector cannot be approved."
+  ],
+  "holding": [
+    "The High Court allowed the writ petition and issued a writ of mandamus commanding the State Government and other authorities to deliver the possession of the tea garden to the Company within a month from the date of the order.",
+    "The Supreme Court dismissed both the appeals filed by the State of West Bengal as well as the Corporation."
+  ],
+  "cases_cited": [
+    "State of West Bengal v Singell Tea"
+  ]
+}

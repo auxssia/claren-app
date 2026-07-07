@@ -1,0 +1,109 @@
+{
+  "case_id": "C7",
+  "case_name": "Supdt. and Remembrancer of Legal Affairs, West Bengal v Anil Kumar Bhunja and Others",
+  "court": "Supreme Court of India",
+  "year": 1979,
+  "judges": [
+    "Ranjit Singh Sarkaria"
+  ],
+  "bench": [],
+  "petitioner": "Supdt. and Remembrancer of Legal Affairs, West Bengal",
+  "respondent": "Anil Kumar Bhunja",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "5"
+    },
+    {
+      "act": "Read With Section 5 Of The Act",
+      "section": "30"
+    },
+    {
+      "act": "Or 228 Of The Code",
+      "section": "227"
+    },
+    {
+      "act": "The Act",
+      "section": "30"
+    },
+    {
+      "act": "Act Of 1878",
+      "section": "19"
+    },
+    {
+      "act": "Present Act",
+      "section": "5"
+    },
+    {
+      "act": "Act Of 1959",
+      "section": "3"
+    },
+    {
+      "act": "Present Act",
+      "section": "3"
+    },
+    {
+      "act": "The Act",
+      "section": "25"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "23 August 1979",
+  "outcome": "Unknown",
+  "facts": [
+    "On or about April 17, 1971, the Calcutta Police while investigating a case, went to premises No. 4, Ram Kanai Adhikari Lane in Calcutta, and, on the ground floor of the building, they discovered a workshop run by Mrityunjoy Dutta, who was then working on a revolver.",
+    "In the said premises, the police found several other guns, revolvers and rifles. All these fire-arms were seized by the police.",
+    "Mrityunjoy Dutta claimed to have received one of the guns so seized from one Matiar Rahaman gun-licensee and the rest from respondents 1 to 4 for repairs.",
+    "On April 17, 1970, the police charge-sheeted Mrityunjoy Dutta, Matiar Rahaman and respondents 1 to 4 to stand their trial in the Court of the Presidency Magistrate, in respect of offences under Sections 25(1) (a) and 27 of the Act.",
+    "The trial Magistrate, while considering the question of framing charges, held that there were materials to make out a prima facie case under Section 25(1) (c) of the Act against Mrityunjoy Dutta and under Section 29(b) of the Act against Matiar Rahaman, and charged them accordingly.",
+    "So far as respondents 1 to 4 are concerned, the Magistrate took the view that the giving of the arms to the accused Dutta, by respondents 1 to 4 for the limited purpose of repairs, did not amount to delivery of possession of those arms within the meaning of Section 29(b) of the Arms Act (Act IV/1959), and in the result, he discharged the respondents by an order, dated November 17, 1971.",
+    "Aggrieved, the State of West Bengal filed a Criminal Revision against the Magistrate's order before the High Court, contending that delivery of the arms, into the possession of a person who did not have a valid licence for repairs of fire-arms, is not only a contravention of the provisions of Section 5 of the Act, but also amounts to delivery of fire-arms by the respondents into the possession of Mrityunjoy Dutta and, as such, the respondents were prima facie liable for an offence under Section 29(b) of the Act.",
+    "The Division Bench of the High Court, who heard the Revision, dismissed it with the reasoning, that Respondents 1 to 4, could not be said to have delivered the fire-arms, concerned into the possession of Mrityunjoy Dutta within the meaning of Section 29(b) of the Act, because the respondents who possessed valid licences for repairs as well as for sale of fire-arms, had given only temporary custody of those arms to Mrityunjoy Dutta for the limited purpose of carrying the repair job, while the effective control over those arms all the time remained with the respondents.",
+    "The whole case pivots around the interpretation and application of the term "
+  ],
+  "issues": [
+    "Whether the giving of fire-arms by a person holding a licence for repairing and dealing in firearms for repairs to mechanic who holds no such licence, but does the repair job at his workshop at a place different from the factory or place of business of the licence holder, amounts to 'delivery of those arms into the possession of another person' within the contemplation of Section 29(b) of the Arms Act, 1959",
+    "What is the meaning of 'possession' in the context of Section 29(b) of the Arms Act, 1959?",
+    "Is the delivery of fire-arms for repairs to an unlicensed mechanic at a place other than the factory or place of business specified in the licence of the owners an offence under Section 30 read with Section 5 of the Act?"
+  ],
+  "petitioner_arguments": [
+    "The question whether a person is in possession of an arm or had transferred and delivered it to another, is largely one of fact.",
+    "In the instant case, there were three stark facts which more than any other, unmistakably showed that the respondents had given possession of these fire-arms to Mrityunjoy Dutta:",
+    "(a) Mrityunjoy Dutta was not a servant or employee of the respondents, but was running his own business of repairing fire-arms.",
+    "(b) The fire-arms were handed over to Mrityunjoy Dutta to be repaired at his own residence-cum-workshop which was not the respondents licensed place of business, and was in the exclusive control and occupation of Dutta.",
+    "(c) Mrityunjoy Dutta had no licence for repairing or keeping fire-arms and the respondents were either aware of this fact or did not ascertain it before delivering the fire-arms to him.",
+    "It is maintained that 'possession', within the purview of Section 29(b) means immediate possession, and consequently, delivery of even temporary possession and control to an unauthorised person falls within the mischief of the Section.",
+    "It is further urged that the delivery of fire-arms for repairs to the unlicensed mechanic for repairs, to be carried out at a place other than the factory or place of business specified in the licence of the owners, will amount to an offence under Section 30 read with Section 5 of the Act also."
+  ],
+  "respondent_arguments": [
+    "The sum and substance of his arguments is that the mechanic, Dutta, was only in temporary custody of these arms for the limited purpose of repairing them, as an agent of the owners, who being licensees in Form IX entitled to repair and keep these fire-arms, throughout remained in their lawful possession and control.",
+    "It is maintained that the delivery of possession contemplated by Section 29(b) is something more than entrusting the arms to an agent for the limited purpose of repairs.",
+    "In support of this contention, Mr. Gupta has cited several decisions.",
+    "Particular reliance has been placed on Manzur Hussain v. Emperor; Sadh Ram v. State; Emperor v. Harpal Rai; A. Malcom v. Emperor; Emperor v. Koya Hansji; Parmeshwar Singh v. Emperor 1933 Indlaw PAT 140; Gunwantlal v. State of Madhya Pradesh 1972 Indlaw SC 558; and Sullivan v. Earl of Caithness.",
+    "Reference was also made to Halsbury's Laws of England, Vol. 25, Third Edition, page 874, and Salmond's Jurisprudence, 11th Edition."
+  ],
+  "court_reasoning": [
+    "The test for determining whether a person is in possession of anything is whether he is in general control of it.",
+    "In any disputed question of possession, specific facts admitted or proved will alone establish the existence of the de facto relation of control or the dominion of the person over it necessary to determine whether that person was or was not in possession of the thing in question.",
+    "The Magistrate had therefore, to consider the above question on a general consideration of the materials placed before him by the investigating police officer.",
+    "At this stage, as was pointed out by this Court in State of Bihar v. Ramesh Singh 1977 Indlaw SC 50, the truth, veracity and effect of the evidence which the prosecutor proposes to adduce are not to be meticulously judged.",
+    "The standard of test, proof and judgment which is to be applied finally before finding the accused guilty or otherwise, is not exactly to be applied at the stage of Section 227 or 228 of the Code of Criminal Procedure, 1973."
+  ],
+  "holding": [
+    "The Division Bench of the High Court, who heard the Revision, dismissed it with the reasoning, that Respondents 1 to 4, could not be said to have delivered the fire-arms, concerned into the possession of Mrityunjoy Dutta within the meaning of Section 29(b) of the Act, because the respondents who possessed valid licences for repairs as well as for sale of fire-arms, had given only temporary custody of those arms to Mrityunjoy Dutta for the limited purpose of carrying the repair job, while the effective control over those arms all the time remained with the respondents."
+  ],
+  "cases_cited": [
+    "A. Malcom v. Emperor",
+    "Emperor v. Harpal Rai",
+    "Emperor v. Koya Hansji",
+    "In this connection reference has been made to Woodage v. Moss",
+    "Particular reliance has been placed on Manzur Hussain v. Emperor Sadh Ram v",
+    "Supdt. and Remembrancer of Legal Affairs, West Bengal v Anil Kumar Bhunja",
+    "Then in three of these cases, namely, Manzur Husain, Sadh Ram v. State",
+    "and Sullivan v. Earl of Caithness",
+    "repair' was different and distinct from manufacture. In Murli v. Crown"
+  ]
+}

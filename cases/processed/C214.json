@@ -1,0 +1,53 @@
+{
+  "case_id": "C214",
+  "case_name": "State of Rajasthan v Nath Mal and Another",
+  "court": "Supreme Court of India",
+  "year": 1954,
+  "judges": [
+    "Ghulam Hasan"
+  ],
+  "bench": [],
+  "petitioner": "State of Rajasthan",
+  "respondent": "Nath Mal and Another\nSupreme Court of India\n\n12 March 1954\nCivil Appeal No. 136 of 1952.Appeal under articles 132(1) and 133(1)(c) of the Constitution of India from the Judgment and Order Dt. 19 October 1951, of the High Court of Judicature for Rajasthan at Jodhpur in D. B. Miscellaneous W.P. No. 3/1951.\nThe Judgment was delivered by: Ghulam Hasan, J.\n1.  The question involved in this appeal relates to the constitutional validity of cl. 25 of the Rajasthan Foodgrains Control Order, 1949, hereinafter called the Control Order, and arises in the following circumstances:\n2. The respondents, who are grain merchants at Raniwara in Jodhpur Division, Rajasthan State, held licences for dealing in foodgrains. They held considerable stocks of bajra in the ordinary course of business but on October 7, 1950, their stocks were frozen by the Deputy Commissioner, Civil Supplies, Jodhpur, through the Sub- Divisional Officer. It is not disputed that the market price then prevailing",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "12 March 1954",
+  "outcome": "Unknown",
+  "facts": [
+    "The respondents, who are grain merchants at Raniwara in Jodhpur Division, Rajasthan State, held licences for dealing in foodgrains.",
+    "They held considerable stocks of bajra in the ordinary course of business but on October 7, 1950, their stocks were frozen by the Deputy Commissioner, Civil Supplies, Jodhpur, through the Sub- Divisional Officer.",
+    "The State, however, requisitioned the stocks at the rate of Rs. 9 per maund and sold them at Rs. 13-5-4 per maund.",
+    "The respondents claimed that they had purchased the bajra at the prevailing market rate of Rs. 17 to Rs. 18 per maund."
+  ],
+  "issues": [
+    "The constitutional validity of cl. 25 of the Rajasthan Foodgrains Control Order, 1949",
+    "Whether the restriction on the fundamental right of the respondents to carry on business is reasonable and saved by cl. (6) of art. 19"
+  ],
+  "petitioner_arguments": [
+    "The clause authorises the Commissioner and various other authorities mentioned therein and such other officers as may be authorised by the Commissioner to freeze any stock of foodgrains held by a person.",
+    "The power to freeze the stocks of foodgrains is reasonably related to the object which the Act was intended to achieve, namely, to secure the equitable distribution and availability at fair prices and to regulate transport, distribution, disposal and acquisition of an essential commodity such as foodgrains."
+  ],
+  "respondent_arguments": [
+    "The respondents claimed that they had purchased the bajra at the prevailing market rate of Rs. 17 to Rs. 18 per maund.",
+    "The restriction on the fundamental right of the respondents to carry on business is unreasonable and not saved by cl. (6) of art. 19"
+  ],
+  "court_reasoning": [
+    "We do not agree with the High Court that the first portion of cl. 25 is void u/art. 19(1)(g).",
+    "The clause, as it is worded, leaves it entirely to the Government to requisition the stocks at any rate fixed by it and to dispose of such stocks at any rate in its discretion.",
+    "This obviously vests an unrestrained authority to requisition the stocks of foodgrains at an arbitrary price."
+  ],
+  "holding": [
+    "The last portion of cl. 25 places an unreasonable restriction upon the carrying on of trade or business and is thus an infringement of the respondent's right u/art. 19(1)(g) of the Constitution and is, therefore, to that extent void.",
+    "The appeal is dismissed with costs."
+  ],
+  "cases_cited": [
+    "State of Rajasthan v Nath Mal"
+  ]
+}

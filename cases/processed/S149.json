@@ -1,0 +1,54 @@
+{
+  "case_id": "S149",
+  "case_name": "Special powers of High Court or Court of Session regarding bail",
+  "court": "High Court or Court of Session",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "437"
+    },
+    {
+      "section": "439"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Arms Act, 1959"
+    },
+    {
+      "section": "11"
+    },
+    {
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The High Court or Court of Session may direct that any person accused of an offence and in custody be released on bail, and if the offence is of the nature specified in sub-section (3) of section 437, may impose any condition which it considers necessary for the purposes mentioned in that sub-section;",
+    "A High Court or Court of Session may direct that any person who has been released on bail under this Chapter be arrested and commit him to custody.",
+    "Punjab and Union Territory of Chandigarh: In its application to the Stale of Punjab and Union Territory of Chandigarh after section 439, following section shall be inserted, namely:-",
+    "Tripura: After section 439, the following section shall be inserted namely:-"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The High Court or Court of Session may direct that any person who has been released on bail under this Chapter be arrested and commit him to custody.",
+    "No person accused of an offence and in custody shall be released on bail unless the High Court or Court of Session gives notice of the application for bail to the Public Prosecutor, unless it is, for reasons to be recorded in writing, of opinion that it is not practicable to give such notice.",
+    "Any condition imposed by a Magistrate when releasing any person on bail may be set aside or modified by the High Court or Court of Session.",
+    "A person accused of an offence which is triable exclusively by the Court of Session or which, though not so triable, is punishable with imprisonment for life shall not be released on bail without notice to the Public Prosecutor, unless it is, for reasons to be recorded in writing, of opinion that it is not practicable to give such notice.",
+    "Any person who has been released on bail under this Chapter may be arrested and commit him to custody by the High Court or Court of Session."
+  ],
+  "cases_cited": []
+}

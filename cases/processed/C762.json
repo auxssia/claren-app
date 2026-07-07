@@ -1,0 +1,72 @@
+{
+  "case_id": "C762",
+  "case_name": "State of Goa v Devanand Shrikant Naik and Others",
+  "court": "Supreme Court of India",
+  "year": 2001,
+  "judges": [],
+  "bench": [],
+  "petitioner": "State of Goa",
+  "respondent": "Devanand Shrikant Naik",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Prevention Of Damage To Public Property Act",
+      "section": "3"
+    },
+    {
+      "act": "The Act",
+      "section": "61A"
+    },
+    {
+      "act": "The Act",
+      "section": "52"
+    },
+    {
+      "act": "Forest Act",
+      "section": "52"
+    },
+    {
+      "act": "Provides That It Is Only The Officer Authorised Under Section 61A Or The Officer Specially Empowered Under Section 61C Or The Sessions Judge Hearing The Appeal Under Section 61D Who Shall Have The Power To Deal With The Matter Relating To Confiscation And Notwithstanding Anything To The Contrary Contained In This Act",
+      "section": "61G"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Theft",
+  "court_level": "Supreme Court",
+  "decision_date": "31 October 2001",
+  "outcome": "Unknown",
+  "facts": [
+    "On 3rd July, 1991, three accused persons trespassed into government reserve forest at Durgini, Dharbandors within the limits of Ponda police station and cut 12 logs of sheesham wood worth Rs. 5,000/-.",
+    "The range forest officers detected 12 logs of sheesham wood lying in the reserve forest and a Maruti van bearing registration no. GA-01-P-7676 parked at a distance of few meters therefrom.",
+    "Two of the accused persons were seated in the Maruti van.",
+    "The range forest officers tried to apprehend the accused persons who tried to flee away in the Maruti van.",
+    "However, the Maruti van was intercepted and seized by the forest officers.",
+    "A report of theft was lodged with the police.",
+    "Offences under sections 447, 379 read with 34 IPC and section 3 of Prevention of Damage to Public Property Act, 1984 were registered.",
+    "The accused persons having been found on investigation by the police, to have committed the alleged offences, they were chargesheeted and produced before the court of judicial magistrate, first class at Sanguem, Goa.",
+    "The chargesheet filed by the police - reported the seizure of 12 logs of sheesham wood and Maruti van as also one axe and one 'quita' - the tools used for cutting the trees.",
+    "While the axe and 'quita' were physically produced in the court, the seizure of 12 logs of wood and Maruti van was only reported to the learned magistrate as these two articles were in the custody of forest conservator at Collem."
+  ],
+  "issues": [
+    "Whether the trial court's direction to release the seized vehicle was correct.",
+    "Whether the trial court's direction to issue show cause notice to P.W. 1 and P.W. 6 was correct."
+  ],
+  "petitioner_arguments": [
+    "The learned counsel for the state submitted that the learned magistrate could not have directed the release of the vehicle once it was shown to his satisfaction that the seizure was under section 52 of the Forest Act.",
+    "The learned counsel for the state also submitted that the direction to issue show cause notice to P.W. 1 and P.W. 6 was too vague a direction and does not serve any purpose."
+  ],
+  "respondent_arguments": [
+    "No argument is mentioned in the text."
+  ],
+  "court_reasoning": [
+    "The court held that the trial court's direction to release the seized vehicle was correct, as the jurisdictional facts which would have enabled the vehicle to be seized and then confiscated are lacking in the order.",
+    "The court also held that the direction to issue show cause notice to P.W. 1 and P.W. 6 was too vague a direction and does not serve any purpose."
+  ],
+  "holding": [
+    "The Supreme Court refused to interfere with the trial court's order directing the release of the seized vehicle.",
+    "The Supreme Court set aside the trial court's direction to issue show cause notice to P.W. 1 and P.W. 6."
+  ],
+  "cases_cited": [
+    "State of Goa v Devanand Shrikant Naik"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "case_id": "C2817",
+  "case_name": "State of Uttar Pradesh v Babu and Others",
+  "court": "Supreme Court of India",
+  "year": 2003,
+  "judges": [
+    "Arjjit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "State of Uttar Pradesh",
+  "respondent": "Babu",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "395"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "162"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "24 September 2003",
+  "outcome": "Unknown",
+  "facts": [
+    "Around mid-night of 9.5.1978, dacoity was committed in the house of P.W.I, during which deceased was murdered.",
+    "Accused-Suraj Pal shot at Ramai with the intention of causing his death.",
+    "The informant was sleeping near the main gate of the house and was awakened by cries of the deceased and entered the house.",
+    "Apart from PW1 who claimed to be eyewitness, PW2, PW3, PW4, PW8 and PW9 also claimed to be eyewitnesses."
+  ],
+  "issues": [
+    "Whether the High Court's judgment is reasonable in acquitting the accused persons?",
+    "Whether the evidence of Ramai (PW1) could be relied upon?",
+    "Whether the identification by torch was possible?"
+  ],
+  "petitioner_arguments": [
+    "The High Court has proceeded on mere surmises and conjectures and has not considered the evidence on record.",
+    "The conclusions were termed to be arbitrary.",
+    "The site plan is not substantive evidence."
+  ],
+  "respondent_arguments": [
+    "The evidence was elaborately scanned by the High Court and it was noted about the improbability of identifying the accused persons.",
+    "The prosecution version is rendered unreliable particularly when the widow and the daughter did not support the prosecution version."
+  ],
+  "court_reasoning": [
+    "This Court in Shakti Patra and Anr. v. State of West Bengal, AIR (1981) SC 1217 held that where prosecution witness testified that he had identified the accused in the light of the torch held by him, the presence of torch would not be said to be not proved on the ground that there was no mention of the torch in the FIR or in the statement of the witness before the police.",
+    "The statements contained in an inquest report, to the extent they relate to what the Investigating Officer saw and found are admissible but any statement made therein on the basis of what he heard from others, would be hit by Section 162 of Code of Criminal Procedure, 1973."
+  ],
+  "holding": [
+    "The impugned judgment of the High Court deserves to be set aside, which we direct.",
+    "Judgment of the Trial Court is restored.",
+    "Appeal allowed",
+    "The accused-respondents who are on B bail shall surrender to custody to serve the remainder of their sentence."
+  ],
+  "cases_cited": [
+    "Ramesh Babulal Doshi v. State of Gujarat",
+    "Recently in State of Punjab v. Karnail Singh",
+    "State of Uttar Pradesh v Babu",
+    "and A Jaswant Singh v. State of Haryana",
+    "committed any offence or not . (See Bhagwan Singh and Ors. v. State of Madhya Pradesh",
+    "effect is the conclusion in Aher Pitha Vajshi and Ors. v. State of Gujarat",
+    "highlighted by this Court in Shivaji Sahabrao Bobade and Anr. v. State of Maharashtra",
+    "take note of what was stated by this Court in George and Ors. v. State of Kerala",
+    "the site plan was fatal. This Court in Shakti Patra and Anr. v. State of West Bengal"
+  ]
+}

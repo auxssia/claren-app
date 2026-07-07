@@ -1,0 +1,63 @@
+{
+  "case_id": "C95",
+  "case_name": "Bhagat Ram v State of Punjab",
+  "court": "Supreme Court of India",
+  "year": 1954,
+  "judges": [
+    "JAGANNADHADAS"
+  ],
+  "bench": [],
+  "petitioner": "Bhagat Ram",
+  "respondent": "State of Punjab\nSupreme Court of India\n\n9 February 1954\nCr.As. Nos. 46 and 47 of 1953.\nThe Judgment was delivered by: JAGANNADHADAS, J.\n1.  These two are appeals by special leave against a common judgment of the High Court of Punjab in its revisional jurisdiction. The appellant who is the same in both was convicted by the Magistrate, First Class, Hoshiarpur at two separate trials, one in respect of a charge u/s. 420 and the other in respect of a charge u/s. 409 of the Indian Penal Code. The convictions were confirmed by the Session Judge on appeal and by the High Court in revisions. The charges relate to connected matters and the evidence, though separately recorded, was substantially the same. It is, therefore, convenient to deal with the two appeals by a common judgment as the High Court did.\n2.  The appellant, Bhagat Ram, was the Civil Nazir in the office of the Senior Subordinate Judge, Hoshiarpur. The main charge against him was that in his capacity as a public servan",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "420"
+    },
+    {
+      "section": "409"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "3"
+    },
+    {
+      "section": "342"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "9 February 1954",
+  "outcome": "Unknown",
+  "facts": [
+    "These two are appeals by special leave against a common judgment of the High Court of Punjab in its revisional jurisdiction.",
+    "The main charge against him was that in his capacity as a public servant, he committed criminal breach of trust in respect of a sum of Rs.3, 496/5/- of Government money between the 1st December, and the 18th December, 1948.",
+    "It is the prosecution case that the appellant had misappropriated the amount and that on receipt of the above telegram by the District Judge, he realised the urgency of finding the money somehow and that he accordingly made attempts to raise the money by way of a loan.",
+    "The appellant substantially admits all the material facts above stated. His defence is that it was the Subordinate Judge, Shri Gambhir, that misappropriated the amount and that it was at his request and under his specific authority that he made the attempts to raise the sum of Rs.3, 350 on the 16th and the 17th of December, from the three persons above mentioned."
+  ],
+  "issues": [
+    "Whether the appellant's defence that the Subordinate Judge misappropriated the amount is reasonable.",
+    "Whether the Courts below have correctly convicted the appellant of both charges."
+  ],
+  "petitioner_arguments": [
+    "The defence is that it was the Subordinate Judge, Shri Gambhir, that misappropriated the amount and that it was at his request and under his specific authority that he made the attempts to raise the sum of Rs.3, 350 on the 16th and the 17th of December, from the three persons above mentioned.",
+    "The 'Ruqqa' bears an endorsement of repayment of Rs.150/- on the 8th December, so that, it is, if true, a receipt for the sum of Rs.3, 350 said to have been misappropriated."
+  ],
+  "respondent_arguments": [
+    "The prosecution case is that the appellant had misappropriated the amount and that on receipt of the above telegram by the District Judge, he realised the urgency of finding the money somehow and that he accordingly made attempts to raise the money by way of a loan.",
+    "The Courts below have carefully considered the circumstances for against and that they rightly held that it was Bhagat Ram, the appellant who was responsible for the embezzlement."
+  ],
+  "court_reasoning": [
+    "The issue in the cases is quite simple - either Mr. Ghambir is the villain of the piece and Bhagat Ram is a victim of his oppression and is being made to embezzle a sum of Rs.3, 500./- for Mr. Ghambir's benefit on the 4th of December, and then falsely being accused of trying to cheat the money-lender Seth Brij Lal when in fact the loan was being taken on behalf of Mr. Ghambir, or else Mr. Ghambir is rather a careless officer who allowed himself to be tricked by the accused in the matter of pay bill on the 4th December and was thereafter falsely by accused Bhagat Ram of being the principal offender when Bhagat Ram's embezzlement of Rs.3, 500/- could no longer be concealed owing to the urgent demands for the pay of the process-serving establishment at Una and Dasuya."
+  ],
+  "holding": [
+    "The Courts below have correctly convicted the appellant of both charges.",
+    "The conviction is not based upon a mere acceptance of the oath of Shri Ghambir denying the alleged misappropriation by himself and the alleged authorisation by him to the appellant to raise money on his credit but on a consideration of the circumstances brought out in the evidence."
+  ],
+  "cases_cited": [
+    "This Court has affirmed the proposition in --- 'Hanumant v. State of Madhya Pradesh'"
+  ]
+}

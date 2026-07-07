@@ -1,0 +1,68 @@
+{
+  "case_id": "C1715",
+  "case_name": "Union of India and Another v Century Manufacturing Company Limited",
+  "court": "Supreme Court of India",
+  "year": 1992,
+  "judges": [
+    "Hon'ble Justice S. Ranganathan"
+  ],
+  "bench": [],
+  "petitioner": "Union of India and Another",
+  "respondent": "Century Manufacturing Company Limited\nSupreme Court of India\n\n14  May  1992\nCIVIL APPELLATE JURISDICTION : Civil Appeal Nos. 1432 and 33 of 1984. From the Judgment and Order dated 15/27.11.1978 of the Bombay High Court in Special Civil Application Nos. 1066/72 and 1276 of 1972.\nThe Judgment was delivered by : Hon'ble Justice S. Ranganathan\n1. These two appeals under Central Excises & Salt Act, 1944 (hereinafter referred to as 'the Act') raise an interesting question as to the vires and interpretation of s.3(2) of the Act. Under that provision, the Central Government issued notifications dated 28.11.1970 and 26.7.1971 fixing the tariff value on the basis of which excise duty was to be levied on sulphuric acid and liquid chlorine respectively. In respect of the former, the tariff value fixed was Rs. 260 per metric ton where the strength of the acid was 93% to 99% and a proportionately lower figure where the strength of the acid was less. The tariff value for",
+  "citations": [
+    "AIR 1963 SC 791"
+  ],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "4"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "14 May 1992",
+  "outcome": "Unknown",
+  "facts": [
+    "The case concerns two appeals under the Central Excises & Salt Act, 1944.",
+    "The appeals raise an interesting question about the vires and interpretation of s.3(2) of the Act.",
+    "Under that provision, the Central Government issued notifications fixing tariff values for sulphuric acid and liquid chlorine.",
+    "The tariff value for sulphuric acid was fixed at Rs. 260 per metric ton, while the tariff value for liquid chlorine was fixed at Rs. 500 per metric ton.",
+    "The Century Spinning and Manufacturing Co. Ltd. (the respondent) challenged the fixation of these tariff values."
+  ],
+  "issues": [
+    "What is the scope of s.3(2) of the Act?",
+    "Can the Central Government fix tariff values for excisable goods without any guidelines or formula?"
+  ],
+  "petitioner_arguments": [
+    "The respondent argued that an excise duty being a duty on manufacture or production, its levy can be based on the cost of production or manufacture together with any margin of profit.",
+    "The respondent also argued that the tariff value fixed under s.3(2) cannot be based on the sale price of the goods, much less on a weighted average sale price."
+  ],
+  "respondent_arguments": [
+    "The Union of India argued that the Central Government has the power to fix tariff values for excisable goods without any guidelines or formula.",
+    "The Union of India also argued that the fixation of tariff values is not violative of art. 14 of the Constitution."
+  ],
+  "court_reasoning": [
+    "The Court held that the fixation of tariff values by the Central Government under s.3(2) of the Act is valid and not violative of art. 14.",
+    "The Court also held that the fixation of tariff values can be based on any formula or guidelines indicated in the statute."
+  ],
+  "holding": [
+    "The Supreme Court dismissed the appeals filed by the Union of India and upheld the judgment of the Bombay High Court."
+  ],
+  "cases_cited": [
+    "Veeran v. Union of India",
+    "adopted a similar approach. The decision in Union of India v. Vazir Sultan Tobacco Co",
+    "and Atic Industries v. Asst",
+    "and Gwalior Rayon Silk Mfg. (Weaving) Co. Ltd. v. Union of India",
+    "and the Kerala decision Veeran v. Union",
+    "and the Madras decision Subbarayan v. Union",
+    "and the correct legal position expounded in Union of India v. Bombay Tyres International Ltd",
+    "c) Touching upon A.K. Roy & Anr. v. Voltas Ltd",
+    "d) As to Atic Industries Ltd. v. H.H",
+    "influenced by certain observations of this Court in Roy v. Voltas Ltd",
+    "of the Act has also been taken in Subbarayan v. Union of India",
+    "reported as Century Spinning & Mfg. Co. v. Union",
+    "the M.P. High Court viz. Gwalior Rayon Silk Mfg. (Wvg.) Co. v. Union of India",
+    "the production and manufacture of goods (see Union of India v. Delhi Cloth"
+  ]
+}

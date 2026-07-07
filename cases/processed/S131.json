@@ -1,0 +1,30 @@
+{
+  "case_id": "S131",
+  "case_name": "",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "Abettor present when offence is committed"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Whenever any person, who is absent would be liable to be punished as an abeltor, is present when the act or offence for which he would be punishable in consequence of the abetment is committed, he shall be deemed to have committed such act or offence."
+  ],
+  "holding": [
+    "He shall be deemed to have committed such act or offence."
+  ],
+  "cases_cited": []
+}

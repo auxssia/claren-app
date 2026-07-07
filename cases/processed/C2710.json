@@ -1,0 +1,81 @@
+{
+  "case_id": "C2710",
+  "case_name": "Coal India Limited and another v Ujjal Transport Agency and others",
+  "court": "Supreme Court of India",
+  "year": 2010,
+  "judges": [
+    "R.V. Raveendran, J."
+  ],
+  "bench": [],
+  "petitioner": "Coal India Limited and another",
+  "respondent": "Ujjal Transport Agency",
+  "citations": [
+    "2008 7 SCC 169"
+  ],
+  "statutes": [
+    {
+      "act": "Arbitration And Conciliation Act",
+      "section": "11"
+    },
+    {
+      "act": "The Act",
+      "section": "34"
+    },
+    {
+      "act": "Limitation Act",
+      "section": "5"
+    },
+    {
+      "act": "Limitation Act",
+      "section": "14"
+    }
+  ],
+  "legal_domain": "Company",
+  "legal_subdomain": "Board",
+  "court_level": "Supreme Court",
+  "decision_date": "21 October 2010",
+  "outcome": "Unknown",
+  "facts": [
+    "The first respondent filed an application under Section 11 of the Arbitration and Conciliation Act, 1996 ('Act' for short) and an arbitrator was appointed.",
+    "Certain disputes having arisen between first respondent and appellants, the first respondent filed an application under Section 11 of the Arbitration and Conciliation Act, 1996 ('Act' for short) and an arbitrator was appointed.",
+    "The appellants, being under an impression that the proceedings under Section 34 of the Act for setting aside the Award was in the nature of an appeal against the Award, filed an 'appeal' under Section 34 of the Act before the Guwahati High Court on 6.5.2009 (numbered as Arbitration Appeal No.10/2009).",
+    "On receiving the notice in the execution levied in regard to the Award dated 6.2.2009, the appellants realised that the proceedings under Section 34 of the Act was not by way of an appeal before the High Court, but by way of an original application before the District Court.",
+    "However, as by then the courts were closed for the 'Puja Holidays' between 25.9.2009 and 19.10.2009, the appellants filed the application (A.C.No.512/2009) under Section 34 of the Act before the District Court, Kamrup, Gauhati, for setting aside the said award, on 19.10.2009 when the courts re-opened.",
+    "Alongwith the said application appellants filed an application under Section 5 of the Limitation Act, 1963 (instead of filing an application under Section 34(3) of the Act) for condonation of the delay in filing the application under Section 34 of the Act.",
+    "On 29.10.2009, they filed an application before the High Court for withdrawal of the appeal and the High Court permitted them to withdraw the appeal on 30.10.2009 on the ground that it was not maintainable with an observation that the question of condonation of delay will be considered by the District Court, Kamrup before which the application had to be filed.",
+    "The appellants took back the application for condonation filed under a wrong provision of law (Section 5 of Limitation Act) and filed an application under Section 34(3) of the Act on 3.11.2009.",
+    "At the hearing of the said application on 21.12.2009, as the court was of the view that application should have been filed under Section 34(3) of the Act read with Section 14 of Limitation Act, the appellants filed yet another application on 8.1.2010 under Section 34(3) of the Act read with Section 14 of the Limitation Act, 1963 for excluding the time spent bonafide in prosecuting the proceedings before the High Court and withdrew the earlier application for condonation of delay.",
+    "The District Judge, Kamrup by order dated 26.2.2010, dismissed the application for condonation of delay.",
+    "The appeal filed by the appellants against the said order refusing to condone the delay was rejected by the High Court by the impugned order dated 7.4.2010.",
+    "The appellants have challenged the said order of the High Court in this appeal by special leave."
+  ],
+  "issues": [
+    "Whether the application under Section 34 of the Act was filed in time, excluding the time spent before the wrong forum?",
+    "Whether the filing of an application for condonation under a wrong provision of law will vitiate the application?"
+  ],
+  "petitioner_arguments": [
+    "The appellants demonstrated their diligence and bona fides by filing the application under Section 34 of the Act on 19.10.2009 itself immediately on reopening of court, without waiting for a formal order of withdrawal of the 'appeal' under Section 34 before the wrong forum.",
+    "If the period spent before wrong forum is excluded, the application is filed within three months and there is no question of explaining any delay.",
+    "The filing of an application for condonation under a wrong provision of law will not vitiate the application."
+  ],
+  "respondent_arguments": [
+    "Different causes were shown and different explanations were given by the appellants in the application for condonation of delay filed by the appellant before the District Court on 3.11.2009, the subsequent application under Section 34(3) of the Act read with Section 14 of Limitation Act filed on 8.1.2010 and the application dated 29.10.2009 for withdrawal of the appeal filed before the High Court.",
+    "The first respondent contended that there is inconsistency in the explanations given by the appellants."
+  ],
+  "court_reasoning": [
+    "This court held that neither Section 34(3) nor any other provision of the Act excludes the application of Section 14 of Limitation Act, 1963 and the provisions of Section 14 of Limitation Act would apply to applications under Section 34 of the Act.",
+    "In computing the limitation period of three months for the application under Section 34(1) of the Act, the time during which the applicant was prosecuting the matter bonafide and with due diligence before the wrong court will have to be excluded.",
+    "The first appellant is a Corporation and it has to Act through its Board of Directors and not at the level of individual officers.",
+    "It cannot be said that filing of the application under Section 34 of the Act on 19.10.2009 was belated.",
+    "Though the application for condonation of delay was initially filed under Section 5 of Limitation Act, that was subsequently replaced by an application under Section 34(3) of the Act, and again by an application under Section 34(3) of the Act read with Section 14 of the Limitation Act."
+  ],
+  "holding": [
+    "The application under Section 34 of the Act was filed in time, by excluding the time spent before the wrong forum.",
+    "The District Court, Kamrup shall now consider the application under Section 34 of the Act filed by the appellants on merits, in accordance with law.",
+    "Appeal Allowed"
+  ],
+  "cases_cited": [
+    "Coal India Limited and another v Ujjal Transport Agency",
+    "This Court in M/s. Consolidated Engineering Enterprises Vs. The Principal Secretary (Irrigation Department"
+  ]
+}

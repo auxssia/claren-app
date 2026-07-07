@@ -1,0 +1,41 @@
+{
+  "case_id": "README",
+  "case_name": "None",
+  "court": "None",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 32",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "This folder contains the dataset of the AILA Track organized in FIRE 2019.",
+    "The track website is https://sites.google.com/view/fire-2019-aila/",
+    "The conference website is http://fire.irsi.res.in/fire/2019/home",
+    "There are 4 folders: Object_casedocs, Object_statutes, Query_doc.txt, and relevance_judgments_priorcases.txt/relevance_judgments_statutes.txt",
+    "Each file in the folder is named as C<id>.txt or S<id>.txt",
+    "The numbers in the file names are the identifiers of the cases or statutes.",
+    "There are 50 queries which are description of situations. Each query has an id such as AILA_Q1, AILA_Q2, ..., AILA_Q50.",
+    "contains the relevant prior-cases for a query",
+    "contains the relevant statutes for a query"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The evaluations were done for the remaining 40 queries (AILA_Q11 - AILA_Q50)"
+  ],
+  "cases_cited": []
+}

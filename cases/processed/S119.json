@@ -1,0 +1,36 @@
+{
+  "case_id": "S119",
+  "case_name": "Intentional insult with intent to provoke breach of the peace",
+  "court": "",
+  "year": 1860,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "6"
+    },
+    {
+      "section": "505"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "What constitutes intentional insult",
+    "What is meant by provocation"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "Punishment with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+  ],
+  "cases_cited": []
+}

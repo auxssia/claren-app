@@ -1,0 +1,39 @@
+{
+  "case_id": "C94",
+  "case_name": "Virsa Singh v The State Of Punjab",
+  "court": "Supreme Court of India",
+  "year": 1958,
+  "judges": [
+    "Vivian Bose, J."
+  ],
+  "bench": [],
+  "petitioner": "Virsa Singh",
+  "respondent": "The State Of Punjab\nSupreme Court of India\n\n11 March 1958\nCriminal Appeal No. 90  of 1957.\nThe Judgment was delivered by: Vivian Bose, J.\n1.  The appellant Virsa Singh has been sentenced to imprisonment for life under s. 302 of the Indian Penal Code for the murder of one Khem Singh. He was granted special leave to appeal by this Court but the leave is limited to \"the question that on the finding accepted by the Punjab High Court what offence is made out as having been committed by the petitioner.\"\n2.  The appellant was tried with five",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "300"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "11 March 1958",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The intention to cause the bodily injury actually found to be present must be proved, and once it is established, the rest of the enquiry is purely objective and the only question is whether, as a matter of purely objective inference, the injury is sufficient in the ordinary course of nature to cause death. If the prosecution proves an act the natural consequences of which would be a certain result and no evidence or explanation is given, then a jury may find that the prisoner is guilty of doing the act with the intent alleged."
+  ],
+  "cases_cited": [
+    "The learned counsel for the appellant referred us to Emperor v. Sardarkhan Jaridkhan",
+    "Virsa Singh. v The",
+    "We were referred to a decision of Lord Goddard in R v. Steane"
+  ]
+}

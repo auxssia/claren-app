@@ -1,0 +1,57 @@
+{
+  "case_id": "S120",
+  "case_name": "Saving of laws providing for acquisition of estates, etc.",
+  "court": "",
+  "year": 0,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "13"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "19"
+    },
+    {
+      "section": "3"
+    },
+    {
+      "section": "4"
+    },
+    {
+      "section": "7"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "31"
+    },
+    {
+      "section": "2"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "Notwithstanding anything contained in Article 13, no law providing for the acquisition by the State of any estate or of any rights therein or the extinguishment or modification of any such rights,"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "shall be deemed to be void on the ground that it is inconsistent with, or takes away or abridges any of the rights conferred by Article 14 or Article 19"
+  ],
+  "cases_cited": []
+}

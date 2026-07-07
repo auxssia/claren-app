@@ -1,0 +1,80 @@
+{
+  "case_id": "C1765",
+  "case_name": "Nankaunoo v State of Uttar Pradesh",
+  "court": "Supreme Court of India",
+  "year": 2016,
+  "judges": [
+    "R. Banumathi"
+  ],
+  "bench": [],
+  "petitioner": "Nankaunoo",
+  "respondent": "State of Uttar Pradesh\nSupreme Court of India\n\n19 January 2016\nCriminal Appeal No. 46 of 2016 (Arising out of SLP (Crl.) No. 7437 of 2013)\nThe Judgment was delivered by : R. Banumathi, J.\n1. Leave granted.\n2. This appeal arises out of the judgment dated 16.05.2013 passed by the High Court of Judicature at Allahabad, Lucknow Bench in Criminal Appeal No.775 of 1981, whereby the High Court affirmed the conviction of the appellant-accused under Section 302 IPC and also sentence of imprisonment for life imposed on him.\n3. Briefly stated case of the prosecution is as under:- Deceased- Chhedi Lal was running a barber shop in Kurari Khurd Market. On 18.02.1981, the appellant visited the shop of Chhedi Lal and asked for a haircut. An altercation took place between the two when appellant insisted the deceased for haircut claiming preference over other customers; but the deceased-Chhedi Lal declined his demand. The appellant felt insulted and left the barber shop threatening the decea",
+  "citations": [
+    "1981 3 SCC 616",
+    "1991 2 SCC 32",
+    "AIR 1958 SC 465"
+  ],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "307"
+    },
+    {
+      "section": "313"
+    },
+    {
+      "section": "300"
+    },
+    {
+      "section": "304"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "19 January 2016",
+  "outcome": "Unknown",
+  "facts": [
+    "The case arises out of the judgment dated 16.05.2013 passed by the High Court of Judicature at Allahabad, Lucknow Bench in Criminal Appeal No.775 of 1981.",
+    "Deceased- Chhedi Lal was running a barber shop in Kurari Khurd Market.",
+    "On 18.02.1981, the appellant visited the shop of Chhedi Lal and asked for a haircut.",
+    "The incident was witnessed by Janoo-PW2, Udan-PW3 and Muneshwar.",
+    "Also father of the deceased namely Kishore-PW1 and his son-Ram Pal saw the incident when they were returning from their field.",
+    "Thereafter, deceased was taken to Police Station-Achal Ganj, where FIR (Ex.Ka-1) bearing Crime No.37/81 dated 18.02.1981 was registered against the appellant under Section 307 IPC.",
+    "SI-Ravinder Prasad Yadav (PW-6) recorded the statement of Chhedi Lal who was lying injured on the kharkhara outside the Police Station and the deceased was sent to Achal Ganj Hospital from where he was referred to District Hospital Unnao; but the deceased died on the way to the hospital.",
+    "Post mortem was conducted by Dr. J.N. Bajpai (PW-4) at District Hospital Unnao on 19.02.1981 at 3.30 p.m."
+  ],
+  "issues": [
+    "The prosecution could not have relied on the testimony of PWs 1, 2 and 3 as PW-1-Kishore, father of the deceased, is an interested witness and PWs 2 and 3 are inimical interested witnesses.",
+    "The courts below failed to take note of the fact that the alleged weapon 'countrymade pistol' was never recovered by the investigating officer and in the absence of any clear connection between the weapon used for crime and ballistic report and resultant injury, the prosecution cannot be said to have established the guilt of the appellant.",
+    "Whether the conviction of the appellant under Section 302 IPC is sustainable."
+  ],
+  "petitioner_arguments": [
+    "The prosecution could not have relied on the testimony of PWs 1, 2 and 3 as PW-1-Kishore, father of the deceased, is an interested witness and PWs 2 and 3 are inimical interested witnesses.",
+    "The courts below failed to take note of the fact that the alleged weapon 'countrymade pistol' was never recovered by the investigating officer and in the absence of any clear connection between the weapon used for crime and ballistic report and resultant injury, the prosecution cannot be said to have established the guilt of the appellant.",
+    "It is not sustainable to convict the appellant under Section 302 IPC as the gunshot injury was on the lower part of the left thigh which is a non-vital organ and it cannot be said that the appellant intended to cause the death of the deceased."
+  ],
+  "respondent_arguments": [
+    "Witnesses have consistently deposed that the appellant threatened the deceased that he would not be spared alive and thereafter fired shot from his loaded pistol and medical evidence amply corroborates the version of the eye witnesses.",
+    "The courts below rightly convicted the appellant under Section 302 IPC.",
+    "In a case of this nature, any omission on the part of the investigating officer cannot go against the prosecution case."
+  ],
+  "court_reasoning": [
+    "The trial court rightly held that the appellant was responsible for the death of Chhedi Lal.",
+    "The High Court rightly agreed with the finding of the trial court that PWs 1 to 3 were reliable witnesses.",
+    "In the light of unimpeachable oral evidence which is amply corroborated by the medical evidence, non-recovery of 'countrymade pistol' does not materially affect the case of the prosecution.",
+    "Story of the prosecution is to be examined dehors such omission by the investigating agency.",
+    "The emphasis in clause three of Section 300 IPC is on the sufficiency of the injury in the ordinary course of nature to cause death."
+  ],
+  "holding": [
+    "The conviction of the appellant under Section 302 IPC is sustainable."
+  ],
+  "cases_cited": [
+    "the principles in Virsa Singh's case, in Jai Prakash v. State (Delhi Administration"
+  ]
+}

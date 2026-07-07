@@ -1,0 +1,61 @@
+{
+  "case_id": "C596",
+  "case_name": "Pritam Singh And Others v State Of Punjab",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Pritam Singh And Others",
+  "respondent": "State Of Punjab\nSupreme Court of India\n\n6 January 1993\nThe Order of the Court was as follows :\nIn this case there were six accused before the trial court arraigned for the offences under Section 302 read with Section 149 and under Sections 324, 325 and 120-B of IPC. The trial court acquitted all the accused of all the offences. The trial court held that the prosecution had failed to prove the charges beyond reasonable doubt. Against the acquittal, the State preferred an appeal. The High Court came to the conclusion that the finding recorded by the trial court was unreasonable and held that the offence under Section 304 Part II read with Section 149 for the death of victim-Kishore Chand and the offence under Sections 324 and 325 read with Section 149 for causing injuries to witness Virender Kumar (PW 7) were proved against the appellants. The High Court, however, held that the offence of conspiracy was not proved.\n1. Having come to the said conclusion, the High",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "section": "149"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "304"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "6 January 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "There were six accused before the trial court arraigned for the offences under Section 302 read with Section 149 and under Sections 324, 325 and 120-B of IPC.",
+    "The trial court acquitted all the accused of all the offences. The trial court held that the prosecution had failed to prove the charges beyond reasonable doubt.",
+    "Against the acquittal, the State preferred an appeal.",
+    "The High Court came to the conclusion that the finding recorded by the trial court was unreasonable and held that the offence under Section 304 Part II read with Section 149 for the death of victim-Kishore Chand and the offence under Sections 324 and 325 read with Section 149 for causing injuries to witness Virender Kumar (PW 7) were proved against the appellants.",
+    "The High Court, however, held that the offence of conspiracy was not proved."
+  ],
+  "issues": [
+    "Whether the prosecution had failed to establish the offence against the accused beyond reasonable doubt",
+    "Whether it was established that a particular accused had inflicted a particular injury both on the deceased-Kishore Chand as well as on the witness Virender Kumar (PW 7)",
+    "Whether the death of the deceased was on account of the injuries in question"
+  ],
+  "petitioner_arguments": [
+    "The prosecution had failed to establish the offence against the accused beyond reasonable doubt",
+    "It was not established that a particular accused had inflicted a particular injury both on the deceased-Kishore Chand as well as on the witness Virender Kumar (PW 7)",
+    "It was not established that the death of the deceased was on account of the injuries in question"
+  ],
+  "respondent_arguments": [
+    "The court, after taking into consideration the eyewitness account as well as the two dying declarations, has come to the right conclusion that it was the accused who were responsible for the attack both on the deceased-Kishore Chand and the injured witness Virender Kumar in the manner alleged by the prosecution",
+    "The multiple injuries received by the deceased could also be the cause of the short supply of blood to the kidneys which was the immediate cause of the death of the victim"
+  ],
+  "court_reasoning": [
+    "We are satisfied that the court, after taking into consideration the eyewitness account as well as the two dying declarations, has come to the right conclusion that it was the accused who were responsible for the attack both on the deceased-Kishore Chand and the injured witness Virender Kumar in the manner alleged by the prosecution",
+    "The pathologist while stating that the short supply of blood to the kidneys can be on various accounts, has also stated that the multiple injuries received by the deceased could also be the cause of such short supply",
+    "All that prosecution had to establish in the present case was whether the multiple injuries received by the deceased would have resulted in the short supply of blood to the kidneys which was the immediate cause of the death of the victim"
+  ],
+  "holding": [
+    "We sustain both the convictions as well as the sentences of the appellants, and dismiss the appeal",
+    "Appeal dismissed"
+  ],
+  "cases_cited": []
+}

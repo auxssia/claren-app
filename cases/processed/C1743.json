@@ -1,0 +1,68 @@
+{
+  "case_id": "C1743",
+  "case_name": "Supdt. of Taxes, Dhubri and Others v Onkarmal Nathmal Trust and Others",
+  "court": "Supreme Court of India",
+  "year": 1975,
+  "judges": [
+    "A. N. Ray",
+    "Mathew Isaacs",
+    "Hameedullah Beg"
+  ],
+  "bench": [],
+  "petitioner": "Supdt. of Taxes, Dhubri and Others",
+  "respondent": "Onkarmal Nathmal Trust",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Evidence Act",
+      "section": "115"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "1 May 1975",
+  "outcome": "Unknown",
+  "facts": [
+    "The Assam Taxation (on Goods carried by Road or on Inland Waterways) Act, 1961 was passed by the Assam Legislature.",
+    "About 485 assesses challenged the New Act in the Assam High Court.",
+    "Onkarmal Nathmal Trust and Others filed an appeal in this Court against the judgment of the High Court dated 1 August, 1963.",
+    "The State obtained interim order from this Court on 29 January, 1965 that notices u/s. 7(2) of the New Act were issued.",
+    "The respondent assesses challenged these demand notices in the High Court on the ground that the notices were illegal and beyond the jurisdiction of the State."
+  ],
+  "issues": [
+    "Validity of notices of demand under the Assam Taxation (on Goods carried by Road or on Inland Waterways) Act, 1961"
+  ],
+  "petitioner_arguments": [
+    "The broad contention of the assessees was that the State could issue notices within two years from the expiry of the return period and none of the notices was within the time mentioned in the New Act, and Therefore, the State had no jurisdiction to issue the notices."
+  ],
+  "respondent_arguments": [
+    "The State contended that From 10 August, 1961 to 1 August, 1963 there was an order of the High Court staying all proceedings, and, therefore, it was not possible to issue any notice until the State was Permitted by orders of this Court to commence proceedings."
+  ],
+  "court_reasoning": [
+    "The High Court held that the notices were barred by limitation in terms of the provisions contained in s. 7(2) of the New Act.",
+    "Each of the challenged notices was much beyond the date of expiry of two years from the date when return should have been filed."
+  ],
+  "holding": [
+    "The best judgment proceedings against the respondents would be barred by the passage of two years after the return period.",
+    "There is a bar against the exercise of jurisdiction to assess beyond the prescribed period.",
+    "The clear provisions of S. 11 of the Act operate as a bar to the jurisdiction of the Commissioner to tax any escaped assessment beyond two years of the return period."
+  ],
+  "cases_cited": [
+    "Here, I May refer to State Of Assam & Anr. V. D.C",
+    "In Corporation of Torounto v. Russell",
+    "In Graham v. Ingleby (",
+    "In Vellavan Chettiar v. Province of Madras (A",
+    "Khyerbari Tea Co. Ltd. & Anr. v. The",
+    "See Khyerba Tea Ltd. & Another v The",
+    "Supdt. of Taxes, Dhubri and Others v Onkarmal Nathmal Trust",
+    "This Court in State of Assam & Anr. v. D. C",
+    "a later election to the contrary (see per Lord Shaw in Pitman v. Crum Ewing",
+    "and Kammins Ballrooms Co. Ltd. v. Zenith Investments (Torquary",
+    "and their correctness affirmed by Lord Diplock in Kammins Co. v. Zenith Investments (M",
+    "by this Court in Atiabari Tea Co. Ltd. v. The",
+    "on law relating to taxation, said in Cape Brandy Syndicate v. I.R",
+    "principle of waiver in these appeals are Vellayan Chettiar v. Province of Madras",
+    "the judgment of the High Court of Australia in Craine v. Colonial Mutual Fire Insurance Co"
+  ]
+}

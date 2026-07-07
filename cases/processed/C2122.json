@@ -1,0 +1,47 @@
+{
+  "case_id": "C2122",
+  "case_name": "State of Uttar Pradesh v Raj Nath and Others",
+  "court": "Supreme Court of India",
+  "year": 1982,
+  "judges": [],
+  "bench": [],
+  "petitioner": "State of Uttar Pradesh",
+  "respondent": "Raj Nath",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "148"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "14 December 1982",
+  "outcome": "Unknown",
+  "facts": [
+    "The deceased Sabha Shankar died of a gunshot wound in front of his house on August 13, 1968 at about 12.30 p.m.",
+    "The First Information Report (Ext. P-1) was lodged by P.W.-1 Amarnath, a distant collateral of the deceased, at Police Station, Mirzamurad on the same day at about 2.45 p.m.",
+    "According to the version of the eye-witnesses, on the day of occurrence P.W. 7 Shri Deo Murti Pandey, Advocate, appointed as a Commissioner, had come to the village from Varanasi to conduct a local inspection."
+  ],
+  "issues": [
+    "Whether the testimony of the eye-witnesses should be relied upon"
+  ],
+  "petitioner_arguments": [
+    "The appellants are entitled to the benefit of doubt and deserve to be acquitted"
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The High Court has made no attempt to come to grips with the evidence of the eye-witnesses.",
+    "It was not proper for the High Court to totally brush aside the testimony of the eye-witnesses without discussing the evidence and without coming to a conclusion whether they were trustworthy and reliable"
+  ],
+  "holding": [
+    "The judgment and order of the High Court are set aside",
+    "We direct the High Court to dispose of the appeal afresh, without being influenced by any of the observations made above."
+  ],
+  "cases_cited": [
+    "State of Uttar Pradesh v Raj Nath"
+  ]
+}

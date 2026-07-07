@@ -1,0 +1,49 @@
+{
+  "case_id": "C402",
+  "case_name": "Chuhar Singh v State of Punjab",
+  "court": "Supreme Court of India",
+  "year": 1990,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Chuhar Singh",
+  "respondent": "State of Punjab\nSupreme Court of India\n\n12 December 1990\nCr.A. No. 757 of 1979\nThe Order of the Court was as follows:\n1. This appeal is directed by Chuhar Singh canvassing the correctness of the judgment made in Criminal Appeal No. 842 of 1977 on the file of the High Court of Punjab and Haryana at Chandigarh, dismissing the appeal and affirming the judgment of the trial court convicting the appellant under Section 302 IPC and sentencing him to undergo imprisonment for life and also to pay a fine of Rs 2000, in default to undergo further imprisonment for two years and also to undergo imprisonment for one year for the conviction under Section 27 of the Arms Act with a direction that both the sentences are to run concurrently.\n2. Along with the appellant, there was one other appellant namely Karaj Singh who was convicted by the trial court under Section 302 read with Section 34 IPC but he has been acquitted by the High Court. The facts of the prosecution case in brief are a",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Arms Act",
+      "section": "27"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "12 December 1990",
+  "outcome": "Unknown",
+  "facts": [
+    "On January 18, 1977 at about 5.30 p.m. while the deceased and his father (PW 11) were unloading the wooden planks from a tractor at their house, the two accused came there raising Changers.",
+    "The acquitted accused raised lalkara and exhorted the appellant not to allow the deceased to escape.",
+    "The father caught hold of the deceased by his arms and asked him to go home.",
+    "When the deceased raised him arms, suddenly the appellant fired a shot at him with his gun which hit him in the right armpit.",
+    "On receipt of the injury the deceased fell unconscious.",
+    "Both the appellants ran away from the spot."
+  ],
+  "issues": [
+    "Whether the appellant is entitled for a complete acquittal on his plea of self-defence as facts and circumstances would justify the action of the appellant."
+  ],
+  "petitioner_arguments": [
+    "The appellant during the course of his examination under Section 313 Cr.P.C., came forward with the defence case that he and his brother were attacked by the deceased and that he in exercise of the right of private defence of his person and his brother shot at the deceased."
+  ],
+  "respondent_arguments": [
+    "The prosecution has come forward with a specific case that the deceased fell down unconscious, on receipt of the gunshot injury the appellant and his brother DW 7 should have received the injuries earlier to the attack perpetrated on the deceased."
+  ],
+  "court_reasoning": [
+    "The very fact that the appellant and DW 7 have received injuries would show that they were the victims of attack at the hands of the prosecution party.",
+    "As the prosecution has come forward with a specific case that the deceased fell down unconscious, on receipt of the gunshot injury the appellant and his brother DW 7 should have received the injuries earlier to the attack perpetrated on the deceased."
+  ],
+  "holding": [
+    "The conviction under Section 302 IPC is set aside, instead convict the appellant under Section 304 Part I IPC and sentence him to undergo imprisonment for a period of five years.",
+    "The conviction under Section 27 of the Arms Act and the sentence of one year is confirmed.",
+    "Both the sentences are to run concurrently."
+  ],
+  "cases_cited": []
+}

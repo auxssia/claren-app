@@ -1,0 +1,50 @@
+{
+  "case_id": "S115",
+  "case_name": "",
+  "court": "Metropolitan Magistrate or Judicial Magistrate",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Or Section 509 Of The Indian Penal Code",
+      "section": "376E"
+    },
+    {
+      "act": "Indian Evidence Act",
+      "section": "137"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "13"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The Metropolitan Magistrate or Judicial Magistrate may record any confession or statement made to him in the course of an investigation under this Chapter or under any other law for the time being in force, or at any time afterwards before the commencement of the inquiry or trial.",
+    "The Magistrate shall explain to the person making it that he is not bound to make a confession and that, if he does so, it may be used as evidence against him; and the Magistrate shall not record any such confession unless, upon questioning the person making it, he has reason to believe that it is being made voluntarily.",
+    "If at any time before the confession is recorded, the person appearing before the Magistrate states that he is not willing to make the confession, the Magistrate shall not authorise the detention of such person in police custody.",
+    "Any such confession shall be recorded in the manner provided in section 281 for recording the examination of an accused person and shall be signed by the person making the confession;",
+    "The Magistrate shall record any statement (other than a confession) made under sub-section (1) in such manner hereinafter provided for the recording of evidence as is, in the opinion of the Magistrate, best fitted to the circumstances of the case;",
+    "In cases punishable under section 354, section 354A, section 354B, section 354C, section 354D, sub-section (7) or sub-section (2) of section 376, section 376A, section 376B, section 376C, section 376D, section 376E or section 509 of the Indian Penal Code, the Judicial Magistrate shall record the statement of the person against whom such offence has been committed in the manner prescribed in sub-section (5), as soon as the commission of the offence is brought to the notice of the police;",
+    "The Magistrate recording a confession or statement under this section shall forward it to the Magistrate by whom the case is to be inquired into or tried."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "Any confession or statement made to a Magistrate during an investigation may be recorded in writing or through audio-video electronic means.",
+    "The Magistrate must explain the voluntary nature of the confession and ensure it is being made voluntarily.",
+    "A person making a confession is not bound to do so, and any confession may be used as evidence against them.",
+    "Any statement (other than a confession) shall be recorded in such manner hereinafter provided for the recording of evidence as is, in the opinion of the Magistrate, best fitted to the circumstances of the case."
+  ],
+  "cases_cited": []
+}

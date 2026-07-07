@@ -1,0 +1,59 @@
+{
+  "case_id": "C2653",
+  "case_name": "Jatindra Nath Biswas v State of West Bengal",
+  "court": "Supreme Court of India",
+  "year": 1975,
+  "judges": [
+    "UNTWALIA, J."
+  ],
+  "bench": [],
+  "petitioner": "Jatindra Nath Biswas",
+  "respondent": "State of West Bengal\nSupreme Court of India\n\n20 March 1975\nW.P. No. 568 of 1974.\nThe Judgment was delivered by: UNTWALIA, J.\n1.  The petitioner was arrested on March 17, 1974 in pursuance of an order of detention made on June 29, 1973 by the District Magistrate, 24-Parganas, West Bengal u/s. 3(1) of the Maintenance of Internal Security Act, 1971. The petitioner by this writ application challenges his detention as illegal.\n2.  The petition was filed by the detenu from jail and was argued before us by an advocate of this court appearing amicus curiae. The relevant facts may be stated from the counter filed on behalf of the respondent.\n3.  The grounds of detention against the petitioner are two and they are these:\n(i) That on June 8, 1972 at about 01.50 hrs. you along with your associates (1) Madhab Chandra Mondal, (2) Bhupen Adhikari, (3) Biswanath Adhikari, (4) Jiban Krishna Biswas, (5) Promatha Samaddar, (6) Iman Ali Sardar, (7) Profulla Kumar Roy, (8) Jnanandra",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "3(1)"
+    },
+    {
+      "section": "395"
+    },
+    {
+      "act": "Indian Penal Code"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "20 March 1975",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner was arrested on March 17, 1974 in pursuance of an order of detention made on June 29, 1973 by the District Magistrate, 24-Parganas, West Bengal u/s. 3(1) of the Maintenance of Internal Security Act, 1971.",
+    "The grounds of detention against the petitioner are two and they are these: (i) That on June 8, 1972 at about 01.50 hrs. you along with your associates raided the house of Paresh Chandra Dutt, son of Nibaran Chandra Dutta of Simulpur, P.S. Gaighata, Distt. 24-Parganas, assaulted the inmates of the house and looted away cash, ornaments, utensils, etc., valued Rs. 8,110.",
+    "That when the villagers viz. Ranjit Kr. Ghosh, Bhadu Mondal, Jiten Mazumdar, Nirod Ch. Sarkar and others chased your and your associates, you kept them at bay by bomb outrage and managed to escape with looted properties.",
+    "Your such violent activities infused panic and terror in the mind of the peace loving people of the locality and consequently the public order of the locality was much disturbed.",
+    "(ii) That on June 10, 1972 between 01.00 hrs. to 03.00 hrs. you along with your associates raided the houses of Nimai Ch. Bala, s/o Promatha Nath Bala of Goalbathari, P.S. Gaighata, district 24 Parganas, assaulted the inmates of the house and looted away cash, wrist watch, clothings, gold ornaments, etc. valued about Rs. 540.",
+    "As a result of your such activities the people of the locality became very much panicky and peace and order of the locality was completely disturbed."
+  ],
+  "issues": [
+    "Whether the detention of the petitioner was illegal",
+    "Whether the grounds of detention were valid"
+  ],
+  "petitioner_arguments": [
+    "The acts stated in grounds No. c did not relate to the disturbance of the public order but merely concerned law and order.",
+    "The mere activity of committing dacoity with deadly weapons in the house of a single individual at the dead of night could not necessarily lead to the inference of disturbances of public order as was made out in the last portion of the ground."
+  ],
+  "respondent_arguments": [
+    "The violent activities are said to have infused panic and terror in the minds of the people of the locality.",
+    "The mere activity of committing dacoity with deadly weapons in the house of a single individual at the dead of night could not necessarily lead to the inference of disturbances of public order as was made out in the last portion of the ground."
+  ],
+  "court_reasoning": [
+    "These acts may raise problems of law and order but we find it impossible to see their impact on public order.",
+    "The two concepts have well defined contours, it being well established that stray and unorganised crime of theft and assault are not matters of public order since they do not tend to affect the even flow of public life.",
+    "Infractions of law are bound in some measure to lead to disorder but every infraction of law does not necessarily result in public disorder."
+  ],
+  "holding": [
+    "The order stands vitiated if some out of many grounds are found to have no nexus with the object of detention. For the reasons stated above, we allow this writ application, make the rule absolute and direct the release of the petitioner forthwith.",
+    "Petition allowed"
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,70 @@
+{
+  "case_id": "C1058",
+  "case_name": "Nar Singh Pal v Union of India and Others",
+  "court": "Supreme Court of India",
+  "year": 2000,
+  "judges": [
+    "S. Saghir Ahmad"
+  ],
+  "bench": [],
+  "petitioner": "Nar Singh Pal",
+  "respondent": "Union of India",
+  "citations": [
+    "1980 2 SCC 593"
+  ],
+  "statutes": [
+    {
+      "section": "324"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "6350"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "311"
+    },
+    {
+      "section": "25"
+    },
+    {
+      "section": "6"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "29 March 2000",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant, who was engaged as casual labour in October, 1982 by the Telecom Department at Agra, had worked continuously as such for more than ten years and had also acquired 'temporary' status.",
+    "The trial dragged on for many years and ultimately by judgment and order dated 27.2.1998 passed by the Chief Judicial Magistrate, Agra, he was acquitted, but in the meantime, by order dated 20.5.1992, his services were terminated against which he made a representation to the General Manager, Telecom Department, G.M.T. Office, Lucknow, on 21.7.1992.",
+    "The order of the Tribunal was challenged in a Writ Petition filed in the Delhi High Court but the High Court, by its order dated October 30, 1998, dismissed the Writ Petition."
+  ],
+  "issues": [
+    "Whether the services of the appellant could be terminated without holding a regular departmental enquiry.",
+    "Whether the termination of the appellant's services was punitive in nature and therefore required a regular departmental enquiry."
+  ],
+  "petitioner_arguments": [
+    "The order dated 20.5.1992 by which the services of the appellant were terminated reads as under:-",
+    "A perusal of the impugned order by which the services of the appellant were terminated indicates that since the appellant had beaten one Mahender Singh with iron rod and had also bitten him with teeth on 20.4.1992 at 8.00 P.M.",
+    "The reasoning of the Tribunal is fallacious."
+  ],
+  "respondent_arguments": [
+    "The respondents could either initiate departmental enquiry against the applicant for the alleged misconduct, or terminate his services by payment of retrenchment compensation, overlooking the misconduct alleged against him.",
+    "The observation of the Tribunal that the respondents had a choice either to hold a regular departmental enquiry or to terminate the services by payment of retrenchment compensation is wholly incorrect."
+  ],
+  "court_reasoning": [
+    "If an order had been passed by way of punishment and was punitive in nature, it was the duty of the respondents to hold a regular departmental enquiry and they could not have terminated the services of the appellant arbitrarily by paying him the retrenchment compensation.",
+    "The Court will find out from other proceedings or documents connected with the formal order of termination what the true ground for the termination is."
+  ],
+  "holding": [
+    "The order in the instant case, cannot be treated to be a simple order of retrenchment. It was an order passed by way of punishment and, therefore, was an order of dismissal which, having been passed without holding a regular departmental enquiry, cannot be sustained."
+  ],
+  "cases_cited": [
+    "Nar Singh Pal v Union of India",
+    "observations of Krishna Iyer, J. in Gujarat Steel Tubes Ltd. vs. Gujarat Steel Tubes Mazdoor Sabha"
+  ]
+}

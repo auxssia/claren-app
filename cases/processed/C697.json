@@ -1,0 +1,69 @@
+{
+  "case_id": "C697",
+  "case_name": "Shashikant Laxman Kale And Anr. v Union Of India And Anr.",
+  "court": "Supreme Court of India",
+  "year": 1990,
+  "judges": [
+    "J. S. Verma"
+  ],
+  "bench": [],
+  "petitioner": "Shashikant Laxman Kale And Anr",
+  "respondent": "Union Of India",
+  "citations": [
+    "1967 1 SCR 652",
+    "1979 2 SCR 476",
+    "1979 3 SCR 1014"
+  ],
+  "statutes": [
+    {
+      "act": "Industrial Disputes Act",
+      "section": "25F"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "20 July 1990",
+  "outcome": "Unknown",
+  "facts": [
+    "The petition challenges the constitutional validity of clause (10-C) inserted in s. 10 of the Indian Income-Tax Act, 1961.",
+    "Clause (10-C) provides that any payment received by an employee of a public sector company at the time of his voluntary retirement is not included in the total income of such employee.",
+    "The petitioners contend that the denial of this benefit to an employee of a private sector company amounts to an invidious distinction between public sector employees and private sector employees in the matter of taxation and is arbitrary and unintelligible amounting to hostile discrimination."
+  ],
+  "issues": [
+    "Whether there is any such hostile discrimination as alleged by the petitioners",
+    "Whether it is possible to construe the provision in the manner suggested on behalf of the petitioners to apply it equally to all employees of the public as well as private sectors"
+  ],
+  "petitioner_arguments": [
+    "The reason given for enacting clause (10-C) is that the tax benefit is given as a welfare measure",
+    "All employees whether of private or of public sector are in the same class and are entitled equally to the benefit of a welfare measure for employees",
+    "The provision must be so construed as to apply it equally to all employees of the public as well as private sectors"
+  ],
+  "respondent_arguments": [
+    "Employees of public sector constitute a distinct class for this purpose in view of the fact that the public sector undertakings have a distinct character and role in the national economy",
+    "The real object of the enactment was to streamline the public sector by reducing overstaffing at the higher level"
+  ],
+  "court_reasoning": [
+    "The principles of valid classification are long settled by a catena of decisions of this Court but their application to a given case is quite often a vexed question",
+    "The problem is more vexed in cases falling within the grey zone",
+    "The principles are that those grouped together in one class must possess a common characteristic which distinguishes them from those excluded from the group"
+  ],
+  "holding": [
+    "The provision is meant essentially for employees at the higher levels in the public sector undertakings whose economic status cannot be equated with their counterpart in the private sector",
+    "Equating the two sets of employees for the tax benefit was urged to be unjustified, there being an intelligible differentia between them"
+  ],
+  "cases_cited": [
+    "In Federation of Hotel and Restaurant Association of India v. Union of India",
+    "In Hindustan Paper Corporation Ltd. v. Government of Kerala &",
+    "Shashikant Laxman Kale And Anr. v Union Of India",
+    "Similarly, in M. Jhangir Bhatusha etc. etc. v. Union of India &",
+    "T.O. v. N. Takin Roy Rymbai",
+    "also are inapplica ble. The decision in Hindustan Antibiotics v. Workmen",
+    "has held in Kerala Hotel and Restaurant Association & Ors. v. State of Kerala &",
+    "in a recent decision. of this Court in P.H. Ashwathanarayana v. State of Karnataka",
+    "observed by this Hon' ble Court in the case of R.D. Shetry v. International Air port Authority of India",
+    "to wage fixation and is distin guishable. S.K. Dutta, I.T.O. v. Lawrence Singh Ingty",
+    "up to the legislation.' Similarly, in Pannalal Binjraj v. Union of India",
+    "was relied on. It was reiterated in State of West Bengal v. Union of India"
+  ]
+}

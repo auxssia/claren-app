@@ -1,0 +1,56 @@
+{
+  "case_id": "C958",
+  "case_name": "State of Uttar Pradesh v Bhaiya Lal Verma",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "State of Uttar Pradesh",
+  "respondent": "Bhaiya Lal Verma\nSupreme Court of India\n\n7 July 2008\nCriminal Appellate Jurisdiction Criminal Appeal No. 285 OF 2001\nThe Judgment was delivered by : Dr. Arijit Pasayat, J.\n1.  Challenge in this appeal is to the order passed by a learned Single Judge of the Allahabad High Court allowing the criminal appeal filed by the respondent (hereinafter referred to as the 'accused'). The accused was convicted by learned Special Judge (E.C. Act) Banda in Special Case No. 3 of 1985 for offence punishable under Section 5(2) of the Prevention of Corruption Act, 1947 (in short 'the Act'). He was sentenced to undergo rigorous imprisonment for two years and was directed to pay a fine of Rs.5,000/- with default stipulation. He was also convicted for offence punishable under Section 161 of the Indian Penal Code, 1860 (in short the 'IPC') and sentenced to rigorous imprisonment for two years. Both the sentences were directed to run concurrently.\nBackground facts in a nutshell are as",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "161"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "7 July 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "Sri Rajendra Singh Kushwaha, Assistant Agriculture Inspector of Rajkiya Krishi Sadhan Purti Bhandar Badokhar Buzurg, Banda moved an application before the District Magistrate, Banda confidentially on 2.4.1984 stating that Sri Bhaiya Lal Verma, the accused who was the Accountant in the office of District Agriculture Officer and Project Officer in collusion with the Project Officer (Agriculture) Sri. Lal Mani Ram was harassing him by giving threats of recovery on the basis of fictitious bills.",
+    "Sri Rajendra Singh confirmed the facts mentioned in the application moved before the District Magistrate, Banda.",
+    "The then Additional District Magistrate (F), Banda Sri J.N. Vishwakarma directed Sri. R.L. Gupta, the then Executive Magistrate and Additional S.D.M./S.D.O. Naraini Banda to record the statement of the complainant and to prepare the fard of currency notes which were to be given in the bribe and thereafter the papers were to be handed over to C.O. Sadar for laying trap.",
+    "The police party and the public witnesses heard and saw from the window that Rejendra Singh informed Bhaiya Lal Verma that he has brought Rs.150/- which he had demanded for not making recovery from him and he should accept the said amount.",
+    "On being satisfied that Bhaiya Lal has accepted bribe, the office was raided immediately and Bhaiya Lal was apprehended inside the room."
+  ],
+  "issues": [
+    "Whether the accused's acceptance of the bribe was established by evidence?",
+    "Whether the prosecution had failed to establish the accusations?"
+  ],
+  "petitioner_arguments": [
+    "The approach of the High Court was clearly erroneous.",
+    "Recovery of the money has been clearly established.",
+    "No reason has been indicated to discard the evidence of PW 3."
+  ],
+  "respondent_arguments": [
+    "The prosecution has failed to establish the accusations.",
+    "Once the recovery order has been issued, the accused could not have frustrated the recovery on any ground."
+  ],
+  "court_reasoning": [
+    "The High Court noted that in the personal search one currency note of Rs.100/- having No.AA/35 377745 and the other currency Note of Rs.50/- having No.3 DH 3555826 were recovered from him.",
+    "The High Court attached unnecessary importance to the evidence of PWs.1 & 2 to hold that they did not clearly hear the demand for bribe."
+  ],
+  "holding": [
+    "The Supreme Court allowed the appeal and set aside the acquittal order passed by the High Court, and convicted the accused."
+  ],
+  "cases_cited": []
+}

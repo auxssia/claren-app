@@ -1,0 +1,54 @@
+{
+  "case_id": "C2532",
+  "case_name": "Zala Chandubhai Hematsinh v State of Gujarat",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Zala Chandubhai Hematsinh",
+  "respondent": "State of Gujarat\nSupreme Court of India\n\n24 March 1993\nCr.A. No. 630 of 1984\nThe Order of the Court was as follows:\n1.  The appellant was tried along with three",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "34"
+    },
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code",
+      "section": "326"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "24 March 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant was tried along with three others for offences punishable under Sections 302, 326, 323 read with Section 34 of the Indian Penal Code.",
+    "It is alleged that all of them attacked one Jagatsinh Narsinh, the deceased in the case.",
+    "According to the prosecution there was a sudden confrontation and a quarrel and the appellant is said to have picked up a stone that was lying there and hurled against the deceased which unfortunately hit on the head and resulted in fracture of the skull of which the deceased died.",
+    "Witness PW 11 is a direct eyewitness. He also received injuries, therefore, his presence cannot be doubted.",
+    "The trial court convicted all the four accused but on appeal the High Court acquitted three of them but convicted the appellant under Section 302 Indian Penal Code.",
+    "A-2 convicted under Section 326 Indian Penal Code was, however, sentenced to the period already undergone.",
+    "The appellant who is sentenced to imprisonment for life is before us",
+    "We have perused the evidence of PW 11, who is an injured witness and whose presence cannot be doubted."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "It cannot be said that he intended to cause the death of the deceased and consequently clause 1stly of Section 300 IPC is not attracted.",
+    "The prosecution has to prove that he intended to cause that particular injury which unfortunately resulted into death and hurling a stone may not surely hit nor can it be said that by hurling such a stone the appellant intended to cause that particular injury which unfortunately resulted in the fracture of the skull.",
+    "So far as the intention part of it is concerned, under clause 3rdly the circumstances must subjectively prove that he intended to cause that particular injury.",
+    "By hurling such a stone he must have the knowledge that it was likely to cause death in which case it will be a case of culpable homicide."
+  ],
+  "holding": [
+    "The conviction and sentence of the accused under Section 302 IPC are set aside and instead he is convicted under Section 304, Part II, IPC and sentenced to 7 years' rigorous imprisonment.",
+    "Subject to the modification of the sentence, the appeal is dismissed."
+  ],
+  "cases_cited": []
+}

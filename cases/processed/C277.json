@@ -1,0 +1,62 @@
+{
+  "case_id": "C277",
+  "case_name": "State Of Gujarat And Another v Rameshchandra Shivratan Kosar And Another Etc",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "State Of Gujarat And Another",
+  "respondent": "Rameshchandra Shivratan Kosar And Another Etc\nSupreme Court of India\n\n28 April 2009\nCriminal Appeal Nos. 1457-1463 of 2004\nThe Judgment was delivered by : Dr. Arijit Pasayat, J.\n1.  Challenge in these appeals is to the judgment of a learned Single Judge of the Gujarat High Court allowing seven applications filed in terms of Section 482 of the Code of Criminal Procedure, 1973 (in short the 'Code'). In the applications prayer was made to quash the proceedings pending before four Judicial Magistrates and one Chief Judicial Magistrate before whom three proceedings were pending. The cases were instituted on the basis of complaints filed for alleged commission of offences punishable under Section 16 read with Section 7(1) and 7 (5) of the Prevention of Food Adulteration Act, 1954 (in short the 'Act'). It was indicated in the complaints that the Food Inspector had gone to the shop of the respondents and had obtained sample in accordance with the Prevention of Fo",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "482"
+    },
+    {
+      "act": "The Code",
+      "section": "482"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "28 April 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "The challenge in these appeals is to the judgment of a learned Single Judge of the Gujarat High Court allowing seven applications filed in terms of Section 482 of the Code of Criminal Procedure, 1973.",
+    "It was indicated in the complaints that the Food Inspector had gone to the shop of the respondents and had obtained sample in accordance with the Prevention of Food Adulteration Rules, 1955.",
+    "The samples were sent to the public analyst and the report was received showing that the food product of samples which were collected contained 'Saccharin'.",
+    "The present respondents had stored the food articles in the business premises with the intention to sell them and had actually sold the articles to the Food Inspector.",
+    "On receiving the complaints the concerned Magistrates registered the complaints and issued process.",
+    "It was the stand of the applicants that the sample did not contain any prohibited substance and the food article was not adulterated.",
+    "The stand was that the food product in respect of which the samples were collected was really a Pan Masala and, therefore, has to be construed as such.",
+    "Stand of the present appellants was that the quantum of artificial sweetener exceeded the maximum limit of artificial sweetener.",
+    "The High Court accepted the prayer on the ground that the complaint did not disclose any offence. Accordingly, the proceedings were quashed."
+  ],
+  "issues": [
+    "Whether the exercise of jurisdiction under Section 482 of the Code has been made",
+    "Whether the analysis by the public analyst was done keeping in view the requisite parameters"
+  ],
+  "petitioner_arguments": [
+    "It is not a case where Section 482 of the Code has any application.",
+    "The exercise of jurisdiction under Section 482 of the Code should not have been made.",
+    "Reference is made to the Food Analyst report on the basis of which the proceedings were initiated."
+  ],
+  "respondent_arguments": [
+    "The analysis by the public analyst was not done keeping in view the requisite parameters.",
+    "It is submitted that the norms which were applicable when the analysis were made had not been kept in view."
+  ],
+  "court_reasoning": [
+    "The exercise of power under Section 482 of the Code is clearly indefensible.",
+    "We have interfered in the matter because the scope and ambit of Section 482 of the Code had not been kept in view and not on merits."
+  ],
+  "holding": [
+    "Appeal allowed"
+  ],
+  "cases_cited": [
+    "State Of Gujarat And Another v Rameshchandra Shivratan Kosar"
+  ]
+}

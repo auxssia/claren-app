@@ -1,0 +1,54 @@
+{
+  "case_id": "C146",
+  "case_name": "Eradu and Others v State of Hyderabad",
+  "court": "Supreme Court of India",
+  "year": 1955,
+  "judges": [
+    "Natwarlal Harilal Bhagwati"
+  ],
+  "bench": [],
+  "petitioner": "Eradu and Others",
+  "respondent": "State of Hyderabad\nSupreme Court of India\n\n1 November 1955\nCr.As. Nos. 69 to 72 of 1954.\nThe Judgment was delivered by: Natwarlal Harilal Bhagwati, J.\n1.  These are Appeals with special leave against the judgment of the High Court of Hyderabad confirming the convictions and the sentences of transportation for life imposed upon the appellants, accused 1 to 4, by the Court of the Additional Sessions Judge, Medak, in respect of an offence under S. 243, A.P.C. corresponding to S. 302, Indian Penal Code.\n2.  The accused 1 to 4, along with one Baldev Muthiah, were charged that they, on or about the 15th day of Isfandar 1359 F. (15th January 1950) at 10 o'clock in the night, abducted one Muneem Lachiah, Telanga, resident of Dognelli, who was at his house, and carried him outside the village where they did him to death, due to enmity, by hitting him with stick and spear and that they took away a silver kardoda and arm kada from his body and that they thereby committed offenc",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "1 November 1955",
+  "outcome": "Unknown",
+  "facts": [
+    "These are Appeals with special leave against the judgment of the High Court of Hyderabad confirming the convictions and the sentences of transportation for life imposed upon the appellants, accused 1 to 4, by the Court of the Additional Sessions Judge, Medak...",
+    "The accused 1 to 4, along with one Baldev Muthiah, were charged that they, on or about the 15th day of Isfandar 1359 F. (15th January 1950) at 10 o'clock in the night, abducted one Muneem Lachiah, Telanga, resident of Dognelli, who was at his house, and carried him outside the village where they did him to death...",
+    "The learned Sessions Judge convicted the accused 1 to 4 of the offence under S. 243, A.P.C. and sentenced them to transportation for life.",
+    "...the High Court of Hyderabad, in appeal, agreed with the conclusion reached by the learned Sessions Judge and confirmed the conviction of the accused 1 to 4 under S. 243, A.P.C. and the sentences of transportation for life awarded to them by the Court below."
+  ],
+  "issues": [
+    "Whether the circumstantial evidence presented was sufficient to prove the guilt of the accused beyond a reasonable doubt.",
+    "Whether the motive alleged against the accused was sufficient to connect them with the crime.",
+    "Whether the recoveries made at the instance of the accused were admissible as evidence."
+  ],
+  "petitioner_arguments": [
+    "The prosecution's case rested on circumstantial evidence and there was no direct evidence of the accused having committed the offence.",
+    "The motive alleged against the accused was not sufficient to connect them with the crime.",
+    "The recoveries made at the instance of the accused were not admissible as evidence."
+  ],
+  "respondent_arguments": [
+    "The prosecution had presented a strong case based on circumstantial evidence and there was no doubt that the deceased was done to death in a brutal manner.",
+    "The motive alleged against the accused was sufficient to connect them with the crime.",
+    "The recoveries made at the instance of the accused were admissible as evidence."
+  ],
+  "court_reasoning": [
+    "Circumstantial evidence should point inevitably to the conclusion that it was the accused and the accused only who were the perpetrators of the offence and such evidence should be incompatible with the innocence of the accused.",
+    "The motive alleged against the accused was not sufficient to connect them with the crime.",
+    "The recoveries made at the instance of the accused were not admissible as evidence."
+  ],
+  "holding": [
+    "The conviction for the offence under S. 243, A.P.C. could not be sustained on the evidence as it stands on the record.",
+    "The sentences of transportation for life imposed upon the appellants, accused 1 to 4, by the Court of the Additional Sessions Judge, Medak, were set aside."
+  ],
+  "cases_cited": []
+}

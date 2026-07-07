@@ -1,0 +1,53 @@
+{
+  "case_id": "C2605",
+  "case_name": "C. Balachandran and Others v State of Kerala and Others",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "C. Balachandran and Others",
+  "respondent": "State of Kerala",
+  "citations": [
+    "1972 1 SCC 409",
+    "1979 4 SCC 507",
+    "1991 1 SCC 28",
+    "2006 4 SCC 1",
+    "2006 6 SCC 310",
+    "2007 1 SCC 575",
+    "2007 2 SCC 491",
+    "2007 5 SCC 317"
+  ],
+  "statutes": [
+    {
+      "act": "Kerala Water Supply And Sewerage Act",
+      "section": "69"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "17 December 2008",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The decision of this Court in Jacob's case 1990 Indlaw SC 458 (supra) being not applicable to the case of the appellants, we are bound by the ratio laid down in the case of Umadevi 2006 Indlaw SC 125 (supra).",
+    "No person who was temporarily or casually been employed could be directed to be continued permanently. It would be creating another mode of public employment which is not permissible.",
+    "The appellants, in our opinion, thus, neither in law nor in equity were entitled to be reinstated in service."
+  ],
+  "cases_cited": [
+    "C. Balachandran and Others v State of Kerala",
+    "In the case of Punjab Water Supply & Sewerage Board vs. Ranjodh Singh &",
+    "See Mineral Exploration Corpn. Employees' Union vs. Mineral Exploration Corpn",
+    "State of M.P. & Ors. vs. Lalit Kumar Verma",
+    "and Postmaster General, Kolkata & Others vs. Tutu Das (Dutta",
+    "not illegal appointments) as explained in State of Mysore v. S.V",
+    "of Supreme Court. The Supreme Court Judgment in Jacob Vs. K.W",
+    "this Court in the case of Jacob M. Puthuparambil & Ors. etc. v. Kerala Water Authority &"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "case_id": "C1345",
+  "case_name": "R. Chitralekha and Another v State of Mysore and Others",
+  "court": "Supreme Court of India",
+  "year": 1964,
+  "judges": [
+    "K. Subbarao"
+  ],
+  "bench": [],
+  "petitioner": "R. Chitralekha and Another",
+  "respondent": "State of Mysore",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "11(1)"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "13"
+    },
+    {
+      "section": "23(B)"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "29 January 1964",
+  "outcome": "Unknown",
+  "facts": [
+    "in the State of Mysore there are a number of Engineering and Medical Colleges-most of them are Government Colleges and a few of them are Government aided Colleges.",
+    "The State Government appointed a common selection committee for settling admissions to the Engineering Colleges and another common selection committee for settling admissions to Medical Colleges.",
+    "The Government by an order dated July 26, 1963, marked as Ex. C in the High Court, defined backward classes and directed that 30 per cent of the seats in professional and technical colleges and institutions shall be reserved for them and 18 per cent. to the Scheduled Castes and the Scheduled Tribes.",
+    "On July 6, 1963, the Government sent a letter to the Director of Technical Education in Mysore, Bangalore, informing him that it had been decided that 25 per cent of the maximum marks for the examination in the optional subjects taken into account for making the selection of candidates for admission to Engineering Colleges shall be fixed as interview marks; it also laid down the criteria for allotting marks in the interview.",
+    "It appears that a similar order was issued in respect of Medical Colleges.",
+    "The selection committee converted the total of the marks in the optional subjects to a maximum of 300 marks and fixed the maximum marks for interview at 75.",
+    "On the basis of the marks obtained by the candidates in the examination and those -obtained in the interview, selections were made for admission to Engineering and Medical Colleges.",
+    "Some of the candidates whose applications for admission to the said colleges were rejected filed petitions under Art. 226 of the Constitution in the High Court of Mysore for quashing the orders issued by the Government in the matter of admissions to the said Colleges and for a direction that they shall be admitted in the Colleges strictly in the order of merit.",
+    "The High Court, after considering the various contentions raised by the petitioners, held that the orders defining backwardness were valid and that the criteria laid down for interview of students were good; but it held that -the selection committee had abused the powers conferred upon it and on that finding set aside the interviews held and directed that the applicants shall be interviewed afresh in accordance with the scheme laid down by the Government in Exs. C and D and in Annexure IV, subject to the directions given by it.",
+    "Two of the petitioners have filed the present appeals against the said order of the High Court."
+  ],
+  "issues": [
+    "The validity, of the orders made by the Government of Mysore in respect of admissions to Engineering and Medical Colleges in the State of Mysore.",
+    "Whether the selection committee had abused the powers conferred upon it."
+  ],
+  "petitioner_arguments": [
+    "The Government did not issue any order to the selection committee in charge of admissions to Medical Colleges prescribing the marks for interview or fixing the criteria for allotting the said marks.",
+    "Annexure IV was invalid as it did not conform to the requirements of Art. 166 of the Constitution."
+  ],
+  "respondent_arguments": [
+    "The Government sent a letter similar in terms, to annexure IV to the selection committee for admission to Medical Colleges.",
+    "Provisions of Art. 166 of the Constitution are only directory and not mandatory in character and, if they are not complied with, it can be established as a question of fact that the impugned order was issued in fact by the State Government or the Governor."
+  ],
+  "court_reasoning": [
+    "Strict compliance with the requirements of art. 166 gives an immunity to the order in that it cannot be challenged on the ground that it is not an order made by the Governor.",
+    "If, therefore, the requirements of that article are not complied with, the resulting immunity cannot be claimed by the State.",
+    "This view has been reaffirmed by this Court in subsequent decisions: see Ghaio Mall and Sons v. The State of Delhi [1959] S.C.R. 1424 1958 Indlaw SC 76,"
+  ],
+  "holding": [
+    "We, therefore, hold that the Government sent a letter similar in terms, to annexure IV to the selection committee for admission to Medical Colleges.",
+    "The order cannot be called in question on the ground that it is not an order made by the Governor."
+  ],
+  "cases_cited": [
+    "Court. The first of them is Dattatraya Moreshwar Pangarkar v. The",
+    "In Dattatreya Moreshwar Pangarkar v. The",
+    "In Gujrat University v. ShriKrishna",
+    "R. Chitralekha and Another v State of Mysore",
+    "The State of Bombay v. Purshottam Jog Naik",
+    "and Ghaio Mail and Sons v. The",
+    "and this Court has held in Rai Sahib Ram Jawaya Kapur & Ors. v. The",
+    "by two learned Judges of the Allahabad High Court in Motilal v. The Government of",
+    "in J. K. Gas Plant Manufacturing Co. (Rampur) Ltd., and Ors. v. The King Emperor",
+    "other hand is supported by that taken in the State of Punjab v. Sodhi Sukhdev Singh",
+    "placed upon the judgment of this Court in Gujarat University v. Shri Krishna",
+    "relied upon the decision of this Court in M. R. Balaji v. The",
+    "same view was reiterated by this Court in The State of Bombay v. Purshottam Jog Naik",
+    "see Ghaio Mall and Sons v. The",
+    "the Governor. The judgment of this Court in Bachhittar Singh v. The",
+    "thus prime facie not the Governors Order. In Bachittar Singh v. The"
+  ]
+}

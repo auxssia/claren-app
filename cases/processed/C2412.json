@@ -1,0 +1,75 @@
+{
+  "case_id": "C2412",
+  "case_name": "State Of Maharashtra v Veerappa R. Saboji And Anr.",
+  "court": "Supreme Court of India",
+  "year": 1979,
+  "judges": [
+    "Hon'ble Justice Untwalia N. L.",
+    "Hon'ble Justice Pathak R. S."
+  ],
+  "bench": [],
+  "petitioner": "State Of Maharashtra",
+  "respondent": "Veerappa R. Saboji",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "16"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "6 September 1979",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal by special leave has been preferred by the State of Maharashtra from the judgment of the Bombay High Court given in a Writ Petition filed by respondent no.1 for quashing the order of termination of his service.",
+    "Respondent No.1 was appointed a Civil Judge (Junior Division) and Judicial Magistrate, First Class, on probation in accordance with the Bombay Judicial Service Recruitment Rules, 1956-hereinafter referred to as the Rules.",
+    "In paragraph 3 of the appointment letter dated 31st October, 1960 it was clearly stated: 'You will be on probation for a period of two years from the date on which you take charge of your appointment, and during this period your appointment is liable to be terminated without notice.'",
+    "Respondent No.1 pursuant to the said letter of appointment joined the Judicial Service, Class II, in the State of Maharashtra on the 7th December, 1960.",
+    "The two years' probationary period originally fixed expired on 6th December, 1962 even so he was allowed to continue in the post only in an officiating capacity and was not confirmed.",
+    "His services were terminated by a simple order of termination dated the 15th December, 1971 which ran as follows: 'The Government is pleased to terminate the services of Shri V. R. Saboji, Officiating Civil Judge (Junior Division) and Judicial Magistrate, First Class, Kalamnuri, District Parbhani with effect from 1st February, 1972.'",
+    "A copy of the above order was forwarded to and served upon the first respondent alongwith a covering letter of that date expressly stating therein: 'Your appointment is still temporary and your services are liable to be terminated on one month's notice.'"
+  ],
+  "issues": [
+    "Whether the order terminating the services of respondent No.1 was passed as by way of punishment which amounts, in fact, to dismissal and since the provisions of Art. 311(2) have not been complied with, the order is void.",
+    "Whether the petitioner has been purposefully picked for discharge when many of his juniors were allowed to be retained.",
+    "Whether the order has been passed mala fide with a view to circumvent the provisions of Art. 311 of the Constitution.",
+    "Whether the petitioner had, in fact, at the time of termination of his services become permanent employee in accordance with Rule 4(2)(iv) of the Bombay Judicial Service Recruitment Rules, 1956;",
+    "Whether the order is bad as it is passed in violation of the provisions of Art. 235 of the Constitution."
+  ],
+  "petitioner_arguments": [
+    "The order terminating his services simpliciter was by way of punishment.",
+    "He had become a confirmed Government servant and the order terminating his services was violative of Art. 16 of the Constitution.",
+    "The appointment of respondent No.1, therefore, could not be terminated by a simple notice of termination and it was passed by way of punishment in violation of Art. 311(2) of the Constitution."
+  ],
+  "respondent_arguments": [
+    "The appointment of respondent No.1 was temporary and his services were liable to be terminated on one month's notice.",
+    "He had not been confirmed as a permanent employee and therefore, the order terminating his services was valid."
+  ],
+  "court_reasoning": [
+    "The plain meaning of the rule is that there is no automatic confirmation on the expiry of the probationary period of two years in the first instance.",
+    "On the expiry of the said period and on the fulfillment of the requirement of sub-clauses (a) & (b) a Government servant becomes eligible for being confirmed and normally he is likely to be confirmed.",
+    "The expression 'unless otherwise expressly directed' governs only the first part of cl. (iv) and not the second as was attempted to be argued by Mr. Nariman.",
+    "It is not covered by the exceptional rule like the one which was the subject matter of consideration of this Court in State of Punjab v. Dharam Singh(1).",
+    "The law on the point is now well settled. Where a person is appointed as a probationer in any post and a period of probation is specified, it does not follow that at the end of the said specified period of probation he obtains confirmation automatically even if no order is passed in that behalf."
+  ],
+  "holding": [
+    "The High Court did not hear the counsel on either side on the point of mala fides and they also agreed not to advance any argument on that point, as mentioned in the High Court judgment.",
+    "Before us also, except in passing, no argument of any substance was advanced to press the point of mala fides.",
+    "The correctness of the decision of the High Court was assailed before us by Mr. M. N. Phadke, appearing for the appellant, while it was sought to be sustained by Mr. F. S. Nariman appearing for respondent No.1."
+  ],
+  "cases_cited": [
+    "And it proceeded to quote from Shamsher Singh & Anr. v. State of Punjab",
+    "Dhaba and R. S. Sial v. The",
+    "In Kedar Nath Bahl v. The",
+    "In S. P. Vasudeva v. State of Haryana &",
+    "State Of Maharashtra v Veerappa R",
+    "The Government is pleased to terminate the services of Shri V. R. Saboji",
+    "Trivedi (supra) to the decisions in Union of India & Ors. v. R. S",
+    "decision of this Court in S. B. Patwardhan & others etc. etc. v. State of Maharashtra &",
+    "detracts from what this Court has laid down in State of U.P. v. Ram Chandra Trivadi",
+    "one by way of punishment. It is true that in S. P. Vasudeva v. State of Haryana &",
+    "upon for the respondent is Manager Govt. Branch Press & Anr. v. D. P"
+  ]
+}

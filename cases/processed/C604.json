@@ -1,0 +1,68 @@
+{
+  "case_id": "C604",
+  "case_name": "State of Haryana v Pala and Others",
+  "court": "Supreme Court of India",
+  "year": 1996,
+  "judges": [],
+  "bench": [],
+  "petitioner": "State of Haryana",
+  "respondent": "Pala",
+  "citations": [
+    "1976 4 SCC 382"
+  ],
+  "statutes": [
+    {
+      "section": "2"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "304"
+    },
+    {
+      "section": "300"
+    },
+    {
+      "section": "299"
+    },
+    {
+      "section": "326"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "29 January 1996",
+  "outcome": "Unknown",
+  "facts": [
+    "The facts are that in the evening of December 6, 1989, the deceased Rati Ram, who was Lambardar of the village, had gone on stroll outside the village.",
+    "While he was coming at about 8.30 p.m., the appellants emerged from their house and each of them having been armed with massals, A-1 had attacked the deceased when he came in front of their house, on the head and hit him three times on different parts.",
+    "When the deceased had fallen, A-2 again beaten him thrice on chest, abdomen and other parts of the body."
+  ],
+  "issues": [
+    "Whether the accused had intention to cause death",
+    "Whether the injuries were sufficient in the ordinary course of nature to cause death"
+  ],
+  "petitioner_arguments": [
+    "The respondents had no intention to cause the death",
+    "Septicaemia is not the primary cause and the death was due to injuries caused to the deceased"
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "When the accused emerged from their house and beat with deadly weapon on the head and other parts of the body and death occurred as a result of the injuries, it must be inferred that the attack on vital parts of the body was intended to be caused with an intention to cause death.",
+    "The facts as narrated above would establish that both the accused shared common intention to kill the deceased and are liable to conviction u/s. 302 read S. 34 IPC."
+  ],
+  "holding": [
+    "The appeal is, therefore, allowed.",
+    "The judgment of the High Court is set aside and the accused stand convicted u/s. 302 read with S. 34 IPC.",
+    "They are accordingly directed, as held by the trial court, to undergo the imprisonment for life."
+  ],
+  "cases_cited": [
+    "State of Haryana v Pala",
+    "he relies upon the judgment of this Court in State of A.P. vs. Rayavarapu Punnayya"
+  ]
+}

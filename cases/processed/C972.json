@@ -1,0 +1,74 @@
+{
+  "case_id": "C972",
+  "case_name": "Kripal and Others v State of Uttar Pradesh",
+  "court": "Supreme Court of India",
+  "year": 1954,
+  "judges": [
+    "JAGANNADHADAS"
+  ],
+  "bench": [],
+  "petitioner": "Kripal and Others",
+  "respondent": "State of Uttar Pradesh\nSupreme Court of India\n\n25 February 1954\nCr.A. Nos. 37 and 77 of 1953\nThe Judgment was delivered by: JAGANNADHADAS\n1.  These two appeals are against a judgment of the High Court of Allahabad dated 8th May, 1953, and arise out of a trial before the Sessions Judge of Muzaffarnagar of the three appellants herein along with ten",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "148"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "304"
+    },
+    {
+      "section": "323"
+    },
+    {
+      "section": "34"
+    },
+    {
+      "section": "162"
+    },
+    {
+      "section": "326"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "25 February 1954",
+  "outcome": "Unknown",
+  "facts": [
+    "The Sessions Judge acquitted ten persons of all charges.",
+    "The three appellants were convicted under section 304 (1) and sentenced to five years rigorous imprisonment and a fine of Rs. 100.",
+    "The State filed an appeal against the acquittal of the three appellants under section 302, I.P.C.",
+    "The two incidents at Milakwala well and Dhakolas resulted in the death of Jiraj and Indraj, respectively.",
+    "The prosecution treated both incidents as forming one transaction and placed all 13 accused on joint trial.",
+    "The Sessions Judge acquitted ten persons who concerned solely with the incident at Dhakolas."
+  ],
+  "issues": [
+    "Whether the two incidents were separate or part of a single transaction?",
+    "Whether the appellants acted in self-defence or committed murder?",
+    "Whether the prosecution evidence was reliable and sufficient to support the conviction?"
+  ],
+  "petitioner_arguments": [
+    "The defence argued that there was only one incident at Milakwala well, and the two brothers died as a result of accidental hits from their own group.",
+    "The appellants claimed they were acting in self-defence against an aggressive attack by the prosecution party."
+  ],
+  "respondent_arguments": [
+    "The prosecution argued that there were two separate incidents, one at each location, and that the appellants committed murder.",
+    "The State appealed against the acquittal of the three appellants under section 302, I.P.C."
+  ],
+  "court_reasoning": [
+    "The court accepted the prosecution evidence as reliable and sufficient to support the conviction.",
+    "The court rejected the defence's argument that there was only one incident at Milakwala well."
+  ],
+  "holding": [
+    "The court upheld the convictions of the three appellants under section 304 (1) and sentenced them to five years rigorous imprisonment and a fine of Rs. 100.",
+    "The State's appeal against the acquittal of the three appellants under section 302, I.P.C. was allowed."
+  ],
+  "cases_cited": []
+}

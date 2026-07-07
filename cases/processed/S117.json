@@ -1,0 +1,34 @@
+{
+  "case_id": "S117",
+  "case_name": "Punishment for dacoity",
+  "court": "None",
+  "year": 1955,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "117"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "Punishment for dacoity"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "imprisonment for life",
+    "rigorous imprisonment for a term which may extend to ten years",
+    "liable to fine"
+  ],
+  "cases_cited": []
+}

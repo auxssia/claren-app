@@ -1,0 +1,71 @@
+{
+  "case_id": "C886",
+  "case_name": "Messrs Veena Theatre, Patna v State of Bihar",
+  "court": "Supreme Court of India",
+  "year": 1970,
+  "judges": [
+    "HEGDE"
+  ],
+  "bench": [],
+  "petitioner": "Messrs Veena Theatre, Patna",
+  "respondent": "State of Bihar\nSupreme Court of India\n\n23 April 1970\nC.A. No. 1337 of 1967.\nThe Judgment was delivered by: HEGDE, J.\n1. For the This appeal by certificate u/art. 133(1)(a) of the Constitution arises from the decision of the High Court of Judicature of Patna dismissing the appellant's writ petition u/art. 226 and 227 of the Constitution. In that writ petition, the appellant asked the High Court to quash the entertainment tax of Rs. 67, 500 levied on it for the period from April 1, 1959 to September 30, 1959. The High Court rejected that prayer.\n2. The appellant is the owner of 'Veena Cinema' in the town of Patna. As required by the provisions of the Bihar Entertainment Tax Act, 1948 (Bihar Act XXXV of 1948),  and the rules framed thereunder, for the period April 1, 1959 to September 30, 1959, the appellant submitted a return showing a tax liability of Rs. 36, 860. It deposited that amount. But the Additional Superintendent, Commercial Taxes, Patna, rejected",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "21"
+    },
+    {
+      "section": "21(1)"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "23 April 1970",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant asked the High Court to quash the entertainment tax of Rs. 67,500 levied on it for the period from April 1, 1959 to September 30, 1959.",
+    "The appellant submitted a return showing a tax liability of Rs. 36,860 and deposited that amount.",
+    "But the Additional Superintendent, Commercial Taxes, Patna, rejected its return and assessed it on the basis of best judgment and levied a tax of Rs. 67,500 on it for the period in question.",
+    "All the authorities under the Act have concurrently come to the conclusion that the account-books produced by the appellant were entirely unreliable; that it had maintained duplicate sets of tickets and that it suppressed the sale of tickets.",
+    "The return submitted by the appellant was rejected by the authorities on the grounds that the books of account produced by the appellant were entirely unreliable; that the appellant had maintained duplicate sets of tickets and had suppressed the sale of the tickets.",
+    "S. 9 of the Act deals with submission of returns and payment and recovery of entertainments.",
+    "The main purpose of the Act is to levy and collect entertainment tax.",
+    "Rule 28 reads: '(1) If the Superintendent or Assistant Superintendent is satisfied without requiring the presence of the proprietor or production by him of any evidence that the return furnished in respect of any period is correct and complete, he shall assess the amount of tax due from the proprietor on the basis of such return.'",
+    "The contention that Rule 28 is repugnant to S. 9(2) of the Act overlooks the fact that the assessee must satisfy that the return made by him is a correct one.",
+    "There is no substance in the contention that rule 28 is repugnant to S. 9(2) of the Act.",
+    "The Assistant Superintendent of Commercial Taxes had computed the tax liability of the assessee on relevant grounds.",
+    "Dealing with that aspect of the case this is what that officer says in his order: 'The Veena Cinema has a capacity so as to yield a tax of nearly 500 per show, if the house goes full.'",
+    "The facts mentioned above are cogent and relevant in the matter of computing the probable receipts by sale of cinema tickets."
+  ],
+  "issues": [
+    "Rule 28(4) is beyond the rule-making power conferred on the State Government u/s. 21 of the Act.",
+    "No power is given either under the provisions of the Act or under the rules to assess on the basis of best judgment.",
+    "Rule 28 is repugnant to S. 9(2) of the Act.",
+    "The assessing authority had arbitrarily fixed the assessee's receipts."
+  ],
+  "petitioner_arguments": [
+    "The contention that Rule 28 which empowers the taxing authorities to determine the tax liability is ultra vires, S. 21 of the Act.",
+    "No power is given either under the provisions of the Act or under the rules to assess on the basis of best judgment.",
+    "Rule 28 is repugnant to S. 9(2) of the Act.",
+    "The assessing authority had arbitrarily fixed the assessee's receipts."
+  ],
+  "respondent_arguments": [
+    "There is no substance in the contention that rule 28 is repugnant to S. 9(2) of the Act.",
+    "The Assistant Superintendent of Commercial Taxes had computed the tax liability of the assessee on relevant grounds.",
+    "The facts mentioned above are cogent and relevant in the matter of computing the probable receipts by sale of cinema tickets."
+  ],
+  "court_reasoning": [
+    "In view of those findings, it cannot be denied that the taxing authorities were justified in rejecting the return submitted by the appellant.",
+    "Hence we reject the contention that Rule 28(4) which empowers the taxing authorities to determine the tax liability is ultra vires, S. 21 of the Act.",
+    "The mode and the manner in which that liability is to be determined can be provided under the rules.",
+    "In view of sub-rule (4) of Rule 28, the Superintendent or Assistant Superintendent, as the case may be, is competent to make an assessment on the basis of best judgment.",
+    "If the return made by the assessee is rejected on a relevant ground, such a return cannot be considered as a good return under sub-rule (1) of Rule 28.",
+    "The provisions relating to the imposition of penalty found in S. 9(2) are not inconsistent with or repugnant to the provisions contained in Rule 28.",
+    "Rule 28 deals with assessment whereas sub-s. (2) of S. 9 deals with imposition of penalty."
+  ],
+  "holding": [
+    "This appeal fails and the same is dismissed with costs."
+  ],
+  "cases_cited": []
+}

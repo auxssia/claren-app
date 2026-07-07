@@ -1,0 +1,54 @@
+{
+  "case_id": "C997",
+  "case_name": "State of Kerala v Sasi",
+  "court": "Supreme Court of India",
+  "year": 1996,
+  "judges": [],
+  "bench": [],
+  "petitioner": "State of Kerala",
+  "respondent": "Sasi\nSupreme Court of India\n\n31 October 1996\nCr.A. No. 397 of 1996\nThe Order of the Court was as follows:\n1.  On 2.11.1990 at about 4.15 p.m., the respondent gave blows to the deceased Kunhuvareed on his head with a bamboo stick. Those blows resulted in fracture of the skull and multiple lacerated wounds on the head with resultant damage to the brain. The deceased died in the hospital on 13.11.1990 at about 3.25 a.m. Case was registered and investigation taken in hand. After completion of the investigation, the respondent was committed to stand trial to the Court of Sessions for an offence u/s. 302 IPC. The prosecution examined 20 witnesses including PWs 15, 16 & 17 -the three medical witnesses, and PWs. 1, 2 & 3 as the eye-witnesses. At the trial, however, PW1 & PW2 turned hostile, after admitting the occurrence to have taken place on the date and at the time alleged by the prosecution. The learned Trial Court, after appreciation of evidence and considering the defen",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "326"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "31 October 1996",
+  "outcome": "Unknown",
+  "facts": [
+    "On 2.11.1990 at about 4.15 p.m., the respondent gave blows to the deceased Kunhuvareed on his head with a bamboo stick.",
+    "Those blows resulted in fracture of the skull and multiple lacerated wounds on the head with resultant damage to the brain.",
+    "The deceased died in the hospital on 13.11.1990 at about 3.25 a.m.",
+    "Case was registered and investigation taken in hand.",
+    "After completion of the investigation, the respondent was committed to stand trial to the Court of Sessions for an offence u/s. 302 IPC."
+  ],
+  "issues": [
+    "The nature of the offence"
+  ],
+  "petitioner_arguments": [
+    "The evidence on the record has established that the respondent gave three blows on the head of the deceased and those blows were intentional and not accidental.",
+    "The attack was premeditated on a vital part of the body."
+  ],
+  "respondent_arguments": [
+    "The High Court opined: 'On the evidence, there is no doubt the accused had caused grievous injuries upon the deceased, with MO1.'"
+  ],
+  "court_reasoning": [
+    "According to the medical opinion, the injuries suffered by the deceased were sufficient in the ordinary course of nature to cause death.",
+    "The evidence on the record has established that the respondent gave three blows on the head of the deceased and those blows were intentional and not accidental.",
+    "The attack was premeditated on a vital part of the body."
+  ],
+  "holding": [
+    "We, therefore, set aside the findings of the High Court as regards the nature of the offence and hold that the respondent is guilty of an offence of murder punishable u/s. 302 IPC",
+    "Consequently allowing this appeal we restore the judgment of the trial court in that behalf and sentence the respondent to undergo imprisonment for life."
+  ],
+  "cases_cited": []
+}

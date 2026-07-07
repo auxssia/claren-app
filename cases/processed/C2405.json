@@ -1,0 +1,63 @@
+{
+  "case_id": "C2405",
+  "case_name": "Munna Chanda v State Of Assam",
+  "court": "Supreme Court of India",
+  "year": 2006,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "Munna Chanda",
+  "respondent": "State Of Assam\nSupreme Court of India\n\n24 February 2006\nAppeal (crl.) 49 of 2005 With \nCriminal Appeal Nos. 840/2005, 841/2005, 842/2005 and 251/2005.\nThe Judgment was delivered by : S. B. Sinha, J.\n1.  The appellants were charged for commission of an offence under Section 302 of the Indian Penal Code for intentionally causing death of one Moti Suklabaidya. 3.10.1995 was the 'NAVMI'. The deceased went to join 'Durga Puja' festival along with Sushendra Chandra-PW3 and Babul Chanda. They met with one Tapan Chanda near Chandranathpur Railway Station. The latter informed them that Tunu Chanda and Montu Chanda had assaulted him in front of a jewellery shop belonging to Makhan Chanda- PW2. Gauaranga s/o Makhan Chanda-PW2 in the meantime came and informed his father that the said Tunu Chanda and Montu Chanda had quarrelled and broke a glass pane of his showroom. Makhan Lal-PW 2 immediately came to the Bazar. He found his younger brother Sushendra- PW3, Babul Chanda and deceased",
+  "citations": [
+    "1978 4 SCC 440",
+    "AIR 1982 SC 1228"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code",
+      "section": "149"
+    },
+    {
+      "act": "Nor Section 149 Of The Indian Penal Code",
+      "section": "34"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "24 February 2006",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants were charged for commission of an offence under Section 302 of the Indian Penal Code for intentionally causing death of one Moti Suklabaidya.",
+    "Moti Suklabaidya went to join 'Durga Puja' festival along with Sushendra Chandra-PW3 and Babul Chanda.",
+    "The deceased was chased by the appellants and others, and he was found dead next morning."
+  ],
+  "issues": [
+    "Whether the accused had a common object of intentional killing of the deceased",
+    "Whether the prosecution proved that the person sought to be charged with an offence with the aid of Section 149 was a member of the unlawful assembly at the time the offence was committed"
+  ],
+  "petitioner_arguments": [
+    "The appellants argued that there was no direct evidence in regard to the role played by any of the appellants in causing the death of Moti (deceased).",
+    "They argued that the finding of guilt of the appellants was arrived at only on the basis of two circumstantial evidence that they had chased the deceased and they had prepared and forced the prosecution witnesses to sign a sulhanama wherein a statement was made that they would not file any complaint against the accused."
+  ],
+  "respondent_arguments": [
+    "The respondent argued that the concept of common object is different from common intention.",
+    "They argued that it is essential to prove that the person sought to be charged with an offence with the aid of Section 149 was a member of the unlawful assembly at the time the offence was committed."
+  ],
+  "court_reasoning": [
+    "The court held that there was no evidence as to who had assaulted Moti (deceased).",
+    "They held that the role played by the accused either conjointly or individually in causing death of the deceased is not known.",
+    "They held that some offence was committed, but who did so is not known."
+  ],
+  "holding": [
+    "The court acquitted the appellants due to lack of evidence and circumstantial evidence only."
+  ],
+  "cases_cited": [
+    "Bhiswadeb Mahato & Ors. v. State of West Bengal"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "case_id": "S134",
+  "case_name": "",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "320"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The Food Safety and Standards Authority of India has been established under the Food Safety and Standards Act, 2006. The authority is responsible for ensuring that food sold in India meets certain standards of quality and safety.",
+    "The Food Safety and Standards Authority of India has been given powers to inspect food establishments and take samples of food products for testing. The authority can also issue orders to food establishments to stop the sale of a particular product if it does not meet the required standards.",
+    "The Food Safety and Standards Act, 2006 provides for penalties for non-compliance with its provisions. The act also provides for the establishment of a food court to hear appeals against orders issued by the authority."
+  ],
+  "issues": [
+    "[]"
+  ],
+  "petitioner_arguments": [
+    "[]"
+  ],
+  "respondent_arguments": [
+    "[]"
+  ],
+  "court_reasoning": [
+    "[]"
+  ],
+  "holding": [
+    "[]"
+  ],
+  "cases_cited": []
+}

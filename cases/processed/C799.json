@@ -1,0 +1,76 @@
+{
+  "case_id": "C799",
+  "case_name": "Lachman Singh v State of Haryana",
+  "court": "Supreme Court of India",
+  "year": 2006,
+  "judges": [
+    "Arijit Pasayat, J."
+  ],
+  "bench": [],
+  "petitioner": "Lachman Singh",
+  "respondent": "State of Haryana\nSupreme Court of India\n\n28 July 2006\nAppeal (crl.) 349 of 2005\nThe Judgment was delivered by : Arijit Pasayat, J.\n1.  These appeals have been filed by Lachman Singh, Dev Singh and Randhir Singh (accused numbers 1, 2 and 3 respectively) who faced trial for alleged commission of offences punishable under Sections 302 read with Section 34 of the Indian Penal Code, 1860 (in short 'IPC'). Additionally, Dev Singh was tried for alleged commission of offence punishable under Section 307 IPC, while other two were charged for alleged commission of offence punishable under Section 307 read with Section 34 IPC. While accused Lachman Singh was convicted for offence punishable under Section 302 IPC and was sentenced to imprisonment for life and to pay a fine of Rs.2,000/- with default stipulation, Dev Singh and Randhir Singh were convicted under Section 302 read with Section 34 IPC. Similarly, accused Dev Singh was found guilty for offence punishable under Section 30",
+  "citations": [
+    "AIR 1965 SC 843"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "34"
+    },
+    {
+      "act": "Arms Act",
+      "section": "27"
+    },
+    {
+      "act": "Ipc Covers Act",
+      "section": "300"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "28 July 2006",
+  "outcome": "Unknown",
+  "facts": [
+    "The appeals have been filed by Lachman Singh, Dev Singh and Randhir Singh who faced trial for alleged commission of offences punishable under Sections 302 read with Section 34 of the Indian Penal Code, 1860.",
+    "Lachman Singh was convicted for offence punishable under Section 302 IPC and was sentenced to imprisonment for life and to pay a fine of Rs.2,000/- with default stipulation.",
+    "Dev Singh was tried for alleged commission of offence punishable under Section 307 IPC, while other two were charged for alleged commission of offence punishable under Section 307 read with Section 34 IPC.",
+    "The conviction as recorded and sentenced as imposed were challenged in Crl. Appeal No.206-DB of 1996 before the Punjab and Haryana High Court."
+  ],
+  "issues": [
+    "No motive established",
+    "Motive of sudden quarrel",
+    "Medical evidence runs contrary to the version of the alleged eye-witnesses",
+    "Bullets seized did not match with the seized gun",
+    "Doubt about the time of incident"
+  ],
+  "petitioner_arguments": [
+    "There was no motive established",
+    "In any event, the medical evidence runs contrary to the version of the alleged eye-witnesses",
+    "The bullets seized did not match with the seized gun and could not have been fired from the revolver as is evident from the materials on record.",
+    "There is doubt about the time of incident and the evidence of Jai Singh (PW-5) who claimed to be an eye-witness is falsified by the fact that contrary to what he has stated the so-called injured eye-witnesses stated that the injured persons were taken to the hospital by one Kulwant Singh and not by Jai Singh.",
+    "The occurrence took place in course of a sudden quarrel and, therefore, Section 302 IPC has no application",
+    "The ingredients of Section 307 IPC are also absent"
+  ],
+  "respondent_arguments": [
+    "Merely because of some minor discrepancies in the testimony, the evidence of injured eye- witnesses could not be discarded, and has been rightly relied upon by the Trial Court.",
+    "There is no discrepancy of any vital nature which will affect credibility of the witnesses",
+    "The trial Court and High Court have dealt with this aspect in great details",
+    "Recovery of the gun was made on being pointed out by the accused"
+  ],
+  "court_reasoning": [
+    "The evidence of the witnesses, more particularly, injured witnesses has been carefully analysed by the Trial Court and the High Court.",
+    "There is no discrepancy of any vital nature which will affect credibility of the witnesses",
+    "Some minor discrepancies are noticed but that does not in any way dilute the otherwise cogent evidence of injured witnesses about the role played by two of the accused persons i.e. Lachhman Singh and Dev Singh.",
+    "The trial Court and High Court have dealt with this aspect in great details",
+    "To draw a red herring he pointed out to a different gun, so that the plea as presently urged can be taken"
+  ],
+  "holding": [
+    "Criminal Appeal No.350 of 2005 is allowed",
+    "The conviction so far as Randhir Singh is concerned cannot be sustained"
+  ],
+  "cases_cited": [
+    "Girija Shankar v. State of U",
+    "The above position was highlighted in State of Maharashtra v. Balram Bama Patil"
+  ]
+}

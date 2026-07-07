@@ -1,0 +1,60 @@
+{
+  "case_id": "C519",
+  "case_name": "M.G. Metal Industries v Government of India",
+  "court": "Supreme Court of India",
+  "year": 1992,
+  "judges": [],
+  "bench": [],
+  "petitioner": "M.G. Metal Industries",
+  "respondent": "Government of India\nSupreme Court of India\n\n11 August 1992\nC.A. Nos. 1290 of 1986 with 4416-20 of 1988, 4421-27 of 1988, 1816-24 of 1986, 1809-15 of 1986 and 2029-61 of 1986\nThe Order of the Court was as follows:\n1.  This is batch of appeals under the Customs Act. The question is whether the goods imported by the appellants are \"strips\" or \"sheets\". The Assistant Collector, the Collector of Customs and on revision the Central Government took the view that the imported goods were \"sheets\". The orders, particularly the order in revision, are reasoned orders in which detailed findings have been given as to why this conclusion was arrived at.\n2.  The petitioners filed writ petitions which were allowed by the learned Single Judge of the High Court. He came to the conclusion that the appellant's contention that the goods imported were \"strips\" should have been accepted. In some of the cases the applications for refund filed by the appellants were out of time according",
+  "citations": [
+    "1986 WITH 4416"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "136"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 226",
+  "court_level": "Supreme Court",
+  "decision_date": "11 August 1992",
+  "outcome": "Unknown",
+  "facts": [
+    "This is batch of appeals under the Customs Act. The question is whether the goods imported by the appellants are 'strips' or 'sheets'.",
+    "The petitioners filed writ petitions which were allowed by the learned Single Judge of the High Court.",
+    "However, the learned Single Judge took the view that this plea of limitation cannot stand in the way of relief being granted under Article 226 or 227 of the Constitution.",
+    "The Department preferred writ appeals. The Division Bench came to the conclusion that the original assessments were correctly made and in this view of the matter expressed no opinion on the point of limitation which had been decided by the learned Single Judge in favour of the appellants.",
+    "Learned Counsel for the appellants took us through the various orders and judgments.",
+    "On the other hand, Shri Subba Rao, learned Counsel appearing on behalf of Union of India points out that these were imports of the period 1971-72.",
+    "The assessees' returns were based on the assumption that they were sheets. Three Departmental Authorities concurrently held that they were sheets.",
+    "We find considerable force in the arguments put forward on behalf of the Counsel for Union of India."
+  ],
+  "issues": [
+    "Whether the goods imported by the appellants are 'strips' or 'sheets'."
+  ],
+  "petitioner_arguments": [
+    "According to him, since the goods ordered by him were in coil form, they are strips and not sheets.",
+    "The submission was that the distinction between sheets and strips is that while strips may be in full length form or coil form, sheets cannot be in coil form at all;",
+    "He says, where the goods are in coil form they cannot be called sheets at all."
+  ],
+  "respondent_arguments": [
+    "At that time, the orders were placed and the goods were supplied describing the commodities as 'sheets' even though there was a stipulation that the goods should be in coil form.",
+    "The assessees themselves paid duty at the initial stage accepting that the goods imported were sheets.",
+    "It is submitted that the distinction now sought to be put forward on behalf of the assessee that, where the goods are supplied in the form of coils, they should be treated as strips is based on subsequently revised I.S.I. standards and should not be accepted."
+  ],
+  "court_reasoning": [
+    "We find considerable force in the arguments put forward on behalf of the Counsel for Union of India.",
+    "It is beyond doubt from the facts stated on record, in particular, contained in the judgment of the Division Bench as well as the revisional authority that the understanding at the relevant time was that the goods were sheets."
+  ],
+  "holding": [
+    "We are of the opinion that the Division Bench was right in holding that the intervention of the High Court under Article 226 of the Constitution was not called for.",
+    "These appeals are, therefore, dismissed."
+  ],
+  "cases_cited": []
+}

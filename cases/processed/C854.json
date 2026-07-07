@@ -1,0 +1,75 @@
+{
+  "case_id": "C854",
+  "case_name": "Shri Bhagwan Dass Sood v State of Himachal Pradesh and Others",
+  "court": "Supreme Court of India",
+  "year": 1996,
+  "judges": [
+    "G. N. Ray"
+  ],
+  "bench": [],
+  "petitioner": "Shri Bhagwan Dass Sood",
+  "respondent": "State of Himachal Pradesh",
+  "citations": [
+    "AIR 1980 SC 1124",
+    "AIR 1983 SC 1246",
+    "AIR 1985 SC 218"
+  ],
+  "statutes": [
+    {
+      "act": "In The Punjab Agricultural Produce Markets Act",
+      "section": "23A"
+    },
+    {
+      "act": "Markets Act",
+      "section": "4"
+    },
+    {
+      "act": "Markets Act",
+      "section": "5"
+    },
+    {
+      "act": "Markets Act",
+      "section": "21"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "25 October 1996",
+  "outcome": "Unknown",
+  "facts": [
+    "The main contention raised before the Himachal Pradesh High Court was that the Writ Petitioners were not required to take licences under Section 4 (3) of the Himachal Pradesh Agricultural Produce Market Act, 1949 and are also not required to pay market levy.",
+    "The petitioners contended that the market committee had established principal/sub market yards within the territorial jurisdiction of the market committee.",
+    "They had carrying on their business in their own premises which were though within the notified market area, but were outside the principal market/market yard or sub-market yards."
+  ],
+  "issues": [
+    "Whether the provisions relating to taking of licences for carrying on business and payment of market fee under the Markets Act have placed unreasonable restrictions on the right to carry on their trade",
+    "Whether Section 4 (3) and 21 of the Markets Act are violative of Article 19 (i) (g) of the Constitution of India"
+  ],
+  "petitioner_arguments": [
+    "The market fee had a direct relationship with the services rendered and since the market committee rendered no service in respect of the area in which the petitioners had carried on their trading activities",
+    "Realisation of market fee was illegal and unconstitutional",
+    "The scheme of the Markets Act and Rules framed thereunder is to protect the interests of the producers"
+  ],
+  "respondent_arguments": [
+    "Principal market yards had been identified and constructions had been undertaken",
+    "Inspecting staff had been appointed to ensure proper weighment and payment of price to the producers of scheduled agricultural produce",
+    "Income to be derived from market fee would be spent for providing the aforesaid facilities and amenities"
+  ],
+  "court_reasoning": [
+    "The Court has held that levy of market fee was quite justified",
+    "The requirement of obtaining licence fee and payment of levy of market fee constituted reasonable restriction under Article 19 (1) (g) of the Constitution",
+    "The principles justifying imposition of levy of market fee as indicated in Kewal Krishna's case have been affirmed by another Constitution Bench of this Court"
+  ],
+  "holding": [
+    "The provisions of Section 4 (3) and 21 of the Markets Act were intra vires and valid",
+    "The High Court has held that levy of market fee on the traders carrying on business outside principle market/market or sub market yard, cannot be held as invalid as it has sufficient nexus with the services rendered"
+  ],
+  "cases_cited": [
+    "M/s Sardar Singh & Sons Vs. State of Himachal Pradesh",
+    "Ram Chandra Kailash Kumar and Co. Vs. State of U",
+    "Shri Bhagwan Dass Sood v State of Himachal Pradesh",
+    "of this Court in Mohammad Hussain Gulam Mohammad and another Vs. State of Bombay",
+    "the decisions of this Court in Kewal Krishna Puri and another Vs. State of Punjab"
+  ]
+}

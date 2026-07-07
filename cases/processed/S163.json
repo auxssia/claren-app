@@ -1,0 +1,37 @@
+{
+  "case_id": "S163",
+  "case_name": "",
+  "court": "Central Government or State Government",
+  "year": 1947,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Prevention Of Black Marketing And Maintenance Of Supplies Of Essential Commodities Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "(1) The Central Government or the State Government may, -- (a) if satisfied with respect to any person that with a view to preventing him from acting in any manner prejudicial to the defence of India, the relations of India with foreign powers, or the security of India, or (b) if satisfied with respect to any foreigner that with a view to regulating his continued presence in India or with a view to making arrangements for his expulsion from India, it is necessary so to do, make an order directing that such person be detained.",
+    "(2) The Central Government or the State Government may, if satisfied with respect to any person that with a view to preventing him from acting in any manner prejudicial to the security of the State or from acting in any manner prejudicial to the maintenance of Public order or from acting in any manner prejudicial to the maintenance of supplies and services essential to the community it is necessary so to do, make an order directing that such person be detained.",
+    "(3) If, having regard to the circumstances prevailing or likely to prevail in any area within the local limits of the jurisdiction of a District Magistrate or a Commissioner of Police, the State Government is satisfied that it is necessary so to do, it may, by order in writing, direct, that during such period as may be specified in the order, such District Magistrate or Commissioner of Police may also, if satisfied as provided in sub-section (2), exercise the powers conferred by the said sub-section:",
+    "(4) When any order is made under this section by an officer mentioned in sub-section (3), he shall forthwith report the fact to the State Government to which he is subordinate together with the grounds on which the order has been made and such other particulars as, in his opinion, have a bearing on the matter, and no such order shall remain in force for more than twelve days after the making thereof unless, in the meantime, it has been approved by the State Government:",
+    "(5) When any order is made or approved by the State Government under this section, the State Government shall, within seven days, report the fact of the Central Government together with the grounds on which the order has been made and such other particulars as, in the opinion of the State Government, have a bearing on the necessity for the order."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The Central Government or the State Government may make an order directing that a person be detained if satisfied that the person is acting in a manner prejudicial to the defence of India, relations with foreign powers, security of India, maintenance of public order, or supplies and services essential to the community."
+  ],
+  "cases_cited": []
+}

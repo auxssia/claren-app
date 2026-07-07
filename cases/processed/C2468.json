@@ -1,0 +1,66 @@
+{
+  "case_id": "C2468",
+  "case_name": "Daewoo Motors India Ltd. v Union of India and others",
+  "court": "Supreme Court of India",
+  "year": 2003,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Daewoo Motors India Ltd",
+  "respondent": "Union of India",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "25(1)"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "136"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "20 February 2003",
+  "outcome": "Unknown",
+  "facts": [
+    "These appeals arise from a common judgement of the High Court at Delhi in Civil Miscellaneous No. 6714 of 2002 in Civil Writ Petition No. 2002 of 2002 dated July, 16, 2002.",
+    "The controversy in these appeals relates to the encashment of the bank guarantee by the Union of India, the first respondent.",
+    "As an import policy during the period 1995-1996, the first respondent introduced an 'Export Promotion Capital Goods (E.P.C.G.) Scheme.'",
+    "The appellant in the appeals arising out of S.L.P. (C) Nos. 14657-14658 of 2002, M/s. Daewoo Motors India Limited, availed the Scheme which, inter alia, provided that upon importing plants and equipment, it should fulfil the export obligation equivalent to six times the CIF value of the goods which had been imported on FOB basis, or alternatively four times the CIF value of the goods imported on net foreign exchange basis within a period of eight months.",
+    "The period was divided into different blocks. Agreeing to fulfil the export obligation, the appellant obtained various import licences in respect of which bank guarantees were furnished by it from various banks, one of them being the Times Bank Limited, now H.D.F.C. Bank Limited, which is the appellant in the appeal arising out of S.L.P. (C) No. 15022 of 2002.",
+    "It appears that in respect of CIF value of Rupees one hundred crore and more, period to fulfil the export obligation was extended. But later, the Deputy Director General of Foreign Trade, by communication dated February 25, 2002, revoked the export obligation extension period and invoked various bank guarantees.",
+    "The appellant-company filed writ petition in the High Court at Delhi challenging the validity of the said order invoking the bank guarantee.",
+    "The High Court took the view that as the writ petition involved disputed questions of fact and as the subject-matter related to encashment of bank guarantee, it would not be appropriate to exercise extra-ordinary jurisdiction of the High Court under Article 226 of the Constitution.",
+    "It also observed that the order impugned before the High Court was an appealable order and in that view also, the writ petition ought not to be entertained.",
+    "The writ petition was, thus, dismissed on July 16, 2002. It is against the correctness of this order that the present appeals have been preferred."
+  ],
+  "issues": [
+    "Whether the impugned order of the High Court dismissing the writ petition of the appellant- company warrants any interference in exercise of the jurisdiction of this Court under Article 136 of the Constitution.",
+    "Whether the bank guarantee is a conditional or unconditional bank guarantee."
+  ],
+  "petitioner_arguments": [
+    "The period for compliance of the export obligation was extended and as such the first respondent cannot be permitted to encash the bank guarantee when ample time is available to the appellant-company to discharge the export obligation.",
+    "In view of the critical financial position of the company, there have been negotiations to sell the assets altogether and if, at this stage, the bank guarantees are allowed to be encashed, the company would be put to great hardships and irreparable loss."
+  ],
+  "respondent_arguments": [
+    "The extension of time has been revoked, thus, the very foundation on which the company is resting its defence is not available to it.",
+    "The Bank has no locus, no cause of action has accrued to it to file the appeal and/or to contest the invocation of the bank guarantee."
+  ],
+  "court_reasoning": [
+    "A reading of the bank guarantee as a whole and the above extracted paragraphs in particular leaves us in no speck of doubt that those words only qualify the preceding words, 'loss or damage caused or suffered by the President of India', and do not constitute a condition precedent for the first respondent to invoke the bank guarantee, much less they give any cause of action to the bank to contest the encashment of the bank guarantee on the ground of there being no non-fulfilment of the export obligation.",
+    "The bank has rendered itself liable to pay the cash on demand by the President of India 'notwithstanding any dispute raised by M/s. Daewoo Motors India Limited in any proceeding before any Court or Tribunal'.",
+    "It is worth noticing that the clause in the bank guarantee specifically provides that the demand made by the President of India shall be conclusive as regards the amount due and payable by the bank under this guarantee and the liability under the guarantee is absolute and unequivocal."
+  ],
+  "holding": [
+    "The appeals fail. They are, accordingly, dismissed.",
+    "In the facts and circumstances of the case, we make no order as to costs. Appeals dismissed."
+  ],
+  "cases_cited": [
+    "Daewoo Motors India Ltd. v Union of India",
+    "the case M/s. Hindustan Construction Company Limited, v. State of Bihar"
+  ]
+}

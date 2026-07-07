@@ -1,0 +1,99 @@
+{
+  "case_id": "C408",
+  "case_name": "National Agricultural Co-operative Marketing Federation of India Ltd. and another v Union of India and others",
+  "court": "Supreme Court of India",
+  "year": 2003,
+  "judges": [
+    "Ruma Pal"
+  ],
+  "bench": [],
+  "petitioner": "National Agricultural Co-operative Marketing Federation of India Ltd. and another",
+  "respondent": "Union of India",
+  "citations": [
+    "1966 1 SCR 890",
+    "1975 2 SCC 274",
+    "1996 5 SCC 6261996",
+    "1996 7 SCC 637",
+    "1997 1 SCC 326",
+    "2002 4 SCC 3392002",
+    "AIR 1965 SC 171",
+    "AIR 1965 SC 1711964",
+    "AIR 1969 SC 778",
+    "AIR 1969 SC 7781968"
+  ],
+  "statutes": [
+    {
+      "act": "1961 Act",
+      "section": "80P"
+    },
+    {
+      "act": "Bombay Municipality Boroughs Act",
+      "section": "73"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Fundamental Rights",
+  "court_level": "Supreme Court",
+  "decision_date": "25 March 2003",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant No. 1 is a co-operative society registered under the Multi State Co-operative Societies Act, 1984 with its registered office in Delhi.",
+    "Prior to 1994 several High Courts as well as this Court had construed Section 81(1)(c) and Section 80 P(2)(a)(iii) and held that the benefit of exemption was available to all the co-operative societies from the village to the Apex Level.",
+    "The view was reversed by a Bench of this Court in Assam Cooperative Apex Marketing Society v. CIT (Additional), 201 ITR 338 SC: 1994 (Supp.) 2 SCC 96 1993 Indlaw SC 928 when it held that the object of Section 81 was to encourage basic level societies and that therefore, the phrase 'produce of its members' must refer to agricultural produce actually 'produced by its members'.",
+    "The Kerala High Court reversed its earlier view while deciding the issue raised by the Kerala Co- operative Marketing Federation in respect of a subsequent year and denied the Kerala Federation the deduction under S.80 P.",
+    "This Court by its decision in Kerala Cooperative Marketing Federation Ltd. & Ors. v. Commissioner of Income Tax, 231 ITR 814: 1998 (5) SCC 48 1998 Indlaw SC 736 overruled Assam Cooperatives and held that the word 'of' in Section 80P(2)(a)(iii) had been too restrictively construed in Assam Cooperatives1993 Indlaw SC 928 (Supra).",
+    "The reason for this amendment has been stated in Clause 6 of the Statement of Objects and Reasons as: 'Under the existing provision, profits derived by a cooperative society engaged in the marketing of agricultural produce of its members are fully deductible in computing the taxable income under Section 80P(2)(a)(iii) of the Income-tax Act.'",
+    "The Bill was passed after obtaining the assent of the President and became the Income Tax (2nd Amendment) Act, 1999 (Act No. 11 of 1999)."
+  ],
+  "issues": [
+    "Construction and Constitutional validity of section 80 P(2)(a)(iii) of the Income Tax Act, 1961",
+    "Grant of deduction of the profits made by societies by the marketing of agricultural produce"
+  ],
+  "petitioner_arguments": [
+    "Prior to 1994 several High Courts as well as this Court had construed Section 81(1)(c) and Section 80 P(2)(a)(iii) and held that the benefit of exemption was available to all the co-operative societies from the village to the Apex Level.",
+    "The view expressed in Assam Cooperatives 201 ITR 338 SC: 1994 (Supp.) 2 SCC 96 1993 Indlaw SC 928, came to be re- considered by a larger Bench in 1998.",
+    "This Court by its decision in Kerala Cooperative Marketing Federation Ltd. & Ors. v. Commissioner of Income Tax, 231 ITR 814: 1998 (5) SCC 48 1998 Indlaw SC 736 overruled Assam Cooperatives and held that the word 'of' in Section 80P(2)(a)(iii) had been too restrictively construed in Assam Cooperatives1993 Indlaw SC 928 (Supra)."
+  ],
+  "respondent_arguments": [
+    "The amendment is intended to be retrospective and that the amendment would at least prospectively exclude all cooperative societies except the primary society from the benefit of Section 80 P(2)(a)(iii) of the Income Tax Act.",
+    "It was contended that by denying the deduction to the apex societies, the farmers and the primary societies would be vitally affected as it would be reflected in the returns obtained by them."
+  ],
+  "court_reasoning": [
+    "The language adopted in Section 80-P(2)(a)(iii) with which we are concerned will admit the interpretation that the society engaged in marketing of agricultural produce of its members as agricultural produce 'belonging to' its members which is not necessarily raised by such member.",
+    "When the provisions of Section 80-P of the Act admit of a wider exemption there is no reason to cut down the scope of the provision as indicated in Assam Coop. Apex Marketing Society Case."
+  ],
+  "holding": [
+    "The amendment was valid and that the legislature was competent to retrospectively take away a benefit granted earlier by an amendment of the law.",
+    "The amendment would apply only to assessments which were yet to be finalised."
+  ],
+  "cases_cited": [
+    "As has been held in Ujagar Prints V. Union of India",
+    "Co-operative Marketing Federation of India Ltd. and another v Union of India",
+    "Commercial Tax Officer v. Biswanath Jhunjhunwalla &",
+    "Indian Aluminium Co. & Ors. v. State of Kerala &",
+    "J.C. Jani v. Induprasad Devshanker Bhatt",
+    "Janapada Sabha Chhindwara v. The Central Provinces Syndicate Ltd",
+    "Jawaharmal v. State of Rajasthan &",
+    "K.M. Sharma v. Income Tax Officer",
+    "Lalitaben v. Gordhanbhai &",
+    "M/s Ujagar Prints & Ors. v. Union of India &",
+    "Rai Ramkrishna & Ors. v. The",
+    "Rai Ramkrishna & Others V. The",
+    "S.R. Bhagwat v. State of Mysore",
+    "S.S. Gadvil v. Lal & Co",
+    "Sanjeev Coke Manufacturing Co. v. M/s",
+    "See also J.P. Jani v. Induprasad Devshankar Bhatt",
+    "Shri Prithvi Cotton Mills Ltd. vs. Broach Borough Municipality &",
+    "The Collector of Customs, Madras v. Nathella Sampathu Chetty",
+    "and the legislative background of the provision Jawaharmal v. State of Rajasthan",
+    "approval by the Constitution Bench in State of Tamil Nadu v. Arroran Sugar Mills",
+    "has relied on this Court's decision in Madan Mohan Pathak V. Union of India",
+    "in Kerala Cooperative Marketing Federation Ltd. & Ors. V. Commissioner of Income Tax",
+    "of this Court in Assam Cooperative Apex Marketing Society v. CIT (Additional",
+    "provide or clearly imply retrospective operation (S.S. Gadgil v. M/s Lal & Co",
+    "retrospective effect. This Court in Govt. of Andhra Pradesh vs. Hindusthan Machine Tools",
+    "the change of the law. Similarly in M/s. Krishnamurthi & Co. v. State of Madras &",
+    "the view taken by the Kerala High Court as expressed in CIT V. Kerala",
+    "was held to be ultra-vires in Patel Gordhandas Hargovindas v. Municipal Commissioner"
+  ]
+}

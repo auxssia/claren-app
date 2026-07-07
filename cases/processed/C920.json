@@ -1,0 +1,60 @@
+{
+  "case_id": "C920",
+  "case_name": "Mukund Deo (Dead) Represented By His Legal Representatives Kasibai and Others v Mahadu and Others",
+  "court": "Supreme Court of India",
+  "year": 1964,
+  "judges": [
+    "SHAH, J."
+  ],
+  "bench": [],
+  "petitioner": "Mukund Deo (Dead) Represented By His Legal Representatives Kasibai and Others",
+  "respondent": "Mahadu",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "66"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "31 August 1964",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal relates to lands which originally belonged to one Beli Ram son of Ananda.",
+    "By a deed dated July 26, 1916 Rukhma Bai sold the lands to one Mukund Deo for Rs. 600/- (O.S.) and delivered possession of the lands to the vendee.",
+    "The respondents to this appeal who were the sons of Vitha Bai commenced on February 21, 1944 an action against the transferee Mukund Deo in the court of the Munsiff, Mominabad Taluk, for a decree for possession of the lands sold by Rukhma Bai.",
+    "Mukund Deo contested the claim contending, inter alia, that the sale by Rukhma Bai was for legal necessity, that Vitha Bai had survived Rukhma Bai and that Vitha Bai had during her lifetime assented to the alienation and had thereafter filed a suit for declaration.",
+    "The Trial Court reflected the contentions noised by Mukund Deo.",
+    "The High Court disagreed with the view of the First Appellate Court on the question whether the sale to Mukund Deo was supported by legal necessity and also on the question whether Vitha Bai had predeceased Rukhma Bai."
+  ],
+  "issues": [
+    "Whether the sale by Rukhma Bai was for legal necessity.",
+    "Whether Vitha Bai had survived Rukhma Bai.",
+    "Whether the High Court had jurisdiction to set aside the finding of fact recorded by the First Appellate Court."
+  ],
+  "petitioner_arguments": [
+    "The sale by Rukhma Bai was not supported by legal necessity.",
+    "Vitha Bai had predeceased Rukhma Bai.",
+    "Mukund Deo failed to establish that the sale was for legal necessity."
+  ],
+  "respondent_arguments": [
+    "The sale by Rukhma Bai was for legal necessity.",
+    "Vitha Bai had survived Rukhma Bai and had during her lifetime assented to the alienation.",
+    "The High Court could not set aside the findings of fact recorded by the First Appellate Court."
+  ],
+  "court_reasoning": [
+    "A right of appeal to a particular forum is a substantive right and is not lost by alteration in the law, unless provision is made expressly in that behalf, or a necessary implication arises.",
+    "The power of the High Court to deal with the appeal before it must, therefore, be derived from the Hyderabad Code, untrammelled by anything contained in S. 100 of the Code of Civil Procedure, 1908."
+  ],
+  "holding": [
+    "The appeal fails and is dismissed with costs.",
+    "Appeal dismissed."
+  ],
+  "cases_cited": [
+    "In Delhi Cloth and General Mills Co. Ltd. v. Income-tax Commr",
+    "Represented By His Legal Representatives Kasibai and Others v Mahadu",
+    "implication arises. In Colonial Sugar Refining Co. Ltd. v. Irving",
+    "was made. This Court has also held in Garikapatti Veeraya v. N. Subbiah Choudhury"
+  ]
+}

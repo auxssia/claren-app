@@ -1,0 +1,103 @@
+{
+  "case_id": "C2842",
+  "case_name": "State of Madhya Pradesh v Deshraj and Others",
+  "court": "Supreme Court of India",
+  "year": 2004,
+  "judges": [
+    "Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "State of Madhya Pradesh",
+  "respondent": "Deshraj",
+  "citations": [
+    "AIR 1977 SC 109",
+    "AIR 1993 SC 1899"
+  ],
+  "statutes": [
+    {
+      "act": "Read With Section 34 Of The Indian Penal Code",
+      "section": "323"
+    },
+    {
+      "act": "The Act",
+      "section": "34"
+    },
+    {
+      "act": "Has Been Enacted On The Principle Of Joint Liability In The Doing Of A Criminal Act",
+      "section": "34"
+    },
+    {
+      "act": "If Such Criminal Act",
+      "section": "34"
+    },
+    {
+      "act": "The Essence Of The Liability Is To Be Found In The Existence Of A Common Intention Animating The Accused Leading To The Doing Of A Criminal Act",
+      "section": "34"
+    },
+    {
+      "act": "It Is Not Necessary To Show Some Overt Act",
+      "section": "34"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "29 January 2004",
+  "outcome": "Unknown",
+  "facts": [
+    "In this appeal challenge is to the correctness of judgment rendered by a Division Bench of the Madhya Pradesh High Court which affirmed the conviction under Section 323 read with Section 34 of the Indian Penal Code, 1860 (in short 'the IPC') as recorded by the Trial Court in respect of respondents 1 to 10 and did not accept prosecutions' plea that it was a case covered by Section 302 read with Section 34 IPC.",
+    "On 26.5.1980, about 8.15 a.m. PW-5 lodged first information report with the police regarding alleged occurrence which took place on the previous day i.e. 25.5.1980.",
+    "There was an exchange of words between Harbhan (PW-5) and Pratap Singh Thakur over payment of fare relating to hire of bullock cart.",
+    "The accused persons armed with various weapons arrived there and accused Balkishan hit on the head of the deceased.",
+    "The other accused persons assaulted him with various weapons.",
+    "The deceased ran inside the house for protection.",
+    "Accused Maharaj Singh struck on the head of Bina with farsa. Bhagwan Das and Badhraj struck her with lathies.",
+    "Maharaj Singh gave a farsa blow on the head of the informant. Bhagwan Das and Badhraj struck on the head with lathi on his left arm while accused Halka struck lathi on the right arm.",
+    "Jagna struck him on the shoulder and he fell down.",
+    "Even then accused persons inflicted lathi blows.",
+    "Accused Ramdas also assaulted Brijbhan (PW-10).",
+    "On hearing his cries for help, several villagers gathered. They also witnessed the assaults.",
+    "The dead body was sent for post-mortem and the injured persons were sent for medical examination.",
+    "One of them was the fracture of the skull.",
+    "According to the doctor (PW-8) who conducted the post-mortem; the injuries on the skull were sufficient to cause death in the normal course.",
+    "The accused persons pleaded innocence and false implication.",
+    "Some of them were also examined and the medical reports indicated that they had sustained injuries.",
+    "The Trial Court held that the death was homicidal; but there was no definite material as to which of the injuries was inflicted by which accused.",
+    "Additionally, it was observed that there was fight between the parties and the accused persons had sustained injuries.",
+    "In the absence of any documentary evidence to show as to which injury could be attributed to which accused, the case was not covered by Section 302 read with Section 34 IPC.",
+    "But he held there being several other injuries on the body of the deceased as noticed, case under Section 323/34 IPC was made out so far as the deceased is concerned, as well as injuries noticed on PWs. 5, 9 and 10.",
+    "As there was no definite material, so far accused Toran is concerned, he was acquitted.",
+    "As noted supra, the State of M.P. filed an appeal before the Madhya Pradesh High Court which came to be disposed of by a Division Bench of the High Court at Jabalur Bench."
+  ],
+  "issues": [
+    "What is the correct interpretation of Section 34 of the Indian Penal Code?",
+    "Can the prosecution establish common intention among the accused persons without direct proof?",
+    "Is it necessary to show some overt act on the part of the accused for applying Section 34?"
+  ],
+  "petitioner_arguments": [
+    "The true import of Section 34 of the Act has been lost sight of.",
+    "The approach of the Trial Court and the High Court is clearly erroneous.",
+    "The prosecution has to establish by evidence, whether direct or circumstantial, that there was plan or meeting of mind of all the accused persons to commit the offence for which they are charged with the aid of Section 34.",
+    "It is not necessary that the acts of the several persons charged with commission of an offence jointly must be the same or identically similar.",
+    "The essence of the liability is to be found in the existence of a common intention animating the accused leading to the doing of a criminal act in furtherance of such intention."
+  ],
+  "respondent_arguments": [
+    "The occurrence was the result of a sudden quarrel and free fight and, therefore, the judgments of the Courts below do not suffer from any infirmity.",
+    "The accused persons have not taken any undue advantage and have also not acted with cruelty and, therefore, in the absence of any material to show as to who caused the injury, the conviction as recorded by the Trial Court and confirmed by the High Court should not be varied."
+  ],
+  "court_reasoning": [
+    "The Section is only a rule of evidence and does not create a substantive offence.",
+    "The liability of one person for an offence committed by another in the course of criminal act perpetrated by several persons arises under Section 34 if such criminal act is done in furtherance of a common intention of the persons who join in committing the crime.",
+    "Direct proof of common intention is seldom available and, therefore, such intention can only be inferred from the circumstances appearing from the proved facts of the case and the proved circumstances.",
+    "The true contents of the Section is that if two or more persons intentionally do an act jointly, the position in law is just the same as if each of them has done it individually by himself.",
+    "Section 34 does not say 'the common intention of all', nor does it say 'and intention common to all'.",
+    "The provision is intended to meet a case in which it may be difficult to distinguish between acts of individual members of a party who act in furtherance of the common intention of all or to prove exactly what part was taken by each of them.",
+    "For applying Section 34 it is not necessary to show some overt act on the part of the accused."
+  ],
+  "holding": [
+    "The appeal filed by the State is allowed so far as respondents 2 to 10 are concerned and dismissed so far as respondent no.11 Toran Singh is concerned."
+  ],
+  "cases_cited": [
+    "State of Madhya Pradesh v Deshraj"
+  ]
+}

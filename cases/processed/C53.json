@@ -1,0 +1,57 @@
+{
+  "case_id": "C53",
+  "case_name": "Balwinder Singh v State of Punjab",
+  "court": "Supreme Court of India",
+  "year": 2001,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Balwinder Singh",
+  "respondent": "State of Punjab\nSupreme Court of India\n\n21 February 2001\nCr. Appeal No. 75 of 2001\nThe Order of the Court was as follows:\n1.  The appellant stands convicted under three sections of three different enactments. Principal among them is Section 5 of the Terrorist and Disruptive Activities (Prevention) Act (TADA).\n2. The other provisions are Section 25 of the Arms Act and Section 5 of the Explosives Act. On the whole a sentence of rigorous imprisonment of five years had been imposed on him besides a fine of Rs. 1000/-. He filed this appeal as of right under Section 19 of the TADA.\n3.  During the course of arguments we came across certain deficiencies which crept in the trial proceedings. One is that the deposition of Babu Ram (we are not sure whether Babu Ram was in the rank of P.W. 1 or P.W. 2), remains unsigned by him. How it happended is not explained to us by the learned counsel for the respondent as he is also taken by surprise when this was brought to his notice. A p",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Terrorist And Disruptive Act",
+      "section": "5"
+    },
+    {
+      "act": "Arms Act",
+      "section": "25"
+    },
+    {
+      "act": "Explosives Act",
+      "section": "5"
+    },
+    {
+      "act": "Code Of Criminal Procedure With",
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "21 February 2001",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant stands convicted under three sections of three different enactments.",
+    "A sentence of rigorous imprisonment of five years had been imposed on him besides a fine of Rs. 1000/-.",
+    "He filed this appeal as of right under Section 19 of the TADA.",
+    "During the course of arguments we came across certain deficiencies which crept in the trial proceedings.",
+    "One is that the deposition of Babu Ram remains unsigned by him.",
+    "Two documents purported to be affidavits signed by Shrimati Bimal Kaur Khalsa and Shri Kamal Jit Singh are seen marked as 'A' and 'B'.",
+    "The defence may be given an opportunity to prove those documents, for whatever worth they may be."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Such a course will not be consistent with the principles of criminal justice.",
+    "We adopt a course that the defence may be given an opportunity to prove those documents, for whatever worth they may be."
+  ],
+  "holding": [
+    "The conviction and sentence passed on the appellant are set aside.",
+    "The case is remitted to the trial Court for disposal of the trial afresh.",
+    "The prosecution Babu Ram alone need be recalled for examination afresh.",
+    "Other evidence already recorded will remain."
+  ],
+  "cases_cited": []
+}

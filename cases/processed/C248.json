@@ -1,0 +1,63 @@
+{
+  "case_id": "C248",
+  "case_name": "Abdul Waheed Khan v Bhawani and Others",
+  "court": "Supreme Court of India",
+  "year": 1966,
+  "judges": [
+    "K. Subba Rao"
+  ],
+  "bench": [],
+  "petitioner": "Abdul Waheed Khan",
+  "respondent": "Bhawani",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "71"
+    },
+    {
+      "section": "88"
+    },
+    {
+      "section": "93"
+    },
+    {
+      "act": "Limitation Act, 1963"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "21 February 1966",
+  "outcome": "Unknown",
+  "facts": [
+    "The respondents, claiming to be the khatedars of an extent of 57.07 acres of land in Mauza Bhanpur, Tahsil Huzur, Western District Bhopal, filed a suit against the appellant on the ground that the latter was in illegal possession thereof.",
+    "The appellant as khatedar of the land in dispute had filed a suit under s. 71 of the Act in the court of the Tahsildar, Tahsil Huzur, Bhopal for the ejectment of the respondents on the ground that they were his shikmi tenants.",
+    "The relevant facts may be briefly stated: The respondents, claiming to be the khatedars of an extent of 57.07 acres of land in Mauza Bhanpur, Tahsil Huzur, Western District Bhopal, filed a suit against the appellant on the ground that the latter was in illegal possession thereof."
+  ],
+  "issues": [
+    "Whether a civil court had jurisdiction to entertain the suit filed by the respondents for the recovery of possession of the plaint-schedule land and mesne profits",
+    "Whether the decision of the revenue court on the question of title to the suit land bars the jurisdiction of the civil court"
+  ],
+  "petitioner_arguments": [
+    "The appellant contested the suit mainly on the ground that he was the khatedar of the said land and that he was in possession thereof in that capacity.",
+    "He also pleaded that his title to the property was declared by the Tahsildar in an application for ejectment filed by him against the respondents under the Bhopal State Land Revenue Act, 1932 (Act No. IV of 1932), hereinafter called the Act, and that the said decision would be a bar to the maintainability of the suit in a civil court.",
+    "The first question it is necessary to notice a few facts."
+  ],
+  "respondent_arguments": [
+    "The respondents were the khatedars of the suit land and that they had been in possession thereof in that capacity.",
+    "They also pleaded that their title to the property was declared by the Tahsildar in an application for ejectment filed by them against the appellant under the Bhopal State Land Revenue Act, 1932 (Act No. IV of 1932), hereinafter called the Act, and that the said decision would be a bar to the maintainability of the suit in a civil court."
+  ],
+  "court_reasoning": [
+    "It is settled principle that it is for the party who seeks to oust the jurisdiction of a civil court to establish his contention.",
+    "The question is whether a suit based on title of a khatedar and for possession is either expressly or by necessary implication barred by the provisions of the Act.",
+    "When such an entry is made in the register of rights and is not corrected in the manner prescribed in s. 93, under s. 95 it shall be presumed to be correct until the contrary is proved."
+  ],
+  "holding": [
+    "The Supreme Court held that a civil court had jurisdiction to entertain the suit filed by the respondents for the recovery of possession of the plaint-schedule land and mesne profits",
+    "The Supreme Court also held that the decision of the revenue court on the question of title to the suit land does not bar the jurisdiction of the civil court."
+  ],
+  "cases_cited": [
+    "Abdul Waheed Khan v Bhawani",
+    "in support of his contention, relied upon Gokhul Sahu v. Jodu Nundun Roy"
+  ]
+}

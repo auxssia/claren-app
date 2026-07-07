@@ -1,0 +1,64 @@
+{
+  "case_id": "C1386",
+  "case_name": "Sukha and Others v State of Rajasthan",
+  "court": "Supreme Court of India",
+  "year": 1956,
+  "judges": [
+    "Vivian Bose, J."
+  ],
+  "bench": [],
+  "petitioner": "Sukha and Others",
+  "respondent": "State of Rajasthan\nSupreme Court of India\n\n5 April 1956\nCriminal Appeal No. 133 of 1955\nThe Judgment was delivered by: Vivian Bose, J.\n1. Four persons were killed about 11 p.m. on the night of the 21st July 1951 and a number of",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "325"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "342"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "5 April 1956",
+  "outcome": "Unknown",
+  "facts": [
+    "Four persons were killed about 11 p.m. on the night of the 21st July 1951 and a number of others injured.",
+    "This was said to be the result of a riot that occurred in the village Dhankoli.",
+    "Thirty six persons were committed for trial.",
+    "Of these, two died during the course of the proceedings.",
+    "The remainder were all charged under section 325/149 of the Indian Penal Code and eleven were also charged under section 302/149.",
+    "The learned Sessions Judge acquitted twenty five of the charge under section 325/149 and convicted nine.",
+    "He acquitted all the eleven who were charged under section 302/149 but convicted nine of them under section 325/149.",
+    "The State did not appeal against the acquittals of the twenty five under section 325/149 nor did it appeal against the acquittals of two of the eleven who were charged under section 302/149 but it appealed against the acquittals of the remaining nine who had been convicted under section 325/149.",
+    "These nine convicts also appealed.",
+    "The High Court therefore had two appeals before it, one against the acquittals of nine persons under section 302/149 and the other by the same persons against their convictions under section 325/149."
+  ],
+  "issues": [
+    "Whether there was an unlawful assembly",
+    "Whether the accused were part of that assembly"
+  ],
+  "petitioner_arguments": [
+    "There is no evidence to support a finding that there was an unlawful assembly because it is impossible to determine who came to attack and who did not.",
+    "The prosecution case is that this was due to a dispute over a field that belonged to some of the Jats."
+  ],
+  "respondent_arguments": [
+    "The enmity is due to the fact that the villagers decided not to employ the Baories for watch and ward work in the village as they suspected that the Baories were responsible for certain thefts that had occurred there."
+  ],
+  "court_reasoning": [
+    "It is true the two sometimes overlap but they are used in different senses in law and should be kept distinct.",
+    "In a case of unlawful assembly or riot we are concerned with a common object.",
+    "However, we are satisfied that has not caused any prejudice."
+  ],
+  "holding": [
+    "The convictions of these nine persons were accordingly altered to ones under section 302/149 of the Indian Penal Code and the lesser sentence of transportation was given to each."
+  ],
+  "cases_cited": []
+}

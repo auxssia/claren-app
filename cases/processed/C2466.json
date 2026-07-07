@@ -1,0 +1,90 @@
+{
+  "case_id": "C2466",
+  "case_name": "Bihar Finance Service H. C. Coop. Soc. Limited v Gautam Goswami and Others",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "Bihar Finance Service H. C. Coop. Soc. Limited",
+  "respondent": "Gautam Goswami",
+  "citations": [
+    "1993 4 SCC 255",
+    "1995 5 SCC 619",
+    "1999 6 SCC 464",
+    "2001 10 SCC 496",
+    "2004 7 SCC 261",
+    "2006 3 SCC 434",
+    "AIR 2005 SC 3200"
+  ],
+  "statutes": [
+    {
+      "act": "Land Acquisition Act",
+      "section": "4"
+    },
+    {
+      "act": "The Act",
+      "section": "5A"
+    },
+    {
+      "act": "The Act",
+      "section": "6"
+    },
+    {
+      "act": "Act And Rule 4 Of The Aforementioned Rules And Under The Act",
+      "section": "40"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 226",
+  "court_level": "Supreme Court",
+  "decision_date": "5 March 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner is a cooperative society that intended to have a plot for construction of houses for its members.",
+    "A requisition was made for acquisition of land for the said purpose on their own behalf before the State on or about 3.07.1973.",
+    "Land acquisition proceedings were initiated pursuant thereto.",
+    "Several writ applications came to be filed before the Patna High Court questioning the said proceedings.",
+    "The High Court had passed an order dated 20.06.2001 directing release of 12.9603 acres of land.",
+    "One Ashish Sahkari Grih Nirman Samiti preferred an appeal there against before this Court upon obtaining special leave being Civil Appeal No. 1357 of 2003.",
+    "The Collector or the authorized officer shall complete the acquisition proceedings in all respects and hand over possession to the parties in terms afore-stated within a period of four months from today.",
+    "Although the Patna Regional Development Authority (PRDA) was not a party to the appeal, it was called upon to proceed in accordance with law as regards constructions already made in violation of the extant statute.",
+    "Several new constructions were made in total disregard of the statutory provisions.",
+    "When the time granted by this Court in the aforementioned order expired, a notice was issued.",
+    "A direction was issued on 7.04.2006 by this Court issuing notice to the PRDA.",
+    "According to the petitioner, although it was entitled to be given possession of about 31.7725 acres of land, possession of, however, only 9.99 acres was delivered to it."
+  ],
+  "issues": [
+    "Whether the High Court had correctly quashed the declaration under Section 6 of the Act?",
+    "Whether the PRDA had complied with the directions issued by this Court?",
+    "Whether the petitioner society was entitled to be given possession of about 31.7725 acres of land?"
+  ],
+  "petitioner_arguments": [
+    "The petitioner society argued that it was entitled to be given possession of about 31.7725 acres of land.",
+    "The petitioner society argued that the PRDA had not complied with the directions issued by this Court."
+  ],
+  "respondent_arguments": [
+    "The respondent/PRDA argued that it had taken steps to comply with the directions issued by this Court.",
+    "The respondent/PRDA argued that the petitioner society was only entitled to 18.8124 acres of land."
+  ],
+  "court_reasoning": [
+    "This Court held that the High Court had correctly quashed the declaration under Section 6 of the Act, but also directed the PRDA to proceed in accordance with law as regards constructions already made in violation of the extant statute.",
+    "This Court held that the petitioner society was entitled to be given possession of about 31.7725 acres of land, and that the PRDA had not complied with the directions issued by this Court."
+  ],
+  "holding": [
+    "The final decision is that the High Court's order quashing the declaration under Section 6 of the Act is upheld, but the PRDA is directed to proceed in accordance with law as regards constructions already made in violation of the extant statute.",
+    "The final decision is that the petitioner society is entitled to be given possession of about 31.7725 acres of land."
+  ],
+  "cases_cited": [
+    "Bihar Finance Service H. C. Coop. Soc. Limited v Gautam Goswami",
+    "In Bombay Dyeing & Mfg. Co. Ltd. vs. Bombay Environmental Action Group &",
+    "In Prithawi Nath Ram v. State of Jharkhand",
+    "See Director of Education, Uttaranchal and others v. Ved Prakash Joshi",
+    "See Maruti Udyog Limited v. Mahinder C",
+    "and K.G. Derasari and Another v. Union of India",
+    "consideration before this Court in M.I. Builders Pvt. Ltd. v. Radhey Shyam Sahu",
+    "out the direction, the views expressed in T.R. Dhananjaya v. J. Vasudevan need to be noted",
+    "there against, this Court in Shyam Nandan Prasad and Others v. State of Bihar"
+  ]
+}

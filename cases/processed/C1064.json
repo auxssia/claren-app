@@ -1,0 +1,84 @@
+{
+  "case_id": "C1064",
+  "case_name": "Nelson And Another v Kallayam Pastorate And Others",
+  "court": "Supreme Court of India",
+  "year": 2006,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "I. Nelson And Another",
+  "respondent": "Kallayam Pastorate",
+  "citations": [
+    "2003 7 SCC 546",
+    "2005 4 SCC 741"
+  ],
+  "statutes": [
+    {
+      "act": "1975 Act",
+      "section": "3"
+    },
+    {
+      "act": "Provides For Cancellation Of Registration Of Society Carrying On Unlawful Act",
+      "section": "38"
+    },
+    {
+      "act": "Act Raises A Legal Fiction That Every Society Registered Under The Societies Registration Act",
+      "section": "53"
+    },
+    {
+      "act": "1975 Act",
+      "section": "53"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Fundamental Rights",
+  "court_level": "Supreme Court",
+  "decision_date": "14 September 2006",
+  "outcome": "Unknown",
+  "facts": [
+    "The Indian Evangelical Lutheran Church ('the Church', for short) has a large congregation consisting of several pastorates in the Church Council.",
+    "It was registered under the Societies Registration Act, 1860 (for short, 'the 1860 Act').",
+    "Some mis-management had also allegedly taken place.",
+    "A suit came to be filed by one Rev. M.S. Poomani Raj in the High Court of Judicature at Madras against the Church, Rev. J. Issac Moon, C. Deniel Rajagamberam and Rev. U. Jacob praying, inter alia, for the following reliefs:",
+    "Indisputably, by an order dated 1.12.2003, an Advocate Commissioner was appointed to hold elections.",
+    "The learned Advocate Commissioner, however, submitted a report in which he contended that the society has become defunct.",
+    "A Division Bench of the High Court, opined: ...",
+    "The elected members were directed to apply for fresh registration.",
+    "Directions were passed by the High Court from time to time.",
+    "On or about 17.8.2005, the Division Bench appointed Mr. Justice J. Kanakaraj as an Administrator with an Associate Member.",
+    "The appellants in other appeals did not approach the High Court at all.",
+    "It is true that elections were being held under the supervision of an Advocate Commissioner for sometime past.",
+    "We will also assume that there had been some mismanagement of the Church of the properties on the part of the elected representatives."
+  ],
+  "issues": [
+    "Whether the society has become defunct",
+    "Whether the elections conducted by the third defendant are null and void",
+    "Whether the High Court misdirected itself in passing the impugned order"
+  ],
+  "petitioner_arguments": [
+    "The provisions of the Tamil Nadu Act being self-contained, inter alia, providing for cancellation of registration and passing of orders of winding up of societies and removal of defunct societies, the High Court misdirected itself in passing the impugned order;",
+    "The elections held under the supervision of the learned Advocate Commissioners having not been held to be unfair, the same could not have been set aside, particularly, when they were not parties thereto;",
+    "The order passed by the High Court on the basis of purported consent is a nullity;",
+    "The appointment of Administrator was beyond the jurisdiction of the High Court, as thereby the fundamental rights of the appellants under Articles 25 and 26 were violated."
+  ],
+  "respondent_arguments": [
+    "As admittedly the term in respect of two Synods, namely, Trivandrum and Nagercoil Synod has already expired and that of Ambur Synod would expire in December, 2006 and that of the Church Council on 7.6.2007, this Court should not interfere with the impugned judgment and may direct holding of elections under the supervision of the Administrators;",
+    "Some of the elected members of the Council having been represented before the High Court and consented to the impugned orders, the appellants herein should not be permitted to take a different stand."
+  ],
+  "court_reasoning": [
+    "The society was registered under the Central Act of 1860.",
+    "In terms of Section 53 of the 1975 Act it shall be deemed to be registered thereunder.",
+    "The effect of a legal fiction is well-known.",
+    "Legal fiction created, it is trite, must be given full effect."
+  ],
+  "holding": [
+    "The impugned order is whether sustainable in law.",
+    "As the appellants before us were not parties in the High Court, the impugned order is unsustainable in law."
+  ],
+  "cases_cited": [
+    "I. Nelson And Another v Kallayam Pastorate",
+    "See Guruvayoor Devaswom Managing Committee & Anr. vs. C.K",
+    "this Court in Board of Control for Cricket in India & Anr. vs. Netaji Cricket Club &"
+  ]
+}

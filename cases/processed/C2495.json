@@ -1,0 +1,64 @@
+{
+  "case_id": "C2495",
+  "case_name": "Satyadhyan Ghosal and others v Deorajin Debi and another",
+  "court": "Supreme Court of India",
+  "year": 1960,
+  "judges": [
+    "K. C. Das Gupta"
+  ],
+  "bench": [],
+  "petitioner": "Satyadhyan Ghosal and others",
+  "respondent": "Deorajin Debi and another\nSupreme Court of India\n\n20 April 1960\nCivil Appeal No. 257/59.\nThe Judgment was delivered by : K. C. Das Gupta, J.\n1. This appeal is by the landlords who having obtained a decree for ejectment against the tenants, Deorajin Debi and her minor son, on February 10, 1949, have not yet been able to get possession in execution thereof Soon after the decree was made the Calcutta Thika Tenancy Act, 1949, came on the statute book. On March 3, 1949, the tenants made an application under Or. 9, r. 13 of the Code of Civil Procedure for having the decree set aside. That application was dismissed on July 16, 1949. On September 9, 1949, an application was made by the tenants under S. 28 of the Calcutta Thika Tenancy Act alleging that they were Thika tenants and praying that the decree made against them on February 2, 1949, may be rescinded. This Application was resisted by the landlords, the decree-holders, and on Novemer 12, 19519 the Munsif h",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "After Its Omission By The Amending Act",
+      "section": "28"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "20 April 1960",
+  "outcome": "Unknown",
+  "facts": [
+    "The appeal is by the landlords who obtained a decree for ejectment against the tenants, Deorajin Debi and her minor son, on February 10, 1949.",
+    "On March 3, 1949, the tenants made an application under Or. 9, r. 13 of the Code of Civil Procedure for having the decree set aside.",
+    "The Calcutta Thika Tenancy Act, 1949, came into force soon after the decree was made.",
+    "An application was made by the tenants under S. 28 of the Calcutta Thika Tenancy Act alleging that they were Thika tenants and praying that the decree made against them on February 2, 1949, may be rescinded.",
+    "The Munsif holding that the applicants were not Thika Tenants within the meaning of the Thika Tenancy Act and accordingly the decree was not liable to be rescinded dismissed the application.",
+    "Against this order the tenants moved the High Court of Calcutta under S. 115 of the Code of Civil Procedure.",
+    "The Calcutta Thika Tenancy Ordinance had come into force on October 21, 1952, and the Calcutta Thika Tenancy (Amendment) Act, 1953, had come into force on March 14, 1953.",
+    "The 1953 Amendment Act omitted S. 28 of the original Act.",
+    "The High Court held that S. 1(2) of the Calcutta Thika Tenancy Amendment Act did not affect the operation of S. 28 of the original Act to these proceedings and disposed of these applications on the basis that s. 28 was applicable."
+  ],
+  "issues": [
+    "Whether the application under S. 28 was still alive after the amendment act came into force.",
+    "Whether the principle of res judicata applies in this case."
+  ],
+  "petitioner_arguments": [
+    "The appellant argued that on a proper interpretation of S. 1(2) of the Calcutta Thika Tenancy Amendment Act, it should be held that s. 28 of the original Act cannot, after the amending Act came into force, be applied to any proceedings pending on the date of the commencement of the Calcutta Thika Tenancy Ordinance, 1952."
+  ],
+  "respondent_arguments": [
+    "The respondent contended that the appellant is barred by the principle of res judicata from raising before this Court the question whether on the enactment of the Thika Tenancy Amendment Act, 1953, s. 28 of the original Act survives or not in respect of proceedings pending on the date of the commencement of the Thika Tenancy Ordinance, 1952."
+  ],
+  "court_reasoning": [
+    "The principle of res judicata is based on the need of giving a finality to judicial decisions.",
+    "What it says is that once a res is judicata, it shall not be adjudged again.",
+    "Primarily it applies as between past litigation and future litigation.",
+    "When a matter-whether on a question of fact or on a question of law-has been decided between two parties in one suit or proceeding and the decision is final, either because no appeal was taken to a higher court or because the appeal was dismissed, or no appeal lies, neither party will be allowed in a future suit or proceeding between the same parties to canvass the matter again."
+  ],
+  "holding": [
+    "The Court held that the principle of res judicata applies in this case and the appellant is barred from raising the question whether s. 28 of the original Act survives or not in respect of proceedings pending on the date of the commencement of the Thika Tenancy Ordinance, 1952."
+  ],
+  "cases_cited": [
+    "It was followed again by the Privy Council itself in Hook v. Administrator-General of Bengal",
+    "Satyadhyan Ghosal and others v Deorajin Debi",
+    "Shukul's Case (supra) was followed by the Council in Bani Ram v. Nanhu Mal",
+    "This question has been considered by us in Mahadeolal Kanodia v. The Administrator-General of West Bengal",
+    "This view was re-affirmed by the Privy Council in Forbes v. Ameeroonissa Begum",
+    "a century ago the Privy Council in Maharaja Moheshur Singh v. The Bengal Government",
+    "on the decision of the Privy Council in Ram Kripal Shukul v. Muss Umat Rup Kuari",
+    "supra) was also acted upon by the Privy Council in Sheonath v. Ramnath"
+  ]
+}

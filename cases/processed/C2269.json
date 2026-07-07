@@ -1,0 +1,94 @@
+{
+  "case_id": "C2269",
+  "case_name": "Indian Drugs and Pharmaceuticals Limited and v Punjab Drugs Manufacturers Association and Others",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [
+    "N. Santosh Hegde"
+  ],
+  "bench": [],
+  "petitioner": "Indian Drugs and Pharmaceuticals Limited and",
+  "respondent": "Punjab Drugs Manufacturers Association",
+  "citations": [
+    "1955 1 SCR 707",
+    "1955 2 SCR 225",
+    "1974 4 SCC 788",
+    "1981 4 SCC 471",
+    "1986 3 SCC 398",
+    "1997 9 SCC 495",
+    "AIR 1979 SC 1628"
+  ],
+  "statutes": [
+    {
+      "section": "4550"
+    },
+    {
+      "section": "3723"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "162"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "19"
+    },
+    {
+      "section": "19(6)"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "26 March 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "In these civil appeals, identical questions arise for our consideration.",
+    "The petitioners challenged the Constitutional validity of the policy decisions of the Government of Punjab whereby directions were issued to the purchasing authorities that certain medicines used in the Government hospitals and dispensaries were to be purchased from public sector manufacturers only.",
+    "The High Court was pleased to allow the petition and quashed the said policy decision by a judgment dated 3.6.1988.",
+    "Out of about 306 items of drugs, the Government institutions purchased about 286 drugs from private manufacturers or their dealers and only 26 drugs were purchased from public sector undertakings.",
+    "The need of the Government hospitals and dispensaries must be only a fraction of the actual demand in the market which demand is open to be met by the manufacturers like the appellants."
+  ],
+  "issues": [
+    "Whether the policy decision of the State of Punjab creating a monopoly in favour of public sector undertakings is violative of Articles 19(1)(g) and 19(6) of the Constitution.",
+    "Whether the directions to purchase medicines only from public sector undertakings would amount to an act of discrimination."
+  ],
+  "petitioner_arguments": [
+    "(a) that by the impugned policy the State has created a monopoly in favour of the public sector undertakings and since the said monopoly is created not by an Act or a Statute but by an executive order the same is violative of Articles 19(1)(g) and 19(6) of the Constitution;",
+    "(b) that the directions to purchase medicines only from public sector undertakings would amount to an act of discrimination."
+  ],
+  "respondent_arguments": [
+    "There was no monopoly created under the impugned policy of the State Government.",
+    "The directions to purchase certain medicines from the public sector undertakings for use in the Government hospitals and dispensaries would not amount to an act of arbitrariness."
+  ],
+  "court_reasoning": [
+    "The impugned policy only directs that certain drugs are to be purchased from the specified manufacturers. This does not preclude the other manufacturers or their dealers from either manufacturing or selling their products to other customers.",
+    "There is no fundamental right guaranteeing [the] chance or prospect of any or some of their books being approved as text books by the Government.",
+    "Creation of a small captive market in favour of a State owned undertaking out of a larger market can hardly be termed as creation of monopoly as contemplated under Article 19(6) of the Constitution, more so because this captive market consists only of State owned hospitals and dispensaries."
+  ],
+  "holding": [
+    "The impugned policy does not create a monopoly as contemplated under Article 19(6) of the Constitution.",
+    "There is no violation of Article 14 of the Constitution."
+  ],
+  "cases_cited": [
+    "Court in the cases of Oil & Natural Gas Commission & Anr. V. Association of Natural Gas Consuming Industries of Gujarat &",
+    "In Naraindass Indurkhya v. The",
+    "In Oil & Natural Gas Commission & Anr. V. Association of Natural Gas Consuming Industries of Gujarat &",
+    "Indian Drugs and Pharmaceuticals Limited and v Punjab Drugs Manufacturers Association",
+    "in supply of pump sets, this Court in Krishnan Kakkanth v. Government of Kerala &",
+    "of Sarkari Sasta Anaj Vikreta Sangh, Tahsil Bemetra & Ors. V. State of M",
+    "of the Karnataka High Court in A.C. Chandrakumar & Ors. V. State of Karnataka &",
+    "on the judgment of this Court in the case of R. D. Shetty v. I.A",
+    "passage from another judgment of this Court in Saghir Ahmad v. The",
+    "supra) and Hindustan Paper Corpn Ltd. v. Government of Kerala &",
+    "the Constitution. In the case of Hindustan Paper Corpn Ltd. v. Government of Kerala &",
+    "this Court in the case of Rai Sahib Ram Jawaya Kapur & Ors. V. The"
+  ]
+}

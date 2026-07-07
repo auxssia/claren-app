@@ -1,0 +1,59 @@
+{
+  "case_id": "C1830",
+  "case_name": "State of Maharashtra v Chandrabhan Tale",
+  "court": "Supreme Court of India",
+  "year": 1983,
+  "judges": [
+    "O. Chinnappa Reddy",
+    "Varadarajan"
+  ],
+  "bench": [],
+  "petitioner": "State of Maharashtra",
+  "respondent": "Chandrabhan Tale\nSupreme Court of India\n\n7 July 1983\nCivil Appeal No. 1976 of 1977. Appeal by Special leave from the Judgment and order dated the 30th September, 1976 of the Bombay High Court in S.C.A. No. 4292 of 1976. AND Civil Misc. Petition No. 6117 of 1980. (An Application for intervention) WITH Writ Petition No. 607 of 1980.\nThe Judgment was delivered by : O. Chinnappa Reddy, J.\n1. I agree with my learned brother, Varadarajan, J. that the second proviso to Rule 151 (i) (ii) (b) of the Bombay Civil Service Rules is void as it offends Arts. 14, 16 and 21 of the Constitution. The proviso provides for payment of subsistence allowance at the rate of Re. 1 per month to a government servant, who is convicted by a competent court and sentenced to imprisonment and whose appeal against the conviction and sentence is pending. The award of subsistence allowance at the rate of Re. 1 per month can only be characterised as ludicrous. It is mockery to say that subsistence",
+  "citations": [
+    "AIR 1963 SC 687"
+  ],
+  "statutes": [
+    {
+      "act": "Treatment Of Offenders Act",
+      "section": "18"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "7 July 1983",
+  "outcome": "Unknown",
+  "facts": [
+    "The respondent Chandrabhan Tale, a Head Constable in the Police Force, was prosecuted for offences under s. 161 I.P.C. and s. 5 (1) (d) read with s. 5 (2) of the Prevention of Corruption Act, 1947.",
+    "He was convicted by the Special Judge on 14.1.1976 and sentenced to undergo rigorous imprisonment for 6 months under s. 161 I.P.C. and for one year and fine of Rs. 100 under s. 5 (1) (d) read with s. 5 (2) of the Prevention of Corruption Act, 1947.",
+    "He was released on bail pending consideration of his appeal against the conviction.",
+    "The respondent filed Criminal Application No. 146 of 1976 before the learned Single Judge of the Bombay High Court under s. 482 Cr. P.C. challenging the order dated 22.1.1976 of the Superintendent of Police.",
+    "He was acquitted by the High Court and reinstated in service with all benefits."
+  ],
+  "issues": [
+    "Is the second proviso to Rule 151 (i) (ii) (b) of the Bombay Civil Services Rules, 1959 void as it offends Arts. 14, 16 and 21 of the Constitution?",
+    "Can a civil servant who has been convicted but not actually lodged in prison be entitled to only a nominal suspension allowance of Re. 1 per month?"
+  ],
+  "petitioner_arguments": [
+    "The second proviso will apply even to a civil servant who has been convicted but not actually lodged in prison and is released on bail pending consideration of his appeal.",
+    "What amount should be the subsistence allowance is a matter to be determined by the competent authority having power to make rules under Article 309 of the Constitution."
+  ],
+  "respondent_arguments": [
+    "The payment of subsistence allowance at the nominal rate of Re. 1 per month is illusory and totally unreasonable because that amount can never sustain any person for a month.",
+    "The said proviso will not in any case apply to a civil servant who is not lodged in prison but is allowed to continue on bail even after his conviction pending consideration of his appeal."
+  ],
+  "court_reasoning": [
+    "The object and purpose of the rule is to provide subsistence allowance pending suspension of the civil servant.",
+    "The words 'sentenced to imprisonment' occurring in the second proviso mean 'condemned to prison upon conviction'.",
+    "A civil servant who has been convicted and sentenced but has not been sent to prison and is otherwise free could not fall under the category of persons 'sentenced to imprisonment'.",
+    "The respondent who had not been sent to prison on conviction but has been released on bail for preferring an appeal and was allowed to continue to remain on bail even after the admission of his appeal would not fall under the second proviso."
+  ],
+  "holding": [
+    "The second proviso to Rule 151 (i) (ii) (b) of the Bombay Civil Services Rules, 1959 is void as it offends Arts. 14, 16 and 21 of the Constitution.",
+    "The respondent will be entitled to normal subsistence allowance under the main Rule 151 while he was not actually lodged in prison on conviction."
+  ],
+  "cases_cited": [
+    "In Kennedy v. Spratt"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "case_id": "C2376",
+  "case_name": "Union of India v Shree Gajanan Maharaj Sansthan",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [
+    "RAJENDRA BABU"
+  ],
+  "bench": [],
+  "petitioner": "Union of India",
+  "respondent": "Shree Gajanan Maharaj Sansthan\nSupreme Court of India\n\n29 April 2002\nC.A. No. 2727 of 1998 (Along with C.A. No. 5393/98 and W.P.(C) No. 632 of 2000)\nThe Judgment was delivered by: RAJENDRA BABU, J.\n1.  These are three matters, two of which are appeals arising out of orders made by two different High Courts and the third matter is a writ petition filed by the respondent  in Civil Appeal No. 2727/1998 in this Court directly u/art. 32 of the  Constitution .\nCivil Appeal No. 2727/1998\n2.  The respondent in this appeal registered as a charitable trust under the filed a writ petition before the Bombay High Court, Nagpur Bench, contending that S. 2(j) of the  Industrial Disputes Act, 1947  (hereinafter referred to as 'the Act') provides for definition of the expression \"industry\"; that this Court interpreted the said expression in Bangalore Water Supply and Sewarage Board vs. A. Rajappa",
+  "citations": [
+    "2000 LILR 152"
+  ],
+  "statutes": [
+    {
+      "section": "1(2)"
+    },
+    {
+      "section": "2(C)"
+    },
+    {
+      "section": "30"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "29 April 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "These are three matters, two of which are appeals arising out of orders made by two different High Courts and the third matter is a writ petition filed by the respondent in Civil Appeal No. 2727/1998 in this Court directly u/art. 32 of the Constitution.",
+    "The respondent in this appeal registered as a charitable trust under the filed a writ petition before the Bombay High Court, Nagpur Bench, contending that S.2(j) of the Industrial Disputes Act, 1947 (hereinafter referred to as 'the Act') provides for definition of the expression 'industry';",
+    "The Central Government took the stand that enforcing the provision under cl.(c) without providing for appropriate remedies to the employees working in hospitals, schools and temples they would, therefore, be rendered without any remedy in the event the said clause is put into force without enacting an appropriate law or making certain amendments in the existing laws.",
+    "The High Court took the view that the Central Government in notifying the date when the provisions of the Act will come into force will have to examine the attending circumstances before bringing the same into force and such a power would not empower the Central Government to decide whether to bring a particular provision into force or not."
+  ],
+  "issues": [
+    "Whether the definition of 'industry' in the Industrial Disputes Act, 1947 includes charitable trusts?",
+    "Whether the Central Government has arbitrarily withheld the enforcement of the said provision for a sufficiently long time and, therefore, a writ of mandamus needs to be issued to the Central Government to notify the date for bringing the provisions into force?"
+  ],
+  "petitioner_arguments": [
+    "The respondent contended that S.2(j) of the Industrial Disputes Act, 1947 provides for definition of the expression 'industry';",
+    "The respondent argued that the Central Government has arbitrarily withheld the enforcement of the said provision for a sufficiently long time and, therefore, a writ of mandamus needs to be issued to the Central Government to notify the date for bringing the provisions into force."
+  ],
+  "respondent_arguments": [
+    "The Central Government took the stand that enforcing the provision under cl.(c) without providing for appropriate remedies to the employees working in hospitals, schools and temples they would, therefore, be rendered without any remedy in the event the said clause is put into force without enacting an appropriate law or making certain amendments in the existing laws."
+  ],
+  "court_reasoning": [
+    "The Court observed that no mandamus could be issued to the Executive directing it to commence the operation of the enactment; that such a direction should not be construed as any approval by the Court of the failure on the part of the Central Government for a long period to bring the provisions of the enactment into force;",
+    "The Court held that when more than 18 years had elapsed, the appellant ought to examine and decide as to when it would be feasible to give effect to the provisions of the Amending Act."
+  ],
+  "holding": [
+    "The order made by the High Court is in challenge.",
+    "The Union of India should examine and decide within six months as to when it would be feasible to give effect to Sub-S.2 of S.1 of the Industrial Disputes Amending Act, 1982 contained in the Amending Act."
+  ],
+  "cases_cited": [
+    "Consumer Action Group and Anr. vs. State of T",
+    "Hamdard Dawakhana (Wakf) Lal Kuan, Delhi and Anr. vs. Union of India",
+    "In A.K. Roy vs. Union of India",
+    "In Aeltemesh Rein vs. Union of India",
+    "Rajnarain Singh vs. The Chirman",
+    "Suman Gupta and Ors. vs. State of J",
+    "and Agricultural Produce Market Committee vs. Ashok Harikuni",
+    "said expression in Bangalore Water Supply and Sewarage Board vs. A. Rajappa"
+  ]
+}

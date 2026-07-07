@@ -1,0 +1,77 @@
+{
+  "case_id": "C2322",
+  "case_name": "State of Uttar Pradesh v Kartar Singh",
+  "court": "Supreme Court of India",
+  "year": 1964,
+  "judges": [
+    "N. Rajagopala Ayyangar, J."
+  ],
+  "bench": [],
+  "petitioner": "State of Uttar Pradesh",
+  "respondent": "Kartar Singh\nSupreme Court of India\n\n6 February 1964\nCRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 164 of 1962. Appeal from the judgment and order dated May 2, 1962, of the Allahabad High Court in Criminal Revision No. 1579 of 1961.\nThe Judgment was delivered by : N. Rajagopala Ayyangar, J.\n1.  This appeal which comes before us on a certificate of fitness granted by the High Court of Allahabad under Art. 134(1)(c) of the Constitution, is against a judgment of that Court acquitting the respondent Kartar Singh of an offence under s. 7 read with s. 16 (1)(a) (i) of the Prevention of Food Adulteration Act, 1954 which may be conveniently referred to as the Act.\n2.  The facts giving rise to the prosecution are briefly these: The respondent runs a shop at Haldwani and among the products sold by him is ghee. On March 19, 1960 a quantity of the ghee was purchased by the Food Inspector of the area and he put samples of the purchase into three phials which were sea",
+  "citations": [],
+  "statutes": [],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "6 February 1964",
+  "outcome": "Unknown",
+  "facts": [
+    "The respondent runs a shop at Haldwani and among the products sold by him is ghee.",
+    "On March 19, 1960 a quantity of the ghee was purchased by the Food Inspector of the area and he put samples of the purchase into three phials which were sealed in the respondent's presence.",
+    "It may be mentioned that even in the seizure memo the Food Inspector noted the ghee purchased by him as 'pahadi ghee'.",
+    "One of the samples was forwarded to the Public Analyst to the Government of Uttar Pradesh for analysis forascertaining whether the said ghee was adulterated.",
+    "The respondent pleaded not guilty and entered on his defence.",
+    "Subsequently, the second sample was got analysed by the Director, Central Food Laboratory, who reported that his analysis disclosed a Reichert Value of 21-7 as against 22-5 of the Public Analyst.",
+    "The opinion expressed by him as regards the sample of ghee which he analysed was the same as that of the Public Analyst, viz., that the sample was adulterated.",
+    "The respondent led evidence to prove his purchase from Jodhpur but the learned Magistrate did not accept this case.",
+    "The other defence was a point of law relying on the decision of a Division Bench of the Allahabad High Court reported as State v. Malik Ram (A.I.R. 1962 All. 156).",
+    "The learned Judges who decided that case drew a distinction between ghee obtained from Cattle in the hill districts of Uttar Pradesh and those from cattle in the plains.",
+    "This decision was relied on by the respondent because the ghee sold by him was noted as 'pahadi ghee' by the Food Inspector.",
+    "The learned Magistrate held that this decision did not affect the present case because the Reichert value of the respondent's ghee was less than 26.",
+    "The Magistrate therefore convicted the respondent and sentenced him to rigorous imprisonment for a period of six months and a fine of Rs. 500 and in default to further imprisonment for three months.",
+    "The respondent preferred an appeal to the Sessions Judge Kumaon, and raised the same pleas and defenses as he put forward before the learned Magistrate.",
+    "The Sessions Judge concurred in the finding of the Magistrate regarding the story of the respondent having bought the ghee from Jodhpur, and he also agreed with the Magistrate about the effect of the decision of the Division Bench of the High Court which was also relied on before him.",
+    "The Sessions Judge, however, while upholding the conviction reduced the sentence of imprisonment from six months to one month and the fine to Rs. 200.",
+    "The respondent thereupon filed a Criminal Revision petition to the High Court under ss. 435 and 439 of the Criminal Procedure Code.",
+    "The learned Judge of the High Court agreed with the Courts below on the finding of fact as regards the Jodhpur origin of the ghee observing 'as the file stands I am satisfied that this ghee was of local origin'.",
+    "There was, of course, no point raised before him as regards the correctness of the analysis.",
+    "The learned Judge, however, held that the basis on which the Reichert value had been prescribed for the several areas in the country was not based on any rational classification and he therefore held that it was sufficient if any vendor of ghee in the country satisfied the minimum standards prescribed for any area under these rules.",
+    "As there were areas in the country in regard to which a minimum Reichert value of 21 had been prescribed, he held that the respondent was not guilty of adulteration and so directed his acquittal."
+  ],
+  "issues": [
+    "What is the meaning of 'adulterated' as defined in s. 2 of the Prevention of Food Adulteration Act?",
+    "Is the ghee sold by the respondent 'pahadi ghee' within the meaning of the rules framed under the Act?",
+    "Can the respondent be convicted of adulteration when the Reichert value of his ghee is less than 26, as prescribed for certain areas in Uttar Pradesh?",
+    "Does the decision of the Division Bench of the Allahabad High Court in State v. Malik Ram (A.I.R. 1962 All. 156) apply to this case?",
+    "Is the basis on which the Reichert value has been prescribed for the several areas in the country based on any rational classification?"
+  ],
+  "petitioner_arguments": [
+    "The respondent had obtained the ghee which he sold from Jodhpur.",
+    "The sample must be held not to be adulterated on the basis of the decision of the Allahabad High Court in State v. Malik Ram (A.I.R. 1962 All. 156).",
+    "The minimum Reichert value prescribed for ghee in Uttar Pradesh was 28, but the respondent's ghee had a Reichert Value of 22-5.",
+    "The respondent led evidence to prove his purchase from Jodhpur but the learned Magistrate did not accept this case.",
+    "The other defence was a point of law relying on the decision of a Division Bench of the Allahabad High Court reported as State v. Malik Ram (A.I.R. 1962 All. 156)."
+  ],
+  "respondent_arguments": [
+    "The ghee sold by him was noted as 'pahadi ghee' by the Food Inspector.",
+    "The learned Judges who decided that case drew a distinction between ghee obtained from Cattle in the hill districts of Uttar Pradesh and those from cattle in the plains.",
+    "This decision was relied on by the respondent because the ghee sold by him was noted as 'pahadi ghee' by the Food Inspector.",
+    "The learned Magistrate held that this decision did not affect the present case because the Reichert value of the respondent's ghee was less than 26.",
+    "The Sessions Judge concurred in the finding of the Magistrate regarding the story of the respondent having bought the ghee from Jodhpur, and he also agreed with the Magistrate about the effect of the decision of the Division Bench of the High Court which was also relied on before him."
+  ],
+  "court_reasoning": [
+    "The learned Judge held that the basis on which the Reichert value had been prescribed for the several areas in the country was not based on any rational classification and he therefore held that it was sufficient if any vendor of ghee in the country satisfied the minimum standards prescribed for any area under these rules.",
+    "As there were areas in the country in regard to which a minimum Reichert value of 21 had been prescribed, he held that the respondent was not guilty of adulteration and so directed his acquittal.",
+    "The learned Judge agreed with the Courts below on the finding of fact as regards the Jodhpur origin of the ghee observing 'as the file stands I am satisfied that this ghee was of local origin'.",
+    "There was, of course, no point raised before him as regards the correctness of the analysis."
+  ],
+  "holding": [
+    "The respondent was acquitted by the High Court on the ground that the basis on which the Reichert value had been prescribed for the several areas in the country was not based on any rational classification and it was sufficient if any vendor of ghee in the country satisfied the minimum standards prescribed for any area under these rules."
+  ],
+  "cases_cited": [
+    "Division Bench of the Allahabad High Court reported as State v. Malik Ram (A",
+    "basis of the decision of the Allahabad High Court in State v. Malik Ram (A",
+    "prescription of different standards to each of them. In State v. Malik Ram (A"
+  ]
+}

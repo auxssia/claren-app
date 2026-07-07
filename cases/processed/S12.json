@@ -1,0 +1,35 @@
+{
+  "case_id": "S12",
+  "case_name": "Punishment of criminal conspiracy",
+  "court": "",
+  "year": 1955,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "117"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "punishment of criminal conspiracy"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "(1) Whoever is a party to a criminal conspiracy... (2) Whoever is a party to a criminal conspiracy..."
+  ],
+  "holding": [
+    "shall be punished in the same manner as if he had abetted such offence",
+    "with imprisonment of either description for a term not exceeding six months, or with fine or with both."
+  ],
+  "cases_cited": []
+}

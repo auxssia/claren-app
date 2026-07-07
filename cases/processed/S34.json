@@ -1,0 +1,35 @@
+{
+  "case_id": "S34",
+  "case_name": "",
+  "court": "",
+  "year": 1955,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "335"
+    },
+    {
+      "section": "117"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "What constitutes voluntary causing of grievous hurt"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "Punishment with imprisonment for life or imprisonment up to 10 years and fine"
+  ],
+  "cases_cited": []
+}

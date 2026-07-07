@@ -1,0 +1,52 @@
+{
+  "case_id": "C536",
+  "case_name": "Bhagat Ram and Others v State of Punjab and Others",
+  "court": "Supreme Court of India",
+  "year": 1966,
+  "judges": [
+    "S. M. Sikri"
+  ],
+  "bench": [],
+  "petitioner": "Bhagat Ram and Others",
+  "respondent": "State of Punjab",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Or An Order Passed Under Section 36 Or 42 Of This Act",
+      "section": "21"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "2 December 1966",
+  "outcome": "Unknown",
+  "facts": [
+    "This is a petition under art. 32 of the Constitution challenging the scheme made in respect of the consolidation of village Dolike Sunderpur.",
+    "The relevant facts are contained in the affidavit of Jaswant Singh Bhutani, Officer on Special Duty, and are as follows :",
+    "As soon as a scheme comes into force, the management and control of all lands assigned or reserved for common purposes of the village under section 18, shall vest in the Panchayat of that village which shall also be entitled to appropriate the income accruing there from for the benefit of the village community, and the rights and interest of the owners of such lands shall stand modified -and extinguished accordingly."
+  ],
+  "issues": [
+    "Whether the scheme ill so far as it makes reservations of land for income of the Panchayat is hit by the second proviso to art. 31A.",
+    "Whether acquisition had already taken place before the Seventeenth Amendment came into force, and, therefore, the scheme is not bit by the second proviso to art. 31A."
+  ],
+  "petitioner_arguments": [
+    "The learned counsel for the petitioners relies on this fact and says that in view of s. 23A and s. 24 the 'acquisition' does not take place till all the persons entitled to possession of holdings under the Act have entered into possession, of the holdings.",
+    "Mr. Gossain, the learned counsel for the State, tried to meet this point by urging that by virtue of repartition under s. 21, the rights to possession of the new holdings were finalised and could be enforced."
+  ],
+  "respondent_arguments": [
+    "It has been argued that acquisition had already taken place before the Seventeenth Amendment came into force, and, therefore, the scheme is not bit by the second proviso to art. 31A."
+  ],
+  "court_reasoning": [
+    "We have indicated in our judgment in the companion case that no matter for what purpose the acquisition takes place, if the land of a tenant cultivating the land is reduced to something below the ceiling fixed by law compensation at a rate which is not lower than the market rate must be paid to him.",
+    "According to us the ceiling fixed by law is not to be reduced by acquisition by the State unless compensation at market rate is paid."
+  ],
+  "holding": [
+    "The scheme made in respect of the consolidation of village Dolike Sunderpur is hit by the second proviso to Art. 31A of the Constitution in so far as it reserves 100 kanals 2 marlas for the income of the Panchayat.",
+    "The State is directed to modify the scheme to bring it into accord with the second proviso as interpreted in the majority judgment in Civil Appeal No."
+  ],
+  "cases_cited": [
+    "Bhagat Ram and Others v State of Punjab",
+    "Sunderpur. We have today delivered judgment in Ajit Singh v. State of Punjab"
+  ]
+}

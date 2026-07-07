@@ -1,0 +1,57 @@
+{
+  "case_id": "C2831",
+  "case_name": "State of Bihar v Raj Narain Singh",
+  "court": "Supreme Court of India",
+  "year": 1991,
+  "judges": [],
+  "bench": [],
+  "petitioner": "State of Bihar",
+  "respondent": "Raj Narain Singh\nSupreme Court of India\n\n13 February 1991\nCr.A. No. 548 of 1989\nThe Order of the Court was as follows:\n1.  We have perused the different orders made by the court as also the report of the Registry dated February 6, 1991. We are satisfied that notice is sufficient in view of the circumstances indicated.\n2.  This is an appeal by special leave at the instance of the State of Bihar questioning the propriety of the decision of the Patna High Court, Ranchi Bench, rendered in exercise of powers under Section 482 of the Code of Criminal Procedure, 1973, quashing a pending criminal trial for offences punishable under Sections 307/34 read with Sections 120-B, 148 and 341 of the Indian Penal Code.\n3.  At the time the special leave petition was heard in this Court, the respondent was represented through counsel who participated in the hearing but later the said counsel was got discharged from the proceedings, therefore, necessity of issuing fresh notice to the resp",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "482"
+    },
+    {
+      "act": "Code Of Criminal Procedure For",
+      "section": "482"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "13 February 1991",
+  "outcome": "Unknown",
+  "facts": [
+    "The Order of the Court was as follows:",
+    "This is an appeal by special leave at the instance of the State of Bihar questioning the propriety of the decision of the Patna High Court, Ranchi Bench, rendered in exercise of powers under Section 482 of the Code of Criminal Procedure, 1973, quashing a pending criminal trial for offences punishable under Sections 307/34 read with Sections 120-B, 148 and 341 of the Indian Penal Code.",
+    "At the time the special leave petition was heard in this Court, the respondent was represented through counsel who participated in the hearing but later the said counsel was got discharged from the proceedings, therefore, necessity of issuing fresh notice to the respondent arose. Several attempts were made by the Registry of this Court to get the respondent served.",
+    "We have heard counsel for the appellant. We find that after the investigation, the police submitted charge-sheet and cognizance also appears to have been taken. The respondent made an attempt to have the order of cognizance assailed by filing a revision before the Additional Sessions Judge, but that having been rejected, the respondent moved the High Court under Section 482 of the Code of Criminal Procedure for quashing of the criminal action.",
+    "The reason given by the High Court for entertaining the petition for quashing and allowing the relief to the respondent is an analysis of the first investigation report and the statements of witnesses recorded during investigation and the discrepancy appearing therein is mainly in regard to the implications of the respondent by name.",
+    "We have been shown the petition of the respondent where he himself has disclosed an alias name for him being Rajan. Notwithstanding this admitted position the High Court has made capital of the fact that respondent Raj Narain Singh has been described in some of the documents appearing in the police papers as Rajan. Evidence has yet to be taken and the aspects which have been relied upon by the High Court could very well be clarified by evidence when the prosecution has its opportunity of placing the case through witnesses in court.",
+    "What the High Court has done is prejudging the question without affording reasonable opportunity to the prosecution to substantiate the allegations - a practice which has on more than one occasion been found fault with by this Court. Instead of referring to a series of decisions supporting the view, we find it enough to refer the case in Eastern Spinning Mills v. Rajiv Poddar 1984 Indlaw SC 18.",
+    "We are of the opinion that the High Court had no justification to interfere with the prosecution at the preliminary stage. We accordingly allow the appeal, set aside the decision of the High Court and restore the criminal case to its former position and direct the trial court to dispose of the matter in accordance with law."
+  ],
+  "issues": [
+    "The propriety of the decision of the Patna High Court, Ranchi Bench",
+    "Whether the High Court had justification to interfere with the prosecution at the preliminary stage"
+  ],
+  "petitioner_arguments": [
+    "The State of Bihar questioned the propriety of the decision of the Patna High Court, Ranchi Bench",
+    "The High Court had no justification to interfere with the prosecution at the preliminary stage"
+  ],
+  "respondent_arguments": [
+    "The respondent made an attempt to have the order of cognizance assailed by filing a revision before the Additional Sessions Judge",
+    "The discrepancy appearing in the first investigation report and the statements of witnesses recorded during investigation"
+  ],
+  "court_reasoning": [
+    "What the High Court has done is prejudging the question without affording reasonable opportunity to the prosecution to substantiate the allegations",
+    "Evidence has yet to be taken and the aspects which have been relied upon by the High Court could very well be clarified by evidence when the prosecution has its opportunity of placing the case through witnesses in court"
+  ],
+  "holding": [
+    "The appeal is allowed, the decision of the High Court is set aside, and the criminal case is restored to its former position",
+    "The trial court is directed to dispose of the matter in accordance with law"
+  ],
+  "cases_cited": []
+}

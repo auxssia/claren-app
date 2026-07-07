@@ -1,0 +1,35 @@
+{
+  "case_id": "S104",
+  "case_name": "",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "16"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The investigation under this Chapter shall be completed without unnecessary delay.",
+    "Every investigation in relation to rape of a child may be completed within three months from the date on which the information was recorded by the officer in charge of the police station.",
+    "The officer in charge of the police station shall forward to a Magistrate empowered to take cognizance of the offence on a police report, a report in the form prescribed by the State Government,"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The report shall be forwarded to a Magistrate empowered to take cognizance of the offence on a police report, stating the names of the parties, nature of the information, and other relevant details."
+  ],
+  "cases_cited": []
+}

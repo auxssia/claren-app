@@ -1,0 +1,89 @@
+{
+  "case_id": "C2002",
+  "case_name": "Ashutosh Gupta v State of Rajasthan and Others",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [
+    "G. B. Pattanaik"
+  ],
+  "bench": [],
+  "petitioner": "Ashutosh Gupta",
+  "respondent": "State of Rajasthan",
+  "citations": [
+    "1981 RULE 23"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "309"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "625"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "46"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "16"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "335"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "20 March 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant is a direct recruit to the Rajasthan Administrative Service, having been selected through the competitive examination held by the Rajasthan Public Service Commission.",
+    "The recruitment of the appellant had been made on 5.6.1975 under the Rajasthan Administrative Service Rules 1954.",
+    "Emergency recruitment had taken place under the aforesaid two Emergency Recruitment Rules, once in the year 1956 and another in the year 1959.",
+    "A set of Rules were framed by the Governor in exercise of power under the proviso to Article 309 of the Constitution on 29.9.1976, called 'The Rajasthan Administrative Service (Emergency Recruitment) Rules, 1976.'",
+    "Persons on being selected under the provisions of the aforesaid Emergency Recruitment Rules of 1976 were appointed on 6.11.1978.",
+    "A seniority list was published by the State Government on 2.6.1980 and in the aforesaid list persons recruited under the Recruitment Rules of 1976 were shown as senior to the directly recruited officers to the Rajasthan Administrative Service in the year 1974 and 1976.",
+    "A batch of Writ Petitions were filed by the direct recruits challenging the validity of Rule 25 of the Emergency Recruitment Rules 1976.",
+    "On 12.6.1981 Rule 23 of the Emergency Recruitment Rules of 1956 and 1959 were amended and under the amended provision the emergency recruits would rank junior to the special recruits and senior to the direct recruits appointed during the same year."
+  ],
+  "issues": [
+    "What is the constitutional validity of Rule 25 of the Emergency Recruitment Rules, 1976?",
+    "Is the classification made by Rule 25 discriminatory on its face?",
+    "Does the rule have a rational relation to the object sought to be achieved?"
+  ],
+  "petitioner_arguments": [
+    "The persons recruited to the Rajasthan Administrative Service under the Emergency Recruitment Rules of 1976 and persons appointed to the cadre under the Recruitment Rules of 1954, all form only one class.",
+    "The classification made by Rule 25 is discriminatory on its face.",
+    "There has been no intelligible differentia and there is no nexus between providing a notional year of allotment for those who were recruited under the Emergency Recruitment Rules of 1976 with any specific object sought to be achieved.",
+    "Rule 25 must be struck down as it violates Articles 14 and 16 of the Constitution of India."
+  ],
+  "respondent_arguments": [
+    "The recruitment to Rajasthan Administrative Service through a special emergency recruitment is not new to the State.",
+    "The process of selection, even for such emergency recruitment is either less competitive or the persons recruited are inefficient.",
+    "The rule has a rational relation to the object sought to be achieved, which is to man the cadre of the administrative service and the insufficient number existing at a point of time."
+  ],
+  "court_reasoning": [
+    "The Constitution itself provides for reservation in favour of Scheduled Castes and Scheduled Tribes.",
+    "The claims of the members of Scheduled Castes and Scheduled Tribes shall be taken into consideration, consistent with the maintenance of efficiency of administration.",
+    "If any statutory provision provides for a recruitment of a candidate without bearing in mind the maintenance of efficiency of administration such a provision cannot be sustained being against the Constitutional mandate."
+  ],
+  "holding": [
+    "The impugned provision contained in Rule 25 of the Emergency Recruitment Rules does not satisfy either of the conditions.",
+    "The rule has a rational relation to the object sought to be achieved, which is to man the cadre of the administrative service and the insufficient number existing at a point of time.",
+    "The appeal is dismissed."
+  ],
+  "cases_cited": [
+    "Ashutosh Gupta v State of Rajasthan",
+    "and K.P. Singhal vs. State of Rajasthan",
+    "upon the judgment of this Court in Anand .Parkash Saksena vs. Union of India"
+  ]
+}

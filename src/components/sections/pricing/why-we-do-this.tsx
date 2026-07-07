@@ -1,5 +1,3 @@
-"use client";
-
 import { SectionWrapper } from "@/components/common/section-wrapper";
 import { AnimatedSection } from "@/components/common/animated-section";
 

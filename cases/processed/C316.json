@@ -1,0 +1,109 @@
+{
+  "case_id": "C316",
+  "case_name": "Novartis India Limited v State Of West Bengal And Others",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "Novartis India Limited",
+  "respondent": "State Of West Bengal",
+  "citations": [
+    "1999 2 SCC 106",
+    "2003 6 SCC 579",
+    "2004 8 SCC 222",
+    "2005 5 SCC 124",
+    "2005 5 SCC 591",
+    "2005 6 SCC 36",
+    "2005 7 SCC 406",
+    "2006 1 SCC 479",
+    "2006 2 SCC 282",
+    "2006 4 SCC 733",
+    "2007 1 SCC 491",
+    "2007 1 SCC 566",
+    "2007 2 SCC 433",
+    "2007 5 SCC 591",
+    "2007 9 SCC 748"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Evidence Act, 1872"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "25"
+    },
+    {
+      "section": "17"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "2 December 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "The Judgment was delivered by : S.B.Sinha, J.",
+    "Appellant herein is a successor in interest of a company known as Sandoz (India) Limited.",
+    "Respondents were appointed as Sales Representatives by the said Santoz (India) Limited.",
+    "In October, 1994 respondent Nos.2 to 4 were transferred to Siwan, Karimganj and Farrukabad respectively.",
+    "They filed their representations requesting for withdrawal/cancellation of their respective orders of transfer.",
+    "The company, however, asked the respondents to report for duties at their respective transferred places.",
+    "Reminders were sent by the company to respondent Nos.2 and 4 on 1st April, 1995 while to respondent No.3 on 31st March, 1995.",
+    "As the respondents did not join at their transferred places, they were discharged from services by orders dated 15th April, 1995,"
+  ],
+  "issues": [
+    "Whether back wages should have been directed to be paid in favour of respondent Nos.2 to 4 by the Industrial Tribunal as also by the High Court of Calcutta"
+  ],
+  "petitioner_arguments": [
+    "That the Tribunal and consequently the High Court committed a serious error in awarding back wages in favour of respondent Nos.2 to 4 herein without taking into consideration the factors relevant therefor.",
+    "Respondents 2 to 4 had not discharged the onus placed on them to show that they were not employed elsewhere during the period of 3rd October, 1994 and the date of the award",
+    "The Tribunal applied the wrong test in so far as it proceeded on the basis that the order of termination being bad in law, back wages were to be paid automatically.",
+    "Learned Single Judge has failed to arrive at a finding as to why the back wages should be granted.",
+    "The Division Bench has also not assigned any reason in support of the findings as to why the back wages should be paid."
+  ],
+  "respondent_arguments": [
+    "That the back wages are granted in two different situations; i.e. firstly by way of consequential relief; and secondly by way of a compensation in a case where direction to reinstatement is not possible to be given.",
+    "Respondent Nos.2 to 4 having served the company for more than 25 years with all sincerity, their transfer to far away places only a few years prior to their dates of superannuation being mala fide, the same was liable to be set aside.",
+    "It was impossible for the respondents to get alternative employment at that age, back wages have rightly been granted in their favour."
+  ],
+  "court_reasoning": [],
+  "holding": [
+    "The termination of their services was held to be illegal as prior to issuance of the orders, no enquiry had been conducted. Back wages, therefore, could have been granted from the date of termination of service.",
+    "The appeal is dismissed with costs."
+  ],
+  "cases_cited": [
+    "A.P. SRTC v. Abdul Kareem",
+    "Again in U.P.S.R.T.C. Ltd. v. Sarada Prasad Misra",
+    "In A.P.S.R.T.C. and another v. B.S",
+    "In Allahabad Jal Sansthan v. Daya Shankar Rai",
+    "In G.M. Haryana Roadways v. Rudhan Singh",
+    "In J.K. Synthetics Ltd. v. K.P",
+    "In M.P. Sate Electricity Board v. Jarina Bee",
+    "In Madhya Pradesh Administration v. Tribhuvan",
+    "In Muir Mills Unit of NITC (U.p.) Ltd. v. Swayam Prakash Srivastava",
+    "In Nicks (India) Tools v. Ram Surat",
+    "Labour Court and P. Chennaiah v. Dy. Executive Engineer",
+    "Munafkhan, Macneil and Magor Ltd. v. First Addl",
+    "Novartis India Limited v State Of West Bengal",
+    "See also A.P. State Road Transport Corporation and others v. Abdul Kareem",
+    "See also Jasbir Singh v. Punjab & Sind Bank &",
+    "This Court in State Bank of India v. Anjan Sanyal",
+    "Yet again in U.P. State Brassware Corporation Ltd. v. Uday Narain Pandey",
+    "and Kirtiben B. Amin v. Mafatlal Apparels",
+    "and Rajasthan SRTC v. Shyam Bihari Lal Gupta",
+    "and Rajasthan State Road Transport Corporation and others v. Shyam BiharI Lal Gupta",
+    "during the pendency of the proceedings. (Carona Sahu Co. Ltd. v. A.K",
+    "law on point is no more res integra. This Court in A.P. SRTC v. S. Narsagoud succinctly crystallised",
+    "our attention to the decision of this Court in Dena Bank v. Kirti Kumar T",
+    "reported as Bikash Bhushan Ghosh and others v. Novartis India Ltd",
+    "this behalf refer to the decisions of this Court in A.P. SRTC v. S. Narsagoud",
+    "till the date of the award. (Visveswaraya Iron and Steel Ltd. v. M. Chandrappa",
+    "to a decision of the Bombay High Court in Navin J. Surti v. Modi Rubber Ltd",
+    "unemployment. This Court in a recent case of State of Punjab v. Bhagwan Singh has held that even if",
+    "working. (Daladdi Coop. Agriculture Service Society Ltd. v. Gurcharan Singh"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "case_id": "C2572",
+  "case_name": "Food Corporation of India, Kakinada, Represented v Yarlagadda Narayana Apparao and Others",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Food Corporation of India, Kakinada, Represented",
+  "respondent": "Yarlagadda Narayana Apparao",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "14224"
+    },
+    {
+      "section": "5048"
+    },
+    {
+      "section": "23(2)"
+    },
+    {
+      "act": "Constitution of India"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "17 September 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "Challenge in these appeals is to the judgment of the learned Single Judge of the Andhra Pradesh High Court allowing the Civil Revision Petition Nos.5048 and 5088 of 2001, filed by the present respondent no.1 in each case.",
+    "The basic dispute relates to liability to interest on the amount envisaged under Section 23(2) of the Land Acquisition Act, 1894 (in short the 'Act') conveniently called 'solatium'.",
+    "Mr. Amrendra Sharan, Additional Solicitor General, submitted that both Prem Nath's case and Sunder's case were considered by a Constitution Bench of this Court in Gurpreet Singh v. Union of India.",
+    "In response, learned counsel for the respondent submitted that the High Court's judgment does not suffer from any infirmity to warrant interference."
+  ],
+  "issues": [
+    "Whether the view of the High Court is correct or not",
+    "Whether the decision in Prem Nath Kapur and Sunder v. Union of India applies"
+  ],
+  "petitioner_arguments": [
+    "The view in Prem Nath's case was stated to be correct one in Gurpreet Singh v. Union of India",
+    "The High Court's judgment does not suffer from any infirmity to warrant interference"
+  ],
+  "respondent_arguments": [
+    "The High Court's judgment does not suffer from any infirmity to warrant interference"
+  ],
+  "court_reasoning": [
+    "We are satisfied that the essential ratio in Prem Nath Kapur on appropriation being at different stages is justified",
+    "An execution court cannot go behind the decree",
+    "If the award of the Reference Court or that of the appellate court does not specifically refer to the question of interest on solatium, then it would be open to the execution court to apply the ratio of Sunder"
+  ],
+  "holding": [
+    "The appeals are disposed of without any order as to costs",
+    "The matter is remitted to the High Court for fresh consideration"
+  ],
+  "cases_cited": [
+    "Food Corporation of India, Kakinada, Represented v Yarlagadda Narayana Apparao",
+    "that the decision of this Court in Prem Nath Kapur and Anr. v. National Fertilizer Corpn"
+  ]
+}

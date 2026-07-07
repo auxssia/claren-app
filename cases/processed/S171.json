@@ -1,0 +1,40 @@
+{
+  "case_id": "S171",
+  "case_name": "Questions to be determined by the Court executing decree",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "3"
+    },
+    {
+      "section": "20"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The decree was passed in a suit between parties.",
+    "A question arises as to whether any person is or is not the representative of a party.",
+    "A purchaser of property at a sale in execution of a decree shall be deemed to be a party to the suit in which the decree is passed."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "For the purposes of this section, a plaintiff whose suit has been dismissed and a defendant against whom a suit has been dismissed are parties to the suit.",
+    "A purchaser of property at a sale in execution of a decree shall be deemed to be a party to the suit in which the decree is passed."
+  ],
+  "holding": [
+    "The Court executing the decree shall determine all questions arising between the parties to the suit in which the decree was passed, or their representatives, and relating to the execution, discharge or satisfaction of the decree."
+  ],
+  "cases_cited": []
+}

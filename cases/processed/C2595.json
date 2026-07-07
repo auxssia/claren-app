@@ -1,0 +1,78 @@
+{
+  "case_id": "C2595",
+  "case_name": "State of Haryana v Prabhu and Others",
+  "court": "Supreme Court of India",
+  "year": 1978,
+  "judges": [
+    "UNTWALIA, J."
+  ],
+  "bench": [],
+  "petitioner": "State of Haryana",
+  "respondent": "Prabhu",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "325"
+    },
+    {
+      "section": "149"
+    },
+    {
+      "section": "342"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "12 December 1978",
+  "outcome": "Unknown",
+  "facts": [
+    "There are nine respondents in this appeal filed by the State of Haryana on grant of special leave by this Court.",
+    "The trial Court convicted each of the said respondents u/s. 302 read with S. 149 of the Indian Penal Code, 1860 and awarded life imprisonment to each.",
+    "The High Court of Punjab and Haryana has acquitted Prabhu, respondent 1 and Hoshiar, respondent 6 of all the charges accepting their plea of alibi.",
+    "It has maintained the conviction of seven other respondents only u/s. 325 read with S. 149 of the Indian Penal Code, 1860 and not u/s. 302 read with S. 149.",
+    "The State had presented this appeal for setting aside the acquittal of Prabhu and Hoshiar and convicting them along with other respondents u/s. 302 read with S. 149 of the Indian Penal Code, 1860.",
+    "Respondent Prabhu is the Sarpanch of the village in the outskirts of which the occurrence took place.",
+    "He had some enmity with Mohar Singh, PW, one of the injured persons in the occurrence.",
+    "On June 7, 1973 Kalu, the deceased, Mohar Singh, Ganpat, Rameshwar, Mainpal and Sultan, PWs went in the morning to Narnaul to attend C.I.A. office.",
+    "They were there till 5.00 or 6.00 p.m. They boarded a railway train at Narnaul and got down at Ateli railway station at about 9.00 or 10.00 p.m.",
+    "Their village was at a distance of about three miles from Ateli railway station.",
+    "When they were going to their village and were at a distance of about 3/4th of a mile from it they are said to have been attacked by the respondents and the acquitted accused Harphool.",
+    "The lathi injuries inflicted on Kalu proved fatal.",
+    "Some of the PWs also received injuries, a few of them being grievous."
+  ],
+  "issues": [
+    "Whether the High Court committed an error in converting the conviction of the seven respondents from one u/s. 302 read with S. 149 to S. 325 read with S. 149 Indian Penal Code, 1860.",
+    "Whether respondent Sheoram could be and ought to have been convicted u/s. 302 simpliciter."
+  ],
+  "petitioner_arguments": [
+    "The first submission was that the High Court committed an error in converting the conviction of the seven respondents from one u/s. 302 read with S. 149 to S. 325 read with S. 149 Indian Penal Code, 1860.",
+    "It was strenuously urged before us that the mob had not only the common object to kill Kalu but on the facts of this case they had even the common intention.",
+    "The submission was that the members of the unlawful assembly knew that in prosecution of the common object of assaulting the members of the complainant's party murder was likely to be caused."
+  ],
+  "respondent_arguments": [
+    "It may well be that the High Court was not quite right in its legal approach to this question, but we do not propose to detain ourselves on this aspect of the matter, as, in our opinion, it has not been satisfactorily established on the medical evidence that Sheoram was responsible for the fatal injury on the person of Kalu."
+  ],
+  "court_reasoning": [
+    "The inference drawn by the High Court on the facts of this case is correct and justified and does not call for any interference.",
+    "We do not think that justice requires the setting aside of the order of acquittal in his favour and sending him to jail now."
+  ],
+  "holding": [
+    "Sheoram, therefore, on the facts of this case could not be and cannot be convicted u/s. 302 Indian Penal Code, 1860.",
+    "The case against him [Prabhu] is doubtful.",
+    "His participation in the assault becomes doubtful.",
+    "Hoshiar's plea of alibi of having been admitted in the Rewari Hospital was consistent."
+  ],
+  "cases_cited": [
+    "State of Haryana v Prabhu"
+  ]
+}

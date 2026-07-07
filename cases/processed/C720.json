@@ -1,0 +1,74 @@
+{
+  "case_id": "C720",
+  "case_name": "Kishori v State of Delhi",
+  "court": "Supreme Court of India",
+  "year": 1998,
+  "judges": [
+    "S. Rajendra Babu"
+  ],
+  "bench": [],
+  "petitioner": "Kishori",
+  "respondent": "State of Delhi\nSupreme Court of India\n\n1 December 1998\nCr.As. No. 147 of 1998 with No. 148 of 1998 (From the Judgment and Order Dt. 24 October 1997 of the Delhi High Court in Murder Ref. No. 1 of 1997)\nThe Judgment was delivered by : S. Rajendra Babu, J.\n1.  When the country was mourning the assassination of Smt. Indira Gandhi on October 31, 1984, on that night and for the next two days, nets broke out In several places including Delhi when several persons belonging to sikh community were killed. Three persons, viz., Kishori, Mohd. Abbas and Dull Chand were charged with having committed the murder of Sajjan Singh, his younger brother Hoshiar Singh and several other sikhs including Kishan Singh. An Enquiry Committee was constituted and on the basis of the recommendations made by the Enquiry Committee, a complaint was registered In terms of Section 173 of the Code of Criminal Procedure. In an affidavit filed, Smt. Bhakti Bai w/o Sajjan Singh had stated that a mob attacked her h",
+  "citations": [
+    "AIR 1995 SC 1935"
+  ],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "173"
+    },
+    {
+      "act": "Ipc Attributing Them With The Act",
+      "section": "149"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "1 December 1998",
+  "outcome": "Unknown",
+  "facts": [
+    "When the country was mourning the assassination of Smt. Indira Gandhi on October 31, 1984, on that night and for the next two days, nets broke out In several places including Delhi when several persons belonging to sikh community were killed.",
+    "Three persons, viz., Kishori, Mohd. Abbas and Dull Chand were charged with having committed the murder of Sajjan Singh, his younger brother Hoshiar Singh and several other sikhs including Kishan Singh.",
+    "An Enquiry Committee was constituted and on the basis of the recommendations made by the Enquiry Committee, a complaint was registered In terms of Section 173 of the Code of Criminal Procedure.",
+    "The prosecution examined 14 witnesses of whom the testimonies of PW3, Asaudi Kaur, PW4, Burfi Kaur, wife of Hoshiar Singh; PW5 Bhakti Bai, wife of Sajjan Singh; PW6,Vidya Kaur, daughter of Sajjan Singh; PW7, Hari Singh; PW9 Ganga Kaur and other witnesses are relevant for consideration.",
+    "The Sessions Court believed the eye witness account of Asaudi Kaur, Bhakti Bai and Burfi Kaur and held that their version was trustworthy even after considering the statement of the accused recorded under Section 313 CrPC and convicted them of the offences under Section 148 IPC, 302 IPC read with Section 149 IPC and passed the sentence of death on Kishori, while life imprisonment was imposed on the other two accused."
+  ],
+  "issues": [
+    "Whether the appellant was part of the mob and was he responsible in any manner for the death of the said persons, Sajjan Singh, Hoshiar Singh and Inder Singh.",
+    "What should be the sentence imposed upon accused whether we should affirm the death sentence imposed upon him or a lesser sentence should be given."
+  ],
+  "petitioner_arguments": [
+    "The offence was committed under the influence of extreme emotional disturbance and is a state of frenzy following the unfortunate gruesome and tragic assassination of Smt. Indira Gandhi.",
+    "The appellant is not habitual criminal; that he was probably instigated to indulge in riots by leaders belonging to political parties;",
+    "There is no motive or the acts have been done as a result of pre-meditation;",
+    "The deaths were the result of cumulative effect of different types of injuries inflicted by members of riotous mob by use of different weapons such as lathis, iron bars, daggers in their hands;",
+    "In the absence of any medical evidence to establish that the deaths were caused only on account of the injuries stated to have been inflicted by each one of them cannot be guilty but to each member of the mob and therefore the appellant should not be Imposed death sentence.",
+    "Every probability that the appellant would not commit criminal act of violence as would constitute a continuing threat to society and he can be reformed and rehabilitated."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The evidence tendered by PW5, Bhakti Bai, is categorical in stating that Kishori, appellant, was present at the time of attack by the members of the mob and she was able to identify him in the court as well.",
+    "She is clear that several blows were inflicted on her husband.",
+    "Her version appears to be natural and probable when she stated a mob attacked her house and there was threat to the lives and honour of women, it is quite natural that she had to go out of the house.",
+    "Though certain discrepancies are sought to be attributed in the course of cross examination as to her husband, Inder Singh, having concealed himself in 'tand' in the room and her husband having cried out Kishori, being his friend, should not kill him or that quilt being rolled upon her husband she has been firm in stating that death of her husband, Inder Singh, took place in her presence on account of injuries inflicted by the mob and she is also equally clear as to the presence of the appellant, Kishori, in the mob having Khanjarm his hand.",
+    "Matters of detail as to the roles attributed to the several persons in the mob or narration as to the succession of events that took place may not be of much relevance."
+  ],
+  "holding": [
+    "The High Court and the Sessions Court were justified in affirming the conviction of the accused, Kishori.",
+    "We have carefully and thoroughly examined the record and do not find any such discrepancy which would have a bearing on the evidence tendered by the eye witnesses to the effect that death of their respective husbands and in identifying the presence of the accused in the mob which indulged in their killing."
+  ],
+  "cases_cited": [
+    "Ajmer Singh & Ors. vs. State of Punjab",
+    "Balrai vs. State of U",
+    "Ediga Anamma vs. State of Andhra Pradesh",
+    "Hardayal vs. State of U",
+    "Kesar Singh vs. State of Punjab",
+    "Machhi Singh & Ors. v. State of Punjab",
+    "Sarwan Singh & Ors. vs. State of Punjab",
+    "Shankar alies Gauri Shankar & Ors. vs. State of T",
+    "Shivaji Genu Mohite vs. State of Maharashtra",
+    "State of U.P. Vs. Bhoora &",
+    "shown- Relying upon the decision of this Court in Surja Ram vs. State of Rajasthan"
+  ]
+}

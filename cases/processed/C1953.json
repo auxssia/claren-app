@@ -1,0 +1,50 @@
+{
+  "case_id": "C1953",
+  "case_name": "Byathaiah (Kum) and Others v Pentaiah (Kum) and Others",
+  "court": "Supreme Court of India",
+  "year": 2000,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Byathaiah (Kum) and Others",
+  "respondent": "Pentaiah (Kum)",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code Of Civil Procedure",
+      "section": "100"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "27 April 2000",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants who are the original plaintiffs have brought in challenge on the grant of leave to appeal under Article 136 of the Constitution of India, a decision of the High Court in second appeal dismissing the same on the ground that in earlier litigation between the parties, the matter was finally concluded.",
+    "It is the case of the appellant-plaintiffs that they and Defendants 4 and 5 were members of a joint family and according to them even though the minor plaintiffs had interest in the suit properties, their father and uncle who are the vendors had executed the documents, had transferred joint family properties in favour of the alienees and those transactions were not binding on the appellant-plaintiffs.",
+    "The trial court decreed the suit. However, the first appellate court reversed the said decision and that resulted in the second appeal before the High Court."
+  ],
+  "issues": [
+    "Whether the controversy between the parties was decided in favour of the respondents in earlier litigation between the same parties",
+    "Whether the suit could be said to be barred by res judicata between the parties"
+  ],
+  "petitioner_arguments": [
+    "The appellants were claiming independent right over the suit properties which according to them could not have been alienated by the vendors in favour of the vendees.",
+    "They did not claim through their father and uncle, the original vendors, but they were claiming independent right over the suit properties"
+  ],
+  "respondent_arguments": [
+    "The controversy between the parties was decided in favour of the respondents in earlier litigation between the same parties",
+    "The suit could be said to be barred by res judicata between the parties"
+  ],
+  "court_reasoning": [
+    "If that was factually correct, no exception could have been taken against the said reasoning.",
+    "However, it transpires from the record that the earlier litigation was between the original vendors and the original vendees. So far as the present appellant-plaintiffs are concerned, they were claiming independent right over the suit properties which according to them could not have been alienated by the vendors in favour of the vendees."
+  ],
+  "holding": [
+    "The appeal is allowed. The impugned judgment of the High Court is set aside.",
+    "Second Appeal No. 809 of 1987 is restored to the file of the High Court with a request to redecide the same in accordance with law in the light of the limited jurisdiction available to it under Section 100 of the Code of Civil Procedure."
+  ],
+  "cases_cited": [
+    "Byathaiah (Kum) and Others v Pentaiah (Kum"
+  ]
+}

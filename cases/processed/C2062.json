@@ -1,0 +1,90 @@
+{
+  "case_id": "C2062",
+  "case_name": "S.P.S. Rathore v State of Haryana and Others",
+  "court": "Supreme Court of India",
+  "year": 2005,
+  "judges": [
+    "Y. K. Sabharwal, J."
+  ],
+  "bench": [],
+  "petitioner": "S.P.S. Rathore",
+  "respondent": "State of Haryana",
+  "citations": [
+    "1981 2 SCC 493",
+    "1983 4 SCC 141",
+    "1984 3 SCC 82",
+    "1985 4 SCC 677",
+    "1987 1 SCC 265",
+    "1989 4 SCC 730",
+    "1990 1 SCC 422",
+    "1991 2 SCC 373",
+    "1993 2 SCC 746",
+    "1994 6 SCC 565",
+    "1995 3 SCC 702",
+    "1997 1 SCC 416",
+    "1999 7 SCC 298",
+    "2000 2 SCC 465",
+    "2000 4 SCC 543"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "354"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Theft",
+  "court_level": "Supreme Court",
+  "decision_date": "6 May 2005",
+  "outcome": "Unknown",
+  "facts": [
+    "The challenge in this appeal is to the impugned judgment and order of the High Court directing the District Judge to conduct an enquiry to ascertain the truth of the averments made by Ashu Girhotra, respondent No. 5 in his affidavit dated 3rd December, 2001 to the effect that he was implicated in false criminal cases and harassed by the police at the instance of the appellant, a police officer.",
+    "A news report published in Chandigarh News Line dated 5th December, 2000 stated that between 6th September,1992 and 30th August, 1993 six first information reports were registered in police station, Panchkula in State of Haryana against Ashu Girothra, respondent No. 5, his friend Sandeep Verma, respondent No. 6 and Gajinder Singh in car theft cases.",
+    "The Chief Judicial Magistrate, Panchkula by order dated 30th April, 1997 discharged respondent Nos. 5 and 6 in the aforementioned cases on the ground that there was no prima- facie material for framing charges against them.",
+    "An affidavit dated 3rd December, 2001, was filed by respondent No. 5 in the High Court narrating the incidents that led to the filing of complaint by his sister against the appellant for offences under Section 354 of Indian Penal Code.",
+    "Pursuant to order of the Court, first information report was registered under Sections 354 and 509 Indian Penal Code on 29th December, 1999.",
+    "Respondent No. 5 was arrested on 25th October, 1993 and was tortured by the police and was forced to sign the confessional statements.",
+    "He was released on 29th December, 1993 the day on which his sister committed suicide."
+  ],
+  "issues": [
+    "What is the basis for the High Court's order directing an enquiry into the allegations made by respondent No. 5?",
+    "Can the Court order payment of compensation to respondent No. 5 without a prima facie or established violation of fundamental right guaranteed by the Constitution of India?"
+  ],
+  "petitioner_arguments": [
+    "The appellant in his affidavit before the High Court refuted the allegations made against him.",
+    "He described the alleged incident of molestation as false and fabricated.",
+    "He further stated that he was not involved in the registration of FIRs against respondent No. 5 and that he has not used his position to pressurize the family of respondent No. 5 to persuade respondent No. 5's sister to withdraw the FIR lodged against him.",
+    "During the time the cases were registered and investigated upon, the concerned police officials were not working under his administrative control and that there is no material to show that he has used his position to implicate respondent No. 5 in the cases."
+  ],
+  "respondent_arguments": [
+    "The allegations made by respondent No. 5 have been emphatically denied by the appellant.",
+    "In order to ascertain the true facts, it would be necessary to allow the parties to lead their evidence.",
+    "The Court can award compensation for the violation of fundamental rights guaranteed by the Constitution but such a power should not be lightly exercised."
+  ],
+  "court_reasoning": [
+    "Mere fact that six FIRs were lodged against respondent No. 5, two of which were dropped by the Police after investigation and he was discharged in the other four cases by the Chief Judicial Magistrate, Panchkula, by itself is not enough to hold that he had been falsely implicated in criminal cases in order to put pressure on him to persuade his sister to withdraw the complaint lodged against the appellant.",
+    "The allegations were indeed serious and if they are true, there may be a case for awarding compensation to respondent No. 5 against the State and against the police officers as well."
+  ],
+  "holding": [
+    "The matter was remitted to the District Judge, Patiala with a direction that he should himself record the evidence of the parties and submit a report to the High Court as to whether the averments made by respondent No. 5 in his affidavit are true or not; whether respondent No. 5 was harassed by the police at the instance of petitioner; whether FIRs lodged against respondent No. 5 were false and whether those FIRs were lodged at the instance of petitioner, as alleged."
+  ],
+  "cases_cited": [
+    "Arvinder Singh Bagga v. State of U",
+    "Bhim Singh, MLA v. State of J & K &",
+    "Chairman, Railway Board & Ors. v. Chandrima Das (Mrs",
+    "D. K. Basu v. State of W",
+    "In Chairman, Grid Corporation of Orissa Ltd. (Gridco) & Ors. v. Sukamani Das (Smt",
+    "In Khatri & Ors. (IV) v. State Of Bihar &",
+    "In Nilabati Behera v. State of Orissa &",
+    "Inder Singh v. State of Punjab &",
+    "P.Rathinam v. Union of India &",
+    "Peoples' Union For Democratic Rights & Anr. v. Police Commissioner",
+    "Peoples' Union For Democratic Rights v. State of Bihar&",
+    "S.P.S. Rathore v State of Haryana",
+    "Saheli, A Women's Resources Centre & Ors. v. Commissioner of Police",
+    "State of Maharashtra & Ors. v. Ravikant S",
+    "This legal position has been reiterated in D. K. Basu v. State Of W",
+    "adduced by the parties. In Tamil Nadu Electricity Board v. Sumathi &",
+    "such a power should not be lightly exercised. In Rudul Sah v. State of Bihar &"
+  ]
+}

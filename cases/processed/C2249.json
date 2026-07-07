@@ -1,0 +1,60 @@
+{
+  "case_id": "C2249",
+  "case_name": "Anukul Chandra Pradhan, Advocate, Supreme Court v Union Of India And Others",
+  "court": "Supreme Court of India",
+  "year": 1997,
+  "judges": [
+    "J. S. Verma"
+  ],
+  "bench": [],
+  "petitioner": "Anukul Chandra Pradhan, Advocate, Supreme Court",
+  "respondent": "Union Of India",
+  "citations": [
+    "1982 1 SCC 691"
+  ],
+  "statutes": [
+    {
+      "section": "62"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "9 July 1997",
+  "outcome": "Unknown",
+  "facts": [
+    "Anukul Chandra Pradhan, Advocate, Supreme Court v Union Of India And Others",
+    "The Constitutional validity of sub- s.(5) of S.62 of the Representation of the People Act 1951 is challenged.",
+    "S.62 relates to right to vote and is as under: '62. Right to vote.- (1) No person who is not, a except as expressly provided by this Act, every person who is, for the time being entered in the electoral roll of: any constituency shall be entitled to vote in that constituency.",
+    "The proviso to Sub- s.(5) carves out an exception for a person subjected to preventive detention under any law for the time being in force."
+  ],
+  "issues": [
+    "Is sub-section (5) of S.62 of the Representation of the People Act 1951 constitutional?",
+    "Does the restriction on voting rights apply only to persons who are confined in prison or in lawful custody of the police?"
+  ],
+  "petitioner_arguments": [
+    "The expression 'or otherwise' in sub-s.(5) of S.62 has a very wide connotation and denies voting right even to under-trials and other persons detained in a prison for any reason, including the reason of inability to finish bail.",
+    "The restriction applies to a person in lawful custody of the police which would include a person detained during investigation before a chargesheet has been filed against him.",
+    "This is discrimination and violates Art.14 of the Constitution."
+  ],
+  "respondent_arguments": [
+    "Any provision enacted with a view to promote this object must be welcome and upheld as subsisting the Constitutional purpose.",
+    "The existing conditions in which the law has to be applied cannot be ignored in adjudging its validity because it is relatable to the object sought to be achieved by the legislation."
+  ],
+  "court_reasoning": [
+    "The classification made by sub-s.(5) of S.62 is reasonable or not There are provisions made in the election law which exclude persons with criminal background of the kind specified therein, from the election scene as candidates and voters.",
+    "Preventive detention differs from imprisonment on conviction or during investigation of the crime of an accused which permits separate classification of the detenus under preventive detention."
+  ],
+  "holding": [
+    "The challenge to the Constitutional validity of sub-s.(5) of S.62 is based primarily on Art.14 of the Constitution.",
+    "However, for the purpose of the present challenge, it is sufficient to say that preventive detention differs from imprisonment on conviction or during investigation of the crime of an accused which permits separate classification of the detenus under preventive detention."
+  ],
+  "cases_cited": [
+    "Anukul Chandra Pradhan, Advocate, Supreme Court v Union Of India",
+    "In Jyoti Basu v. Debi Ghosal",
+    "and Jagan Nath v. Jaswant Singh",
+    "ln Jumuna Prasad Mukhariya and Others v. Lachhi Ram",
+    "nature of right conferred by the statute. In N.P. Ponnuswami v. Returning Officer",
+    "rights have been explained by the Court in N.P. Ponnuswami v. Returning Officer"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "case_id": "C2430",
+  "case_name": "Lalli Alias Chiranjib Bhowmick v State of West Bengal",
+  "court": "Supreme Court of India",
+  "year": 1986,
+  "judges": [
+    "MADON, J."
+  ],
+  "bench": [],
+  "petitioner": "Lalli Alias Chiranjib Bhowmick",
+  "respondent": "State of West Bengal\nSupreme Court of India\n\n11 March 1986\nCr.A. No. 582 of 1982\nThe Judgment was delivered by: MADON, J.\n1.  The Appellant along with some of his co-accused was convicted and sentenced by the Additional Sessions Judge, 11th Court, Alipore, under S. 396 read with S. 34 of the Indian Penal Code, 1860 to imprisonment for life. The Appellant as also the same co-accused were also convicted and sentenced under S. 201 read with S. 34 of the Indian Penal Code, 1860 to rigorous imprisonment for six years. Both these sentences were directed to run concurrently. The appeal filed by the Appellant as also his co-accused were dismissed by the Calcutta High Court.\n2.  The main evidence against the Appellant was that of an eye-witness, Haradhan Das, who was the twenty-sixth witness examined by the prosecution. At the hearing of this Appeal some minor discrepancies in the evidence of the said eye-witness were sought to be relied upon by learned Counsel",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "11 March 1986",
+  "outcome": "Unknown",
+  "facts": [
+    "The Appellant along with some of his co-accused was convicted and sentenced by the Additional Sessions Judge, 11th Court, Alipore, under S. 396 read with S. 34 of the Indian Penal Code, 1860 to imprisonment for life.",
+    "The main evidence against the Appellant was that of an eye-witness, Haradhan Das, who was the twenty-sixth witness examined by the prosecution.",
+    "What was, however, vehemently urged by learned Counsel for the Appellant was that there was a delay of about 56 days in recording the police statement of the said witness and, therefore, his evidence should be rejected.",
+    "In the result, this Appeal fails and is dismissed."
+  ],
+  "issues": [
+    "Whether the delay in recording the police statement of the eye-witness affects the credibility of his testimony"
+  ],
+  "petitioner_arguments": [
+    "The minor discrepancies relied upon by learned Counsel hardly require noticing because they do not in any manner affect the credibility of the said witness.",
+    "There was a delay of about 56 days in recording the police statement of the said witness and, therefore, his evidence should be rejected."
+  ],
+  "respondent_arguments": [
+    "A clear, cogent and satisfactory explanation has been given why the statement of Haradhan Das was recorded after the lapse of about 56 days.",
+    "The learned Additional Sessions Judge has carefully considered this explanation and accepted it and so has the High Court"
+  ],
+  "court_reasoning": [
+    "All the points sought to be made by learned Counsel have been considered by the learned Additional Sessions Judge and his findings have been confirmed by the High Court.",
+    "We see no reason to interfere with this concurrent finding."
+  ],
+  "holding": [
+    "This Appeal fails and is dismissed."
+  ],
+  "cases_cited": [
+    "this submission, a decision of this Court in State of Orissa v. Brahmananda Nanda"
+  ]
+}

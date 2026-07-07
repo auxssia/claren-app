@@ -1,0 +1,32 @@
+{
+  "case_id": "S54",
+  "case_name": "Punishment for criminal intimidation",
+  "court": "STATE",
+  "year": 1956,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "117"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "Punishment for criminal intimidation"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "Imprisonment of 7 years, or fine or both"
+  ],
+  "cases_cited": []
+}

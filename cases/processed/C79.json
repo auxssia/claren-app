@@ -1,0 +1,40 @@
+{
+  "case_id": "C79",
+  "case_name": "Soni v State of Uttar Pradesh",
+  "court": "Supreme Court of India",
+  "year": 1981,
+  "judges": [
+    "V. D. Tulzapurkar"
+  ],
+  "bench": [],
+  "petitioner": "Soni",
+  "respondent": "State of Uttar Pradesh\nSupreme Court of India\n\n6 March 1981\nCr.A. No. 252 of 1981\nThe Judgment was delivered by: V. D. Tulzapurkar, J.\nSpecial leave granted.\n1.  After hearing counsel on either side we are satisfied that the conviction of the appellant for the offence of dacoity is difficult to sustain. The conviction rests purely upon his identification by five witnesses, Smt. Koori, Pritam Singh, Kewal, Chaitoo and Sinru, but it cannot be forgotten that the identification parade itself was held after a lapse of 42 days from the date of the arrest of the appellant. This delay in holding the identification parade throws a doubt on the genuineness thereof apart from the fact that it is difficult that after lapse of such a long time the witnesses would be remembering the facial expressions of the appellant. If this evidence cannot be relied upon there is no other evidence which can sustain the conviction of the appellant.\nWe therefore allow the appeal and acquit the appellant.\nApp",
+  "citations": [],
+  "statutes": [],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "6 March 1981",
+  "outcome": "Unknown",
+  "facts": [
+    "After hearing counsel on either side we are satisfied that the conviction of the appellant for the offence of dacoity is difficult to sustain.",
+    "The conviction rests purely upon his identification by five witnesses, Smt. Koori, Pritam Singh, Kewal, Chaitoo and Sinru,"
+  ],
+  "issues": [
+    "difficulty in sustaining the conviction"
+  ],
+  "petitioner_arguments": [
+    "the identification parade itself was held after a lapse of 42 days from the date of the arrest of the appellant",
+    "it is difficult that after lapse of such a long time the witnesses would be remembering the facial expressions of the appellant"
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The delay in holding the identification parade throws a doubt on the genuineness thereof apart from the fact that it is difficult",
+    "If this evidence cannot be relied upon there is no other evidence which can sustain the conviction of the appellant"
+  ],
+  "holding": [
+    "We therefore allow the appeal and acquit the appellant.",
+    "Appeal allowed."
+  ],
+  "cases_cited": []
+}

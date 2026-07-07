@@ -1,0 +1,44 @@
+{
+  "case_id": "C794",
+  "case_name": "G. Mohan v State By Cbi",
+  "court": "Supreme Court of India",
+  "year": 2004,
+  "judges": [],
+  "bench": [],
+  "petitioner": "G. Mohan",
+  "respondent": "State By Cbi, Bangalore\nSupreme Court of India\n\n17 August 2004\nCr.A. No. 83 of 1999\nThe Order of the Court was as follows:\nHeard the parties.\n1.  The appellant was convicted by the trial court under Section 5(1)(d) read with Section 5(2) of the Prevention of Corruption Act, 1947 and Section 165 of the Indian Penal Code, 1860 and sentenced to undergo simple imprisonment for one year and to pay a fine of Rs.600, in default to suffer further simple imprisonment for three months on each count. On appeal being preferred, the High Court confirmed the conviction. Hence, this appeal by special leave.\n2.  Having heard the parties and perused the impugned judgment, we are of the view that after meticulously examining the oral and documentary evidence adduced by the parties, the claim of the appellant that refrigerator was purchased by mother of the appellant by paying price thereof, has been disbelieved and prosecution case, that for purchase of refrigerator entire price was paid in t",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "165"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "17 August 2004",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant was convicted by the trial court under Section 5(1)(d) read with Section 5(2) of the Prevention of Corruption Act, 1947 and Section 165 of the Indian Penal Code, 1860.",
+    "On appeal being preferred, the High Court confirmed the conviction.",
+    "The present case is not a case of direct evidence, but it is a case of circumstantial evidence",
+    "The two courts below have come to the conclusion after threadbare discussion of evidence"
+  ],
+  "issues": [
+    "Whether the payment of price was made by the person in whose favour refund order was passed and the price was paid for no other purpose except by way of illegal gratification to the appellant in kind."
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "It is well settled that even in cases under the Prevention of Corruption Act, it is not necessary that the prosecutor is required to prove its case only by direct evidence and the same can be based upon circumstantial evidence alone.",
+    "The two courts below have come to the conclusion after threadbare discussion of evidence"
+  ],
+  "holding": [
+    "The appeal, accordingly, fails and is dismissed as such.",
+    "Bail bonds of the appellant, who is on bail, are cancelled and he is directed to be taken into custody forthwith to serve remaining period of sentence."
+  ],
+  "cases_cited": [
+    "G. Mohan v State By Cbi"
+  ]
+}

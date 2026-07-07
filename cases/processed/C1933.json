@@ -1,0 +1,105 @@
+{
+  "case_id": "C1933",
+  "case_name": "Dhanapal v State By Public Prosecutor",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [
+    "HON'BLE JUSTICE DALVEER BHANDARI"
+  ],
+  "bench": [],
+  "petitioner": "Dhanapal",
+  "respondent": "State By Public Prosecutor, Madras\nSupreme Court of India\n\n1 September 2009\nCr.A. No.987 of 2002\nThe Judgment was delivered by : HON'BLE JUSTICE DALVEER BHANDARI\n1.  This appeal has been filed u/s. 2(a) of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970 against the judgment and order dated 11.6.2002 passed by the High Court of Judicature at Madras in Criminal Appeal No. 217 of 1993.\n2.  Brief facts which are necessary to dispose of this appeal are recapitulated as under:\n3.  The appellant herein along with the other accused were acquitted by the Sessions Judge, Thanjavur in Sessions Case No. 36 of 1989 of offences punishable u/ss. 307 and 302 read with s. 34 of the Indian Penal Code, 1860 (for short 'IPC').\n4.  The High Court in the impugned judgment set aside the acquittal recorded by the Sessions Judge and allowed the appeal filed by the State. The High Court held accused nos.1, 2 and 4 guilty for an offence punishable u/s. 302 read with s. 34",
+  "citations": [
+    "AIR 1934 PRIVY COUNCIL 227",
+    "AIR 1952 SC 52",
+    "AIR 1954 SC 1",
+    "AIR 1955 SC 807",
+    "AIR 1957 SC 216",
+    "AIR 1963 SC 200"
+  ],
+  "statutes": [
+    {
+      "section": "2(A)"
+    },
+    {
+      "section": "307"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "1"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "section": "313"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    },
+    {
+      "section": "417"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "1 September 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant herein along with the other accused were acquitted by the Sessions Judge, Thanjavur in Sessions Case No. 36 of 1989 of offences punishable u/ss. 307 and 302 read with s. 34 of the Indian Penal Code, 1860.",
+    "Sebastiraj P.W.1 and Karunanidhi P.W.2 were friends of deceased Jambu.",
+    "The motive for the occurrence as per the prosecution is that P.W.1's sister was living with the appellant and subsequently died six months prior to the occurrence.",
+    "P.W.1 consoled him stating that they were abusing him only because of frustration and everything would be alright after a lapse of time.",
+    "On 8.5.1988 at about 12.00 noon when P.W.2 was talking to Jambu near the railway gate, Sebastiraj P.W.1 invited Jambu to go to Sebastiar temple.",
+    "The deceased was attacked near the house of one Subramania Thevar by the side of a light post in 19th Street, Burma Colony.",
+    "Inspector of Police P.W.10 took up investigation, went to the scene of crime at about 6.30 p.m. and on account of lack of sufficient light, he did not hold the inquest, but went and searched for the accused after posting two constables to protect the body of the deceased."
+  ],
+  "issues": [
+    "Whether the High Court was justified in setting aside the acquittal recorded by the Sessions Judge and convicting the appellant and other accused?",
+    "Whether the prosecution has proved its case beyond reasonable doubt?"
+  ],
+  "petitioner_arguments": [
+    "The trial court acquitted the accused as there was no specific evidence that the deceased took any food.",
+    "The medical evidence does not support the prosecution case.",
+    "The testimony of P.W.2 is also not wholly reliable."
+  ],
+  "respondent_arguments": [
+    "The High Court held accused nos. 1, 2 and 4 guilty for an offence punishable u/s. 302 read with s. 34 Indian Penal Code, 1860 and imposed sentence of life imprisonment.",
+    "The High Court discarded the version of the trial court by observing that there is no evidence pertaining to the time when they had eaten the food."
+  ],
+  "court_reasoning": [
+    "The High Court was not justified in weaving out a different and new prosecution version.",
+    "The Court is under the bounden duty and obligation to deal with the evidence as it is.",
+    "No improvement or rewriting of evidence is permissible.",
+    "In our considered view, the impugned judgment of the High Court is contrary to the settled legal position and deserves to be set aside."
+  ],
+  "holding": [
+    "We hold that the view taken by the trial court was certainly a possible or a plausible view. It is a well-settled legal position that when the view which has been taken by the trial court is a possible view, then the acquittal cannot be set aside by merely substituting its reasons by the High Court."
+  ],
+  "cases_cited": [
+    "Dhanapal v State By Public Prosecutor",
+    "In Bhagwan Singh & Others v. State of M",
+    "In Bishan Singh & Others v. The",
+    "In Chandrappa & Others v. State of Karnataka",
+    "In Ghurey Lal v. State of Uttar Pradesh",
+    "In Harijana Thirupala & Others v. Public Prosecutor",
+    "In K. Gopal Reddy v. State of A",
+    "In Khedu Mohton & Others v. State of Bihar",
+    "In Sambasivan & Others v. State of Kerala",
+    "In State of Goa v. Sanjay Thakran & Another",
+    "In State of Rajasthan v. Raja Ram",
+    "In Tota Singh & Another v. State of Punjab",
+    "In Tulsiram Kanu v. The",
+    "The same principle has been followed in Atley v. State of U",
+    "This Court in the case of Surajpal Singh & Others v. State"
+  ]
+}

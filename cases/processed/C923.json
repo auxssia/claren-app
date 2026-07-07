@@ -1,0 +1,61 @@
+{
+  "case_id": "C923",
+  "case_name": "Navganbhai Somabhai and Others v State of Gujarat",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Navganbhai Somabhai and Others",
+  "respondent": "State of Gujarat\nSupreme Court of India\n\n22 September 1993\nCr.A. No. 667 of 1982\nThe Order of the Court was as follows:\n1.  Thirteen accused convicted by the High Court preferred a special leave petition. This Court granted leave only in respect of original accused 4, 9, 12 and 13 i. e. petitioners 10, 11, 12 and 13 and dismissed the same in respect of",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "323"
+    },
+    {
+      "section": "149"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "326"
+    },
+    {
+      "section": "304"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "22 September 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "Thirteen accused convicted by the High Court preferred a special leave petition.",
+    "An incident took place on June 3, 1979 at about 11.30 a.m. at Village Matoda, Ahmedabad District, during the course of which one Cheha Mana, the deceased in the case, was killed and two other persons who figured as PWs 1 and 4 received a number of injuries on vital parts.",
+    "The trial court acquitted A-4, A-9, A-12, A-13 and A-14 and convicted the remaining accused under Section 326 read with Section 149 IPC and also under Sections 324 and 326 IPC.",
+    "The High Court confirmed the acquittal of A-14 and set aside the acquittal of A-4, A-9 and A-12 & A-13 and allowed the State appeal and convicted all the remaining 13 accused under Section 304 Part I, IPC read with Section 149 IPC and sentenced each of them to undergo four years' RI.",
+    "The prosecution mainly relied on the evidence of two injured witnesses and the accused pleaded not guilty",
+    "During the occurrence, the accused were also throwing stones on the deceased and PWs 1 and 4."
+  ],
+  "issues": [
+    "Whether the view taken by the trial court regarding the acquittal of the appellants is reasonable?",
+    "Whether the High Court was correct in convicting the appellants under Section 304 Part I, IPC read with Section 149 IPC?"
+  ],
+  "petitioner_arguments": [
+    "The view taken by the trial court regarding the acquittal of the appellants is reasonable and since a large number of accused were implicated certain tests applied by the trial court are sound and, therefore, the view taken by the trial court ought not to have been disturbed by the High Court",
+    "Even if the eyewitnesses have improved and have not given consistent version regarding the part played by each of the accused that by itself will not be a ground to acquit the accused"
+  ],
+  "respondent_arguments": [
+    "The evidence of PWs 1 and 4, the injured witnesses, is generally acceptable regarding the presence and participation of the appellants in the sense that they continued to be the members of the unlawful assembly",
+    "There are no grounds to interfere."
+  ],
+  "court_reasoning": [
+    "What the court has to see is whether the assailants formed into unlawful assembly and shared the common object either by participation or by being present as members of unlawful assembly knowing that such common object would be to cause grievous hurt",
+    "As matter of fact, the trial court rightly observed that the witness is not there to count blows and had no photographic memory as to what happened and in such a case only general evidence is given"
+  ],
+  "holding": [
+    "The appeal is dismissed."
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,85 @@
+{
+  "case_id": "C286",
+  "case_name": "Y. Abraham Ajith & Ors v Inspector Of Police, Chennai & Anr",
+  "court": "Supreme Court of India",
+  "year": 2004,
+  "judges": [
+    "Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Y. Abraham Ajith & Ors",
+  "respondent": "Inspector Of Police, Chennai &",
+  "citations": [
+    "AIR 1961 SC 1589",
+    "AIR 1961 SC 1601",
+    "AIR 1963 SC 1620",
+    "AIR 1973 SC 908"
+  ],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "482"
+    },
+    {
+      "act": "Dowry Prohibition Act",
+      "section": "4"
+    },
+    {
+      "act": "The Code",
+      "section": "482"
+    },
+    {
+      "act": "The Code",
+      "section": "484"
+    },
+    {
+      "act": "The Code",
+      "section": "177"
+    },
+    {
+      "act": "The Code",
+      "section": "178"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "17 August 2004",
+  "outcome": "Unknown",
+  "facts": [
+    "Appellants call in question legality of the judgment rendered by a learned Single Judge of the Madras High Court whereby the appellants' prayer for quashing proceedings in CC 3532 of 2001 on the file of the Court of XVIII Metropolitan Magistrate Saidapet, Chennai, by exercise of powers under Section 482 of the Code of Criminal Procedure, 1973 (in short 'the Code') was rejected.",
+    "Respondent no.2 as complainant filed complaint in the Court of the concerned magistrate alleging commission of offences punishable under Sections 498A and 406 of the Indian Penal Code, 1860 (in short the 'IPC') and Section 4 of the Dowry Prohibition Act, 1961 ( in short the 'Dowry Act' ).",
+    "The complaint itself disclosed that after 15.4.1997, the respondent left Nagercoil and came to Chennai and was staying there.",
+    "All the allegations which are per se without any basis took place according to the complainant at Nagercoil, and therefore, the Courts at Chennai did not have the jurisdiction to deal with the matter.",
+    "It was further submitted that earlier a complaint was lodged by the complainant before the concerned police officials having jurisdiction; but after inquiry no action was deemed necessary."
+  ],
+  "issues": [
+    "Whether the High Court erred in rejecting the appellants' prayer for quashing proceedings in CC 3532 of 2001 on the file of the Court of XVIII Metropolitan Magistrate Saidapet, Chennai.",
+    "Whether the Courts at Chennai had jurisdiction to deal with the matter."
+  ],
+  "petitioner_arguments": [
+    "The approach of the High Court is clearly erroneous.",
+    "A bare reading of the complaint would go to show that no part of the cause of action arose within the jurisdiction of the Court where the complaint was filed.",
+    "Therefore, the entire proceedings had no foundation."
+  ],
+  "respondent_arguments": [
+    "The offences were continuing in terms of Section 178(c) of the Code, and therefore The Court had the jurisdiction to deal with the matter.",
+    "Section 177 of the Code deals with the ordinary place of inquiry and trial, and reads as follows: 'Every offence shall ordinarily be inquired into and tried by a Court within whose local jurisdiction it was committed.'"
+  ],
+  "court_reasoning": [
+    "The expression 'cause of action' is therefore not a stranger to criminal cases.",
+    "It must include some act done by the latter since in the absence of such an act no cause of action would possibly accrue or would arise.",
+    "Every fact, which is necessary to be proved, as distinguished from every piece of evidence, which is necessary to prove such fact, comprises in 'cause of action' .",
+    "The expression 'cause of action' has sometimes been employed to convey the restricted idea of facts or circumstances which constitute either the infringement or the basis of a right and no more.",
+    "In a wider and more comprehensive sense, it has been used to denote the whole bundle of material facts."
+  ],
+  "holding": [
+    "The proceedings are quashed."
+  ],
+  "cases_cited": [
+    "As observed by this Court in State of Bihar v. Deokaran Nenshi",
+    "Banwarilal Jhunjhunwalla and Ors. v. Union of India",
+    "Y. Abraham Ajith & Ors v Inspector Of Police",
+    "and Mohan Baitha and Ors. v. State of Bihar"
+  ]
+}

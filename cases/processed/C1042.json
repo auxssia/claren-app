@@ -1,0 +1,64 @@
+{
+  "case_id": "C1042",
+  "case_name": "Naresh Kumar Goyal v Union of India and Others",
+  "court": "Supreme Court of India",
+  "year": 2005,
+  "judges": [
+    "B. P. Singh"
+  ],
+  "bench": [],
+  "petitioner": "Naresh Kumar Goyal",
+  "respondent": "Union of India",
+  "citations": [
+    "1979 1 SCC 465",
+    "1982 2 SCC 403",
+    "1992 1 SCC 434",
+    "1998 8 SCC 402",
+    "2000 8 SCC 630"
+  ],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "7"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "5 October 2005",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant claims to be one of the partners of M/s. Prakash Transport, a partnership firm having its principal place of business at Kolkatta with branch offices all over India including one at Raxaul in the State of Bihar.",
+    "According to the appellant, on August 28, 2001 a Nepalese firm M/s. Prakash International Carriers Pvt. Ltd., Kathmandu, Nepal, hired a vehicle owned by one Shri Vishwanath Prasad Kanu, a Nepalese citizen, for transportation of goods from the godown of the appellant's firm at Raxaul to Nepal.",
+    "The truck hired by the aforesaid Nepalese firm was detained at the Indian Land Custom Station at Raxaul and an idol kept in a wooden box was recovered.",
+    "This led to the search of the premises of the appellant's firm at Raxaul and the search resulted in the recovery of another idol kept in a wooden box."
+  ],
+  "issues": [
+    "Whether the High Court was justified in law in not exercising its discretion under Article 226 of the Constitution of India to quash the order of detention at the pre-arrest stage."
+  ],
+  "petitioner_arguments": [
+    "Once it is shown that the State has taken no steps to execute an order of detention and the explanation furnished by the State is unsatisfactory, it must be held that the order of detention was not issued for the purpose for which it could be issued under the Act, and necessarily implied that the real purpose was something else, not authorized by law.",
+    "Expeditious steps must be taken by the State both in the matter of passing the order of detention and in executing the same."
+  ],
+  "respondent_arguments": [
+    "The question involved in the instant appeal is not whether the order of detention should be struck down on the ground that the State of Bihar has not taken necessary steps to implement the order of detention, but whether at the pre-arrest stage the High Court should have exercised its jurisdiction under Article 226 of the Constitution of India to quash the order of detention on such grounds."
+  ],
+  "court_reasoning": [
+    "Preventive detention is devised to afford protection to society.",
+    "The object is not to punish a man for having done something but to intercept before he does it, and to prevent him from doing so.",
+    "Inordinate delay, for which no adequate explanation is furnished, led to the assumption that the live and proximate link between the grounds of detention and the purpose of detention is snapped."
+  ],
+  "holding": [
+    "The order of detention was not issued for the purpose for which it could be issued under the Act, and necessarily implied that the real purpose was something else, not authorized by law."
+  ],
+  "cases_cited": [
+    "Ashok Kumar vs. Delhi Administration",
+    "In Sayed Taher Bawamiya Vs. Joint Secretary to",
+    "In Union of India and others vs. Parasmal Rampuria",
+    "Naresh Kumar Goyal v Union of India",
+    "P.U. Iqbal vs. Union of India",
+    "and Bhawarlal Ganeshmalji vs. State of Tamilnadu",
+    "decisions of this Court in Addl. Secy. to the Govt. of India Vs. Alka Subhash Gadia",
+    "of Additional Secretary to the Government of India and others Vs. Smt"
+  ]
+}

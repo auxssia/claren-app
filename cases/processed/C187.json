@@ -1,0 +1,63 @@
+{
+  "case_id": "C187",
+  "case_name": "Chinnaswamy v State Of Andhra Pradesh",
+  "court": "Supreme Court of India",
+  "year": 1962,
+  "judges": [
+    "Kailas Nath Wanchoo, J."
+  ],
+  "bench": [],
+  "petitioner": "Chinnaswamy",
+  "respondent": "State Of Andhra Pradesh\nSupreme Court of India\n\n25 July 1962\nCriminal Apeal No. 6 of\n1960\nThe Judgment was delivered by : Kailas Nath Wanchoo, J.\n1.  This is an appeal by special leave against the judgment of the Andhra Pradesh High Court. The appellant was convicted under s. 411 of the Indian Penal Code by the Assistant Sessions Judge of Kurnool. Along with him, another person Hussain Saheb was also tried and was convicted under so. 457 and 380 of the Indian Penal Code. The case for the prosecution briefly was that the house of Rahayya in Dudyia was burgied on the night of April 20, 1957. Ramayya and his wife were sleeping outside and on waking in the morning they found that the house had been burgled and valuable property stolen. The matter was reported to the police and during the course of investigation the police recovered 17 ornaments on the information given by the appellant. The other accused had also given information on the basis of which another stolen ornament",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    },
+    {
+      "section": "27"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "25 July 1962",
+  "outcome": "Unknown",
+  "facts": [
+    "This is an appeal by special leave against the judgment of the Andhra Pradesh High Court.",
+    "The case for the prosecution briefly was that the house of Rahayya in Dudyia was burgied on the night of April 20, 1957.",
+    "Ramayya and his wife were sleeping outside and on waking in the morning they found that the house had been burgled and valuable property stolen.",
+    "The matter was reported to the police and during the course of investigation the police recovered 17 ornaments on the information given by the appellant.",
+    "The Assistant Sessions Judge on a consideration of the evidence came to the conclusion that the other accused had actually committed house breaking and had removed ornaments from the house of Ramayya and had handed over 17 ornaments out of that property to the appellant."
+  ],
+  "issues": [
+    "Whether the High Court's order directing retrial was proper",
+    "Whether the High Court exceeded its jurisdiction in setting aside the acquittal"
+  ],
+  "petitioner_arguments": [
+    "The main contention of the appellant before us is that this was a revision by a private party.",
+    "There were no exceptional circumstances in this case which would justify the High Court in interfering with an order of acquittal at the instance of a private party.",
+    "Further, it is urged that s. 439 (4) of the Code of Criminal Procedure specifically forbids the High Court from converting a finding of acquittal into one of conviction"
+  ],
+  "respondent_arguments": [
+    "The High Court has allowed the revision and directed that the matter should go back to the Sessions Judge so that the accused should be re tried on the charges on which they had been brought to trial on the former occasion."
+  ],
+  "court_reasoning": [
+    "Though sub s. (1) of s. 439 of the Criminal Procedure Code authorises the High Court to exercise in its discretion any of the powers conferred on a court of appeal by s. 423, yet sub a. (4) specifically excludes the power to 'convert a finding of acquittal into one of conviction'.",
+    "This does not mean that in dealing with a revision petition by a private party against an order of acquittal, the High Court can in the absence of any error on a point of law reappraise the evidence and reverse the findings of facts on which the acquittal was based, provided only it stops short of finding the accused guilty and passing sentence on him by ordering a retrial."
+  ],
+  "holding": [
+    "The order of the High Court setting aside the order of acquittal in this case cannot be upheld",
+    "The matter should go back to the Sessions Judge so that the accused should be re tried on the charges on which they had been brought to trial on the former occasion"
+  ],
+  "cases_cited": [
+    "Sessions Judge in this connection relied on Pulukuri Kotayya v. King Emperor",
+    "by this Court on a number of occasions. In D, Stephens v. Nosibolla"
+  ]
+}

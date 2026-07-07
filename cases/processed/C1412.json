@@ -1,0 +1,63 @@
+{
+  "case_id": "C1412",
+  "case_name": "M. K. Agarwal v Gurgaon Gramin Bank and Others",
+  "court": "Supreme Court of India",
+  "year": 1987,
+  "judges": [
+    "VENKATACHALIAH, J."
+  ],
+  "bench": [],
+  "petitioner": "M. K. Agarwal",
+  "respondent": "Gurgaon Gramin Bank",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "20 November 1987",
+  "outcome": "Unknown",
+  "facts": [
+    "The special leave petition, directed against the order dated February 1, 1983 of the High Court of Punjab and Haryana in C.W.P. No. 5003 of 1982 and the writ petition invoking Art. 32 of the Constitution, pertain to the same subject-matter and raise the question as to the constitutional validity of Regulation 10(2)(a) of the Gurgaon Gramin Bank (Staff) Services Regulations, 1980 ('Regulations' for short) enabling a termination, simpliciter and consequently, of the validity of the order dated August 17, 1982 of Gurgaon Gramin Bank ('Bank' for short) terminating the petitioner's services as Branch Manager in exertion of the said Regulation.",
+    "Petitioner was selected by the Guragaon Gramin Bank as a Trainee Branch Manager and after training, appointed as Branch Manager on probation at its Mohna Branch with effect from October 16, 1978. The period of probation was one year in the first instance, with power to the Bank to extend the probation for a further period of six months at the end of which the probationer would either be confirmed if he was found suitable or if, otherwise, discharged from service.",
+    "Apparently, the course of petitioner's service did not run smooth. There were allegations against him - some of them quite serious - of acts of bad faith including that he was not disbursing the loans granted to the gramin borrowers the full sanctioned amounts, but was helping himself to some portions of it.",
+    "However, the Bank did not initiate disciplinary proceedings against the petitioner; but on August 17, 1982 the Bank terminated his services invoking and relying upon the said Regulation 10(2)(a) which enabled a termination simpliciter.",
+    "Petitioner's appeal to the Board of Directors of the Bank was turned down on August 28, 1982. Thereafter, petitioner moved the High Court in CWP No. 5003/1982. The High Court, dismissed the writ petition by its order dated February 1, 1983, now under appeal."
+  ],
+  "issues": [
+    "Whether the petitioner became a full member of the service upon the expiry of the period of probation",
+    "Whether the impugned Regulation 10(2)(a) is unconstitutional as granting an arbitrary and unregulated power and therefore violative of Art. 14 of the Constitution",
+    "If the first two questions are held in his favour, whether petitioner is entitled to be reinstated in service with full back salary"
+  ],
+  "petitioner_arguments": [
+    "The period of the probation was one year, in the first instance.",
+    "The employer could extend it only for a further period of six more months.",
+    "In cases where, as here, these conditions coalesce, it has been held, there would be confirmation by implication.",
+    "This Court dealing with the constitutionality of similar provisions which enabled governmental authorities such terminations simpliciter has held that the constitutional pledge of equality and the constitutional guarantee against arbitrary action contained in Article 14, frown upon conferment on the State or its instrumentalities such arbitrary power."
+  ],
+  "respondent_arguments": [
+    "The Bank is constituted under the Regional Rural Banks Act, 1976.",
+    "Having regard to its constitution and nature of its legal entity and the measure of state control, it is an instrumentality of the State and is made of latter's own 'flesh and bones' and is, accordingly, 'State' within the meaning, and for purposes of Art. 12 of the Constitution",
+    "The said Regulation 10(2)(a) provides: (a) Termination of service by notice.",
+    "(ii) employee after giving him one months' notice or pay in lieu thereof",
+    "This Court dealing with the constitutionality of similar provisions which enabled governmental authorities such terminations simpliciter has held that the constitutional pledge of equality and the constitutional guarantee against arbitrary action contained in Article 14, frown upon conferment on the State or its instrumentalities such arbitrary power."
+  ],
+  "court_reasoning": [
+    "The said Regulation 10(2)(a) conferring as it does, on the Bank an arbitrary and unguided power is unconstitutional.",
+    "Consequently, the order dated, August 17, 1982 of purported termination (Annexure 10) of petitioner's services, which has for its foundation a provision which is unconstitutional would require to be and is hereby quashed.",
+    "This Court can in appropriate case, decline reinstatement."
+  ],
+  "holding": [
+    "The impugned Regulation 10(2)(a) conferring as it does, on the Bank an arbitrary and unguided power is unconstitutional. Consequently, the order dated, August 17, 1982 of purported termination (Annexure 10) of petitioner's services, which has for its foundation a provision which is unconstitutional would require to be and is hereby quashed."
+  ],
+  "cases_cited": [
+    "M. K. Agarwal v Gurgaon Gramin Bank",
+    "O. P. Bhandari v. Indian Tourism Development Corpn",
+    "Om Prakash Maurya v. U.P",
+    "such arbitrary power. W.B. State Electricity Board v. D. B"
+  ]
+}

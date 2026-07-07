@@ -1,0 +1,77 @@
+{
+  "case_id": "C2669",
+  "case_name": "Manjula Sinha v State of Uttar Pradesh and Others",
+  "court": "Supreme Court of India",
+  "year": 2007,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Manjula Sinha",
+  "respondent": "State of Uttar Pradesh",
+  "citations": [
+    "AIR 1964 SC 1",
+    "AIR 1996 SC 922"
+  ],
+  "statutes": [
+    {
+      "act": "A And 406 Of The Indian Penal Code",
+      "section": "498"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "482"
+    },
+    {
+      "act": "The Code",
+      "section": "482"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "11 July 2007",
+  "outcome": "Unknown",
+  "facts": [
+    "The Judgment was delivered by : Dr. Arijit Pasayat, J.",
+    "Leave granted.",
+    "Appellant calls in question legality of the order passed by a Division Bench of the Allahabad High Court dismissing petition filed for quashing the First Information Report (in short the 'FIR') dated 30th April, 2005 registered as Crime No. 124 of 2005 for alleged commission of offences punishable under Section 498 A and 406 of the Indian Penal Code, (in short the 'IPC') in Police Station in Sector 39, Noida, District Goutam Budha Nagar.",
+    "On the basis of complaint filed, proceedings were initiated.",
+    "The main stand before the High Court was that even on a bare reading of the FIR, it is clear that alleged commission of offence was not made out so far as the appellant is concerned.",
+    "The High Court found that the application was to be rejected as no ground was made out for quashing the proceedings.",
+    "It however directed that the appellant shall not be arrested till submission of the police report.",
+    "Further condition was stipulated that the appellant has to pay Rs.1000/- per month towards maintenance to the respondent No.4.",
+    "The order was passed purportedly following the principles set out in this Court in Bodhisattwa Gautam v. Subhra Chakrabarti (AIR 1996 SC 922).",
+    "It is further submitted that if the articles are identified same shall be returned and therefore the proceedings should not continue."
+  ],
+  "issues": [
+    "The legality of proceedings was questioned before the High Court by a petition filed under Section 482 of the Code of Criminal Procedure, 1973 (in short the 'Cr.P.C.')",
+    "What is the scope of inherent jurisdiction under Section 482 Cr.P.C.?"
+  ],
+  "petitioner_arguments": [
+    "Even if detailed reading of the complaint is made, ingredients of the alleged offences are not made out so far as the appellant is concerned.",
+    "The appellant is the step mother of the husband of the complainant.",
+    "She was staying separately.",
+    "If the articles are identified same shall be returned and therefore the proceedings should not continue."
+  ],
+  "respondent_arguments": [
+    "No ground was made out for quashing the proceedings.",
+    "The order passed by the High Court was correct.",
+    "The principles set out in this Court in Bodhisattwa Gautam v. Subhra Chakrabarti (AIR 1996 SC 922) were followed."
+  ],
+  "court_reasoning": [
+    "The doctrine which finds expression in the section which merely recognizes and preserves inherent powers of the High Courts.",
+    "All courts, whether civil or criminal possess, in the absence of any express provision, as inherent in their Constitution, all such powers as are necessary to do the right and to undo a wrong in course of administration of justice on the principle 'quando lex aliquid alicui concedit, concedere videtur et id sine quo res ipsae esse non potest' (when the law gives a person anything it gives him that without which it cannot exist).",
+    "While exercising powers under the section, the court does not function as a court of appeal or revision.",
+    "Inherent jurisdiction under the section though wide has to be exercised sparingly, carefully and with caution and only when such exercise is justified by the tests specifically laid down in the section itself."
+  ],
+  "holding": [
+    "The proceedings stand quashed so far as it relates to the offence punishable under Section 498-A IPC.",
+    "The appeal is allowed to the extent indicated above.",
+    "The appeal is accordingly dismissed."
+  ],
+  "cases_cited": [
+    "Janata Dal v. H. S",
+    "Manjula Sinha v State of Uttar Pradesh"
+  ]
+}

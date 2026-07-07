@@ -1,0 +1,67 @@
+{
+  "case_id": "C2073",
+  "case_name": "State of Uttar Pradesh v Mohammad Musheer Khan and Others",
+  "court": "Supreme Court of India",
+  "year": 1977,
+  "judges": [
+    "N. L. Untwalia, J."
+  ],
+  "bench": [],
+  "petitioner": "State of Uttar Pradesh",
+  "respondent": "Mohammad Musheer Khan",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "342"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "304"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "29 July 1977",
+  "outcome": "Unknown",
+  "facts": [
+    "In this appeal by special leave filed by the State of Uttar Pradesh, there are three respondents - (1) Mohammad Musheer Khan (2) Mohammad Shamim Khan and (3) Siraj Ahmed Khan.",
+    "All the three were tried by the Sessions Judge of Sultanpur for the offence of committing the murder of Nirmaljit Singh, brother of Bimaljeet Singh, PW 1.",
+    "Respondent 1 was convicted u/s. 302 of the Indian Penal Code, 1860 and sentenced to death.",
+    "The other two respondents were convicted for the said offence with the aid of S. 34 and each of them was awarded a sentence of life imprisonment.",
+    "The respondents filed an appeal in the Allahabad High Court and a reference for the confirmation of the death sentence imposed upon respondent 1 was also made by the Sessions Judge.",
+    "The High Court has rejected the reference, allowed the appeal and acquitted all the three respondents."
+  ],
+  "issues": [
+    "Whether the acquittal of the respondents is justified?",
+    "Whether the respondents' plea of right of private defence is valid?"
+  ],
+  "petitioner_arguments": [
+    "There was no plea of right of private defence set up by any of the respondents.",
+    "A vague suggestion given to PW 1 in his cross-examination and the belated stand taken by respondents 1 and 2 in their statements under Section 342, Cr.P.C. in the Sessions Court was of no avail to the defence."
+  ],
+  "respondent_arguments": [
+    "The respondents' plea of right of private defence is valid.",
+    "There was a quarrel between accused Shamim and deceased Nirmaljit on February 17, 1973.",
+    "Someone stabbed Nirmaljit while mediating in the scuffle."
+  ],
+  "court_reasoning": [
+    "The High Court was in error in acquitting the respondents on the basis of their stand of right to private defence.",
+    "There was no evidence in support of this stand.",
+    "Even assuming that Shamim got the injuries at the time of the occurrence, there was nothing to indicate that injury on Nirmaljit was caused by Musheer or anybody else in order to defend Shamim."
+  ],
+  "holding": [
+    "The appeal is partly allowed. The acquittal of respondents 2 and 3 is maintained, but respondent 1, Mohammad Musheer Khan, is found guilty u/s. 302 of the Indian Penal Code, 1860 and sentenced to undergo imprisonment for life."
+  ],
+  "cases_cited": [
+    "State of Uttar Pradesh v Mohammad Musheer Khan"
+  ]
+}

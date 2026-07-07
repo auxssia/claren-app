@@ -1,0 +1,63 @@
+{
+  "case_id": "C1966",
+  "case_name": "State Of A.P. v Punatiramulu",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [],
+  "bench": [],
+  "petitioner": "State Of A.P",
+  "respondent": "Punatiramulu\nSupreme Court of India\n\n19 February 1993\nThe Order of the Court was as follows :\n1. Nine accused persons, Punati Ramulu, Nalamala Ramakotayya, Lam Koteswararao, Kancheti Yellamandayya, Nellori Venkateswarlu, Poonati Ramedass, Popuri Govindu, Popuri Ramulu and Cherukuri Danumayya were tried for offences under Sections 148 and 302 read with 149 IPC by the learned Sessions Judge for the occurrence which took place on March 28, 1991 at about 7.00 or 8.00 a.m. at village Pamidipadu in which one Krishna Rao had been murdered.\n2.  After recording the evidence of various witnesses including PW 1 to PW 4, the learned Sessions Judge convicted Punati Ramulu (A-1), Nalamala Ramakotayya (A-2), Lam Koteswararao (A-3) and Poonati Ramedass (A-6), Popuri Govindu (A-7) and Popuri Ramulu (A-8) for an offence under Section 148 IPC, and sentenced them to suffer rigorous imprisonment for two years. They were also convicted for the offence under Section 302 IPC and sentenced to s",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "148"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "482"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "162"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "19 February 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "Nine accused persons were tried for offences under Sections 148 and 302 read with 149 IPC by the learned Sessions Judge.",
+    "After recording the evidence of various witnesses, the learned Sessions Judge convicted some of the accused persons and sentenced them to suffer rigorous imprisonment for two years.",
+    "The convicts filed an appeal in the High Court against their conviction and sentence.",
+    "The State also filed an appeal against the acquittal of A-4, A-5 and A-9.",
+    "The High Court accepted the appeal filed by the convicts and acquitted some of the accused persons.",
+    "The State filed two special leave petitions in this Court."
+  ],
+  "issues": [
+    "Whether the investigation was tainted",
+    "Whether the evidence led by the prosecution was reliable"
+  ],
+  "petitioner_arguments": [
+    "The defence has been able to successfully challenge the bona fides of the police investigation.",
+    "The investigation is tainted and it would be unsafe to rely upon such a tainted investigation."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The reasons recorded by the High Court for recording acquittal of the respondents are based on proper appreciation of evidence.",
+    "The findings are not only supported by proper appreciation of the evidence but are also reasonable and sound.",
+    "Since the defence has been able to successfully challenge the bona fides of the police investigation, it has detracted materially from the reliability of the other evidence led by the prosecution."
+  ],
+  "holding": [
+    "The State appeal fails and is dismissed.",
+    "The respondents are on bail. Their bonds shall stand discharged. Appeal dismissed."
+  ],
+  "cases_cited": []
+}

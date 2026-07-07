@@ -1,0 +1,71 @@
+{
+  "case_id": "C961",
+  "case_name": "B. L. Goel v State of Uttar Pradesh and Others",
+  "court": "Supreme Court of India",
+  "year": 1978,
+  "judges": [
+    "Ranjit Singh Sarkaria"
+  ],
+  "bench": [],
+  "petitioner": "B. L. Goel",
+  "respondent": "State of Uttar Pradesh",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "233"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "233A"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "235"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Fundamental Rights",
+  "court_level": "Supreme Court",
+  "decision_date": "17 October 1978",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal by special leave is directed against a judgment dated December 12, 1977 of the High Court of Allahabad.",
+    "The appellant was appointed as officiating District and Sessions Judge under Government Notification dated January 9, 1974 with the rider that the seniority would be determined later on.",
+    "Respondent 3, 4 and 5 were appointed as District and Sessions Judges, and confirmed as such by a Government Notification dated January 9, 1974.",
+    "The last Notification Issued by the State Government confirming the appellant and respondents 3, 4 and 5 as District and Sessions Judges is of March 19, 1975."
+  ],
+  "issues": [
+    "Whether the rule requiring determination of seniority to be governed by the date of confirmation is unconstitutional?",
+    "Whether the Governor has power to confirm Civil and Session Judges and District Judges?"
+  ],
+  "petitioner_arguments": [
+    "The orders were discriminatory and therefore, violative of Articles 14 and 16 of the Constitution.",
+    "The Governor had no power to confirm Civil and Session Judges and District Judges, as the same power being a part of 'control' vested exclusively in the High Court under Article 235.",
+    "The rule requiring determination of seniority to be governed by the date of confirmation is Unconstitutional as it made seniority dependent upon the fortuitous circumstances of confirmation."
+  ],
+  "respondent_arguments": [
+    "It is open to the competent authority to determine the seniority in accordance with rule 20 sans the second proviso, supplemented by any other valid principles or rules.",
+    "The power to confirm on the post of District Judge vests in the High Court and not in the Governor."
+  ],
+  "court_reasoning": [
+    "After an elaborate discussion, the High Court concluded: The Notification dated 17th July 1974 and Notification dated 19th March, 1975 issued by the Governor confirming the petitioner and the opposite parties 3, 4 and 5, are invalid and ultra-vires inasmuch as the power to confirm on the post of District Judge vests in the High Court and not in the Governor."
+  ],
+  "holding": [
+    "The Notification dated 17th July 1974 and Notification dated 19th March, 1975 issued by the Governor confirming the petitioner and the opposite parties 3, 4 and 5 are invalid and ultra-vires.",
+    "The Notification of the High Court, dated 22nd July 1977, however, meets the situation and fills up the lacuna to a certain extent."
+  ],
+  "cases_cited": [
+    "B. L. Goel v State of Uttar Pradesh",
+    "contended on the authority of this Court in S. B. Patwardhan v. State of Maharashtra",
+    "in Chandra Mohan v state of U"
+  ]
+}

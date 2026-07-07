@@ -1,0 +1,77 @@
+{
+  "case_id": "C508",
+  "case_name": "Arjun and another v State of Chhattisgarh",
+  "court": "Supreme Court of India",
+  "year": 2017,
+  "judges": [
+    "R. Banumathi"
+  ],
+  "bench": [],
+  "petitioner": "Arjun and another",
+  "respondent": "State of Chhattisgarh\nSupreme Court of India\n\n14 February 2017\nCriminal Appeal Nos. 206-207 of 2017\nThe Judgment was delivered by : R. Banumathi, J.\n1. These appeals arise out of the judgment and order dated 30.08.2013 passed by the High Court of Chhattisgarh in Criminal Appeal Nos.111 of 2008 and 100 of 2008 whereby the High Court affirmed the conviction and sentence of life imprisonment imposed by the trial Court on the appellants.\n2. Briefly stated case of the prosecution is that on 19.11.2006 at about 9:45 a.m., deceased Ayodhya Prasad @ Rahasu had gone to his field alongwith Bajrang Manjhi (PW-1), Borri Verma (PW-2), Gilli Raout (PW-7) and Makunda Raout (PW-8) to cut tree with the help of the above persons which was on his land in village Ghatmadwa. At that time, the appellants-accused came to the field and they stopped the deceased and his labourers from cutting the tree. Deceased Ayodhya Prasad @ Rahasu told the appellants that he was the owner of the tree, t",
+  "citations": [
+    "1989 2 SCC 217",
+    "1993 3 SCC 282",
+    "2003 7 SCC 291",
+    "2006 2 SCC 450",
+    "2008 13 SCC 271",
+    "2008 15 SCC 590",
+    "2009 13 SCC 480",
+    "2010 10 SCC 439",
+    "2010 6 SCC 533",
+    "2011 9 SCC 479",
+    "2012 4 SCC 79",
+    "2013 4 SCC 322"
+  ],
+  "statutes": [
+    {
+      "act": "Evidence Act",
+      "section": "27"
+    },
+    {
+      "act": "Ipc Is Not Defined In The Penal Code",
+      "section": "300"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "14 February 2017",
+  "outcome": "Unknown",
+  "facts": [
+    "The appeals arise out of the judgment and order dated 30.08.2013 passed by the High Court of Chhattisgarh in Criminal Appeal Nos.111 of 2008 and 100 of 2008.",
+    "On 19.11.2006 at about 9:45 a.m., deceased Ayodhya Prasad @ Rahasu had gone to his field alongwith Bajrang Manjhi (PW-1), Borri Verma (PW-2), Gilli Raout (PW-7) and Makunda Raout (PW-8) to cut tree with the help of the above persons which was on his land in village Ghatmadwa.",
+    "The appellants-accused came to the field and they stopped the deceased and his labourers from cutting the tree.",
+    "Deceased Ayodhya Prasad @ Rahasu told the appellants that he was the owner of the tree, therefore, he was cutting the tree which resulted in quarrel between the parties.",
+    "The appellants assaulted the deceased with katta, gandasa and stone.",
+    "Shivprasad (PW-6), brother of the deceased lodged the complaint in Police Outpost Gidhouri.",
+    "Based on the complaint, FIR (Ex.P-16) was registered in Police Station Bilaigarh."
+  ],
+  "issues": [
+    "Whether the prosecution has proved the guilt of the accused beyond reasonable doubt?",
+    "Whether the trial court and High Court were correct in convicting the appellants under Section 302 IPC?"
+  ],
+  "petitioner_arguments": [
+    "The name of accused Arjun has never found mention in the evidence of witnesses and the prosecution has failed to prove his presence at the place of incident.",
+    "The eye witnesses have named only Padum and Lalaram and not Arjun and thus, his conviction under Section 302/34 IPC was unsustainable in the eyes of law.",
+    "PW-6 Shivprasad is the real brother of the deceased and it would be unsafe to base conviction on such an interested testimony.",
+    "Mere recovery of gandasa from accused Arjun cannot establish his guilt as it is normal that most of the farmers have gandasa in their possession and mere recovery without establishing its use defeats the case of the prosecution."
+  ],
+  "respondent_arguments": [
+    "Even though PW-6 Shivprasad is the brother of the deceased, his evidence is supported by other evidence and also the recovery of weapons from the appellants.",
+    "The name of accused Arjun has never found mention in the evidence of witnesses and the prosecution has failed to prove his presence at the place of incident.",
+    "Even though prosecution witnesses Bajrang Manjhi (PW-1), Borri Verma (PW-2), Gilli Raout(PW-7) and Makunda Raout (PW-8) were treated hostile, their evidence establish the presence of the accused and their overt act of surrounding the deceased and to that extent, corroborate the version of PW-6 Shivprasad."
+  ],
+  "court_reasoning": [
+    "The court can convict an accused on the statement of a sole witness, even if he was a relative of the deceased and thus, an interested party.",
+    "Once those parameters are satisfied and the statement of the witness is trustworthy, cogent and corroborated by other evidence produced by the prosecution, oral or documentary, then the court would not fall in error of law in relying upon the statement of such witness."
+  ],
+  "holding": [
+    "The appellants acted with common intention to commit the murder of deceased Ayodhya Prasad and found that the prosecution has proved the guilt of the accused beyond reasonable doubt and convicted the appellants under Section 302 IPC or 302/34 IPC and sentenced each of them to undergo imprisonment for life and imposed fine of Rs.20,000/- and in default of payment of fine to undergo rigorous imprisonment for two years."
+  ],
+  "cases_cited": [
+    "Further in the case of Arumugam vs. State",
+    "In Rajendra v. State of U",
+    "This Court while deciding the issue in Radha Mohan Singh v. State of U"
+  ]
+}

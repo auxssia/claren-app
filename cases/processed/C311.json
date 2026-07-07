@@ -1,0 +1,102 @@
+{
+  "case_id": "C311",
+  "case_name": "Laxman Marotrao Navakhare v Keshavrao",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [
+    "N. P. Singh"
+  ],
+  "bench": [],
+  "petitioner": "Laxman Marotrao Navakhare",
+  "respondent": "Keshavrao\nSupreme Court of India\n\n2 March 1993\nCivil Appeal No. 5899 of 1983\nThe Judgment was delivered by : N. P. Singh, J.\nThe defendant in a suit for eviction is the appellant before this court. The suit plot was let out to the appellant as a monthly tenant for an automobile garage. The plaintiff-respondent (hereinafter referred to as \"the respondent\") issued a notice on 10.7.1975 determining the lease in favour of the appellant with effect from 31.7.1975. Later the suit in question was filed. As the suit premises had not been let out for residential purposes, it was an admitted position that the Central Provinces and Berar Letting of Houses and Rent Control Order, 1949 was not applicable.\nThe Trial Court dismissed the said suit on a finding that as the appellant was using the suit premises for manufacturing purposes, a six months' notice was required before the lease could be determined and as the notice issued to the appellant under section 106 of the T",
+  "citations": [
+    "AIR 1974 SC 2068",
+    "AIR 1980 SC 1654"
+  ],
+  "statutes": [
+    {
+      "act": "Transfer Of Property Act",
+      "section": "106"
+    },
+    {
+      "act": "The Act",
+      "section": "106"
+    },
+    {
+      "act": "The Act",
+      "section": "21"
+    },
+    {
+      "act": "Was Struck Down By This Court In Another Appeal Pending As Being Violative Of Article 14 Of The Constitution",
+      "section": "30"
+    },
+    {
+      "act": "That Act",
+      "section": "10"
+    },
+    {
+      "act": "Or Sections 14 To 16 Of The Act",
+      "section": "10"
+    },
+    {
+      "act": "Said Act",
+      "section": "3"
+    },
+    {
+      "act": "That Act",
+      "section": "3"
+    },
+    {
+      "act": "The Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "2 March 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "The defendant in a suit for eviction is the appellant before this court.",
+    "The suit plot was let out to the appellant as a monthly tenant for an automobile garage.",
+    "The plaintiff-respondent (hereinafter referred to as 'the respondent') issued a notice on 10.7.1975 determining the lease in favour of the appellant with effect from 31.7.1975.",
+    "Later the suit in question was filed.",
+    "As the suit premises had not been let out for residential purposes, it was an admitted position that the Central Provinces and Berar Letting of Houses and Rent Control Order, 1949 was not applicable.",
+    "The Trial Court dismissed the said suit on a finding that as the appellant was using the suit premises for manufacturing purposes, a six months' notice was required before the lease could be determined and as the notice issued to the appellant under section 106 of the Transfer of Property Act (hereinafter referred as 'the Act') had purported to determine the tenancy with 15 days' notice, the suit in question could not have been filed.",
+    "On appeal being filed on behalf of the respondent, the Assistant Judge came to the conclusion that the premises in question had not been let out for any manufacturing purpose but for a motor workshop and as such the notice under section 106 of the Act was valid and the respondent was entitled to the possession of the plot in dispute.",
+    "1. The second appeal filed on behalf of the appellant was dismissed in limine by the High Court saying that no substantial question of law was involved.",
+    "Before this Court the finding recorded by the court of appeal below and affirmed by the High Court that the respondent was entitled to a decree for possession and the appellant was liable to be evicted was not questioned.",
+    "A new stand was taken on behalf of the appellant, that in view of the subsequent events the aforesaid decree of eviction passed against the appellant cannot be given effect to."
+  ],
+  "issues": [
+    "Whether the bar imposed by clause 13A of the Central Provinces and Berar Letting of Houses and Rent Control Order, 1949 applies to proceedings pending before any Court including this Court.",
+    "Whether the decree for eviction passed by the High Court is executable in view of the subsequent events."
+  ],
+  "petitioner_arguments": [
+    "The stand taken on behalf of the appellant was that although clause 13A has been introduced not with retrospective effect still it shall be applicable to proceedings pending before any Court including this Court and in view of the bar imposed by said clause 13A, no decree for eviction can be passed by this Court in the present appeal against the appellant unless the respondent-landlord produces a written permission of the Controller as required by sub-clause (1) of clause 13 of the Order.",
+    "Reliance was placed on the case of H. Shiva Rao v. Cecilia Pereira, [1987] 1 SCC 258 1986 Indlaw SC 803, wherein it was pointed out by this court :- 'It is well settled legal principle that Rent Control legislations being beneficial to the tenant have to be given a liberal interpretation.'"
+  ],
+  "respondent_arguments": [
+    "The respondent-landlord produced a written permission of the Controller as required by sub-clause (1) of clause 13 of the Order.",
+    "Reference was also made to the case of M/s. East India Corporation Ltd v. Shree Meenakshi Mills Ltd., JT 1991 (2) SC 397 1991 Indlaw SC 617."
+  ],
+  "court_reasoning": [
+    "It appears that in the aforesaid case the judgment was passed for possession of the premises in question on August 27, 1970.",
+    "Thereafter execution proceedings were initiated.",
+    "During the pendency of the execution proceedings, the village in which the suit premises was situated was included within the Mangalore Municipality by amendment of the Karnataka Rent Control Act, 1961.",
+    "After issuance of the notification the provisions of the aforesaid Rent Control Act became applicable even to the suit premises during the pendency of the execution.",
+    "An objection was taken on behalf of the tenant that in view of sub-section (1) of section 21 of the Act aforesaid, the decree passed in the connected suit was not executable.",
+    "Sub-section (1) of section 21 provided: 'Notwithstanding anything to the contrary contained in any other law or contract, no order or decree for the recovery of possession of any premises shall be made by any court or other authority in favour of the landlord against the tenant.'"
+  ],
+  "holding": [
+    "The bar imposed by clause 13A of the Central Provinces and Berar Letting of Houses and Rent Control Order, 1949 applies to proceedings pending before any Court including this Court.",
+    "The decree for eviction passed by the High Court is executable in view of the subsequent events."
+  ],
+  "cases_cited": [
+    "and Sadhu Singh v. Sharan Dev",
+    "has been considered by this Court in the case of Gyan Chand v. Kunjbeharilal",
+    "of the Order. Reliance was placed on the case of H. Shiva Rao v. Cecilia Pereira",
+    "to the judgments of this Court in the cases of Amarjit Kaur v. Pritam Singh",
+    "was also made to the case of M/s. East India Corporation Ltd v. Shree Meenakshi Mills Ltd"
+  ]
+}

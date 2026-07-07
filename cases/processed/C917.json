@@ -1,0 +1,76 @@
+{
+  "case_id": "C917",
+  "case_name": "Peerappa and Others v State of Karnataka",
+  "court": "Supreme Court of India",
+  "year": 2005,
+  "judges": [
+    "P. Venkatarama Reddi, J."
+  ],
+  "bench": [],
+  "petitioner": "Peerappa and Others",
+  "respondent": "State of Karnataka\nSupreme Court of India\n\n9 August 2005\nAppeal (Cr.) 1146 of 2003\nThe Judgment was delivered by : P. Venkatarama Reddi, J.\n1. The three appellants herein are accused Nos. A2, A3 ' A4 in Sessions Case No. 30 of 1989 on the file of I Addl Sessions Judge, Gulbarga. They, along with nine",
+  "citations": [
+    "2002 1 SCC 71"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "3500"
+    },
+    {
+      "section": "161"
+    },
+    {
+      "section": "27"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "9 August 2005",
+  "outcome": "Unknown",
+  "facts": [
+    "The three appellants herein are accused Nos. A2, A3 ' A4 in Sessions Case No. 30 of 1989 on the file of I Addl Sessions Judge, Gulbarga.",
+    "They, along with nine others, were charged with the offences under Sections 147, 148 ' 302 read with 149 IPC.",
+    "The accused No.7 died during the pendency of the Sessions case.",
+    "The other 11 accused including the appellants herein were acquitted by the trial Court.",
+    "The State of Karnataka filed the appeal in the High Court questioning the acquittal.",
+    "During the pendency of the appeal, the accused No.1 died.",
+    "Hence the appeal had abated against him."
+  ],
+  "issues": [
+    "Whether the High Court was justified in reversing the verdict of acquittal recorded by the trial Court.",
+    "Whether the conviction u/s. 302 with the aid of S. 149 IPC is clearly unsustainable."
+  ],
+  "petitioner_arguments": [
+    "There is a palpable error in the judgment of the High Court concerning the provision under which the appellants were convicted.",
+    "The number of persons of the unlawful assembly is less than five.",
+    "The ground of acquittal of the other eight accused was an irrelevant ground."
+  ],
+  "respondent_arguments": [
+    "The evidence of PWs 4 ' 5 corroborates the presence of each other.",
+    "There were only minor discrepancies in the evidence.",
+    "PWs 4 ' 5 have no axe to grind against the accused."
+  ],
+  "court_reasoning": [
+    "The trial Court disbelieved the evidence of PW4 for the following reasons: ...",
+    "The High Court has not come to the grips of the reasoning given by the trial Court and did not critically examine the evidence of PWs 4 ' 5 before reversing the acquittal.",
+    "As regards the presence of PW5, the spot panchnama of his land coupled with the evidence of panch witness PW1 reveal that there was no crop at all in the land..."
+  ],
+  "holding": [
+    "The High Court allowed the appeal to the extent of convicting the accused Nos. 2 to 4 (appellants herein).",
+    "As A1 died, he was not convicted, though A1's complicity was held proved.",
+    "The three appellants were convicted u/s. 302 IPC read with S. 149 IPC and sentenced to life imprisonment."
+  ],
+  "cases_cited": [
+    "then was), speaking for a three judge Bench in Kashiram Vs. State of M"
+  ]
+}

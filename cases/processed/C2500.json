@@ -1,0 +1,64 @@
+{
+  "case_id": "C2500",
+  "case_name": "Francis Coralie Mullin v Administrator, Union Territory of Delhi and Others",
+  "court": "Supreme Court of India",
+  "year": 1981,
+  "judges": [
+    "P. N. Bhagwati"
+  ],
+  "bench": [],
+  "petitioner": "Francis Coralie Mullin",
+  "respondent": "Administrator, Union Territory of Delhi",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Cofeposa Act",
+      "section": "3"
+    },
+    {
+      "act": "Cofeposa Act",
+      "section": "5"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "13 January 1981",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner, who is a British national, was arrested and detained in the Central Jail, Tihar under an Order dated 23rd November 1979 issued under section 3 of the COFEPOSA Act.",
+    "She preferred a petition in this Court for a writ of habeas corpus challenging her detention, but by a judgment delivered by this Court on 27th February 1980, her petition was rejected with the result that she continued to remain under detention in the Tihar Central Jail.",
+    "Whilst under detention, the petitioner experienced considerable difficulty in having interview with her lawyer and the members of her family."
+  ],
+  "issues": [
+    "The Constitutional validity of sub-clauses (i) and (ii) of clause 3(b) of the Conditions of Detention Order",
+    "Whether the restrictions imposed by those sub-clauses are reasonable, fair and just"
+  ],
+  "petitioner_arguments": [
+    "Allowing interview with the members of the family only once in a month was discriminatory and unreasonable",
+    "A detenu was entitled under Article 22 of the Constitution to consult and be defended by a legal practitioner of his choice",
+    "The requirement of prior appointment for interview and of the presence of a Customs or Excise Officer at the interview was arbitrary and unreasonable"
+  ],
+  "respondent_arguments": [
+    "Sub-clauses (i) and (ii) of clause 3(b) were not violative of Articles 14 and 21, since the restrictions imposed by them were reasonable, fair and just",
+    "The respondents would have no objection if instead of a monthly interview, the petitioner was granted the facility of interview with her daughter and sister twice in a week"
+  ],
+  "court_reasoning": [
+    "There is a vital distinction between 'preventive detention' and punitive detention'",
+    "The power of preventive detention has been recognised as a necessary evil",
+    "Art. 21 lays down restrictions on the power of preventive detention",
+    "The procedure prescribed by the law must be reasonable, fair and just"
+  ],
+  "holding": [
+    "Sub-clauses (i) and (ii) of clause 3(b) are valid",
+    "The petitioner is entitled to the facility of interview with her lawyer and the members of her family without complying with the restrictions laid down in those sub-clauses"
+  ],
+  "cases_cited": [
+    "Francis Coralie Mullin v Administrator",
+    "future, it has been laid down by this Court in Sampat Prakash v. State of Jammu",
+    "is provided by the Supreme Court of United States in Weems v. U. S",
+    "terms by Chandrachud, J. as he then was, in D. B. Patnaik v. State of Andhra Pradesh",
+    "the following passage from the judgment of Field J. in Munn v. Illinois to emphasize",
+    "the law culminating in the decisions in M. O. Hoscot v. State of Maharashtra"
+  ]
+}

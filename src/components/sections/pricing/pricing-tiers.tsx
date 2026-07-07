@@ -1,29 +1,13 @@
-"use client";
-
 import { SectionWrapper } from "@/components/common/section-wrapper";
 import { AnimatedStagger } from "@/components/common/animated-section";
-import { Check, Github, Server, Building2, Sparkles } from "lucide-react";
+import { Check, Server, Building2, Sparkles } from "lucide-react";
 
 const tiers = [
-  {
-    icon: Github,
-    title: "Open Source Core",
-    subtitle: "Free",
-    desc: "The core ML systems behind Claren are open source and free to use. This includes Arch, Atlas, core intelligence engines, self-hosting access, and community releases.",
-    action: "You can run the system yourself completely free.",
-    features: [
-      "Arch engine",
-      "Atlas engine",
-      "Self-hosting",
-      "Community releases",
-    ],
-    highlighted: false,
-  },
   {
     icon: Sparkles,
     title: "Hosted Chat Interface",
     subtitle: "Free Tier",
-    desc: "For users who want a simpler hosted experience without managing infrastructure.",
+    desc: "For users who want a simple hosted experience without managing infrastructure.",
     features: [
       "2 chat uses per day",
       "Basic document interaction",
@@ -54,7 +38,7 @@ const tiers = [
     title: "Custom Law Firm Deployments",
     subtitle: "Contact Us",
     desc: "Need a private setup for your firm? We plan to offer private deployments, custom interfaces, workflow integrations, internal hosting, and dedicated support.",
-    action: "This helps support the development of the open-source ecosystem.",
+    action: "This helps support the continued development of the platform.",
     features: [
       "Private deployments",
       "Custom interfaces",

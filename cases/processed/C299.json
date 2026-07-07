@@ -1,0 +1,64 @@
+{
+  "case_id": "C299",
+  "case_name": "Smt. Bimla Rani v Union of India and Others",
+  "court": "Supreme Court of India",
+  "year": 1989,
+  "judges": [
+    "M. M. Dutt"
+  ],
+  "bench": [],
+  "petitioner": "Smt. Bimla Rani",
+  "respondent": "Union of India",
+  "citations": [
+    "1983 3 SCR 939"
+  ],
+  "statutes": [
+    {
+      "act": "National Security Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "25 September 1989",
+  "outcome": "Unknown",
+  "facts": [
+    "In this writ petition under Article 32 of the Constitution of India, the mother of the detenu, Shri Praveen Kumar Gupta, has prayed for the quashing of the detention order of her son dated May 6, 1989 passed under sub- section (2) read with sub-section (3) of section 3 of the National Security Act, 1980, as confirmed by the order dated May 11, 1989 of the State of U.P.",
+    "A crime case was registered against him under section 307 IPC and he was arrested and detained in jail.",
+    "Along with the grounds of detention, a copy of the report of the Inspector-in-Charge, P.S. Delhi Gate, Meerut, was also supplied to the detenu in jail.",
+    "The relevant portion of the report is extracted below: 'On 30.4.89 at busy road (Delhi Road) at about 21.15 P.M. he without any reasons gave a gun shot to one Babli S/o Sh. Bhura R/o Mohalla Purwa Hamidnagar who had come for reading Namaz, as a result of which he was seriously injured.'",
+    "The detenu has since been granted bail, but in view of the order of detention, he is not released."
+  ],
+  "issues": [
+    "Whether the order of detention is illegal and should be quashed.",
+    "Whether there are cogent reasons apparent on the record justifying the order of detention."
+  ],
+  "petitioner_arguments": [
+    "The grounds of detention does not disclose any past history of commission of any crime by the detenu.",
+    "There having been no materials on record to show that such an incident would be repeated in future, the order of detention is illegal and should be quashed.",
+    "The only ground on which the detaining authority had placed reliance for making the order of detention was that there 'was a chance of the detenu being released on bail by the criminal court and, in that event, it was apprehended that he would act prejudicially to the interest of public order.'"
+  ],
+  "respondent_arguments": [
+    "The incident on April 13, 1989 was a solitary one so far as the detenu was concerned, but the question is whether the incident had prejudicially affected the public order.",
+    "It is for the detaining authority to have the subjective satisfaction about the apprehension of the breach of the public order and that even one incident may be sufficient to satisfy the detaining authority in that regard depending upon the nature of the incident."
+  ],
+  "court_reasoning": [
+    "Every citizen in this country has the right to have recourse to law.",
+    "He cannot, however, be interdicted from moving the court for bail by clamping an order of detention.",
+    "There must also be credible information or cogent reasons apparent on the record that the detenu, if enlarged on bail, would act prejudicially to the interest of public order.",
+    "A situation that emerged as a result of the incident, as stated in the said report, was grave and serious and prejudicially affected public order.",
+    "The report, in our opinion, is a sufficient material for the subjective satisfaction of the detaining authority that there was disturbance of tranquility and harmony of public life."
+  ],
+  "holding": [
+    "In our opinion, when an incident was such that it created communal tension and the authorities were apprehensive of the breaking of a communal riot, such incident in itself may be sufficient and may afford justification for the satisfaction of the detaining authority for the detention of the detenu in order to prevent him from indulging in such activity prejudicial to public order even though, as submitted by the learned Counsel, there is no antecedent acts of similar nature or past history of commission of crime by the detenu.",
+    "The rule is discharged and the writ petition is dismissed."
+  ],
+  "cases_cited": [
+    "Smt. Bimla Rani v Union of India",
+    "and in Ramesh Yadav v. District Magistrate",
+    "placed reliance upon its two earlier decisions in Alijan Mian v. District Magistrate",
+    "upon a decision of this Court in Smt. Shashi Aggarwal v. State of U",
+    "we may refer to a recent decision of this Court in Ayya v. State of U"
+  ]
+}

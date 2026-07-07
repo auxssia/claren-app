@@ -1,0 +1,50 @@
+{
+  "case_id": "C983",
+  "case_name": "Simon and another v State of Karnataka",
+  "court": "Supreme Court of India",
+  "year": 2003,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Simon and another",
+  "respondent": "State of Karnataka\nSupreme Court of India\n\n20 November 2003\nCr.As. Nos. 247-49 of 2002\nThe Order of the Court was as follows:\n1.  These appeals have been filed under Section 19 of the Terrorists and Disruptive Activities (Prevention) Act, 1987 (for short \"the Act\") against the judgment and order dated 29-9-2001 passed by the Special Judge of Designated Court at Mysore in Special Cases Nos. 63 of 1994, 13 of 1997 and 20 of 1998 convicting the appellants under various provisions. The appellants are two in number. Appellant 1 Simon was Accused 10 and Appellant 2 Veeraswami was Accused 18 before the trial court.\n2.  The first information report was recorded on 20-5-1992 on the statement of PW 31, an Assistant Sub-Inspector of Rampura Police Station. As per the FIR, on the intervening night of 19-5-1992/20-5-1992, while PW31 and other police officials were present in the police station, thirty people mostly belonging to the Veerappan gang surrounded the police station at",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Terrorists And Disruptive Act",
+      "section": "19"
+    },
+    {
+      "act": "Ipc And Section 25 Of The Indian Arms Act",
+      "section": "149"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "20 November 2003",
+  "outcome": "Unknown",
+  "facts": [
+    "The first information report was recorded on 20-5-1992 on the statement of PW 31, an Assistant Sub-Inspector of Rampura Police Station.",
+    "On the intervening night of 19-5-1992/20-5-1992, while PW31 and other police officials were present in the police station, thirty people mostly belonging to the Veerappan gang surrounded the police station at about 1.00 a.m.",
+    "The police personnel named in the FIR who were sleeping in the verandah outside died as a result of firing by the Veerappan gang and thereafter the culprits fled away from the spot.",
+    "Two injured witnesses, PW 30 and another, were sent to the hospital for treatment.",
+    "The case in relation to the aforesaid incident was filed against 157 persons. The arrested and prosecuted were, however, 77 in number.",
+    "The only two accused that have been convicted are the appellants."
+  ],
+  "issues": [
+    "Whether the appellants as members of the Veerappan gang or otherwise were part of the group or gang that opened fire on the police station resulting in various deaths."
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The testimony of PW 31 to PW 38 does not connect the appellants with the crime.",
+    "There are various deficiencies and contradictions which make it evident that the claim of the witness of having seen the second appellant cannot be trusted and relied upon.",
+    "The statement that he made to the police was on the next day of the incident. When confronted with the said statement, he denied the same and stated that he had not given the name of the father of the accused Veeraswamy to the police.",
+    "Even if we accept the deposition of PW 53 despite numerable contradictions, at best it was a fleeting glimpse at midnight and that too about nine years back despite the witness having admitted that if one stands behind the quarters, he cannot see the persons in front of the police station."
+  ],
+  "holding": [
+    "The two appellants were convicted under various provisions.",
+    "They have been directed to undergo rigorous imprisonment for life for offence punishable under Section 3(2)(i) of TADA Act and pay a fine of Rs 2000 each and, in default, to undergo rigorous imprisonment for six months."
+  ],
+  "cases_cited": []
+}

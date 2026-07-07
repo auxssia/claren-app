@@ -1,0 +1,97 @@
+{
+  "case_id": "C582",
+  "case_name": "Commissioner of Income Tax v Willamson Financial Services and Others",
+  "court": "Supreme Court of India",
+  "year": 2007,
+  "judges": [
+    "S. H. Kapadia, J."
+  ],
+  "bench": [],
+  "petitioner": "Commissioner of Income Tax",
+  "respondent": "Willamson Financial Services",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Deduction Only Against Part Of The Income From Tea Which Was Taxable Under The 1961 Act",
+      "section": "80HHC"
+    },
+    {
+      "act": "Is A Part Of The Provisions Relating To The Computation Of Business Income Under The 1961 Act",
+      "section": "80HHC"
+    },
+    {
+      "act": "Would Apply And The Amount Of Income Specified In The Given Section As Computed In Accordance With The Provisions Of The Act",
+      "section": "80AB"
+    },
+    {
+      "act": "Is The Separate Code",
+      "section": "80HHC"
+    },
+    {
+      "act": "Because The Deduction Under Section 80Hhc Is Strictly Not Computed In Accordance With The Provisions Of The 1961 Act",
+      "section": "80HHC"
+    },
+    {
+      "act": "Are Not Computed In Accordance With The Provisions Of The Act",
+      "section": "80HHC"
+    },
+    {
+      "act": "Deduction Could Be Said To Be Part Of Computation Provision Under The 1961 Act",
+      "section": "80HHC"
+    },
+    {
+      "act": "A Part Of The Provisions Of The 1961 Act",
+      "section": "80HHC"
+    },
+    {
+      "act": "Is Part Of The Provisions In The 1961 Act",
+      "section": "80HHC"
+    }
+  ],
+  "legal_domain": "Administrative",
+  "legal_subdomain": "Tribunal",
+  "court_level": "Supreme Court",
+  "decision_date": "12 December 2007",
+  "outcome": "Unknown",
+  "facts": [
+    "The intricate question which arises for determination in this batch of civil appeals is at what stage Section 80HHC Deduction is to be allowed i.e. before the 60 : 40 apportionment under Rule 8(1) or from 40% profits on sales taxable as Business Income.",
+    "Assessees exported tea in the accounting year. They were entitled to deduction under Section 80HHC of Income-tax Act, 1961 (for short, 1961 Act ) in respect of the export.",
+    "For the sake of convenience we state the facts occurring in Civil Appeal No.3803-3808 of 2005 Commissioner of Income Tax v. Williamson Financial Services & ors.",
+    "In the returns, the assessee claimed Section 80HHC Deduction against the entire Composite Income before application of Rule 8(1).",
+    "This working was rejected by the A.O. who took the view that deduction under Section 80HHC can be allowed after 60 : 40 apportionment as 40% income was gross total income.",
+    "However, in appeal, CIT (A) reversed the decision of the A.O. by holding that the A.O. should have first granted Section 80HHC Deduction against the entire tea income before applying Rule 8(1).",
+    "In short, the controversy is : whether Section 80HHC Deduction is admissible against the entire or part of the income from tea (i.e. 40%).",
+    "Against the said decision of CIT(A) the matter was carried in appeal to the Tribunal who took the view that A.O. was right in allowing Section 80HHC Deduction only against part of the income from tea which was taxable under the 1961 Act, namely, 40% of the income.",
+    "This view of the Tribunal stood reversed by the impugned judgment of the High Court."
+  ],
+  "issues": [
+    "At what stage Section 80HHC Deduction is to be allowed i.e. before the 60 : 40 apportionment under Rule 8(1) or from 40% profits on sales taxable as Business Income."
+  ],
+  "petitioner_arguments": [
+    "Rule 8 of 1962 Rule which provides for computation of composite income is made under the power conferred by s.295 of the 1961 Act and as such the said Rule has the effect as if enacted in that Act.",
+    "The definition of agricultural income is bound up with the Rules.",
+    "When income is derived from profit computed under the head profits and gains of business, all deductions and allowances are to be allowed and, therefore, it is not possible to compute the profit of the business by allowing only deduction and allowances which fall under Chapter IV but all other deductions although they do not appear in Chapter IV but in Chapter VIA, like deductions under section 80HHC, have also to be allowed to compute business profits in accordance with the provisions of the Act under the head profits of the business.",
+    "Business income is one of the Heads of Income u/s.14 and such income is included in the total income of an assessee.",
+    "Section 80A, which is in Chapter VI-A, provides that in computing the total income, there shall be allowed from gross total income, deductions specified in sections 80C to 80U of the Act and, therefore, there is no difference between deductions under Chapter IV and the deductions under Chapter VI-A.",
+    "In computing the total income, it is not permissible to restrict the deduction under Chapter IV and not to allow deduction under Chapter VI-A."
+  ],
+  "respondent_arguments": [
+    "The A.O. took the view that deduction under Section 80HHC can be allowed after 60 : 40 apportionment as 40% income was gross total income.",
+    "The Tribunal took the view that A.O. was right in allowing Section 80HHC Deduction only against part of the income from tea which was taxable under the 1961 Act, namely, 40% of the income."
+  ],
+  "court_reasoning": [
+    "According to the learned counsel, while computing business income, the legal fiction under Rule 8 must be given effect by computing the business income after taking into account the deduction under section 80HHC.",
+    "The said expression is omitted from section 80HHC because the deduction under section 80HHC is strictly not computed in accordance with the provisions of the 1961 Act, relating to the computation of business income.",
+    "According to the learned counsel, the profits of the export business which are allowed deduction under section 80HHC are not computed in accordance with the provisions of the Act relating to the computation of business income but is statutorily fixed under section 80HHC(3) of the Act."
+  ],
+  "holding": [
+    "The Court held that Section 80HHC Deduction is admissible against the entire Composite Income before application of Rule 8(1)."
+  ],
+  "cases_cited": [
+    "Bench later on in the case of Distributors (Baroda) Pvt. Ltd. v. Union of India",
+    "Commissioner of Income Tax v Willamson Financial Services",
+    "Commissioner of Income Tax v. Willamson Financial Services &",
+    "Warren Tea Ltd. & Anr. etc. v. Union of India &",
+    "case of The Karim Tharuvi Tea Estates Ltd., Kottayam and Anr. v. State of Kerala"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "case_id": "C2321",
+  "case_name": "S.S. Rathore v State Of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "year": 1989,
+  "judges": [
+    "Rangnath Misra"
+  ],
+  "bench": [],
+  "petitioner": "S.S. Rathore",
+  "respondent": "State Of Madhya Pradesh\nSupreme Court of India\n\n6 September 1989\nCivil Appeal No. 207 of 1984.\nThe Judgment was delivered by: Rangnath Misra\n1.  This appeal is by special leave and is directed against the judgment of the High Court of Madhya Pradesh by which the High Court has in second appeal upheld the dismissal of the plaintiff's suit on the plea of limitation.\n2.  The plaintiff, a Government servant of Madhya Pradesh, was dismissed from service by the Collector on 13th of January, 1966. He preferred an appeal to the Divisional Commissioner and that appeal was dismissed on 31.8.1966. The order of dismissal of the appeal was communicated to the plaintiff on 19.9.1960. The plaintiff gave notice under s.80 of the Code of Civil Procedure on 17.6.1969 and filed his suit on 30th of September, 1969, asking for a declaration that the order of dismissal was inoperative and he continued to be in service. This suit has been dismissed in the Courts below on acceptance of the defe",
+  "citations": [
+    "1963 2 SCR 563",
+    "1969 3 SCR 203"
+  ],
+  "statutes": [
+    {
+      "section": "80"
+    },
+    {
+      "act": "Limitation Act, 1963"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "6 September 1989",
+  "outcome": "Unknown",
+  "facts": [
+    "The plaintiff, a Government servant of Madhya Pradesh, was dismissed from service by the Collector on 13th of January, 1966.",
+    "He preferred an appeal to the Divisional Commissioner and that appeal was dismissed on 31.8.1966.",
+    "The order of dismissal of the appeal was communicated to the plaintiff on 19.9.1960.",
+    "The plaintiff gave notice under s.80 of the Code of Civil Procedure on 17.6.1969 and filed his suit on 30th of September, 1969, asking for a declaration that the order of dismissal was inoperative and he continued to be in service.",
+    "This suit has been dismissed in the Courts below on acceptance of the defence plea that it had not been filed within three years from the date when the cause of action first arose, as required u/art. 58 of the First Schedule of the Limitation Act, 1963."
+  ],
+  "issues": [
+    "Whether the suit was barred by limitation.",
+    "Whether the order of dismissal merged in the appellate order or revisional order."
+  ],
+  "petitioner_arguments": [
+    "The plaintiff's counsel placed before us the residuary Art. 113 and has referred to a few decisions of some High Courts where in a situation as here reliance was placed on that Article."
+  ],
+  "respondent_arguments": [
+    "The defence plea that it had not been filed within three years from the date when the cause of action first arose, as required u/art. 58 of the First Schedule of the Limitation Act, 1963."
+  ],
+  "court_reasoning": [
+    "The Court examined the question as to whether when the appeal of the appellate court affirming the decree of the trial court was made, the original decree had ceased to be operative.",
+    "The Court also examined the question as to whether the filing of the appeal or revision put the decree or order in jeopardy but until it was reversed or modified it remained effective."
+  ],
+  "holding": [
+    "The suit was barred by limitation.",
+    "The order of dismissal did not merge in the appellate order or revisional order."
+  ],
+  "cases_cited": [
+    "In Madan Gopal Rungta v. Secretary to",
+    "Judge Bench decision in the case of Somnath Sahu v. The",
+    "decision of a Two Judge Bench in the case of Raghubir Jha v. State of Bihar",
+    "delivering the judgment of the Privy Council in Juscurn Soid v. Pirthichand Lal",
+    "for final decree in a mortgage suit as in Jowad Hussain v. Gendan Singh",
+    "of limitation for execution of the decree as in Batuk Nath v. Munni Dei",
+    "of this Court in the case of Pierce Leslie and Co. Limited v. Violet Ouchterlony Wapshare",
+    "of this Court is that of Collector of Customs, Calcutta v. East India Commercial Co",
+    "on the observations of this Court in State Uttar Pradesh v. Mohammad Nooh",
+    "was placed on the decision of this Court in Sita Ram Goel v. The Municipal Board"
+  ]
+}

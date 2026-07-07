@@ -1,0 +1,63 @@
+{
+  "case_id": "C358",
+  "case_name": "State of Uttar Pradesh v Raj Bahadur Singh and Another",
+  "court": "Supreme Court of India",
+  "year": 2001,
+  "judges": [],
+  "bench": [],
+  "petitioner": "State of Uttar Pradesh",
+  "respondent": "Raj Bahadur Singh and Another\nSupreme Court of India\n\n17 July 2001\nCr.A. No. 429 of 1999\nThe Order of the Court was as follows:\n1.  By the judgment and order dated 26.11.1988 in sessions case no. 167 of 1987 the Vth additional sessions judge, Etah convicted the respondents for the offence punishable under section 302 read with section 34 of the Indian Penal Code, 1860 and sentenced each of them to suffer rigorous imprisonment for life.\n2.  Against that judgement, respondents preferred an appeal being criminal appeal no. 2683 of 1988 before the High Court of Allahabad. The High Court partly allowed the appeal by the judgment and order dated 13.5.1998 by setting aside the conviction under section 302 of the Indian Penal Code, 1860 and held that the respondents are required to be convicted for the offence punishable under section 304, part I, Indian Penal Code, 1860. The High Court imposed sentence of rigorous imprisonment for seven years for the offence punishabl",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Read With Section 34 Of The Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Read With Section 34 Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code",
+      "section": "300"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "17 July 2001",
+  "outcome": "Unknown",
+  "facts": [
+    "The Order of the Court was as follows: ...",
+    "In the present case as per the prosecution version which is proved by the evidence of PWs 1 and 2, on 11.8.1986 at about 6.30 'O' clock in village Hathoda Kheda, district Etah, complainant Vijendra Singh along with his father Shripal Singh was returning to his home from the field.",
+    "Thereafter, Raj Bahadur Singh and Ram Nath Singh went at the rooftop of the house with their respective licensed guns and both of them fired a gunshot each which caused fatal injury to the complainant's father.",
+    "After considering the entire evidence, the High Court arrived at the conclusion that the prosecution has proved its version beyond reasonable doubt.",
+    "It is true that all of a sudden, quarrel took place between the parties because accused were constructing a wall which would block the passage. But after quarrel, as stated by the prosecution witnesses, the accused with their licensed gun went to the rooftop of their house and fired from there which caused fatal injuries to the deceased Shripal, father of the complainant."
+  ],
+  "issues": [
+    "Whether the High Court's reasoning was erroneous",
+    "Whether the intention of the accused can be inferred as an intention to cause murder"
+  ],
+  "petitioner_arguments": [
+    "The order passed by the High Court is, on the fact of it, erroneous as the ground given by the High Court for modification of the order passed by the sessions judge that as there was a sudden quarrel, the respondents are required to be convicted for the offence punishable under section 304, part I, Indian Penal Code, 1860 is illegal and erroneous."
+  ],
+  "respondent_arguments": [
+    "The court held that the prosecution has proved its version beyond reasonable doubt.",
+    "It cannot be inferred that there was intention to commit murder or that injuries were intended to be inflicted to commit murder."
+  ],
+  "court_reasoning": [
+    "The reasoning given by the court is, on the fact of it, erroneous.",
+    "It would be unreasonable to hold that from this act of the accused of firing from his gun, intention to cause murder cannot be inferred.",
+    "From this act, without any hesitation, it can be held that their intention was to cause such bodily injury which was likely to cause death of the person to whom it hits."
+  ],
+  "holding": [
+    "The appeal is allowed, the impugned order passed by the High Court is set aside and the order passed by the additional sessions judge convicting the accused-respondents for the offence punishable under section 302 read with section 34 Indian Penal Code, 1860 and sentencing them to suffer life imprisonment thereunder is restored."
+  ],
+  "cases_cited": [
+    "State of Uttar Pradesh v Raj Bahadur Singh"
+  ]
+}

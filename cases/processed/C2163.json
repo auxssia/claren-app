@@ -1,0 +1,74 @@
+{
+  "case_id": "C2163",
+  "case_name": "Chuttan and Others v State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [
+    "JAYACHANDRA REDDY"
+  ],
+  "bench": [],
+  "petitioner": "Chuttan and Others",
+  "respondent": "State of Madhya Pradesh\nSupreme Court of India\n\n8 December 1993\nCr.A. No. 259 of 1989 (From the Judgment and Order Dt. 29 October 1988 of the Madhya Pradesh High Court in Cr. A. No. 129 of 1984)\nThe Judgment was delivered by: JAYACHANDRA REDDY, J.\n1.  This is an appeal under Section 379 CrPC read with Section 2 of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act. Chuttan, Jasvanth Singh and Nanehelal, original accused 2, 4 and 5 respectively are the appellants. They along with three were tried for offences punishable under Sections 147, 148, 302 and 325 IPC. The trial court acquitted all of them. The State preferred an appeal and the High Court Set aside their acquittal and convicted Mahesh Prasad original accused 1 and these three appellants under Section 302 IPC and sentenced each of them to undergo imprisonment for life for causing the death of Hariram. They were also convicted under Section 325 IPC and sentenced to undergo R.I. for three y",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "379"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "325"
+    },
+    {
+      "section": "300"
+    },
+    {
+      "section": "304"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "CrPC",
+  "court_level": "Supreme Court",
+  "decision_date": "8 December 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "This is an appeal under Section 379 CrPC read with Section 2 of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act.",
+    "Chuttan and Others v State of Madhya Pradesh",
+    "The deceased and his four sons assaulted A-1, A-4 and A-5 and that they also lodged a report Ex. D-5(C) at 5 p.m. on the same day.",
+    "The trial court acquitted all of them holding that there was delay in lodging the report and there were contradictions in the evidence of PW 11 and the conduct of the eyewitnesses was unnatural in not taking care of the injured deceased on that night and that the defence version cannot be brushed aside.",
+    "The High Court having examined the evidence of PWs 1, 2, 5 and 11 out of whom PW 11 was an injured witness, held that the incident during which the accused received injuries was not part of the same incident and that the discrepancies pointed out in the evidence of the eyewitnesses are not material and that delay, if any, in giving the FIR by itself is not fatal to the prosecution case.",
+    "The deceased during the assault received many injuries on the head, hands, legs, chest and stomach and he succumbed to his injuries next day."
+  ],
+  "issues": [
+    "Whether an offence under Section 302 IPC is made out ?",
+    "Whether the accused exercised their right of self-defence ?"
+  ],
+  "petitioner_arguments": [
+    "There was enormous delay in giving the FIR",
+    "The non-explanation of the injuries on the three accused persons shows that the origin of the occurrence has been suppressed by the prosecution witnesses and that the medical evidence does not show that some of the injuries were caused by sharp-edged weapons like Ballam and Gandasa etc.",
+    "It is highly unnatural that the injured deceased was allowed to lie on the spot for such a long time till his death"
+  ],
+  "respondent_arguments": [
+    "The incident during which the accused received injuries was not part of the same incident",
+    "The discrepancies pointed out in the evidence of the eyewitnesses are not material and that delay, if any, in giving the FIR by itself is not fatal to the prosecution case"
+  ],
+  "court_reasoning": [
+    "The High Court has rightly held that the incident in which the accused persons received injuries was not part of the same incident during which the deceased and PW 11 received injuries.",
+    "The evidence of the eyewitnesses shows that A-1, A-2, A-4 and A-5 participated in the assault and the High Court has rightly held that they were liable to be convicted."
+  ],
+  "holding": [
+    "The conviction of the appellants under Section 302 IPC and the sentence of imprisonment for life awarded thereunder are set aside.",
+    "Instead they are convicted under Section 304, Part II, IPC and sentenced to undergo R.I. for five years."
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,30 @@
+{
+  "case_id": "S18",
+  "case_name": "Enforcement of decrees and orders of Supreme Court and orders as to discovery, etc.",
+  "court": "Supreme Court",
+  "year": 1954,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The Supreme Court in the exercise of its jurisdiction may pass such decree or make such order as is necessary for doing complete justice in any cause or matter pending before it"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The Supreme Court shall, as respects the whole of the territory of India, have all and every power to make any order for the purpose of securing the attendance of any person, the discovery or production of any documents, or the investigation or punishment of any contempt of itself"
+  ],
+  "holding": [
+    "Any decree so passed or order so made shall be enforceable throughout the territory of India"
+  ],
+  "cases_cited": []
+}

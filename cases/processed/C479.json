@@ -1,0 +1,87 @@
+{
+  "case_id": "C479",
+  "case_name": "Maranadu and Another v State By Inspector Of Police, Tamil Nadu",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Maranadu and Another",
+  "respondent": "State By Inspector Of Police, Tamil Nadu\nSupreme Court of India\n\n15 September 2008\nCriminal Appeal No. 494 Of 2001\nThe Judgment was delivered by : Dr. Arijit Pasayat, J.\n1.  In this appeal challenge is to the judgment of a Division Bench of the Madras High Court dismissing the appeal filed by the appellants who were appellant nos. 5 and 6 before it and before the trial Court they were accused Nos. 5 and 6. Before the trial Court there were six accused persons. After finding them guilty of various offences the trial Court recorded the conviction and imposed sentences in the following manner:\n\"A-1 is found guilty of charges u/s. 147 IPC and sentenced to 2 years rigorous imprisonment. A-2 to A-6 are found guilty of charge u/s. 148 IPC and each one of them is sentenced to 2 years RI. A1, A-2 and A-4 are found guilty of the charge u/s. 302 IPC read with S. 34 and each one of them is sentenced to life imprisonment. A3, A5 and A6 are found guilty of the charge u/s. 302",
+  "citations": [
+    "AIR 1952 SC 54",
+    "AIR 1953 SC 364",
+    "AIR 1956 SC 731",
+    "AIR 1957 SC 614",
+    "AIR 1965 SC 202",
+    "AIR 1973 SC 2407",
+    "AIR 1999 SC 1776"
+  ],
+  "statutes": [
+    {
+      "section": "147"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "148"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "307"
+    },
+    {
+      "section": "9(B)"
+    },
+    {
+      "section": "149"
+    },
+    {
+      "section": "141"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "15 September 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "The Inspector of Police, Usilampatti filed the charge sheet against the accused stating that due to previous enmity A1 to A6 with common motive to commit murder of Sundaram (hereinafter referred to as 'deceased') and the witnesses Annakodi (PW-1), Ayyar (PW-2) and Mokkai, assembled unlawfully at about 10.45 a.m. on 11.10.89 in front of the tea shop of Raju @ Raja opposite to Malayandi Theatre Usilampatti on Madurai-Usilampatti main road.",
+    "A2 to A6 were in possession of the dangerous weapon Aruval and A3, A5 and A6 were in possession of country made bombs and committed commotion along with A1.",
+    "Charges were framed against A1 u/s. 147 IPC and against A2 to A6 u/s. 148 IPC and that in continuance of the commission of the said offence, A1 caught hold of the right hand of Sundaram and said 'cut and kill him' and A4 inflicted cut on the right hand of Sundaram with the aruval and further A2 to A4 inflicted cuts on neck of Sundaram indiscriminately and hence Sundaram died and charges were framed against A1, A2 and A4 u/s. 302 IPC and against A3, A5 and A6 u/s. 302 IPC read with S. 149 IPC."
+  ],
+  "issues": [
+    "Whether the evidence of PWs 1 and 2 should not have been relied on because they are interested witnesses being related to the deceased.",
+    "Whether Section 149, IPC has any application for fastening the constructive liability which is the sine qua non for its operation."
+  ],
+  "petitioner_arguments": [
+    "The evidence of PWs 1 and 2 should not have been relied on because they are interested witnesses being related to the deceased.",
+    "Even if the evidence of PWs 1 and 2 is accepted, they cannot be related to the fatal injuries and the injuries were not caused to the deceased."
+  ],
+  "respondent_arguments": [
+    "The mere fact that the eye-witnesses are family members their evidence cannot per se be discarded.",
+    "When there is allegation of interestedness, the same has to be established."
+  ],
+  "court_reasoning": [
+    "A witness is normally to be considered independent unless he or she springs from sources which are likely to be tainted and that usually means unless the witness has cause, such as enmity against the accused, to wish to implicate him falsely.",
+    "Ordinarily a close relation would be the last to screen the real culprit and falsely implicate an innocent person."
+  ],
+  "holding": [
+    "The appeal is dismissed."
+  ],
+  "cases_cited": [
+    "Again in Masalti and Ors. v. State of U",
+    "In Dalip Singh and Ors. v. The",
+    "In State of U.P. v. Dan Singh",
+    "Maranadu and Another v State By Inspector Of Police",
+    "State of Rajasthan v. Teja Ram",
+    "and in Salim Saheb v. State of M",
+    "assembly did which or what act. Reference was made to Lalji v. State of U",
+    "of the common object. (See Chikkarange Gowda and others v. State of Mysore",
+    "was also highlighted in Babulal Bhagwan Khandare and Anr. v. State of Maharashtra"
+  ]
+}

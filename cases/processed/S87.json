@@ -1,0 +1,39 @@
+{
+  "case_id": "S87",
+  "case_name": "None",
+  "court": "None",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Government Of India Act",
+      "section": "124"
+    },
+    {
+      "act": "Said Act",
+      "section": "94"
+    },
+    {
+      "act": "Government Of India Act",
+      "section": "290A"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "There is no final judicial holding or decision in this text as it appears to be a definition section from an Act or Constitution."
+  ],
+  "cases_cited": []
+}

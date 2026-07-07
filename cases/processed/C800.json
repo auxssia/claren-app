@@ -1,0 +1,85 @@
+{
+  "case_id": "C800",
+  "case_name": "Madan Lal v State Of U.P. And Others",
+  "court": "Supreme Court of India",
+  "year": 1975,
+  "judges": [
+    "A. C. Gupta"
+  ],
+  "bench": [],
+  "petitioner": "Madan Lal",
+  "respondent": "State Of U.P.",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "6"
+    },
+    {
+      "act": "The Act",
+      "section": "4"
+    },
+    {
+      "act": "The Act",
+      "section": "7"
+    },
+    {
+      "act": "The Act",
+      "section": "17"
+    },
+    {
+      "act": "Allows An Appeal To Be Preferred By Any Person Who Has Made A Claim Under The Act",
+      "section": "17"
+    },
+    {
+      "act": "That Act",
+      "section": "64A"
+    },
+    {
+      "act": "That Act",
+      "section": "18"
+    },
+    {
+      "act": "Land Acquisition Act",
+      "section": "18"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "28 August 1975",
+  "outcome": "Unknown",
+  "facts": [
+    "The appeal has its origin in a proceeding under the Indian Forest Act, 1927.",
+    "Appellant Madan Lal had preferred a claim under sec. 6 of the Act in respect of certain plots of land in village Khamaria, Pargana Khairigarh, District Kheri which were included along with other land in a notification under sec. 4 of the Act issued on April 3, 1954 declaring that the State Government had decided to constitute the said land a reserved forest.",
+    "The Divisional Forest Officer, North Kheri Division, filed an objection to the claim of the appellant that he had Sirdari rights in the said plots.",
+    "An inquiry into the claim was started by the Forest Settlement Officer under sec. 7 of the Act and evidence of the parties was concluded on February 19, 1955.",
+    "The case was adjourned for local inspection to March 3, 1955.",
+    "The record of the case shows that on May 9, 1955 the Forest Settlement Officer recorded an order under sec. 11(1) of the Act that the appellant had proved his claim, and directed the Divisional Forest Officer to 'inform within 15 days whether he wants the land on payment of compensation or not'."
+  ],
+  "issues": [
+    "Whether the appeal was time-barred?",
+    "Whether the appeal covered the order passed by the Forest Settlement Officer on May 9, 1955?"
+  ],
+  "petitioner_arguments": [
+    "The appeal was directed against the order dated April 24, 1956 which was not an appealable order under the Act.",
+    "Assuming the appeal was also directed against the earlier order, it was barred by limitation."
+  ],
+  "respondent_arguments": [
+    "The finding of the Deputy Commissioner is that the Divisional Forest Officer actually came to know of that order only on the 24th April, 1956 and this fact does not appear to have been challenged on behalf of the petitioner.",
+    "Even if we were to hold that the appeal was time-barred",
+    "the learned Judges of the High Court added, 'even if we were to hold that the appeal was time-barred', in the circumstances stated above, they would still not consider this to be 'a fit case for interference by this Court in exercise of its jurisdiction u/art. 226 of the Constitution.'"
+  ],
+  "court_reasoning": [
+    "The order should be deemed to have been passed on the 24th April, 1956 and the right of appeal granted to the Department should be determined on that very basis.",
+    "If we were to accept the submission on behalf of the petitioner that the limitation for filing the appeal must be computed from the date put down by the Forest Settlement Officer in the order itself, it can result in material injustice to the parties because there can be cases where a Forest Settlement Officer may make an order, sign it and keep it in his own custody without pronouncing it or informing the parties concerned.",
+    "The order may see that light of day only after the expiry of three months and thus this interpretation would result in all concerned parties being deprived of the right of appeal altogether."
+  ],
+  "holding": [
+    "The High Court dismissed the writ petition on May 9, 1966.",
+    "The State Government rejected by its order dated March 9, 1960 the revisional application filed by the appellant against the order of the appellate tribunal."
+  ],
+  "cases_cited": [
+    "Madan Lal v State Of U"
+  ]
+}

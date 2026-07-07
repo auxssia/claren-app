@@ -1,0 +1,66 @@
+{
+  "case_id": "C2514",
+  "case_name": "State Of Uttar Pradesh And Others v Messrs P.N.C. Construction Company Limited and Others",
+  "court": "Supreme Court of India",
+  "year": 2007,
+  "judges": [
+    "S. H. Kapadia, J."
+  ],
+  "bench": [],
+  "petitioner": "State Of Uttar Pradesh And Others",
+  "respondent": "Messrs P.N.C. Construction Company Limited",
+  "citations": [
+    "1989 2 SCC 645",
+    "1993 1 SCC 364",
+    "1997 2 SCC 183",
+    "AIR 1958 SC 560"
+  ],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "4B"
+    },
+    {
+      "act": "Act Imposes Liability To Tax Under The Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "8 August 2007",
+  "outcome": "Unknown",
+  "facts": [
+    "M/s. P.N.C. Construction Co. Ltd. (assessee) is a public limited company incorporated under the Companies Act, 1956.",
+    "The assessee entered into a contract with National Highway Authority of India, New Delhi, for construction of roads in the State of U.P.",
+    "The assessee applied for grant of 'recognition certificate' under Section 4-B of the U.P. Trade Tax Act, 1948 (for short, 'the Act') for purchase of raw-materials for manufacture of Hot Mix.",
+    "The recognition certificate was granted to the assessee by the A.O. and subsequently withdrawn in view of circulars dated 17.1.01 and 23.2.01 issued by the Commissioner."
+  ],
+  "issues": [
+    "Whether the impugned notice dated 9.5.01 was premature and liable to be set aside.",
+    "Whether the assessee is entitled to claim the benefit of concessional rate of duty on purchase of raw-materials under Section 4-B of the Act."
+  ],
+  "petitioner_arguments": [
+    "The main contention of the assessee before the High Court was that the raw-materials used by the assessee in execution of works contract constituted 'deemed sale' under Article 366(29A) of the Constitution of India and, therefore, the assessee was entitled to the benefit of concessional rate of duty on the purchase of afore stated raw-materials.",
+    "It was open to the State to challenge the order of the Tribunal directing the A.O. to grant recognition certificate to the assessee; that the State did not challenge the decision of the Tribunal and, therefore, the impugned circulars dated 17.1.01 and 23.2.01 constituted colourable exercise of power by the Commissioner in order to get over the judgment of the Tribunal which was against the Department."
+  ],
+  "respondent_arguments": [
+    "The Department further contended that in the meantime assessee was not entitled to sell Hot Mix either in the State or in the course of inter-State trade as provided under Section 4-B(2) of the Act as the final product was not the Hot Mix but the road to be constructed from the Hot Mix manufactured by the assessee.",
+    "On behalf of the Department, it was submitted that road was the end product; that it was not saleable; that it was not the notified product and, therefore, assessee was not entitled to claim the benefit of concessional rate of duty on purchase of raw-materials under Section 4-B of the Act."
+  ],
+  "court_reasoning": [
+    "The High Court came to the conclusion that the impugned notice dated 9.5.01 came to be issued on account of afore stated two circulars dated 17.1.01 and 23.2.01 issued by the Commissioner, Trade Tax, U.P.",
+    "According to the High Court, the impugned notice dated 9.5.01 was issued only on the basis of the afore stated two circulars dated 17.1.01 and 23.2.01 much after the grant of recognition certificate and since the object behind the issuance of the afore stated two circulars dated 17.1.01 and 23.2.01 was to overrule the decision of the Tribunal in favour of the assessee, the High Court took the view that the impugned show cause notice dated 9.5.01 was liable to be set aside."
+  ],
+  "holding": [
+    "The Supreme Court allowed the appeals and held that the impugned notice dated 9.5.01 was premature and liable to be set aside.",
+    "The Supreme Court also held that the assessee is entitled to claim the benefit of concessional rate of duty on purchase of raw-materials under Section 4-B of the Act."
+  ],
+  "cases_cited": [
+    "Amendment this Court had taken the view in State of Madras v. Gannon Dunkerley & Co",
+    "Builders' Association of India and others v. Union of India",
+    "Court in the case of M/s. Gannon Dunkerley and Co. and others v. State of Rajasthan",
+    "Similarly, in the case of State of Kerala and another v. Builders Association of India",
+    "State Of Uttar Pradesh And Others v Messrs P"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case_id": "S14",
+  "case_name": "",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "4(A)"
+    },
+    {
+      "section": "4(B)"
+    },
+    {
+      "section": "4(C)"
+    }
+  ],
+  "legal_domain": "Labour",
+  "legal_subdomain": "Workmen",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "Whenever it appears to the appropriate Government that land in any locality is needed or is likely to be needed for any public purpose",
+    "A notification to that effect shall be published in the Official Gazette and in two daily newspapers circulating in that locality of which at least one shall be in the regional language",
+    "The Collector shall cause public notice of the substance of such notification to be given at convenient places in the said locality"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "It shall be lawful for any officer to enter upon and survey the land, take levels, dig or bore in the sub-soil, do all other acts necessary to ascertain whether the land is adapted for such purpose, set out boundaries of the land proposed to be taken, mark levels, boundaries and line by placing marks and cutting trenches, and cut down and clear away any part of any standing crop, fence or jungle."
+  ],
+  "cases_cited": []
+}

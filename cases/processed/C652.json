@@ -1,0 +1,95 @@
+{
+  "case_id": "C652",
+  "case_name": "State of West Bengal and Others v Purvi Communication Private Limited and Others",
+  "court": "Supreme Court of India",
+  "year": 2005,
+  "judges": [
+    "Dr. AR. Lakshmanan"
+  ],
+  "bench": [],
+  "petitioner": "State of West Bengal and Others",
+  "respondent": "Purvi Communication Private Limited",
+  "citations": [
+    "1989 3 SCC 677"
+  ],
+  "statutes": [
+    {
+      "act": "Is Ultra Vires To The Constitution",
+      "section": "4A"
+    },
+    {
+      "act": "Act Is Ultra Vires To The Constitution",
+      "section": "4A"
+    },
+    {
+      "act": "The Act",
+      "section": "4A"
+    },
+    {
+      "act": "Said Act",
+      "section": "4A"
+    },
+    {
+      "act": "1982 Act",
+      "section": "4A"
+    },
+    {
+      "act": "That Act",
+      "section": "4A"
+    },
+    {
+      "act": "Said 1982 Act",
+      "section": "4A"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "16 March 2005",
+  "outcome": "Unknown",
+  "facts": [
+    "The State of West Bengal Department of Finance, Calcutta and two others are the appellants in this appeal.",
+    "Leave was granted by this Court on 30.03.2001 and pending disposal of the appeal, stay of operation of the judgment and order under challenge was passed.",
+    "Respondent No.1 carries on business as a Multi System Operator (hereinafter referred to as 'MSO') and is engaged in receiving and providing TV signals to individual cable operators of various localities.",
+    "The respondents are receiving communication signals known as TV signals broadcast by various satellite channels and are distributing the same to the sub-cable operators.",
+    "According to the respondents, there is a significant and qualitative difference between the functions performed by them and the activities of sub-cable operators who are franchisee of the respondent-company.",
+    "The Parliament of India enacted the Cable Television Networks (Regulation) Act, 1995 which was given effect from 29.09.1994.",
+    "Some of the relevant definitions are reproduced hereunder for the proper understanding and adjudication of the case: 'cable operator' means any person who provides cable service directly to customers or transmits signal to sub-cable operator through a cable-television network and otherwise controls or is responsible for the management and operation of a cable television network;",
+    "Aggrieved by the imposition of entertainment tax and the demand notices issued, the respondents challenged the vires of 1998 amendment in the 1992 Act as well as these demand notices before the West Bengal Taxation Tribunal.",
+    "The case was heard by a three Member Bench.",
+    "According to them, it is the said local operators who have direct contractual nexus with the consumers,viewers,households are taxed for the purpose of entertainment tax and it is only in West Bengal that such a situation has been created.",
+    "In addition to the incorporation of sub-section (4a) in Section 4A, the said Amending Act of 1998 also inserted Sub-section (4b) which reads as under:-(4b) The prescribed authority shall, after making such enquiry as he may think necessary and after giving the owner or the person, referred to in sub-section (4a) of Section 4A, a reasonable opportunity of being heard, fix the date on and from which such owner or person shall become liable to pay tax under the said sub-Section."
+  ],
+  "issues": [
+    "The legal questions or points of law being debated",
+    "The vires of 1998 amendment in the 1992 Act as well as these demand notices before the West Bengal Taxation Tribunal.",
+    "The competence of the State Legislature to levy the tax on the 'entertainer' i.e., the 'sub-cable operator' and/or the 'entertainee', namely, the viewer or the customer",
+    "The definition of a 'cable operator' and its implications",
+    "The distinction between the functions performed by MSO and sub-cable operators"
+  ],
+  "petitioner_arguments": [
+    "There is a significant and qualitative difference between the functions performed by them and the activities of sub-cable operators who are franchisee of the respondent-company.",
+    "It is only in West Bengal that such a situation has been created.",
+    "The said local operators who have direct contractual nexus with the consumers,viewers,households are taxed for the purpose of entertainment tax",
+    "The respondents challenged the vires of 1998 amendment in the 1992 Act as well as these demand notices before the West Bengal Taxation Tribunal"
+  ],
+  "respondent_arguments": [
+    "The cable operator is the exhibitor and that he is the provider of the entertainment to the customer and hence he can be asked to pay tax on the entertainment that has resulted from the exhibition.",
+    "The respondents preferred a writ petition u/art. 226 of the Constitution of India before the High Court"
+  ],
+  "court_reasoning": [
+    "The Chairman of the Tribunal was of the opinion that the State Legislature was not competent to levy the tax on the 'entertainer' i.e., the 'sub-cable operator' and/or the 'entertainee', namely, the viewer or the customer having regard to the administrative convenience and other relevant factors.",
+    "Accordingly, he declared that cl. (ii) of sub-section (4a) of Section 4A is ultra vires to the Constitution because the Legislature of the State of West Bengal is not competent to enact the provisions under Entry 62 of List II of the Seventh Schedule to the Constitution.",
+    "The Bench was of the opinion that cl. (ii) of sub-section (4a) of Section 4A of the Act is ultra vires to the Constitution."
+  ],
+  "holding": [
+    "The final decision, order, or outcome",
+    "The West Bengal High Court allowed the writ petition filed by respondent Nos. 1 and 2 and declared cl. (ii) of sub-section (4a) of Section 4A of the West Bengal Entertainment-cum-Amusement Tax Act, 1982 as ultra vires to the Constitution."
+  ],
+  "cases_cited": [
+    "Mr. V. R .Reddy submitted that",
+    "State of West Bengal and Others v Purvi Communication Private Limited",
+    "important to refer to the case of Express Hotels Private Ltd. vs. State of Gujarat",
+    "reliance upon the case of The Western India Theatres Ltd. vs. The Cantonment Board"
+  ]
+}

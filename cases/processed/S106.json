@@ -1,0 +1,38 @@
+{
+  "case_id": "S106",
+  "case_name": "",
+  "court": "",
+  "year": 1978,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "4"
+    },
+    {
+      "section": "5"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "All minorities, whether based on religion or language, shall have the right to establish and administer educational institutions of their choice.",
+    "In making any law providing for the compulsory acquisition of any property of any educational institution established and administered by a minority, referred to in clause (1), the State shall ensure that the amount fixed by or determined under such law for the acquisition of such property is such as would not restrict or abrogate the right guaranteed under that clause.",
+    "The State shall not, in granting aid to educational institutions, discriminate against any educational institution on the ground that it is under the management of a minority, whether based on religion or language."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "All minorities, whether based on religion or language, shall have the right to establish and administer educational institutions of their choice.",
+    "The State shall not, in granting aid to educational institutions, discriminate against any educational institution on the ground that it is under the management of a minority, whether based on religion or language."
+  ],
+  "cases_cited": []
+}

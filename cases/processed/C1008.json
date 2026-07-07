@@ -1,0 +1,56 @@
+{
+  "case_id": "C1008",
+  "case_name": "Krishna Mohan Shukla v Union of India and Others",
+  "court": "Supreme Court of India",
+  "year": 2000,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Krishna Mohan Shukla",
+  "respondent": "Union of India",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "136"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Damages",
+  "court_level": "Supreme Court",
+  "decision_date": "25 January 2000",
+  "outcome": "Unknown",
+  "facts": [
+    "The Order of the Court was as follows : Writ Petition (Civil) No. 66 of 1995.",
+    "Numerous orders had been passed earlier in this writ petition dealing with various aspects of the case.",
+    "On 16th March, 1998, this Court required the petitioner to give in writing the issues which survived in the writ petition in respect of which directions from this Court were necessary.",
+    "Pursuant to the said directions, the petitioner filed an affidavit dated 16th April 1998,"
+  ],
+  "issues": [
+    "alleged arbitrary functioning of the Bhopal Gas Relief Tribunal",
+    "medical facilities"
+  ],
+  "petitioner_arguments": [
+    "there was defective medical categorisation, preparation of illegal compensation and categorisation list, holding of so-called Lok Adalats which was illegal, arbitrary manner in which the suo motu revisional powers were exercised, etc.",
+    "mentioning these amounts as compensation payable was arbitrary and contrary to the Scheme"
+  ],
+  "respondent_arguments": [
+    "the Central Government has specified the amounts",
+    "Specific ailments are not mentioned therein."
+  ],
+  "court_reasoning": [
+    "The Committee of Deputy Commissioners appear to have formulated a yardstick which would obviously avoid delay in the determination of the amount of compensation which is payable.",
+    "It will be subject to determination afresh, if called in question, either in appeal or in revision before the Welfare Commissioner."
+  ],
+  "holding": [
+    "This writ petition is disposed of in the aforesaid manner.",
+    "The petitioner is permitted to withdraw this petition with liberty to file a fresh petition giving all necessary particulars."
+  ],
+  "cases_cited": [
+    "Bhopal Gas Peedith Manila U. Sangat. & Ors. v. U.O",
+    "Krishna Mohan Shukla v Union of India"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "case_id": "S194",
+  "case_name": "Definition of dowry",
+  "court": "",
+  "year": 0,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "30"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "19 11 1986",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "Definition of dowry"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The expression "
+  ],
+  "holding": [
+    "Dowry"
+  ],
+  "cases_cited": []
+}

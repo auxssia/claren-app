@@ -1,0 +1,59 @@
+{
+  "case_id": "C97",
+  "case_name": "Mafabhai Nagarbhai Raval v State of Gujarat",
+  "court": "Supreme Court of India",
+  "year": 1992,
+  "judges": [
+    "K. JAYACHANDRA REDDY"
+  ],
+  "bench": [],
+  "petitioner": "Mafabhai Nagarbhai Raval",
+  "respondent": "State of Gujarat\nSupreme Court of India\n\n14 August 1992\nCr.A. No. 317 of 1981 (Cr.A. No. 148 of 1979, D/- 30 January 1981 and 2 February 1981 (Guj).)\nThe Judgment was delivered by: K. JAYACHANDRA REDDY J.\n1.  This is an appeal under Section 379, Cr.P.C. read with Section 2 of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970. The sole accused is the appellant before us. He was tried for an offence punishable under Section 302, I.P.C. The gravamen of the charge was that on the night of 9-7-78 at mid night he poured kerosene oil on Bai Gauri the deceased in this case and set fire as a result of which she died on the next day. The case rested mainly on the dying declarations recorded by the Doctor and the Magistrate. The learned Sessions Judge was not prepared to act upon the dying declarations and accordingly acquitted the appellant. The State preferred an appeal. The High Court allowed the appeal and convicted the appellant under Sec",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "379"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "14 August 1992",
+  "outcome": "Unknown",
+  "facts": [
+    "This is an appeal under Section 379, Cr.P.C. read with Section 2 of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970.",
+    "The sole accused is the appellant before us.",
+    "He was tried for an offence punishable under Section 302, I.P.C.",
+    "The gravamen of the charge was that on the night of 9-7-78 at mid night he poured kerosene oil on Bai Gauri the deceased in this case and set fire as a result of which she died on the next day.",
+    "The case rested mainly on the dying declarations recorded by the Doctor and the Magistrate.",
+    "The learned Sessions Judge was not prepared to act upon the dying declarations and accordingly acquitted the appellant.",
+    "The State preferred an appeal.",
+    "The High Court allowed the appeal and convicted the appellant under Section 302, I.P.C. and sentenced him to undergo imprisonment for life."
+  ],
+  "issues": [
+    "Whether the dying declarations recorded by the Doctor and the Magistrate are true and voluntary?"
+  ],
+  "petitioner_arguments": [
+    "The deceased had serious burns on her and it would not have been possible for her to make dying declarations.",
+    "P.W.2 the Doctor who recorded the first dying declaration has not truly recorded the same in the words of the deceased.",
+    "A P.W.3 the Executive Magistrate who recorded the second dying declaration did not record the same in the form of questions and answers."
+  ],
+  "respondent_arguments": [
+    "Both the dying declarations are true and voluntary."
+  ],
+  "court_reasoning": [
+    "The Doctor who has examined the deceased and conducted the post-mortem is the only competent witness to speak about the nature of injuries and the cause of death.",
+    "Unless there is something inherently defective the court cannot substitute its opinion to that of the Doctor.",
+    "The learned Judge found fault with the procedure adopted by the Executive Magistrate namely that he did not record the statement in the form of questions and answers."
+  ],
+  "holding": [
+    "The appeal is accordingly dismissed."
+  ],
+  "cases_cited": []
+}

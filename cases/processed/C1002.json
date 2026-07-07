@@ -1,0 +1,71 @@
+{
+  "case_id": "C1002",
+  "case_name": "Bridge and Roof Company (India), Limited, and Others v Union of India and Others",
+  "court": "Supreme Court of India",
+  "year": 1962,
+  "judges": [
+    "K. N. Wanchoo"
+  ],
+  "bench": [],
+  "petitioner": "Bridge and Roof Company (India), Limited, and Others",
+  "respondent": "Union of India",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "6"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "section": "2(B)"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "11 September 1962",
+  "outcome": "Unknown",
+  "facts": [
+    "The short question raised in this writ petition under Art. 32 of the Constitution is whether production bonus is included within the term 'basic wages' as defined in s. 2(b) of the Employees' Provident Funds Act, No. 19 of 1952.",
+    "The Company has a production bonus scheme in force which provides for payment of production bonus over and above wages fixed by the major engineering award of 1958, published in the Calcutta gazette dated November 5, 1958.",
+    "In addition to basic wages and dearness allowance payable under the award, the Company has two production bonus schemes one for the hourly rated workers and the other for the rest.",
+    "It may be added that the scheme relating to the hourly rated workers has been revised from January 1, 1962 and the main feature of this revision is that the Scheme is now applicable to those workers on a quarterly basis.",
+    "In consequence a Provident Fund Scheme was framed in September 1952 knows as the Employees Provident Funds Scheme, 1952, and it is applicable to the company.",
+    "The present petition was thereafter filed in April 1962 and is directed against the decision of the Central Government which was duly communicated to the Company in March 1962."
+  ],
+  "issues": [
+    "Whether production bonus is included within the term 'basic wages' as defined in s. 2(b) of the Employees' Provident Funds Act, No. 19 of 1952",
+    "What is the nature of the production bonus scheme in force in that company"
+  ],
+  "petitioner_arguments": [
+    "The main contention of the Company is that bonus without any qualification has been expected from the terra ', basic wages' in the definition in s. 2(b) of the Act.",
+    "All kinds of bonus whether it be profit bonus or production bonus or attendance bonus or festival bonus either as an implied condition of service or as a customary payment, are excluded from 'basic wages'.",
+    "When the Act was passed in 1952 the legislature was aware of the various kinds of bonus which were being paid by various Concerns in various industries and when it decided to exclude bonus without any qualification from the term '(basic wages' as defined in s. 2(b), it was not open to the Central Government to direct that production bonus should be included in basic wages for the purposes of contribution under s. 6.",
+    "If the word 'bonus' therein excludes production bonus the provision would be unconstitutional as it would be hit by Art. 14 of the Constitution inasmuch as production bonus is not a general feature of all industrial concerns but has been introduced only in some."
+  ],
+  "respondent_arguments": [
+    "Wages are the price for labour and arise out of contract, and the use of the term 'basic wages' merely indicates that a certain part of the total wages is being separated for certain purposes only.",
+    "Production bonus being in the nature of incentive wage must be included in the definition of the term 'basic wages' in s. 2(b), as basic wages there defined are 'all emoluments which are earned by an employee while on duty or on leave with wages in accordance with the terms of the contract of employment and which are paid or payable in cash to him'.",
+    "When the word 'bonus' was used in el. (ii) of the exceptions to s. 2(b), it only referred to profit bonus, as it was well established before 1952 that the use of the word 'bonus' without any qualification referred to profit bonus only in industrial adjudications."
+  ],
+  "court_reasoning": [
+    "The difficulty, however, arises because the definition also provides that certain things will not be included in the term 'basic wages', and these are contained in three clauses.",
+    "The exceptions therefore do not seem to follow any logical pattern which would be in consonance with the main definition.",
+    "If there were no exceptions to this definition, there would have been no difficulty in holding that production bonus whatever be its nature would be included within these terms."
+  ],
+  "holding": [
+    "The Central Government's direction that production bonus should be included in basic wages for the purposes of contribution under s. 6 is upheld."
+  ],
+  "cases_cited": [
+    "Bridge and Roof Company (India), Limited, and Others v Union of India",
+    "Mill owners' Association Bombay v. The Employees in",
+    "The Jay Engineering, Works Limited v. The",
+    "production bonus in Messrs. Titaghur Paper Mills Co. Ltd. v. Its Workmen",
+    "see Messrs. Ispahani Limited Calcutta v. Ispahani Employees'",
+    "see Messrs. Titaghur Paper Mills Co. Limited v. Its Workmen",
+    "some festival (see The Graham Trading Co. (India) Limited v. Its Workmen",
+    "the Labour Appellate Tribunal in the Mill owners' Association v. The Rashtriya Mill Mazdoor Sangh",
+    "we may refer to the case of Mill owners' Association Bombay v. The Bashtrya Mill Mazdoor Sangh"
+  ]
+}

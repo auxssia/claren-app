@@ -1,0 +1,72 @@
+{
+  "case_id": "C1065",
+  "case_name": "State of Maharashtra v Manjurrya and others",
+  "court": "Supreme Court of India",
+  "year": 2003,
+  "judges": [],
+  "bench": [],
+  "petitioner": "State of Maharashtra",
+  "respondent": "Manjurrya",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "304"
+    },
+    {
+      "section": "300"
+    },
+    {
+      "section": "161"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "26 August 2003",
+  "outcome": "Unknown",
+  "facts": [
+    "Nine accused persons including the respondent herein were tried by the Additional Sessions Judge, Hingoli district, Maharashtra for the offences punishable u/s. 302 read with S. 149 and Sections 147, 148, 324 read with S. 149 and S. 326 read with S. 149 of the Indian Penal Code.",
+    "The trial court acquitted A-6, A-7 and A-8 for lack of evidence.",
+    "It convicted A-l to A-5 and A-9 of all the charges mentioned hereinabove and sentenced them for an offence punishable u/s. 302 read with S. 149 IPC to undergo imprisonment for life.",
+    "In an appeal filed by the convicted appellants, the High Court of Judicature at Bombay, Aurangabad Bench, while accepting the prosecution case in regard to the incident in question altered the sentence of the respondents herein for the offence punishable u/s. 302 read with S. 149 IPC to sentence for the offence punishable u/s. 304 IPC read with S. 149 IPC and sentenced them on that count to undergo rigorous imprisonment for five years.",
+    "Against this reduced sentence awarded by the High Court the appellant State is in this appeal before us.",
+    "Brief facts necessary for the disposal of this appeal are that these respondents along with the acquitted accused persons on 23-6-1991 at about 5 p.m. in Village Gota formed themselves into an unlawful assembly and attacked one Kishan Pawar who died due to the said attack.",
+    "The prosecution had also adduced evidence apart from the three injured witnesses of two other witnesses who did not support the prosecution case.",
+    "It is based on the motive as projected by the prosecution as also on the evidence of the injured witnesses that the trial court came to the conclusion that the present respondents were guilty of causing murder of deceased Kishan Pawar and sentenced them to undergo imprisonment as stated above."
+  ],
+  "issues": [
+    "Whether the High Court erred in altering the sentence awarded by the trial court u/s. 302 IPC to one u/s. 304 Part II.",
+    "Whether the accused persons had intended to cause the death of the deceased Kishan Pawar.",
+    "Whether the injuries caused to the deceased were on the vital part of the body."
+  ],
+  "petitioner_arguments": [
+    "The prosecution's case that the incident in question took place on 23-6-1991 wherein the accused persons came armed with deadly weapons to the house of the deceased is accepted by both the courts below.",
+    "Both accepted the fact that attack on the deceased Kishan Pawar had taken place as projected by the prosecution consequent to which he had died.",
+    "The High Court made a serious error in holding that these injuries are not on the vital part of the body."
+  ],
+  "respondent_arguments": [
+    "From the fact that the accused persons did not use the sharp part of the weapon carried by them would indicate that they had no intention to cause such injuries which would in the normal course lead to death, therefore, finding of the High Court is justified.",
+    "The action of the respondent-accused persons could be only one that falls u/s. 304 Part II IPC as has been held by the High Court."
+  ],
+  "court_reasoning": [
+    "We notice that the foundation of this finding of the High Court is based on an erroneous fact that the injuries caused to the deceased were not on the vital part of the body.",
+    "By no stretch of imagination can it ever be said that these injuries were not on the vital part of the body.",
+    "Assuming that the accused used the blunt side of the axe that by itself would not indicate any lack of intention to cause murder nor can the accused plead lack of knowledge that such injuries would lead to death."
+  ],
+  "holding": [
+    "We are of the opinion that the High Court erred in altering the sentence awarded by the trial court u/s. 302 IPC to one u/s. 304 Part II.",
+    "The present case is clearly incapable of being brought under Exception 4 of S. 300 IPC as contended by the learned counsel for the respondents."
+  ],
+  "cases_cited": [
+    "State of Maharashtra v Manjurrya"
+  ]
+}

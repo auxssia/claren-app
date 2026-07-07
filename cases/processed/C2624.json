@@ -1,0 +1,70 @@
+{
+  "case_id": "C2624",
+  "case_name": "Premji Nathu v State Of Gujarat And Another",
+  "court": "Supreme Court of India",
+  "year": 2012,
+  "judges": [
+    "G. S. Singhvi"
+  ],
+  "bench": [],
+  "petitioner": "Premji Nathu",
+  "respondent": "State Of Gujarat And Another\nSupreme Court of India\n\n9 April 2012\nCIVIL APPEAL NO. 3430 OF 2012(arising out of SLP (C) No.34815/2011)\nThe Judgment was delivered by : G. S. Singhvi, J.\n1.  Whether the application submitted by the appellant under Section 18(1) of the Land Acquisition Act, 1894 (for short, 'the Act') was barred by time and Civil Judge (Senior Division), Junagadh (hereinafter described as the 'Reference Court') rightly refused to entertain his prayer for enhancement of the compensation determined by the Special Land Acquisition Officer is the question which arises for consideration in this appeal filed against judgment dated 16.8.2011 of the learned Single Judge of the Gujarat High Court.\n2.  The appellant's land was acquired by the State Government along with other parcels of land for implementation of Mendarda - Amrapur Road Scheme. Notification under Section 4(1) was issued on 4.3.1982 and the declaration under Section 6(1) was published on 7.10.1982. The",
+  "citations": [
+    "1993 2 SCC 746",
+    "2000 5 SCC 262",
+    "2010 3 SCC 545",
+    "AIR 1961 SC 1500",
+    "AIR 1963 SC 1604"
+  ],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "54"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "9 April 2012",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant's land was acquired by the State Government along with other parcels of land for implementation of Mendarda - Amrapur Road Scheme.",
+    "Notification under Section 4(1) was issued on 4.3.1982 and the declaration under Section 6(1) was published on 7.10.1982.",
+    "The Special Land Acquisition Officer determined the amount of compensation at the rate of Rs.110/- per Are for irrigated land and Rs.80/- per Are for non-irrigated land.",
+    "After passing of the award, the Collector issued notice to the appellant under Section 12(2), which was received by him on 22.2.1985."
+  ],
+  "issues": [
+    "Whether the application submitted by the appellant under Section 18(1) of the Land Acquisition Act, 1894 (for short, 'the Act') was barred by time",
+    "What additional compensation, if any, he is entitled to ?",
+    "Whether this application is in time ?",
+    "Whether this court has jurisdiction to try this reference case ?",
+    "Whether this reference case is barred by S.25 of L.A. Act.",
+    "Whether the applicants have accepted the awarded amount without raising any objection ?"
+  ],
+  "petitioner_arguments": [
+    "The application filed by his client was within the period prescribed under Section 18 (2)(b) of the Act",
+    "The Reference Court and the learned Single Judge of the High Court committed serious error by refusing to enhance the compensation by erroneously thinking that the application made on 8.4.1985 was barred by time",
+    "Due to hyper-technical approach adopted by the Reference Court and the learned Single Judge, the landowners have been rendered remediless"
+  ],
+  "respondent_arguments": [
+    "The Special Land Acquisition Officer had correctly fixed market value of the acquired land after taking into consideration the location, type and fertility of the acquired land",
+    "The landowners are not entitled to higher compensation because they had accepted the award without any protest"
+  ],
+  "court_reasoning": [
+    "An analysis of the above reproduced provisions shows that by virtue of Section 12(1), an award made by the Collector is treated final and conclusive evidence of the true area and value of the land and apportionment of the compensation among the persons interested",
+    "The reason for providing six months from the date of the award for making an application seeking reference, where the applicant did not receive a notice under Section 12(2) of the Act, while providing only six weeks from the date of receipt of notice under Section 12(2) of the Act for making an application for reference where the applicant has received a notice under Section 12(2) of the Act is obvious",
+    "What needs to be emphasised is that along with the notice issued under Section 12(2) of the Act, the land owner who is not present or is not represented before the Collector at the time of making of award should be supplied with a copy thereof so that he may effectively exercise his right under Section 18(1) to seek reference to the Court"
+  ],
+  "holding": [
+    "The applications filed by the appellant and other landowners were within the period prescribed under Section 18 (2)(b) of the Act",
+    "The Reference Court and the learned Single Judge of the High Court committed serious error by refusing to enhance the compensation"
+  ],
+  "cases_cited": [
+    "Bhupinderpal Singh and others v. State of Punjab",
+    "High Court in Special Land Acquisition Officer, Himatnagar v. Nathaji Kacharaji",
+    "In Harish Chandra Raj Singh v. Land Acquisition Officer",
+    "In State of Punjab v. Qaisar Jehan Begum",
+    "Nilabati Behera (Smt) Alias Lalita v. State of Orissa",
+    "Premji Nathu v State Of Gujarat"
+  ]
+}

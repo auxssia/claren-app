@@ -1,0 +1,65 @@
+{
+  "case_id": "C1437",
+  "case_name": "Kartar Singh v State of Punjab",
+  "court": "Supreme Court of India",
+  "year": 1992,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Kartar Singh",
+  "respondent": "State of Punjab\nSupreme Court of India\n\n23 October 1992\nCr.A. No. 179 of 1991\nThe Order of the Court was as follows:\n1.  The appellant took trial under Section 5 of the  Terrorists and Disruptive Activities (Prevention) Act, 1987 (for short TADA) read with Section 25 of the Arms Act.\n2.  The case of the prosecution is on January 27, 1989 a police party, headed by ASI Dilbagh Singh consisting of Head Constable Balwant Singh and other police officials, was present in the area of railway crossing Chhebarta. A secret information was received that the appellant was in possession of huge quantity of unlicenced arms and ammunition. A raid was conducted. The accused (appellant) was taken into custody. He made a statement to the effect that he kept concealed one pistol of 9 mm. bore along with 60 live cartridges of the same bore under bricks lying near the main gate of the house. This statement of the accused was attested by Head Constable Balwant Singh and chaukidar Shingara Sin",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Terrorists And Disruptive Act",
+      "section": "5"
+    },
+    {
+      "act": "Arms Act",
+      "section": "25"
+    },
+    {
+      "act": "Code Of Criminal Procedure Was",
+      "section": "313"
+    },
+    {
+      "act": "Act With Section 25 Of The Arms Act",
+      "section": "5"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "23 October 1992",
+  "outcome": "Unknown",
+  "facts": [
+    "The Order of the Court was as follows: 1. The appellant took trial under Section 5 of the Terrorists and Disruptive Activities (Prevention) Act, 1987 (for short TADA) read with Section 25 of the Arms Act.",
+    "A secret information was received that the appellant was in possession of huge quantity of unlicenced arms and ammunition.",
+    "A raid was conducted. The accused (appellant) was taken into custody.",
+    "He made a statement to the effect that he kept concealed one pistol of 9 mm. bore along with 60 live cartridges of the same bore under bricks lying near the main gate of the house.",
+    "Acting on this statement, the pistol of 9 mm. bore along with 60 cartridges were recovered after digging out some bricks."
+  ],
+  "issues": [
+    "There is a delay in sending the pistol for mechanical test to find out whether it was in working condition.",
+    "There are infirmities in the evidence adduced on behalf of the prosecution.",
+    "The vital discrepancies in the testimony of the prosecution witnesses have been overlooked by the court below."
+  ],
+  "petitioner_arguments": [
+    "There is a delay in sending the pistol for mechanical test to find out whether it was in working condition.",
+    "There are infirmities in the evidence adduced on behalf of the prosecution.",
+    "The vital discrepancies in the testimony of the prosecution witnesses have been overlooked by the court below."
+  ],
+  "respondent_arguments": [
+    "It is true there was no independent witness during the time of search but none can be expected in such matters.",
+    "No doubt there are discrepancies in the evidence of the prosecution but they are not material in nature since it was not the case of the accused that there was no seizure at all."
+  ],
+  "court_reasoning": [
+    "We have ourselves carefully examined the evidence. PW 2 is the armourer. He does not say that the cartridges were ever sent to him for test.",
+    "This casts a serious doubt about the version of the prosecution.",
+    "It is no use contending that no question was put to the prosecution witness to shatter the defence of the disclosure statement."
+  ],
+  "holding": [
+    "We are disinclined to accept the version of the prosecution. We cannot merely rest our conclusion on the statement suffered by the accused during investigation as is done by the learned Judge of the designated court.",
+    "Under these circumstances, we are obliged to reject the case of the prosecution which means the appellant is entitled to acquittal."
+  ],
+  "cases_cited": []
+}

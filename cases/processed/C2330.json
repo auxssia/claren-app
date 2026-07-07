@@ -1,0 +1,67 @@
+{
+  "case_id": "C2330",
+  "case_name": "State of Karnataka v Manjanna",
+  "court": "Supreme Court of India",
+  "year": 2000,
+  "judges": [],
+  "bench": [],
+  "petitioner": "State of Karnataka",
+  "respondent": "Manjanna\nSupreme Court of India\n\n4  May  2000\nAppeal (Cr.) 1911 of 1996\nThe Order of the Court was as follows:\n1.  This appeal has been preferred from the decision of the Karnataka High Court reversing the conviction and sentencing of the respondent u/s. 376(1) of the India Penal Code (IPC). The case of the prosecution was that prosecutrix, a school girl, was raped by respondent on 6th April, 1988 at about 12 noon. Prosecutrix (PW 1) was residing with her parents at Hosabatti. The school was at Belagur. She had taken the IXth standard examination in March 1988. The results were to be announced in April, 1988.\n2.  During the Ist week of April, 1988 there was Jatra at a Village called Kabbala. Prosecutrix's mother, Gowramma (PW 10), her tather Ramaiah (PW 12) and her brother had opened a shop in that Jatra. On 6th April 1988, prosecutrix and her sister Shardamma (PW 11) were in their house at Hosahatti. At about 12 noon, prosecutrix left Hosahatti to go to Kabbala so",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "376(1)"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "376"
+    },
+    {
+      "section": "313"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "157"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "4 May 2000",
+  "outcome": "Unknown",
+  "facts": [
+    "The case of the prosecution was that prosecutrix, a school girl, was raped by respondent on 6th April, 1988 at about 12 noon.",
+    "Prosecutrix (PW 1) was residing with her parents at Hosabatti.",
+    "The accused was known to the victim and her family as he used to come to their shop at Kabbala.",
+    "Prosecutrix's clothes were chemically examined (Ext. P-7) and it was found that the lehnga worn by prosecutrix during the incident had semen stains."
+  ],
+  "issues": [
+    "Whether the prosecution has proved that the accused committed rape on a girl below the age of 16 years?",
+    "Whether the enmity alleged by the accused for falsely implicating him is accepted?"
+  ],
+  "petitioner_arguments": [
+    "The prosecution argued that there was no reason to disbelieve the evidence of the prosecutrix.",
+    "The prosecution argued that the evidence given by prosecutrix was not only corroborated by the several prosecution witnesses but also by the medical evidence."
+  ],
+  "respondent_arguments": [
+    "The accused denied his involvement and said that he had been falsely implicated because there was a quarrel between the accused and the father of prosecutrix over setting up of the shop at the Kabbala jatra."
+  ],
+  "court_reasoning": [
+    "The Trial Court found that there was no reason to disbelieve the evidence of the prosecutrix.",
+    "The Sessions Judge noted that the X-ray report to the effect that prosecutrix was aged above 16 years and below 18 years was given by Dr. Shantabai who admitted that she was not a specialist in Radiology."
+  ],
+  "holding": [
+    "The Supreme Court held that the accused was guilty u/s. 376(1) IPC, because the accused had committed rape on a girl below the age of 16 years.",
+    "The Supreme Court sentenced the accused to rigorous imprisonment for seven years and also to pay a fine of Rs. 1,000 in default to undergo simple imprisonment for three months."
+  ],
+  "cases_cited": [
+    "matter has been dealt with by this Court in State of Punjab v. Gurmit Singh"
+  ]
+}

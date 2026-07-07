@@ -1,0 +1,65 @@
+{
+  "case_id": "C2347",
+  "case_name": "Rajinder Kumar v State of Himachal Pradesh and another",
+  "court": "Supreme Court of India",
+  "year": 2000,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Rajinder Kumar",
+  "respondent": "State of Himachal Pradesh and another\nSupreme Court of India\n\n8 November 2000\nCr.A. No. 958 of 2000 (Arising out of S.L.P. (C) No. 1979 of 2000)\nThe order of the court was as follws:\n1. Leave granted.\n2. The appellant stands convicted u/s. 16(1) of the Prevention of Food Adulteration Act, 1954 (for short \"the Act\"). He is sentenced to undergo simple imprisonment for a period of six months and a fine of Rs 1000. He filed an appeal before the Sessions Court. The conviction and sentence were confirmed by the Sessions Judge against which he preferred a revision before the High Court of Himachal Pradesh but he did not succeed in that endeavour also.\n3. When the appellant approached this Court by special leave, learned counsel highlighted a point that as the food article alleged to have been sold to the Food Inspector was boiled milk the standard fixed for cow's milk or buffalo's milk or goat's milk could not have been adopted. We also felt a doubt initially whether boiled m",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "16(1)"
+    },
+    {
+      "section": "13(2)"
+    },
+    {
+      "section": "313"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "8 November 2000",
+  "outcome": "Unknown",
+  "facts": [
+    "On 12-12-1991 PW 1 Food Inspector visited the canteen-cum-tea canteen run by the appellant and took a sample from the mixed 'boiled milk' kept in one aluminium can.",
+    "One part of the sample was sent to the public analyst who after analysis sent his report dated 15-1-1992 opining that the sample was adulterated inasmuch as the 'milk fat' was only 2% and 'milk solids-not-fat' was 6.7%.",
+    "A complaint was filed before the trial court and notice was sent to the appellant by registered post as required u/s. 13(2) of the Act."
+  ],
+  "issues": [
+    "Whether boiled milk is included in the class of milks specified in the Rules under the Act",
+    "Whether there was non-compliance with S. 10(7) of the Act"
+  ],
+  "petitioner_arguments": [
+    "Boiled milk is not envisaged in the scheme of the prevention of food adulteration law",
+    "There was non-compliance with S. 10(7) of the Act",
+    "The milk was never intended for sale",
+    "The sentence should be reduced from the minimum prescribed by law"
+  ],
+  "respondent_arguments": [
+    "The sample itself was taken as though it was 'mixed milk boiled'",
+    "The Food Inspector failed to procure the signatures of independent persons when he took the sample",
+    "The prosecution was relieved of its obligation to cite independent witnesses"
+  ],
+  "court_reasoning": [
+    "In this context, it is idle to contend that no standard had been specified for mixed milk when it is boiled.",
+    "It is also idle to contend that in view of the report of the public analyst there is no deficiency in the components of the food article.",
+    "The obligation which S. 10(7) casts on the Food Inspector is to 'call' one or more persons to be present when he takes action."
+  ],
+  "holding": [
+    "This appeal is accordingly dismissed",
+    "The appellant's bail bond will stand cancelled",
+    "He is directed to surrender to his bail forthwith",
+    "Appeal dismissed"
+  ],
+  "cases_cited": [
+    "Rajinder Kumar v State of Himachal Pradesh",
+    "of the Act in the case of Ram Labhaya v. Municipal Corpn"
+  ]
+}

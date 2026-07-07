@@ -1,0 +1,54 @@
+{
+  "case_id": "C1313",
+  "case_name": "Sarju Prasad Saha v State of Uttar Pradesh and Others",
+  "court": "Supreme Court of India",
+  "year": 1965,
+  "judges": [
+    "SHAH, J."
+  ],
+  "bench": [],
+  "petitioner": "Sarju Prasad Saha",
+  "respondent": "State of Uttar Pradesh",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "1708"
+    },
+    {
+      "section": "5"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "3 March 1965",
+  "outcome": "Unknown",
+  "facts": [
+    "On June 28, 1955 the State of U.P. notified under S.4 (1) of the Land Acquisition Act 1 of 1894 that plots Nos.1708, 1709 and 1710 admeasuring in the aggregate 3.21 acres situate at Mohalla Nai Bazar in the town of Basti were likely to be needed for a public purpose i.e., for waterworks supply scheme for the Basti Municipality.",
+    "Simultaneously therewith the Government of U.P. in purported exercise of powers under S.17 (4) of the Act directed that the provisions of S.5-A of the Act shall not apply to the land notified.",
+    "Later the Government of U.P. on November 29, 1960 notified under S.6 of the Act that the Governor was satisfied that the land mentioned in the Schedule was needed for a public purpose and directed the Collector, Basti to take order for acquisition of the land."
+  ],
+  "issues": [
+    "Whether the notification issued by the Government of U.P. on June 28, 1955 under S.4 (1) of the Land Acquisition Act 1 of 1894 was valid",
+    "Whether the direction given by the Government of U.P. under S.17 (4) of the Act to exclude the application of S.5-A of the Act was ultra vires the legislature"
+  ],
+  "petitioner_arguments": [
+    "The notification issued by the Government of U.P. on June 28, 1955 under S.4 (1) of the Land Acquisition Act 1 of 1894 was not valid",
+    "S.17 (4) of the Act was ultra vires the legislature in that it infringed the guarantee of equal protection of the laws under Art.14 of the Constitution"
+  ],
+  "respondent_arguments": [
+    "The notification issued by the Government of U.P. on June 28, 1955 under S.4 (1) of the Land Acquisition Act 1 of 1894 was valid",
+    "S.17 (4) of the Act was not ultra vires the legislature"
+  ],
+  "court_reasoning": [
+    "The scheme of the Land Acquisition Act is that after notifying that land is needed or likely to be needed for a public purpose, the Government directs the Collector to hold an inquiry into the objections which may be raised by persons interested in the land notified",
+    "The right of the owner of the land is extinguished when Government takes possession of the land after an award of compensation is made"
+  ],
+  "holding": [
+    "The appeal was dismissed"
+  ],
+  "cases_cited": [
+    "Sarju Prasad Saha v State of Uttar Pradesh",
+    "than waste or arable land. This Court in Nandeshwar Prasad v. U. P"
+  ]
+}

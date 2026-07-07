@@ -1,0 +1,62 @@
+{
+  "case_id": "C1641",
+  "case_name": "Hari Pada Khan v Union Of India And Ors.",
+  "court": "Supreme Court of India",
+  "year": 1995,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Hari Pada Khan",
+  "respondent": "Union Of India",
+  "citations": [
+    "1985 2 SCC 398"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "311"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Theft",
+  "court_level": "Supreme Court",
+  "decision_date": "4 December 1995",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner was a permanent staff member of the Indian Oil Corporation who was involved in theft of oil from Haldia Dock Complex. An FIR was lodged against all those who committed the theft, including the petitioner.",
+    "On September 6, 1988, the petitioner was arrested and subsequently released on November 3, 1988. Relying upon Station Order No.20-IV of the Corporation, he was dismissed from service.",
+    "When the services of the petitioner were terminated, he challenged the validity of the Rule in question by filing a writ petition in the Calcutta High Court.",
+    "The High Court upheld the validity of the rule and dismissed the petition."
+  ],
+  "issues": [
+    "Whether the Rule is arbitrary offending Articles 14 and 16 of the Constitution",
+    "Whether the principle of natural justice applies when an authority decides to terminate an employee's services"
+  ],
+  "petitioner_arguments": [
+    "The Rule is ex facie arbitrary offending Articles 14 and 16 of the Constitution",
+    "The view taken by the High Court is not correct in law",
+    "The doctrine of principle of natural justice has no application when the authority concerned is of the opinion that it would be inexpedient to hold an enquiry"
+  ],
+  "respondent_arguments": [
+    "The Rule was made with the intention to prevent an employee from continuing in service after being served with a charge-sheet and arrested",
+    "It would be subject to the result of the trial",
+    "The doctrine of principle of natural justice has no application when the authority concerned is of the opinion that it would be inexpedient to hold an enquiry"
+  ],
+  "court_reasoning": [
+    "The Rule was made by the Corporation with the intention to prevent an employee from continuing in service after being served with a charge-sheet and arrested",
+    "The doctrine of principle of natural justice has no application when the authority concerned is of the opinion that it would be inexpedient to hold an enquiry",
+    "The Rule having been made to meet specified contingency, the principle of natural justice by implication stands excluded"
+  ],
+  "holding": [
+    "The special leave petition is dismissed accordingly",
+    "Petition dismissed"
+  ],
+  "cases_cited": [
+    "Hari Pada Khan v Union Of India",
+    "This Court in Workmen of Hindustan Steels Ltd. & Anr. v. Hindustan Steels Ltd",
+    "affect the foundation of the institution. In Tulsi Ram patel v. Union of India"
+  ]
+}

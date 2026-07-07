@@ -1,0 +1,55 @@
+{
+  "case_id": "C546",
+  "case_name": "State of Himachal Pradesh v Jailal and Others",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [
+    "D. P. Mohapatra"
+  ],
+  "bench": [],
+  "petitioner": "State of Himachal Pradesh",
+  "respondent": "Jailal",
+  "citations": [
+    "AIR 1959 SC 488"
+  ],
+  "statutes": [
+    {
+      "act": "Evidence Act",
+      "section": "45"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "13 September 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "The State of Himachal Pradesh is well known throughout the country for its apples.",
+    "In the year 1983 the apple orchards in different areas of the State like Jubbal and Rohru were afflicted by a disease called 'scab' rendering the fruits unfit for human consumption.",
+    "Feeling concerned about the heavy financial loss which apple growers in the State were facing and keeping in view the danger to public health if the scab affected apples are sold in markets, the State Government took a policy decision to purchase the diseased fruits and destroy the same.",
+    "For implementation of the policy a set of modalities were formulated in which it was provided inter alia that procurement and destruction of diseased apples will be done at different centers throughout the State by comprising of teams of officials and non-officials."
+  ],
+  "issues": [
+    "Whether the prosecution had failed to establish any of the charges against the accused persons.",
+    "Whether the evidence of Shri P.C. Panwar fell very much short of the requirement of law and therefore could not be relied upon."
+  ],
+  "petitioner_arguments": [
+    "The learned trial judge had thoroughly discussed the evidence and given cogent reasons for accepting the prosecution case while the High Court without closely examining the reasons stated in the trial court judgment, on a superficial approach has rejected the prosecution case and acquitted the accused persons.",
+    "Under the modalities of the scheme the public officials in the team were not responsible for ascertaining whether the quantity of diseased apples brought by the grower was out of the crop grown in his orchard or it was procured from some other source."
+  ],
+  "respondent_arguments": [
+    "The prosecution has utterly failed to bring home any of the charges against the accused persons and the High Court has rightly acquitted them.",
+    "Shri P.C. Panwar can neither be taken as an expert for assessment of maximum productive capacity of apple trees nor does his evidence reveal that inflated stock was entered in the official records."
+  ],
+  "court_reasoning": [
+    "The witness could not state the number of scab cases in which he had been called upon to make assessment.",
+    "According to this witness the productivity of an apple tree depends upon various factors; but he had not referred to any such factor in his report."
+  ],
+  "holding": [
+    "These appeals filed by the State of Himachal Pradesh are allowed and the judgments of the High Court are set aside. The cases are remitted back to the trial court for retrial."
+  ],
+  "cases_cited": [
+    "State of Himachal Pradesh v Jailal",
+    "This Court in the case of Hazi Mohammed Ikramul Hague v. State of West Bengal"
+  ]
+}

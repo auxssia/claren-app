@@ -1,0 +1,96 @@
+{
+  "case_id": "C32",
+  "case_name": "State of Andhra Pradesh v Thadi Narayana",
+  "court": "Supreme Court of India",
+  "year": 1961,
+  "judges": [
+    "P. B. Gajendragadkar, J."
+  ],
+  "bench": [],
+  "petitioner": "State of Andhra Pradesh",
+  "respondent": "Thadi Narayana\nSupreme Court of India\n\n24 July 1961\nCriminal Appeal No. 222 of 1959. Appeal by special leave from the judgment and order dated February 24, 1959, of the Andhra Pradesh High Court, Hyderabad, in Criminal Revision Case No. 636 of 1958. AND Criminal Appeal No. 112 of 1961. Appeal by special leave from the Judgment and order dated July 15, 1958, of the Andhra Pradesh High Court in Criminal Appeal No. 237 of 1957.\nThe Judgment was delivered by : P. B. Gajendragadkar, J.\n1.  The short and interesting question which arises for our decision in the present appeal is in respect of the powers of the High Court in disposing of appeals under s. 423(1) (b) of the Code of Criminal Procedure. In dealing with an appeal preferred by a convicted person against the order of conviction and sentence imposed on him by the trial court can the High Court in exercise of its appellate powers under s. 423(1)(b) reverse the finding of acquittal recorded by the trial court",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "411"
+    },
+    {
+      "section": "403"
+    },
+    {
+      "section": "423(1)"
+    },
+    {
+      "section": "411A"
+    },
+    {
+      "section": "417"
+    },
+    {
+      "section": "106"
+    },
+    {
+      "section": "439"
+    },
+    {
+      "section": "423"
+    },
+    {
+      "section": "304"
+    },
+    {
+      "section": "238"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "24 July 1961",
+  "outcome": "Unknown",
+  "facts": [
+    "The respondent Thadi Narayana was charged with having committed offences punishable under s.302 and s.392 of the Indian Penal Code.",
+    "The case against her was that on December 27, 1956 at about night meal-time at Gangacholapenta she, committed the murder of a minor girl K. Sriramulamma by stabbing her with a knife and thus rendered herself 'liable to be punished under s.302.'",
+    "It was also alleged against her that at the aforesaid time and place and in the course of the same transaction she had robbed the said victim of her four pairs of gold Konakammulu and a pair of gold Alakalu and thereby committed 'the offence of robbery under s.392.'",
+    "On April 16, 1957 the learned trial judge found that the charges against the respondent under ss.302 and 392 had not been proved beyond a reasonable doubt, and so he acquitted her of the said offences.",
+    "He, however, held that the respondent was shown to have committed an offence under s.411 and so he convicted her of the said offence and sentenced her to undergo rigorous imprisonment for a period of two years."
+  ],
+  "issues": [
+    "The powers of the High Court in disposing of appeals under s.423(1) (b) of the Code of Criminal Procedure.",
+    "Whether it is open to the High Court to set aside the conviction and sentence u/s.411 I.P.C. and order the accused to be retried on the charges of murder and robbery ?",
+    "When in pursuance of the order of the High Court the Sessions Court again frames charges u/ss.302 and 392 I.P.C. against the accused, is it or is it not open to the accused to plead the statutory bar of AUTREFOIS ACQUIT' u/s.403 Cr.P.C. ?"
+  ],
+  "petitioner_arguments": [
+    "The powers conferred on the Appellate Court in dealing with an appeal against an order of acquittal are prescribed by s.423(1) (a) and (b) of the Code.",
+    "S.423(1) (a) empowers the Appellate Court to reverse the order of acquittal and direct that further inquiry be made or that the accused may be tried or committed for trial, as the case may be, or it may find him guilty and pass sentence on him according to law.",
+    "S.423(1) (b) (1) in terms deals with an appeal from a conviction, and it empowers the Appellate Court to reverse the findings and sentence and acquit or discharge the accused or order a retrial by a Court of competent jurisdiction subordinate to such Appellate Court or committed for trial."
+  ],
+  "respondent_arguments": [
+    "The respondent's plea under s.403 was upheld and it was ordered that the retrial of the respondent for the offences under ss.302 and 392 of the Indian Penal Code cannot be proceeded with.",
+    "It is open to the accused to plead the bar of autrefois acquit under s.403 notwithstanding the order of the High Court unless there is an adjudication on the acquittal by the High Court either under s.423(1) (a) or S.439 of the Code of Criminal Procedure."
+  ],
+  "court_reasoning": [
+    "The powers conferred on the Appellate Court in dealing with an appeal against an order of acquittal it is necessary to bear in mind that the only forum where an appeal can be preferred against an original or an appellate order of 'acquittal is the High Court, that is to say the powers conferred on the Appellate Court by s.423(1) (a) can be exercised only by the High Court and not by Any other Appellate Court.",
+    "The words 'the finding and sentence' are co-related. They indicate that the finding in question is the cause and the sentence is the consequence; and so what the Appellate Court is empowered to reverse is the finding of guilt and consequently the order as to sentence."
+  ],
+  "holding": [
+    "The revisional application preferred by the respondent was allowed, her plea under s.403 was upheld and it was ordered that the retrial of the respondent for the offences under ss.302 and 392 of the Indian Penal Code cannot be proceeded with."
+  ],
+  "cases_cited": [
+    "Ayyar, J., who spoke for the Court, in Jayaram Vithoba v. The",
+    "Full Bench) and the majority judgment in Emperor v. Zamir Qasim (I",
+    "Full Bench), and Taj Khan v. Rex (A",
+    "Golla Hanumappa v. Emperor",
+    "The State v. Amlesh Chandra Ray",
+    "The minority view expressed by Mulla J. in Emperor v. Zamir Qasim(I",
+    "respondent has relied upon the decisions in Indra Kumar Nath v. The"
+  ]
+}

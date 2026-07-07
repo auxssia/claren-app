@@ -1,0 +1,100 @@
+{
+  "case_id": "C52",
+  "case_name": "Abdul Waheed Khan Alias Waheed and Others v State of Andhra Pradesh",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [
+    "Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Abdul Waheed Khan Alias Waheed and Others",
+  "respondent": "State of Andhra Pradesh\nSupreme Court of India\n\n27 August 2002\nAppeal (Cr.) 917-920 of 2002\nThe Judgment was delivered by : Arijit Pasayat, J.\n1. These four appeals relate to a common judgment passed by a Division Bench of the Andhra Pradesh High Court, whereby three appeals filed by the accused-appellants and one by the State were disposed of. While the accused-appellants challenged their conviction u/s. 304 Part I read with S. 34 of the Indian Penal Code, 1860 (in short 'IPC'), State had taken the stand that accused-appellants should have been convicted u/s. 302 read with S. 34 IPC and the two accused who had been acquitted by the trial court should have also been convicted. The appeals filed by the accused-appellants were dismissed and the appeal filed by the State was partially allowed by converting sentence to S. 302 IPC.\n2. Prosecution version sans unnecessary details as unfolded during trial was as follows:-\n3. Accused no.4 Babu Jani @",
+  "citations": [
+    "AIR 1958 SC 465",
+    "AIR 1966 SC 1874",
+    "AIR 1971 SC 1050",
+    "AIR 1973 SC 2190"
+  ],
+  "statutes": [
+    {
+      "section": "304"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "1"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "act": "Arms Act, 1959"
+    },
+    {
+      "section": "120"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    },
+    {
+      "section": "300"
+    },
+    {
+      "section": "299"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "27 August 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "These four appeals relate to a common judgment passed by a Division Bench of the Andhra Pradesh High Court, whereby three appeals filed by the accused-appellants and one by the State were disposed of.",
+    "The prosecution version sans unnecessary details as unfolded during trial was as follows:",
+    "Accused no.4 Babu Jani @ Majid Khan @ Majid was an ex-employee of Hazi Mohd. Yakub (hereinafter referred to as 'deceased'), who had five textile wholesale shops, which he was running along with his sons and grandsons.",
+    "The object was to rob the deceased, and if necessary by liquidating him.",
+    "First attempt was made on 22 February 1993, but finding a lot of people around the spot, the intended objective could not be achieved.",
+    "On the next day i.e. 23 February 1993 the fateful date of the incident, at about 7.30 p.m. after obtaining information from accused Babu Jani accused nos.1 to 3 waited near house of the deceased on a stolen Chetak scooter and were armed with the knives.",
+    "When PW2 rushed to the rescue of the deceased, accused no. 2 threw chilly powder water on his face and he shouted for help.",
+    "Further knife blows were given by the three accused persons till the deceased collapsed.",
+    "The three accused Nos.1 to 3 went to the house of accused Aleem at Boda Banda where accused Babu Jani was waiting for them."
+  ],
+  "issues": [
+    "Whether the trial court's conclusion that the accused-appellants should be convicted u/s. 304 Part I IPC and not u/s. 302 IPC is correct?",
+    "Whether the delay in conducting test identification parade corrodes the prosecution version?"
+  ],
+  "petitioner_arguments": [
+    "The evidence on which the trial court has placed reliance does not inspire confidence.",
+    "The accused persons were put to test identification parade after their arrest.",
+    "PW2, the driver did not participate in the first test identification parade and only after a month a second test identification parade was conducted when PW2 participated and identified the accused persons.",
+    "Accordingly, the State's appeal to that extent was allowed."
+  ],
+  "respondent_arguments": [
+    "The trial court has dealt with in detail as to why there was some delay in holding the test identification parades.",
+    "It is to be noted that the accused persons were arrested after about 2 months of the date of occurrence.",
+    "They were placed in police custody and thereafter under judicial custody.",
+    "Immediately after the accused persons were arrested a motion was made to the concerned court for test identification parade and moment the court fixed the date, the test identification parade was conducted."
+  ],
+  "court_reasoning": [
+    "Identification tests do not constitute substantive evidence. They are primarily meant for purpose of helping the investigating agency with an assurance that their progress with the investigation into the offence is proceeding on the right lines.",
+    "The necessity for holding an identification parade can arise only when the accused are not previously known to the witnesses.",
+    "The whole idea of a test identification parade is that witnesses who claim to have seen the culprits at the time of occurrence are to identify them from the midst of other persons without any aid or any other source."
+  ],
+  "holding": [
+    "The High Court held accused persons to be guilty of offence punishable u/s. 302 IPC, and not u/s. 304 Part I.",
+    "Accordingly, the State's appeal to that extent was allowed."
+  ],
+  "cases_cited": [
+    "Girish Chandra v. The",
+    "In Virsa Singh v. State of Punjab",
+    "See Santokh Singh v. Izhar Hussain",
+    "death in the ordinary course of nature. Rajwant and Ors. v. State of Kerala"
+  ]
+}

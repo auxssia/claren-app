@@ -1,0 +1,51 @@
+{
+  "case_id": "C1211",
+  "case_name": "Mata Gujri Memorial Medical College v State of Bihar and others",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Mata Gujri Memorial Medical College",
+  "respondent": "State of Bihar",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "21"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "12 December 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "Mata Gujri Memorial Medical College is the appellant in this appeal, assailing the judgment of the Patna High Court.",
+    "The appellant is a trust which has set up the medical college in question and having failed in its attempt to obtain necessary affiliation from the university, it had approached the High Court by filing a petition u/arts. 226 and 227 of the Constitution.",
+    "Before the High Court its prayer was that the State of Bihar may be directed to grant approval to the proposal of the affiliation of the college, and the university called B.N. Mandal University, Madhepura to affiliate the said college to the university."
+  ],
+  "issues": [
+    "Whether the prior approval of the State Government is sine qua non for grant of affiliation to the medical college by the University in question",
+    "Whether the State Government has rightly refused the approval to the grant of the affiliation"
+  ],
+  "petitioner_arguments": [
+    "In the matter of grant of affiliation to a medical institution by any university, the powers which are exercised by MCI as well as the Central Government under any statute are not required to be exercised by the State Government again",
+    "The provisions contained in any State statute conferring such power must be held to have been denuded"
+  ],
+  "respondent_arguments": [
+    "Both these decisions relate to establishment of an institution, and has nothing to do with the affiliation",
+    "In the matter of affiliation the State Government cannot be denuded of its power provided under the provisions of the Bihar State Universities Laws Act"
+  ],
+  "court_reasoning": [
+    "The basic underlying theory engrafted in the aforesaid two decisions is that when Parliament enacts an Act in exercise of its power under Entry 25 of List III of the Seventh Schedule, in respect of the field covered by Central law, no State legislation could be made in respect of that field",
+    "The Senate is the supreme governing body of the university and in the matter of affiliation of any educational institution it is the decision of the Senate which must be held to be final"
+  ],
+  "holding": [
+    "We really fail to understand how the State Government can prevent the grant of affiliation to the Institution in question",
+    "The State Government's power provided under the second proviso to S. 21 of the Act cannot be held to be whittled down in any manner"
+  ],
+  "cases_cited": [
+    "Mata Gujri Memorial Medical College v State of Bihar",
+    "Sundara Swamigal Medical Educational and Charitable Trust v. State of T",
+    "in the decision of this Court in Jaya Gokul Educational Trust v. Commr"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "case_id": "C1600",
+  "case_name": "Niranjan Singh v State of Punjab",
+  "court": "Supreme Court of India",
+  "year": 1996,
+  "judges": [
+    "S. P. Kurdukar"
+  ],
+  "bench": [],
+  "petitioner": "Niranjan Singh",
+  "respondent": "State of Punjab\nSupreme Court of India\n\n26 April 1996\nCr.A. No. 160 of 1986, [From the Judgment and Order Dt. 7- 1-1983 of the Punjab and Haryana High Court in Cr. A. No. 531-DB of 1982]\nThe Judgment was delivered by : S. P. Kurdukar, J.\n1.  This Criminal Appeal is preferred by Niranjan Singh s/o Bhan Singh, the accused No. 3 challenging the legality and correctness of the judgment and order of conviction dated January 7, 1983 passed by Punjab & Haryana High Court at Chandigarh.\n2.  At the outset it may be stated that originally five accused persons were tried in Sessions Case No.16/81 for various offence punishable under Sections 120-B, 148, 302 read with 149 and 201 IPC. The Sessions Judge, Sangrur vide judgment and order dated July 31, 1982, convicted accused No. 1, Amrik Singh, Bawa Singh and Niranjan Singh, the appellant before us, for offences punishable under Sections 120-B, 302/34 and 201 IPC and sentenced each one of them on all these three counts for various",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    },
+    {
+      "section": "114"
+    },
+    {
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "26 April 1996",
+  "outcome": "Unknown",
+  "facts": [
+    "The case involves a murder that took place on December 7-8, 1980.",
+    "Harnek Singh, an Akali worker and village Panchayat member, was killed by accused Amrik Singh, Niranjan Singh (the appellant), Bawa Singh, Sainsi Singh, and Gurjant Singh (an approver).",
+    "The murder was allegedly planned to avenge Harnek Singh's popularity in the village and his defeat of Niranjan Singh in a previous Panchayat election.",
+    "Gurjant Singh, an approver, testified that he was present when Amrik Singh, Niranjan Singh, and Bawa Singh hatched the conspiracy to kill Harnek Singh.",
+    "The accused persons were tried in Sessions Case No. 16/81 for various offenses punishable under Sections 120-B, 148, 302 read with 149 and 201 IPC."
+  ],
+  "issues": [
+    "Whether there is sufficient evidence to conclude that the approver and the appellant were responsible for causing Harnek Singh's murder.",
+    "Whether the evidence of Gurjant Singh (P.W.3) is trustworthy and can be relied upon to sustain the conviction of the appellant before us."
+  ],
+  "petitioner_arguments": [
+    "The prosecution case rests on the evidence of Gurjant Singh (P.W.3), an approver, who testified that he was present when Amrik Singh, Niranjan Singh, and Bawa Singh hatched the conspiracy to kill Harnek Singh.",
+    "The prosecution also relied on other witnesses to prove several incriminating circumstances to prove the guilt of the accused."
+  ],
+  "respondent_arguments": [
+    "The respondent/defending party argued that there was insufficient evidence to link the appellant to the crime, and that the approver's testimony was unreliable."
+  ],
+  "court_reasoning": [
+    "The court held that the evidence of Gurjant Singh (P.W.3) needs corroboration in material particulars bridging closely the distance between the crime and the criminal.",
+    "The court applied the law laid down by this Court as regards approver's evidence, requiring that the evidence be trustworthy and credible one and corroborated in material particulars from the evidence on the record."
+  ],
+  "holding": [
+    "The final decision was that the order of conviction and sentence passed by the trial court was upheld, and the appeal was dismissed."
+  ],
+  "cases_cited": []
+}

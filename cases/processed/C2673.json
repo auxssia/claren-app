@@ -1,0 +1,74 @@
+{
+  "case_id": "C2673",
+  "case_name": "Gorige Pentaiah v State of Andhra Pradesh and Others",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Gorige Pentaiah",
+  "respondent": "State of Andhra Pradesh",
+  "citations": [
+    "1977 2 SCC 699",
+    "1982 1 SCC 466",
+    "1988 1 SCC 692",
+    "1992 4 SCC 305",
+    "2000 2 SCC 636",
+    "2000 8 SCC 590",
+    "2005 1 SCC 122",
+    "2006 6 SCC 736",
+    "AIR 1960 SC 866",
+    "AIR 2008 SC 251"
+  ],
+  "statutes": [
+    {
+      "section": "482"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "3(1)"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "506"
+    },
+    {
+      "section": "427"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "156(1)"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "20 August 2008",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The case comes under category (5) where allegations made in FIR/complaint do not make out a case against the accused."
+  ],
+  "cases_cited": [
+    "Gorige Pentaiah v State of Andhra Pradesh",
+    "In G. Sagar Suri & Another v. State of UP &",
+    "In Indian Oil Corporation v. NEPC India Ltd",
+    "In State of Haryana & Others v. Bhajan Lal &",
+    "This court in Janata Dal v. H. S",
+    "This court in Madhavrao Jiwajirao Scindia & Others v. Sambhajirao Chandrojirao Angre &",
+    "This court in State of Karnataka v. L. Muniswamy &",
+    "This court in Zandu Pharmaceutical Works Ltd. & Others v. Mohd",
+    "allow the indictment to proceed to trial. Lord Salmon in DPP v. Humphrys",
+    "inherent power to protect its process from abuse. In Connelly v. DPP",
+    "judge Bench of this court in Inder Mohan Goswami & Another v. State of Uttaranchal &"
+  ]
+}

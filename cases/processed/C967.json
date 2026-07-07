@@ -1,0 +1,87 @@
+{
+  "case_id": "C967",
+  "case_name": "Sushila Chemicals Private Limited and another v Bharat Coking Coal Limited and others",
+  "court": "Supreme Court of India",
+  "year": 2010,
+  "judges": [
+    "A. K. Patnaik, J."
+  ],
+  "bench": [],
+  "petitioner": "Sushila Chemicals Private Limited and another",
+  "respondent": "Bharat Coking Coal Limited",
+  "citations": [
+    "1991 1 SCC 537",
+    "1993 1 SCC 445",
+    "2004 3 SCC 553",
+    "2006 10 SCC 236",
+    "2007 2 SCC 640"
+  ],
+  "statutes": [
+    {
+      "section": "1265"
+    },
+    {
+      "section": "4"
+    },
+    {
+      "section": "120"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "13(2)"
+    },
+    {
+      "section": "13(D)"
+    },
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "15 September 2010",
+  "outcome": "Unknown",
+  "facts": [
+    "Pursuant to public advertisements issued by Coal India Limited calling upon entrepreneurs to establish coal based industries, the appellants purchased technology and established plants for manufacturing special smokeless fuel during 1990-1991.",
+    "The appellants continued to run their respective plants and manufacture special smokeless fuel by processing the coal supplied by BCCL to them.",
+    "On 18.10.2007, the Government of India, Ministry of Coal discontinued the traditional linkage system and adopted a new coal distribution policy under which coal was to be supplied to different consumers through a Fuel Supply Agreement (FSA) at notified prices."
+  ],
+  "issues": [
+    "Whether the suspension of supply of coal by BCCL to the appellants was reasonable and arbitrary",
+    "Whether the Division Bench of the Patna High Court correctly held that resumption of supply of coal could not be ordered in larger public interest"
+  ],
+  "petitioner_arguments": [
+    "The plants of the appellants were manufacturing smokeless fuel and the object of the FSA executed by BCCL was to provide coal for the plants",
+    "Suspension of supplies of coal by BCCL without terminating the agreement (FSA) is unreasonable and arbitrary and violative of Article 14 of the Constitution",
+    "The FIR lodged by the CBI did not have sufficient materials in its possession, making the suspension of supplies of coal to the appellants arbitrary and unreasonable"
+  ],
+  "respondent_arguments": [
+    "The FIR lodged by a premier investigating agency like the CBI and the chequered history of the appellants before the FIR were sufficient for BCCL to suspend the supply of coal to the appellants",
+    "Investigation into the allegations made in the FIR has already been completed by the CBI and charge sheet has been filed against the appellants"
+  ],
+  "court_reasoning": [
+    "The Division Bench of the Patna High Court placed reliance on a judgment of the Division Bench of the Patna High Court dated 05.07.2002 passed in M/s. Central Coal Field Limited vs. M/s, Aman Lime Works (LPA No.701 of 2002) and held that resumption of supply of coal cannot be directed by the court so long as the respondents do not consider the explanation of the appellants",
+    "The learned Single Judge had quashed the order directing suspension of supplies of coal to the appellants and allowed the writ petitions"
+  ],
+  "holding": [
+    "The appeals were allowed, but the appellants were directed to take a final decision pursuant to the show cause notice dated 16.07.2009 at an early date",
+    "The respondents were directed to resume supply of coal to the appellants"
+  ],
+  "cases_cited": [
+    "Sushila Chemicals Private Limited and another v Bharat Coking Coal Limited",
+    "and Noble Resources Ltd. v. State of Orissa &",
+    "of obligations under public law. In Sterling Computers Ltd. v. M/s M & N Publications Limited",
+    "of this Court in Ashoka Smokeless Coal India (P) Ltd. & Ors. Vs. Union of India &",
+    "of this Court in Ashoka Smokeless Coal India (P) Ltd. & Ors. v. Union of India &",
+    "of this Court starting from Kumari Shrilekha Vidyarthi v. State of U",
+    "passed in M/s. Central Coal Field Limited vs. M/s",
+    "the decisions of this Court in ABL International Ltd. & Anr. v. Export Credit Guarantee Corporation of India Ltd"
+  ]
+}

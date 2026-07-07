@@ -1,0 +1,58 @@
+{
+  "case_id": "C643",
+  "case_name": "P.P. Entterprises Etc. Etc. v Union Of India & Others Etc",
+  "court": "Supreme Court of India",
+  "year": 1982,
+  "judges": [
+    "Misra, J."
+  ],
+  "bench": [],
+  "petitioner": "P.P. Entterprises Etc. Etc",
+  "respondent": "Union Of India &",
+  "citations": [
+    "1967 2 SCR 3601967"
+  ],
+  "statutes": [
+    {
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "16 March 1982",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioners are dealers in sugar who seek to challenge the Constitutional validity of an order issued by the Central Government under the Essential Commodities Act, 1955.",
+    "The order regulates the production, supply and distribution of sugar and imposes restrictions on recognised dealers regarding the quantity of sugar they can hold in stock.",
+    "The petitioners argue that the order is not covered by any of the clauses of s.3 of the Essential Commodities Act and that it imposes unreasonable restrictions on their right to carry on trade or business."
+  ],
+  "issues": [
+    "Is the impugned order covered by s.3 of the Essential Commodities Act?",
+    "Do the restrictions imposed by the order violate Art.19(2)(g) of the Constitution?",
+    "Does the order violate Art.14 of the Constitution?"
+  ],
+  "petitioner_arguments": [
+    "The order is not covered by any of the clauses of s.3 of the Essential Commodities Act.",
+    "The order imposes unreasonable restrictions on their right to carry on trade or business."
+  ],
+  "respondent_arguments": [
+    "The order is covered by s.3 of the Essential Commodities Act and is necessary to prevent hoarding and black-marketing.",
+    "The restrictions imposed by the order are reasonable and necessary for the public interest."
+  ],
+  "court_reasoning": [
+    "The language of s.3(1) coupled with cl.(d) of subs.(2) of s.3 is wide enough to cover the impugned order.",
+    "The expression 'reasonable restrictions' signifies that the limitation imposed on a person in enjoyment of that right should not be arbitrary or of an excessive nature beyond what is required in the interest of the public."
+  ],
+  "holding": [
+    "The impugned order is valid and does not violate Art.19(2)(g) of the Constitution.",
+    "The restrictions imposed by the order are reasonable and necessary for the public interest."
+  ],
+  "cases_cited": [
+    "In M/s. Laxmi Khandsari & Ors. v. State of U",
+    "P.P. Entterprises Etc. Etc. v Union Of India &",
+    "Reliance was placed by Shri Shanti Bhushan on State of Mysore v. H. sanjeeviah",
+    "and Bishambhar Dayal Chandra Mohan Ors. etc. v. State of Uttar Pradesh &",
+    "consideration in this Court in Suraj Mal Kailash Chand Ors. v. Union of India &"
+  ]
+}

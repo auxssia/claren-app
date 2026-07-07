@@ -1,0 +1,83 @@
+{
+  "case_id": "C2070",
+  "case_name": "N. Narasimhaiah And Ors. Etc. v State Of Karnataka And Ors.Union Of India And Ors.",
+  "court": "Supreme Court of India",
+  "year": 1996,
+  "judges": [],
+  "bench": [],
+  "petitioner": "N. Narasimhaiah And Ors. Etc",
+  "respondent": "State Of Karnataka",
+  "citations": [
+    "1994 5 SCC 486",
+    "1995 5 SCC 206",
+    "AIR 1980 MADRAS 251"
+  ],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "5A"
+    },
+    {
+      "act": "The Act",
+      "section": "6"
+    },
+    {
+      "act": "Declaration Should Be Consistent With The Scheme Of The Act",
+      "section": "5"
+    },
+    {
+      "act": "Were Published Within The Limitation Prescribed Under The Act",
+      "section": "6"
+    },
+    {
+      "act": "The Act",
+      "section": "16"
+    },
+    {
+      "act": "Income Tax Act",
+      "section": "132"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "17 January 1996",
+  "outcome": "Unknown",
+  "facts": [
+    "The Government, exercising the power under Section 17(4), dispensed with the enquiry under Section 5A of the Act and the modification under Section 4(1) was accordingly published on January 22, 1987.",
+    "Thereafter, the declaration under Section 6 was published on June 24, 1987.",
+    "The appellants had challenged the exercise of emergency power under Section 17(4) by filing W.P. No.13316-20/1987 and batch in the High Court of Karnataka",
+    "Enquiry under Section 5A was conducted and declaration thereof was published on May 13, 1989.",
+    "The validity of this declaration was again questioned in present Writ Petition No.19245/89 and batch."
+  ],
+  "issues": [
+    "Whether the limitation prescribed under second proviso to Section 6(1) would be applicable after the notification under Section 4(1) has been quashed by the High Court?"
+  ],
+  "petitioner_arguments": [
+    "In view of the judgments of this Court in Oxford English School vs. Government of Tamil Nadu & Ors. [(1995) 5 SCC 206] 1995 Indlaw SC 366 and P. Chinnanna & Ors vs. State of A.P. Ors. [(1994) 5 SCC 486] 1994 Indlaw SC 936, the view of the High Court is not correct in law.",
+    "If the view of the High Court is upheld there would be two dates of notification under Section 4(1), namely, the notification as originally published under Section 4(1) and the date which was upheld by the Court after the publication of second declaration under Section 6.",
+    "That would be incongruous with the schemas of the Act."
+  ],
+  "respondent_arguments": [
+    "Since the validity of the notification under Section 4(1) was upheld in the first round of the litigation, what was left to the Government was to conduct enquiry under Section 5A in terms of the direction issued by the High Court and on completion thereof, if the declaration is published under Section 6, the statutory compliance is made.",
+    "Notification under Section 4(1) stands upheld. Otherwise incongruity would arise in every case.",
+    "The second exercise would be rendered fruitless since by that date the limitation prescribed under the proviso would stand expired."
+  ],
+  "court_reasoning": [
+    "In the light of the scheme of the Act, when the exercise of the power under Section 17(4) dispensing with enquiry under Section 5A is quashed by the Court, the question would be whether the State is required to have the declaration published under Section 6 within limitation prescribed under proviso to Section 6(1) of the Act?",
+    "Section 6(1) reads thus : '6. Declaration that land is needed for a public purpose.- (1) Subject to the provisions of Part VII of this Act, when the appropriate Government is satisfied, after considering the report, if any, made under Section 5-A, sub-section (2), that any particular land is needed for a public purpose, or for a company, a declaration shall be made to that effect under the signature of a Secretary to such Government or of some officer duly authorized to certify its orders, and different declarations may be made from time to time in respect of different parcels of any land covered by the same notification under Section 4, subsection (1), irrespective of whether one report or different reports has or have been made (wherever required) under Section 5A, sub-section (2):",
+    "Provided that no declaration in respect of any particular land covered by a notification under Section 4 subsection (1), (i) published after the commencement of the Land Acquisition (Amendment and Validation) Ordinance, 1967 (1 of 1967), but before the commencement of the Land Acquisition (Amendment) Act, 1984, shall be made after the expiry of three years from the date of the publication of the notification; or (ii) published after the commencement of the Land Acquisition (Amendment) Act, 1984, shall be made after the expiry of one year from the date of the publication of the notification: Provided further that no such declaration shall be made unless the compensation to be awarded for such property to be paid by a company, or wholly or partly out of public revenues or some fund controlled or managed by a local authority."
+  ],
+  "holding": [
+    "The Court held that after the declaration under Section 6 was quashed in the first instance, the limitation of one year does not apply.",
+    "It further held that the view that the declaration under Section 6 is still required to be published from the date of the notification under Section 4(1) is not correct in law.",
+    "The Court also found that since there was no evidence on record as to which was the last of the dates of the publications contemplated under Section 4(1), it could not be said that the limitation under Section 6 from that date is barred by limitation."
+  ],
+  "cases_cited": [
+    "Court rendered in Director of Income-tax, New Delhi & Anr v. Pooran Mal",
+    "N. Narasimhaiah And Ors. Etc. v State Of Karnataka",
+    "and P. Chinnanna & Ors vs. State of A",
+    "by a Full Bench of Madras High Court in K.C. Grounder & Anr. v. Govt",
+    "view of the judgments of this Court in Oxford English School vs. Government of Tamil Nadu &"
+  ]
+}

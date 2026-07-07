@@ -1,0 +1,115 @@
+{
+  "case_id": "C1203",
+  "case_name": "Lic Of India v R. Suresh",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "Lic Of India",
+  "respondent": "R. Suresh\nSupreme Court of India\n\n14 March 2008\nCIVIL APPEAL NO. 2004 OF 2008 (Arising out of SLP(C) No. 13230 of 2006)\nThe Judgment was delivered by : S. B. Sinha, J.\nLeave granted.\n1.  Whether jurisdiction of the Industrial Courts are ousted in regard to an order of dismissal passed by the Life Insurance Corporation of India, a Corporation constituted and incorporated under the Life Insurance Corporation Act, 1956, is the question involved in this appeal which arises out of a judgment and order dated 3.2.2006 passed by a Division Bench of the Kerala High Court at Ernakulam.\n2.  Respondent herein was appointed as a Development Officer of the appellant. Departmental proceeding were initiated against him. Articles of Charges were framed; fifth of it being, forgery of a signature on a proposal. According to the Enquiry Officer, the respondent was negligent in the performance of his duties as he did not personally verify the details of the person concerned and relied wholly",
+  "citations": [
+    "1978 3 SCC 504",
+    "1982 1 SCC 205",
+    "1994 2 SCC 323",
+    "1997 8 SCC 461",
+    "2003 2 SCC 111",
+    "2003 6 SCC 220",
+    "2003 7 SCC 66",
+    "2004 8 SCC 387",
+    "2005 9 SCC 548",
+    "2006 10 SCC 572",
+    "AIR 1979 SC 1022",
+    "AIR 1984 SC 1462"
+  ],
+  "statutes": [
+    {
+      "act": "1947 Act",
+      "section": "11A"
+    },
+    {
+      "act": "Provides For The Constitution",
+      "section": "4"
+    },
+    {
+      "act": "Occurring In Chapter Iii Of The Act",
+      "section": "6"
+    },
+    {
+      "act": "The Act",
+      "section": "48"
+    },
+    {
+      "act": "Code Of Civil Procedure And",
+      "section": "9"
+    },
+    {
+      "act": "Code Of Civil Procedure Confers",
+      "section": "9"
+    },
+    {
+      "act": "F Of The Act",
+      "section": "25"
+    },
+    {
+      "act": "Corporation Act",
+      "section": "48"
+    },
+    {
+      "act": "The Act",
+      "section": "10"
+    },
+    {
+      "act": "The Act",
+      "section": "11A"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "14 March 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "The respondent was appointed as a Development Officer of the Life Insurance Corporation of India (LIC).",
+    "Departmental proceedings were initiated against him.",
+    "Articles of Charges were framed; fifth of it being, forgery of a signature on a proposal.",
+    "He was dismissed from service by the disciplinary authority by an order dated 19.4.1989.",
+    "An industrial dispute was raised by him.",
+    "The appropriate Government referred the following dispute for adjudication of the Industrial Tribunal: 'Whether the action of the Management of the Life Insurance Corporation of India, Thiruvananthapuram in removing from service of Sh. R. Suresh, Development officer with effect from 19.04.1989 is justified? If not what relief is the workman entitled to.'"
+  ],
+  "issues": [
+    "Whether jurisdiction of the Industrial Courts are ousted in regard to an order of dismissal passed by the Life Insurance Corporation of India."
+  ],
+  "petitioner_arguments": [
+    "(i) In view of the provisions of the 1956 Act, as amended in the year 1981, the provisions of the Industrial Disputes Act, 1947 (for short '1947 Act') would have no application.",
+    "(ii) The respondent, in any event, being a Development Officer, was not a workman and, thus, the Tribunal could not have interfered with the quantum of punishment awarded by the management."
+  ],
+  "respondent_arguments": [
+    "(i) The jurisdiction of the Tribunal would be ousted only in regard to the terms and conditions of service and not in a case of this nature.",
+    "(ii) There are various decisions of this Court, where an industrial dispute against LIC has been entertained.",
+    "(iii) Charge No. 5 being the main charge and the respondent having been exonerated therefrom, the Tribunal cannot be said to have committed any illegality in interfering with the quantum of punishment in exercise of its jurisdiction under Section 11A of the 1947 Act."
+  ],
+  "court_reasoning": [
+    "The management failed to consider these aspects and failed to award a lesser punishment.",
+    "However, the workman cannot be let off without any punishment for the misconducts proved against him.",
+    "The anguish and pain suffered by him due to the loss of his job and denial of backwages and all other monetary benefits would be adequate punishment according to me for the misconducts now proved against him."
+  ],
+  "holding": [
+    "Subject to that he is ordered to be reinstated in service."
+  ],
+  "cases_cited": [
+    "Bhavnagar University Vs. Palitana Sugar Mill (P",
+    "In fact this Court in Union of India and Others Vs. J. Ahmed",
+    "Relying on a decision of this Court in S.K. Verma Vs. Mahesh Chandra",
+    "This Court in ITC Ltd., Monghyr, Bihar v. Presiding Officer",
+    "and Dipak Chandra Ruhidas Vs. Chandan Kumar Sarkar",
+    "has been placed by Mr. K. Ramamurthy on A.V. Nachane and Anr. Vs. Union of India",
+    "is involved. In Haryana Urban Development Authority Vs. Saurabh Aggarwal",
+    "not be of much relevance as has been held in Suresh Pathrella Vs. Oriental Bank of Commerce",
+    "of a three Judges Bench of this Court in Mukesh K. Tripathi Vs. Senior Divisional Manager",
+    "or by necessary implication. In Dwarka Prasad Agarwal Vs. Ramesh Chandra Agarwal",
+    "placed on Life Insurance Corporation of India and Another Vs. Raghavendra Seshagiri Rao Kulkarni",
+    "the High Court, a decision of this Court in M. Venugopal Vs. Divisional Manager"
+  ]
+}

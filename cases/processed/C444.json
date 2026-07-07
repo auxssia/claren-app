@@ -1,0 +1,55 @@
+{
+  "case_id": "C444",
+  "case_name": "Hemraj v State",
+  "court": "Supreme Court of India",
+  "year": 1990,
+  "judges": [
+    "RATNAVEL PANDIAN"
+  ],
+  "bench": [],
+  "petitioner": "Hemraj",
+  "respondent": "State (Delhi Administration)\nSupreme Court of India\n\n23 August 1990\nCr.A. No. 571 of 1976\nThe Judgment was delivered by: RATNAVEL PANDIAN, J.\n1.  The above appeal is preferred by the second accused before the trial court, namely Hem Raj challenging the correctness of the judgment made in Criminal Appeal No. 157 of 1974 on the file of the High Court of Delhi confirming the judgment of the trial court conviction the appellant under Section 302 \n IPC and sentencing him to imprisonment for life and dismissing the appeal.\n2.  This appellant along with three",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "325"
+    },
+    {
+      "section": "34"
+    },
+    {
+      "section": "300"
+    },
+    {
+      "section": "304"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "23 August 1990",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The offence committed by the appellant is the one punishable under Section 304 Part II IPC but not under Section 302 IPC.",
+    "The appeal is dismissed subject to the modifications as indicated above."
+  ],
+  "cases_cited": [
+    "Gurmail Singh v. State of Punjab",
+    "Hemraj v State (Delhi Administration",
+    "Jagrup Singh v. State of Haryana",
+    "Jagtar Singh v. State of Punjab",
+    "Kulwant Rai v. State of Punjab",
+    "Randhir Singh v. State of Punjab"
+  ]
+}

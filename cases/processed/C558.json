@@ -1,0 +1,71 @@
+{
+  "case_id": "C558",
+  "case_name": "Charan Singh and Others v State of Uttar Pradesh",
+  "court": "Supreme Court of India",
+  "year": 2004,
+  "judges": [
+    "Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Charan Singh and Others",
+  "respondent": "State of Uttar Pradesh\nSupreme Court of India\n\n3 October 2004\nAppeal (crl.)  1115-1116 of 2003\nThe Judgment was delivered by: Arijit Pasayat, J.\n1. The six appellants faced trial along with 18",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "313"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "149"
+    },
+    {
+      "section": "141"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "3 October 2004",
+  "outcome": "Unknown",
+  "facts": [
+    "The six appellants faced trial along with 18 others for alleged commission of offences punishable under Sections 147,148, 302 read with S.149 and 307 read with S.149 of the Indian Penal Code, 1860.",
+    "According to the prosecution, one Devi Charan (hereinafter referred to as the 'deceated D-l') lost his life on account of murderous assaults of the accused persons.",
+    "The accused then reached the Gher of Jai Prakash (PW-1) son of deceased D-2, Buddha, There, spear blow was struck in the abdomen of Buddha, Jai Prakash's mother Smt. Shanti Devi rushed up to save her husband, but she was also given spear blow.",
+    "The defence was of denial. The accused Harish Chandra in his statement u/s.313 of the Code of Criminal Procedure, 1973 (in short the 'Code') stated that Harkesh was constructing passage by the side of his wall and Satya Prakash (PW-5) never resisted him from doing so."
+  ],
+  "issues": [
+    "Whether the accused persons were guilty of the offences punishable under Sections 147,148, 302 read with S.149 and 307 read with S.149 of the Indian Penal Code, 1860.",
+    "Whether the prosecution had established that the accused persons shared a common object to commit the crimes.",
+    "Whether the accused-appellant Raj Pal was guilty of the offence punishable under Section 302 read with S.149 of the Indian Penal Code, 1860."
+  ],
+  "petitioner_arguments": [
+    "The accusations were against Harkesh who supposedly was armed with double barrel gun, resulting in the death of Devi Chand (D-l).",
+    "Though it is stated that Hazari, Kunwar, Dev Dutt and Virender were carrying country made pistols, and Charan Singh was carrying a double barrel gun, it cannot be said that they shared the common object for any unlawful assembly.",
+    "The incident can be broken into two parts as stated by the prosecution witnesses, i.e. exchanges at the Panchayat and subsequent acts."
+  ],
+  "respondent_arguments": [
+    "The Trial Court and the High Court distinguished Raj Pal's case by observing that being the son of accused Harkesh who was prime mover of the crime, he may have a motive.",
+    "Section 149, IPC has its foundation on constructive liability which is the sine qua non for its operation."
+  ],
+  "court_reasoning": [
+    "The emphasis is on the common object and not on common intention. Mere presence in an unlawful assembly cannot render a person liable unless there was a common object and he was actuated by that common object.",
+    "A common object may be formed by express agreement after mutual consultation, but that is by no means necessary."
+  ],
+  "holding": [
+    "The conviction of the accused-appellant Raj Pal was set aside as there was no positive material to distinguish his case from the other acquitted accused persons.",
+    "The appeals were allowed and the convictions and sentences imposed on the remaining accused persons were maintained."
+  ],
+  "cases_cited": [
+    "In State of U.P. v. Dan Singh",
+    "To similar effect is the observation in Lalji v. State of U",
+    "and Mariadasan and Ors. v. State of Tamil Nadu",
+    "in two cases (See Padamasundara Rao (dead) and Ors. v. State of Tamil Nadu",
+    "of the common object. (See Chikkarange Gowda and Ors. v. State of Mysore",
+    "with the killings. Reliance is placed on Roshan Lal and Ors. v. State of Maharashtra"
+  ]
+}

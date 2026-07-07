@@ -1,0 +1,63 @@
+{
+  "case_id": "C716",
+  "case_name": "I. R. Coelho (Dead) By Lrs v State of Tamil Nadu",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [],
+  "bench": [],
+  "petitioner": "I. R. Coelho (Dead) By Lrs",
+  "respondent": "State of Tamil Nadu\nSupreme Court of India\n\n14 September 1999\nC.As. Nos. 1344-45 of 1976 (From the Judgment and Order Dt. 23 September 1976 of the Madras High Court in W.Ps. Nos. 4386 of 1974 and 90 of 1975)\nThe Order of the Court was as follows :\n1.  The Gudalur Janmam Estates (Abolition and Conversion into Ryotwari) Act, 1969 (the Janmam Act), insofar as it vested forest lands in the Janmam estates in the State of Tamil Nadu, was struck down by this Court in Balmadies v. State of Tamil Nadu (1973 1 SCR 258 1972 Indlaw SC 751) because this was not found to be a measure of agrarian reform protected by Article 31A of the Constitution. S. 2(c) of the West Bengal Land Holding Revenue Act, 1979 was struck down by the Calcutta High Court as being arbitrary and, therefore, unconstitutional and the special leave petition filed against the judgment by the State of West Bengal was dismissed. By the Constitution (Thirty fourth Amendment) Act, the Janmam Act, in its e",
+  "citations": [
+    "1973 1 SCR 258",
+    "1981 1 SCR 206",
+    "1981 2 SCR 1"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "31A"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "31B"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "31C"
+    },
+    {
+      "section": "10"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "14 September 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "The Gudalur Janmam Estates (Abolition and Conversion into Ryotwari) Act, 1969 was struck down by the Supreme Court in Balmadies v. State of Tamil Nadu.",
+    "The West Bengal Land Holding Revenue Act, 1979 was struck down by the Calcutta High Court as being arbitrary and unconstitutional.",
+    "The Constitution (Thirty fourth Amendment) Act inserted the Janmam Act into the Ninth Schedule.",
+    "The Constitution (Sixty sixth Amendment) Act inserted the West Bengal Land Holding Revenue Act, 1979 into the Ninth Schedule.",
+    "The order in Waman Rao's case was that all amendments to the Constitution made before April 24, 1973 were valid and constitutional."
+  ],
+  "issues": [
+    "Whether the insertions of the Janmam Act and the West Bengal Land Holding Revenue Act, 1979 into the Ninth Schedule are valid",
+    "Whether the basic structure doctrine applies to constitutional amendments made after April 24, 1973"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The judgment in Waman Rao needs to be considered by a larger Bench so that the apparent inconsistencies therein are reconciled",
+    "All constitutional amendments made after the decision in Keshavananda Bharti's case would have to be tested by reference to the basic structure doctrine"
+  ],
+  "holding": [
+    "The various constitutional amendments by which additions were made to the Ninth Schedule on or after April 24, 1973 will be valid only if they do not damage or destroy the basic structure of the Constitution",
+    "The decision in Bhim Singh Ji case will also have to be considered by a larger Bench for the purposes of arriving at the conclusion aforementioned"
+  ],
+  "cases_cited": [
+    "Bench of this Court in Waman Rao & Ors. etc. etc. v. Union of India",
+    "decided the case of Maharao Sahib Sri Bhim Singh Ji Etc. Etc. v. Union of India &",
+    "that is common to Waman Rao and Minerva Mills Ltd. & Ors. v. Union of India &"
+  ]
+}

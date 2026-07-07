@@ -1,0 +1,39 @@
+{
+  "case_id": "S128",
+  "case_name": "Protection of tenant against eviction",
+  "court": "",
+  "year": 1952,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Transfer Of Property Act",
+      "section": "106"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "Notwithstanding anything to the contrary contained in any other law or contract, no order or decree for the recovery of possession of any premises shall be made by any court or Controller in favor of the landlord against a tenant.",
+    "The Controller may, on an application made to him in the prescribed manner, make an order for the recovery of possession of the premises on one or more of the following grounds only, namely:-",
+    "Any premises which have been let for being used for the purposes of business or profession shall be deemed to have been sublet by the tenant, if the Controller is satisfied that the tenant with out obtaining the consent in writing of the landlords, has after the 16th day of August, 1958, allowed any person to occupy by whole or any part of the premises ostensibly the ground that such person is a partner of the tenant in the business or profession but really for the purpose of sub-letting such premises to that person."
+  ],
+  "issues": [
+    "What are the grounds on which an order for the recovery of possession of any premises shall be made by any court or Controller in favor of the landlord against a tenant?",
+    "Can a tenant be evicted from his premises if he has not paid or tendered the whole of the arrears of rent legally recoverable from him within two months of the date on which a notice of demand for the arrears of rent has been served on him by the landlord in the manner provided in section 106 of the Transfer of Property Act, 1882?",
+    "What are the circumstances under which a tenant may be evicted from his premises if he has used the premises for a purpose other than that for which they were let?"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "No order for the recovery of possession of any premises shall be made on the ground specified in [clause (a) to (k)] of the proviso to sub-section (1), unless the conditions specified in each clause are met."
+  ],
+  "cases_cited": []
+}

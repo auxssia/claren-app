@@ -1,0 +1,65 @@
+{
+  "case_id": "C2441",
+  "case_name": "H.V. Pardasani, Etc v Union of India and Others",
+  "court": "Supreme Court of India",
+  "year": 1985,
+  "judges": [
+    "Rangnath Misra"
+  ],
+  "bench": [],
+  "petitioner": "H.V. Pardasani, Etc",
+  "respondent": "Union of India",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "16"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 32",
+  "court_level": "Supreme Court",
+  "decision_date": "12 March 1985",
+  "outcome": "Unknown",
+  "facts": [
+    "Petitioners belong to the cadre of Section Officers in the Central Secretariat Service.",
+    "They challenge the combined seniority list and ask for a direction to recast the select list in Grade I.",
+    "They also ask for a direction to appoint promotees to Grade I with effect from the date on which junior directly recruited Section Officers have been appointed to Grade I.",
+    "The petitioners assailed the vires of certain rules and regulations as being ultra vires Articles 14 and 16 of the Constitution."
+  ],
+  "issues": [
+    "Whether the determination of seniority in the cadre of Section Officers is correct or not",
+    "Whether the petitioners have been prejudiced by the adverse determination of their seniority"
+  ],
+  "petitioner_arguments": [
+    "The normal practice would be to determine seniority based on length of continuous service in any particular grade.",
+    "If a rule prescribes a method of fixation of inter se seniority, the normal practice would not apply and the rule shall prevail."
+  ],
+  "respondent_arguments": [
+    "The rules and regulations provide for the method of recruitment to the Section Officers' Grade and the determination of seniority in that grade.",
+    "The Select List referred to in sub-rule (1) of rule 13 is drawn up by following the procedure specified in Regulation 2 of the Fourth Schedule."
+  ],
+  "court_reasoning": [
+    "The legal position is equally settled that if a rule prescribes a method of fixation of inter se seniority, the normal practice would not apply and the rule shall prevail.",
+    "The requirement of the Regulation is that inter se seniority of the direct recruits and persons substantively appointed to the grade from the select list should be determined in accordance with the quota on the basis of substantive vacancies in the grade reserved for the two categories of officers."
+  ],
+  "holding": [
+    "The petitioners' challenge to the combined seniority list is rejected.",
+    "The direction sought by the petitioners to recast the select list in Grade I and appoint promotees to Grade I with effect from the date on which junior directly recruited Section Officers have been appointed to Grade I is also rejected."
+  ],
+  "cases_cited": [
+    "H.V. Pardasani, Etc v Union of India",
+    "N.K. Chauhan & Ors. v. State of Gujarat &",
+    "an irrelevant consideration (see Mervyn Coutindo & Ors. v. Collector of Customs",
+    "and P.S. Mahal & Ors. v. Union of India &",
+    "of seniority had been advanced in the case of P.C. Sethi v. Union of India"
+  ]
+}

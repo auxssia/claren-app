@@ -1,0 +1,51 @@
+{
+  "case_id": "C1955",
+  "case_name": "Jagtar Singh v State Of Punjab",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Jagtar Singh",
+  "respondent": "State Of Punjab\nSupreme Court of India\n\n7 January 1993\nCr.A. No. 231 of 1980\nThe Order of the Court was as follows :\n1.  Originally, there were four accused charged for the murder of the victim Kulwant Singh. The present appellant was one of the four accused. He was charged for the offence under Section 302, Indian Penal Code (' IPC ') as well as under Section 307 read with Section 34, IPC. The rest three accused were charged for the offence under Section 302 read with Section 34 as well as under Section 307 read with Section 34, IPC. Since the victim was only Kulwant Singh for whose death the accused were charged under Section 302, IPC we have not understood the charge framed by the learned Sessions Judge under Section 307, IPC also in connection with the same murder. Nor have we followed the conviction of the present appellant under Section 307 read with Section 34 in addition to his conviction under Section 302 of IPC. It further appears that the High Court has not no",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Criminal Procedure Code",
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "7 January 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "The present appellant was one of the four accused. He was charged for the offence under Section 302, Indian Penal Code (' IPC ') as well as under Section 307 read with Section 34, IPC.",
+    "It appears that at the second stage, the point was raised before the High Court and a school leaving certificate showing the date of birth of the accused as October 15, 1961 was produced before the High Court, and on that basis the application for bail was made and the High Court released the accused on bail on the said footing.",
+    "The release of the accused on bail was objected to on behalf of the complainant who filed an application for cancellation of the bail.",
+    "It appears that at the third stage when this appeal was admitted in this Court, another certificate to which we have already made a reference was produced wherein, as is stated earlier, the name of the school from which the transfer certificate was obtained is absent.",
+    "The accused in his statement under Section 313 of Criminal Procedure Code took the defence that at the time of the incident, he was 15 years of age.",
+    "Dr Uppal (PW 1), who had conducted the postmortem examination of the deceased's body, had examined the accused with reference to his age before entering the witness box.",
+    "It does not appear that he was cross-examined on the said point on behalf of the defence."
+  ],
+  "issues": [],
+  "petitioner_arguments": [
+    "The appellant was below 16 years old on the date of the incident.",
+    "There is no dispute that this certificate states that the appellant Jagtar Singh was admitted into the school in question on September 26, 1975 and he left the school while he was reading in the 8th standard.",
+    "Since the name of the school from which the transfer certificate is obtained itself is absent from this certificate, no reliance can be placed on the said certificate."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "We are satisfied that neither the Sessions Court nor the High Court was wrong in holding that the appellant was not below the age of 16 years on the date of the incident.",
+    "We may in this connection refer to the fact that his birth certificate has been scrupulously kept away from the court by the appellant.",
+    "We, therefore, see no substance in the contention that the appellant was below the age of 16 years on the date of the incident."
+  ],
+  "holding": [
+    "The appeal is dismissed.",
+    "In the circumstances of the case, we confirm the conviction and the sentence of the accused under Section 302 IPC.",
+    "We, however, set aside his sentence and conviction under Section 307 read with Section 34 IPC.",
+    "The bail bond of the accused will stand cancelled.",
+    "The accused to be taken into custody forthwith."
+  ],
+  "cases_cited": []
+}

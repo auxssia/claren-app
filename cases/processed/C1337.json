@@ -1,0 +1,70 @@
+{
+  "case_id": "C1337",
+  "case_name": "Dr. Chakradhar Paswan v State Of Bihar And Ors.",
+  "court": "Supreme Court of India",
+  "year": 1988,
+  "judges": [
+    "A. P. Sen"
+  ],
+  "bench": [],
+  "petitioner": "Dr. Chakradhar Paswan",
+  "respondent": "State Of Bihar",
+  "citations": [
+    "1964 4 SCR 680",
+    "1974 1 SCR 1",
+    "1976 1 SCR 906",
+    "1981 2 SCR 185"
+  ],
+  "statutes": [
+    {
+      "section": "1900"
+    },
+    {
+      "section": "2225"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "8 March 1988",
+  "outcome": "Unknown",
+  "facts": [
+    "The Directorate of Indigenous Medicines was a part of the Health Department.",
+    "On 14th March, 1974 the State Government appointed Dr. Nagesh Dwivedi to the post of Director (Indigenous Medicines).",
+    "The State Government on 6th May, 1978 directed the creation of a separate Directorate of Indigenous Medicines.",
+    "The Government had in the meanwhile prescribed a 50 point roster to implement the policy of reservation to posts and appointments for members of the backward classes under Art. 16(4).",
+    "Steps were taken to fill up the post of Deputy Director (Unani) and Dr. Mohammad Kamruzzama Kamar was promoted and appointed to that post.",
+    "The Government sanctioned the additional post of Deputy Director (Ayurvedic) and this post was filled up by promotion of Dr. (Smt.) Uma Sinha."
+  ],
+  "issues": [
+    "Is the post of Deputy Director (Homeopathic) an 'isolated post' and therefore reservation of the post for a scheduled caste candidate amounts to 100% reservation?",
+    "Whether the posts of the Director and the three Deputy Directors could be grouped together for purposes of implementing the policy of reservation, according to the 50 point roster.",
+    "Could the posts of the Director and the three Deputy Directors in the Directorate of Indigenous Medicines although they are posts carried on different grades, still be clubbed together for purposes of reservation merely because they are Class I posts?"
+  ],
+  "petitioner_arguments": [
+    "The main contention of Dr. Y.S. Chitale is that there are four posts in the Directorate of Indigenous Medicines and all the posts are Class I posts and therefore according to the 50 point roster, the post of Director having been treated as unreserved, by the rotational system, the post of Deputy Director (Homeopathic) was rightly reserved for a scheduled caste candidate."
+  ],
+  "respondent_arguments": [
+    "The three systems of indigenous medicines, namely, Homeopathic, Ayurvedic and Unani are distinct and separate systems of medicines and thus the 50 point roster could not be applied.",
+    "The posts of Director and Deputy Directors do not belong to unified grade, but for the purpose of determining the quantum of reservation the three posts i.e. that of the Director, Deputy Director (Homeopathic), and Deputy Director (Unani) were grouped together as all of them were Class I posts."
+  ],
+  "court_reasoning": [
+    "The learned Judge also said that it has been laid down that if in a particular cadre there is only one post, then in case when it is being filled up for the second time, it will be considered reserved, that is, on the first occasion it must be treated as a general seat.",
+    "In substance, the High Court was of the view that the posts of Director and three Deputy Directors could not be clubbed together for reservation of posts and appointments.",
+    "The argument of learned counsel for the appellant suffers from the infirmity that it overlooks that though the Directorate of Indigenous Medicines comprises of four posts, namely, that of the Director and three Deputy Directors, which are Class I posts, the posts of Director and Deputy Directors do not constitute one 'cadre'."
+  ],
+  "holding": [
+    "The post of Deputy Director (Homeopathic) is held by the appellant who belongs to a scheduled caste, and the remaining three posts including the post of Director are held by members belonging to the general category.",
+    "The order reserving the post of Deputy Director (Homeopathic) infringes the principle embodied in the Government circular introducing 50 point roster according to which, if in a particular cadre, a single post falls vacant, it should, in the case of first vacancy, be considered as general and on the second occasion when a single post again falls vacant, the same must be treated as reserved."
+  ],
+  "cases_cited": [
+    "Dr. Chakradhar Paswan v State Of Bihar",
+    "calls for our attention, namely, that of Arati Ray Choudhury v. Union of India &",
+    "claims of other communities. In State af Kerala & Anr. v. N.M",
+    "formula. In less than a year, the Court in T. Devadasan v. Union of India &",
+    "his view in Akhil Bharatiya Soshit Karamchari Snagh(Railway) v. Union of India &",
+    "of the community as a whole. In State of Maharashtra v. Shivaji Y",
+    "the basis of the decision of this Court in M.R. Balaji & Ors. v. State of Mysore",
+    "unreserved. In the recent case of KC. Vasanth Kumar & Anr. v. State of Karnataka"
+  ]
+}

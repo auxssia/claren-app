@@ -1,0 +1,60 @@
+{
+  "case_id": "C393",
+  "case_name": "University Of Delhi & Anr. v Anand Vardhan Chandal",
+  "court": "Supreme Court of India",
+  "year": 1996,
+  "judges": [],
+  "bench": [],
+  "petitioner": "University Of Delhi & Anr",
+  "respondent": "Anand Vardhan Chandal\nSupreme Court of India\n\n9 July 1996\nAppeal (civil) 2163(NCM) of 1978\nThe Order of the Court was as follows :\n1.  A Division Bench of the Delhi High Court posed the following question for its considerations:\n\"Is there a fundamental right to education to be spelt out of clauses (a), (b) and (c) of Article 19(1) and Article 21 of the Constitution? Does it include participation by a student in the activities of the University Student's Union ? Does the denial of this right to petitioner by the University sustain this petition under Article 226(1)(a) of the ConstitutionThese some what novel questions arise in this Writ Petition on the following facts\".\n2.  The High Court answered the first part of the question in the affirmative and has held that the right to education is a fundamental right. This question has been finally decided by a Constitution Bench of this Court in Unnikrishnan J.P. &",
+  "citations": [
+    "AIR 1992 SC 716"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "19"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "21"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 226",
+  "court_level": "Supreme Court",
+  "decision_date": "9 July 1996",
+  "outcome": "Unknown",
+  "facts": [
+    "The Order of the Court was as follows :",
+    "A Division Bench of the Delhi High Court posed the following question for its considerations:",
+    "The High Court answered the first part of the question in the affirmative and has held that the right to education is a fundamental right.",
+    "So far as the student-participation in the election and other Union activities is concerned, the Division Bench has held the same to be a part of the fundamental right to education on the following reasoning:",
+    "We are of the view that the High Court fell into patent error in holding that once the University admits a student, the right to contest the Students of Union elections is a part of the right to education and as such is a fundamental right.",
+    "We, therefore, allow this appeal and set aside the impugned Judgment of the High Court."
+  ],
+  "issues": [
+    "Is there a fundamental right to education to be spelt out of clauses (a), (b) and (c) of Article 19(1) and Article 21 of the Constitution?",
+    "Does it include participation by a student in the activities of the University Student's Union ?",
+    "Does the denial of this right to petitioner by the University sustain this petition under Article 226(1)(a) of the Constitution"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Once the University admits a student, it becomes its duty to educate him or give him equal opportunity with others to educate himself.",
+    "It is necessary to ensure, therefore, that the students after being admitted will have a reasonable time to join the students Union including elections to it.........",
+    "This Court in N.P. Ponnuswamy Vs. Returning Officer, Namakkal & Ors. etc. [1952]1SCR218 1952 Indlaw SC 117 has authoritatively held that right to participate in elections to the State Assemblies and the Parliament is not a fundamental right.",
+    "It is only a statutory right."
+  ],
+  "holding": [
+    "Appeal allowed",
+    "No costs."
+  ],
+  "cases_cited": [
+    "as such is a fundamental right. This Court in N.P. Ponnuswamy Vs. Returning Officer"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "case_id": "C2147",
+  "case_name": "Union of India and another v Devaram and another",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Union of India and another",
+  "respondent": "Devaram and another\nSupreme Court of India\n\n18 December 2002\nC.A. No. 12260 of 1996\nThe Order of the Court was as follows:\n1.  The above appeal has been filed against the order of the Central Administrative Tribunal, Jodhpur Bench in OA No. 80 of 1992 dated 27-9- 1994 whereunder the Tribunal, while allowing the claim of the first respondent herein for promotion to the post of ELF (Electrical Fitter Grade II) on the basis of a trade test held on 28-4-1987 in which he was said to have been declared successful, without appearing for and undergoing successfully the suitability test once again. In the process of granting the relief the Tribunal also held to be violative of Arts. 14 and 16 of the Constitution of India what in its view was the offending portion of Rule 224 of the Indian Railway Establishment Manual, Vol. I providing that an\"employee has again to appear for a suitability test when his turn for promotion comes\".\n2. A time-limit for implementation of",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "309"
+    }
+  ],
+  "legal_domain": "Administrative",
+  "legal_subdomain": "Tribunal",
+  "court_level": "Supreme Court",
+  "decision_date": "18 December 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "The above appeal has been filed against the order of the Central Administrative Tribunal, Jodhpur Bench in OA No. 80 of 1992 dated 27-9-1994.",
+    "The respondent though served with notice has chosen not to appear in person or through counsel to contest the claim.",
+    "Rule 214(c)(iv) and Rule 224(II)(i) are as under:",
+    "One reason which weighed with the Tribunal also seems to be that Rule 214(c)(iv) which was inserted by a proceeding dated 13-10-1967 had the effect of overriding Rule 224(II)(i) which came to be included as a part of the Rules on 14-10-1966.",
+    "The assumption to the contra by the Tribunal without any further exercise does not appear to be correct."
+  ],
+  "issues": [
+    "Whether the provision contained in Rule 224(II)(i) insisting upon the appearance for a suitability test again when the turn for promotion comes subsequently though after he refused to accept on two occasions the offer of promotion, would be arbitrary and unreasonable",
+    "Whether the decision of the Tribunal that Rule 224(II)(i) is not only inconsistent and contrary to Rule 214(c)(iv) but also had the effect of inflicting a double jeopardy"
+  ],
+  "petitioner_arguments": [
+    "The provision contained in Rule 224(II)(i) insisting upon the appearance for a suitability test again when the turn for promotion comes subsequently though after he refused to accept on two occasions the offer of promotion, would be arbitrary and unreasonable",
+    "Rule 214(c)(iv) lays down the manner in which non-selection posts have to be filled up"
+  ],
+  "respondent_arguments": [
+    "The assumption to the contra by the Tribunal without any further exercise does not appear to be correct",
+    "One reason which weighed with the Tribunal also seems to be that Rule 214(c)(iv) which was inserted by a proceeding dated 13-10-1967 had the effect of overriding Rule 224(II)(i) which came to be included as a part of the Rules on 14-10-1966"
+  ],
+  "court_reasoning": [
+    "The stipulation in Rule 214(c)(iv) as it stands, obligated the authorities to promote and appoint an employee who passed the suitability test and got into the select list, the moment the vacancy arose and his turn for promotion reached.",
+    "Once such person refuses promotion when proposed to be given, normally it should be that his claim thereafter lapsed and if on a subsequent occasion he desires to get promoted he must undergo suitability test which only would entitle him to get himself included in the subsequent select lists to justify his promotion."
+  ],
+  "holding": [
+    "The order of the Tribunal is hereby set aside. The appeal is allowed. No costs. Appeal allowed."
+  ],
+  "cases_cited": [
+    "Union of India and another v Devaram",
+    "statutory force. In a decision of this Court in Railway Board v. P.R"
+  ]
+}

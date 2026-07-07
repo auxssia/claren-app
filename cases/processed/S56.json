@@ -1,0 +1,56 @@
+{
+  "case_id": "S56",
+  "case_name": "",
+  "court": "Appropriate Government",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "5A"
+    },
+    {
+      "section": "4"
+    },
+    {
+      "section": "5"
+    },
+    {
+      "section": "3(A)"
+    },
+    {
+      "section": "6(A)"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "section": "3(B)"
+    },
+    {
+      "section": "6(B)"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "Subject to the provisions of Part VII of this Act, when the Appropriate Government is satisfied after considering the report, if any, made under section 5A, sub-section (2), that any particular land is needed for a public purpose, or for a company, a declaration shall be made to that effect under the signature of a Secretary to such Government or of some officer duly authorised to certify its orders.",
+    "Different declarations may be made from time to time in respect of different parcels of any land covered by the same notification under section 4, sub-section (1), irrespective of whether one report or different reports has or have been made (wherever required) under section 5-A, sub-section (2).",
+    "No declaration in respect of any particular land covered by a notification under section 4, sub-section (1),-- (i) published after the commencement of the Land Acquisition (Amendment and Validation) Ordinance, 1967 but before the commencement of the Land Acquisition (Amendment) Act, 1984 shall be made after the expiry of three years from the date of the publication of the notification; or (ii) published after the commencement of the Land Acquisition (Amendment) Act, 1984 , shall be made after the expiry of one year from the date of the publication of the notification:",
+    "No such declaration shall be made unless the compensation to be awarded for such property is to be paid by a company, or wholly or partly out of public revenues or some fund controlled or managed by a local authority."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The said declaration shall be conclusive evidence that the land is needed for a public purpose or for a Company, as the case may be; and, after making such declaration the Appropriate Government may acquire the land in manner hereinafter appearing."
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,47 @@
+{
+  "case_id": "C911",
+  "case_name": "State of Bihar v Ganesh Choudhary",
+  "court": "Supreme Court of India",
+  "year": 1997,
+  "judges": [],
+  "bench": [],
+  "petitioner": "State of Bihar",
+  "respondent": "Ganesh Choudhary\nSupreme Court of India\n\n2  May  1997\nCr.A. No. 512, 515 of 1997\nThe Order of the Court was as follows:\nLeave granted.\n1.  Delay condoned in all these matters. Leave is also granted in all these matters.\n2.  The Sub-Inspector of Police concerned of the Railway Protection Force investigated these cases and a charge-sheet in each case was submitted before the Criminal Court. Objection was taken that the proceedings launched could not be on the basis of police report as envisaged under Section 173 of the Code of Criminal Procedure since the Sub-Inspector of Police of the Railway Protection Force had no jurisdiction to investigate a case.\n3. As a consequence, it was urged that no action could be taken by the Magistrate taking cognizance thereof. The objection of the respondents having failed in that regard, the matter was brought to the High Court by them in proceedings under Section 482 of the Code of Criminal Procedure. A decision of this Court in Balkish",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure Since",
+      "section": "173"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "482"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "2 May 1997",
+  "outcome": "Unknown",
+  "facts": [
+    "The Order of the Court was as follows:",
+    "Delay condoned in all these matters. Leave is also granted in all these matters.",
+    "The Sub-Inspector of Police concerned of the Railway Protection Force investigated these cases and a charge-sheet in each case was submitted before the Criminal Court.",
+    "Objection was taken that the proceedings launched could not be on the basis of police report as envisaged under Section 173 of the Code of Criminal Procedure since the Sub-Inspector of Police of the Railway Protection Force had no jurisdiction to investigate a case.",
+    "As a consequence, it was urged that no action could be taken by the Magistrate taking cognizance thereof.",
+    "The matter was brought to the High Court by them in proceedings under Section 482 of the Code of Criminal Procedure.",
+    "A decision of this Court in Balkishan A. Devidayal v. State of Maharashtra, 1980 Indlaw SC 298 was pressed into service to assert the viewpoint of the accused-respondents.",
+    "The High Court quashed the proceedings.",
+    "Leaving apart the ratio of Balkishan case 1980 Indlaw SC 298 (supra) in which the investigation involved had been undertaken under the Code of Criminal Procedure, 1898 and not under the Code of Criminal Procedure of 1973,"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The proceedings before the Magistrate could not be viewed as without jurisdiction merely because proceedings were instituted by the police officer after investigation when he had no power to investigate. Surprisingly, the police officer here cognizant of his limitations had according to the appellant State undertaken an inquiry and not an investigation and had submitted before the Court not a police report, but a complaint."
+  ],
+  "cases_cited": [
+    "Procedure. A decision of this Court in Balkishan A. Devidayal v. State of Maharashtra"
+  ]
+}

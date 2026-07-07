@@ -1,0 +1,67 @@
+{
+  "case_id": "C70",
+  "case_name": "Shriram Mandir Sansthan Alias Shri Ram Sansthan Pusda v Vatsalabai and Others",
+  "court": "Supreme Court of India",
+  "year": 1998,
+  "judges": [
+    "Sujata V. Manohar"
+  ],
+  "bench": [],
+  "petitioner": "Shriram Mandir Sansthan Alias Shri Ram Sansthan Pusda",
+  "respondent": "Vatsalabai",
+  "citations": [
+    "1985 2 SCC 583"
+  ],
+  "statutes": [
+    {
+      "act": "Which Was Inserted In Chapter Iii By The Maharashtra Act",
+      "section": "49A"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "17 December 1998",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants in these appeals are trusts, either for an educational purpose or are institutions for public religious worship.",
+    "All these institutions are covered by S. 129(b) of the Bombay Tenancy and Agricultural Lands (Vidarbha Region) Act, 1958 ('the Tenancy Act of 1958').",
+    "The respondents in each of the appeals and/or their predecessors-in-title were tenants in respects of the lands belonging to the appellants.",
+    "On the death of the tenant, the appellants filed an application for summary eviction of the respondents u/s. 120 of the Tenancy Act of 1958.",
+    "The appellants contended that on the death of the tenant, the tenancy came to an end and they were entitled to obtain possession of the lands.",
+    "However, the heirs of the deceased tenant were entitled to succeed to the tenancy.",
+    "Hence the revision application of the appellants was dismissed.",
+    "This decision was challenged by the appellants by filing a writ petition before the High Court.",
+    "The High Court has dismissed the writ petitions so filed on the ground that the issue is covered against the appellants by a decision of the Full Bench of the Bombay High Court in Khanqah-Kadria Trust (Wakf), Balapur v. Shevantabai wd/o Raoji Shivaji (1989 Mh.L.J. 891).",
+    "This has led to the filing of the present appeals.",
+    "The question which requires consideration in all these appeals is whether, in the case of lands belonging to a trust or an educational institution falling within S. 129(b) of the Tenancy Act of 1958, the tenancy is heritable on the death of a tenant, by his heirs."
+  ],
+  "issues": [
+    "Whether the tenancy is heritable on the death of a tenant, by his heirs.",
+    "What is the effect of S. 129 which excludes the application of S. 54 to the tenancies of lands belonging to such trusts and institutions?"
+  ],
+  "petitioner_arguments": [
+    "The appellants contended that on the death of the tenant, the tenancy came to an end and they were entitled to obtain possession of the lands.",
+    "The appellants argued that the ordinary law of succession applies to the tenancies of lands belonging to such trusts for an educational purpose or institutions for public religious worship."
+  ],
+  "respondent_arguments": [
+    "The respondents contended that the heirs of the deceased tenant were entitled to succeed to the tenancy.",
+    "The respondents argued that the Full Bench decision in Khanqah-Kadria Trust (Wakf), Balapur v. Shevantabai wd/o Raoji Shivaji (1989 Mh.L.J. 891) supports their position."
+  ],
+  "court_reasoning": [
+    "S. 54 makes, if it all, only a slight departure from the ordinary law of succession.",
+    "The exclusion of S. 54 necessarily implies exclusion of ordinary law of testamentary succession.",
+    "Heritability is to be governed entirely by S. 54.",
+    "Therefore, by excluding Section 54, the clear intention is to make such tenancies non-heritable."
+  ],
+  "holding": [
+    "The Court held that the tenancy is not heritable on the death of a tenant, by his heirs.",
+    "The Court held that the ordinary law of succession does not apply to the tenancies of lands belonging to such trusts for an educational purpose or institutions for public religious worship."
+  ],
+  "cases_cited": [
+    "Court in the case of Khanqah-Kadria Trust (Wakf), Balapur v. Shevantabai wd/o Raoji Shivaji (supra",
+    "Shriram Mandir Sansthan Alias Shri Ram Sansthan Pusda v Vatsalabai",
+    "Sujata V. Manohar",
+    "our attention to the decision in the case of Gian Devi Anand v. Jeevan Kumar"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "case_id": "C131",
+  "case_name": "Kavita w/o Sunder Shankardas Devidasani and another v State of Maharashtra and Others",
+  "court": "Supreme Court of India",
+  "year": 1981,
+  "judges": [
+    "O. Chinnappa Reddy, J."
+  ],
+  "bench": [],
+  "petitioner": "Kavita w/o Sunder Shankardas Devidasani and another",
+  "respondent": "State of Maharashtra",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Provides For The Constitution",
+      "section": "8"
+    },
+    {
+      "act": "General Clauses Act",
+      "section": "21"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 32",
+  "court_level": "Supreme Court",
+  "decision_date": "28 July 1981",
+  "outcome": "Unknown",
+  "facts": [
+    "The Government of Maharashtra, in exercise of the powers under Sec. 3(1) of the COFEPOSA, directed the detention of Sunder Shankardas Devidasani by an order dated March 9, 1981, with a view to prevent him from smuggling goods and abetting the smuggling of goods.",
+    "The grounds of detention, also of the same date, were duly served on the detenu.",
+    "The detenu made a representation on April 14, 1981 and this was rejected by the Government on April 25, 1981.",
+    "A further representation made by the detenu on April 25, 1981 was also rejected on May 2, 1981.",
+    "In the mean-time the Advisory Board met on April 29, 1981 and considered the case of the detenu."
+  ],
+  "issues": [
+    "Whether the Government's failure to make a reference to the Advisory Board within five weeks from the date of detention is illegal",
+    "Whether the continued detention of the detenu for any period longer than five weeks mentioned in Sec. 8(b) is illegal"
+  ],
+  "petitioner_arguments": [
+    "Although it was the Government that was required by Sec. 8(b) of the COFEPOSA to make the reference to the Advisory Board, in the instant case, it was not the Government but one of its subordinate officers that had made the reference.",
+    "Sec. 8 (b) requires the Government to make a reference to the Advisory Board within five weeks from the date of detention and this means that the Government has first to decide that it is necessary to detain the person for more than five weeks and then to forward the reference to the Advisory Board."
+  ],
+  "respondent_arguments": [
+    "The period for which a person is to be detained under the COFEPOSA is not to be determined and specified at the time of making the original order of detention under Sec. 3(1).",
+    "It has to be determined and specified at the time of confirming the order of detention under Sec. 8 (f), after receiving the report of the Advisory Board."
+  ],
+  "court_reasoning": [
+    "The period for which a person is to be detained under the COFEPOSA is not to be determined and specified at the time of making the original order of detention under Sec. 3(1).",
+    "It has to be determined and specified at the time of confirming the order of detention under Sec. 8 (f), after receiving the report of the Advisory Board.",
+    "The prescription of five weeks in Sec. 8(b) of the COFEPOSA for the making of a reference to the Advisory Board is with a view to enable the fulfilment of the Constitutional requirement of Art. 22(4) and not with a view to imposing an obligation upon the Government to consider the question of the length of detention and arrive at a tentative conclusion even at that stage."
+  ],
+  "holding": [
+    "We are unable to agree with the submission of Shri Jethmalani.",
+    "The act of making a reference to the Advisory Board is a mechanical or ministerial act involving no exercise of discretion, though of course the Government is at that stage, as at all other stages, at liberty to revoke the order of detention."
+  ],
+  "cases_cited": [
+    "Kavita w/o Sunder Shankardas Devidasani and another v State of Maharashtra"
+  ]
+}

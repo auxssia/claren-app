@@ -1,0 +1,51 @@
+{
+  "case_id": "C344",
+  "case_name": "Bharat Chaudhary and Another v State of Bihar and Another",
+  "court": "Supreme Court of India",
+  "year": 2003,
+  "judges": [
+    "Santosh Hegde"
+  ],
+  "bench": [],
+  "petitioner": "Bharat Chaudhary and Another",
+  "respondent": "State of Bihar and Another\nSupreme Court of India\n\n8 October 2003\nCriminal Appeal No. 1250 of 2003 with (Arising out of SLP Criminal No. 2243 of 2003)\nThe Judgment was delivered by : Santosh Hegde, J.\nHeard learned counsel for the parties.\nLeave granted.\n1.  Appellants in this case are husband and wife and were accused by their daughter-in-law of offences punishable under Sections 504, 498A and 406 of the Indian Penal Code and Sections 3 / 4 of the Dowry Prohibition Act.\n2. Their application, filed under Section 438 of the  Cr.P.C. for grant of anticipatory bail has been rejected by the High Court of Judicature at Patna.\n3. The said order is under challenge in this Appeal. When this matter came up for preliminary hearing of 19th May, 2003, we issued notice to the respondents and also made an interim order not to arrest the appellants in the meantime.\n4. Today after hearing the parties on facts, we are inclined to grant anticipatory bail to the appellants",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "The Code",
+      "section": "438"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "8 October 2003",
+  "outcome": "Unknown",
+  "facts": [
+    "When any person has reason to believe that he may be arrested on an accusation of having committed a non-bail able offence, he may apply to the High Court or the Court of Session for direction under this section; and that Court may, if it thinks fit, direct that in the event of such arrest he shall be released on bail."
+  ],
+  "issues": [
+    "The power of the courts empowered to grant anticipatory bail under Section 438 of the Cr.P.C.",
+    "The intention of the legislature when it incorporated Section 438 in the Cr.P.C.",
+    "The object of Section 438 is to prevent undue harassment of the accused persons by pre-trial arrest and detention."
+  ],
+  "petitioner_arguments": [
+    "The appellants are husband and wife and were accused by their daughter-in-law of offences punishable under Sections 504, 498A and 406 of the Indian Penal Code and Sections 3 / 4 of the Dowry Prohibition Act.",
+    "Their application, filed under Section 438 of the Cr.P.C. for grant of anticipatory bail has been rejected by the High Court of Judicature at Patna."
+  ],
+  "respondent_arguments": [
+    "The respondent-State argued that since the Court of first instance has taken cognizance of the offence in question, Section 438 of the Cr.P.C. cannot be used for granting anticipatory bail even by this Court and the only remedy available to the appellants is to approach the trial court and surrender, thereafter apply for regular bail under section 439 of the Cr.P.C.",
+    "The respondent-State relied on the judgment of this Court in the case of Salauddin Abdul samad Shaikh vs. State of Maharashtra (1996 (1) SCC 667)."
+  ],
+  "court_reasoning": [
+    "The object of Section 438 is to prevent undue harassment of the accused persons by pre-trial arrest and detention.",
+    "The gravity of the offence is an important factor to be taken into consideration while granting such anticipatory bail so also the need for custodial interrogation, but these are only factors that must be borne in mind by the concerned courts while entertaining a petition for grant of anticipatory bail",
+    "The courts i.e. the Court of Sessions, High Court or this Court has the necessary power vested in them to grant anticipatory bail in non-bail able offences under Section 438 of the Cr.P.C. even when cognizance is taken or charge sheet is filed provided the facts of the case require the Court to do so."
+  ],
+  "holding": [
+    "The appellants in this case should be released on bail, in the event of their being arrested, on their furnishing a self bond each for a sum of Rs.5,000/- and a surety to the like sum."
+  ],
+  "cases_cited": [
+    "Bharat Chaudhary and Another v State of Bihar"
+  ]
+}

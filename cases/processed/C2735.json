@@ -1,0 +1,58 @@
+{
+  "case_id": "C2735",
+  "case_name": "State of Rajasthan v Hemraj and Another",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "State of Rajasthan",
+  "respondent": "Hemraj and Another\nSupreme Court of India\n\n27 April 2009\nCriminal Appeal No. 847 of 2009 (Arising out of SLP (Crl.) No. 2207 of 2008)\nThe Judgment was delivered by : Dr. Arijit Pasayat, J.\nLeave granted.\n1.  Challenge in this appeal is to the order passed by a learned Single Judge of the Rajasthan High Court, Jaipur Bench dismissing the application for grant of leave to question correctness of the judgment of learned Additional District Sessions Judge (Fast track), No.2 Alwar.\nBackground facts in a nutshell are as follows:\n2. Respondents were facing the trial for alleged commission of offence punishable under Section 342 and 376(2) of the Indian Penal Code, 1860 (in short the 'IPC'). PW1 was the victim. The trial court noticed that it was the accused Chandan who committed rape on her. There was no allegation of rape against the other accused persons namely Hemraj and Smt. Kamla. The accused Chandan was facing trial under the provisions of Juvenile Justice Act, 2000",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Ipc And Provides That When A Criminal Act",
+      "section": "34"
+    },
+    {
+      "act": "Ipc That The Act",
+      "section": "34"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "27 April 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "The respondents were facing trial for alleged commission of offence punishable under Section 342 and 376(2) of the Indian Penal Code, 1860.",
+    "PW1 was the victim. The trial court noticed that it was the accused Chandan who committed rape on her.",
+    "There was no allegation of rape against the other accused persons namely Hemraj and Smt. Kamla.",
+    "The accused Chandan was facing trial under the provisions of Juvenile Justice Act, 2000 (in short the 'Juvenile Act').",
+    "The State filed an appeal questioning acquittal of the respondent from the accusations relatable to Section 376(2) IPC."
+  ],
+  "issues": [
+    "[]"
+  ],
+  "petitioner_arguments": [
+    "Scope and ambit of Section 376(2)(g) and the explanation appended thereto have been lost sight of by the High Court.",
+    "The Explanation only clarifies that when a woman is raped by one or more in a group of persons acting in furtherance of their common intention each such person shall be deemed to have committed gang rape."
+  ],
+  "respondent_arguments": [
+    "The High Court rightly noted that the presence of accused Hemraj at the alleged time of rape has not been established.",
+    "A lady i.e. respondent No.2 cannot be held guilty even in terms of the Explanation to Section 376 (2)(g) of the IPC."
+  ],
+  "court_reasoning": [
+    "One of them relates to 'gang rape'. The language of sub-section(2)(g) provides that 'whoever commits 'gang rape' shall be punished etc.",
+    "The Explanation only indicates that when one or more persons act in furtherance of their common intention to rape a woman, each person of the group shall be deemed to have committed gang rape.",
+    "Common intention"
+  ],
+  "holding": [
+    "The Accused Kamla cannot be convicted in terms of Section 376 (2) IPC.",
+    "The appellant cannot be prosecuted for alleged commission of the offence punishable under Section 376(2)(g)."
+  ],
+  "cases_cited": [
+    "State of Rajasthan v Hemraj"
+  ]
+}

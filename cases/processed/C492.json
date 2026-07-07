@@ -1,0 +1,66 @@
+{
+  "case_id": "C492",
+  "case_name": "Soosai Etc. v Union Of India And Others",
+  "court": "Supreme Court of India",
+  "year": 1985,
+  "judges": [
+    "R. S. Pathak"
+  ],
+  "bench": [],
+  "petitioner": "Soosai Etc",
+  "respondent": "Union Of India",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "15"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "341"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "30 September 1985",
+  "outcome": "Unknown",
+  "facts": [
+    "The case raises the question whether the Constitution (Scheduled Castes) Order, 1950 is constitutionally invalid on the ground that only Hindu or Sikh members of the castes enumerated in the Schedule to that Order are deemed to be Scheduled Castes.",
+    "The petitioner Soosai states that he belongs to the Adi-Dravida Community and is a convert to Christianity. He is a cobbler by profession and works on the roadside at one of the cross-roads in Madras.",
+    "In May, 1982, the officers of the Tamil Nadu Khadi and Village Industries Board surveyed the sites on which cobblers were working, including the place occupied by the petitioner, and subsequently on July 27, 1982 several cobblers were allotted bunks free of cost by the Regional Deputy Director, Khadi and Village Industries Board.",
+    "The funds for the purpose were provided from the Special Central Assistance of the Government of India set up for giving effect to schemes exclusively intended for Scheduled Castes under G.O.Ms. No. 580 Social Welfare Department dated February 13, 1982.",
+    "It is pointed out that this Order specifically states that persons belonging to the Scheduled Castes and converted to Christianity are not eligible for assistance under the scheme.",
+    "The petitioner points out that the said Order has been made in consonance with the Constitution (Scheduled Castes) Order, 1950, which specifically declares that no person who professes a religion different from the Hindu or the Sikh religion shall be deemed to be a member of a Scheduled Caste."
+  ],
+  "issues": [
+    "Whether the Constitution (Scheduled Castes) Order, 1950 is constitutionally invalid on the ground that only Hindu or Sikh members of the castes enumerated in the Schedule to that Order are deemed to be Scheduled Castes.",
+    "Whether a Hindu belonging to a Scheduled Caste retains his caste on conversion to Christianity."
+  ],
+  "petitioner_arguments": [
+    "The petitioner assails the validity of that Order on the ground that it violates Articles 14, 15 and 25 of the Constitution.",
+    "The petitioner invokes Article 14, which is the central provision in the Constitution guaranteeing the right to equality before the law and the equal protection of the laws, and cl. (1) of Article 15, which prohibits the State from discriminating against any citizen on the ground only, among others, of religion."
+  ],
+  "respondent_arguments": [
+    "The respondent argues that the Order is constitutional and does not violate Articles 14, 15 and 25 of the Constitution.",
+    "The respondent points out that the Order has been made in consonance with the Constitution (Scheduled Castes) Order, 1950, which specifically declares that no person who professes a religion different from the Hindu or the Sikh religion shall be deemed to be a member of a Scheduled Caste."
+  ],
+  "court_reasoning": [
+    "The court holds that the caste system is a feature of the Hindu social structure and that it is a social phenomenon peculiar to Hindu society.",
+    "The court notes that the division of the Hindu social order by reference at one time to professional or vocational occupation was moulded into a structural hierarchy which over the centuries crystallized into a stratification where the place of the individual was determined by birth."
+  ],
+  "holding": [
+    "The court holds that paragraph 3 of the Constitution (Scheduled Castes) Order, 1950 is constitutionally invalid on the ground that it discriminates against members of the Christian religion.",
+    "The court orders that the petitioner be granted the benefit of welfare assistance intended for Scheduled Castes."
+  ],
+  "cases_cited": [
+    "Soosai Etc. v Union Of India"
+  ]
+}

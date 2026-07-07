@@ -1,0 +1,55 @@
+{
+  "case_id": "C1965",
+  "case_name": "Rewa Ram v Teja and Others",
+  "court": "Supreme Court of India",
+  "year": 1998,
+  "judges": [
+    "G. T. Nanavati"
+  ],
+  "bench": [],
+  "petitioner": "Rewa Ram",
+  "respondent": "Teja",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "148"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "326"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "3 March 1998",
+  "outcome": "Unknown",
+  "facts": [
+    "The Judgment was delivered by : G. T. Nanavati, J.",
+    "Even though in the Cause Title of the Appeal five persons are shown as respondents, it has to be treated as an appeal against three respondents only, as the respondent Nos. 2 and 3 had died during the pendency of the appeal before the High Court.",
+    "The trial court believed the evidence of P.W. 4 Rewa who was with Ram Bharose at the time of the incident and also of P.W. 3 Ram Avtar who had seen the incident while standing near the house of Kishan Lal and convicted all the five accused under Section 148 and 302 IPC.",
+    "The High Court on reappreciation of the evidence of P.W. 3 Ram Avtar and P.W. 4 Rewa Ram held that they were present at the time of the occurrence and could be accepted as truthful witnesses.",
+    "However, did not confirm their conviction under Section 302 IPC for the reason that there was no charge against them that the death of Ram Bharose was cause, in furtherance of the common object of the unlawful assembly of which they were the members.",
+    "We have also gone through the evidence of P.W. 3 and 4. From their evidence it is not possible to say which fatal injury was caused by which accuse.",
+    "As it was not possible to hold who had caused the fatal injury to the deceased, the High Court rightly convicted them under Section 326 IPC."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The two witnesses have specifically referred to only about 8 to 10 injuries whereas on the person of Ram Bharose as many as 51 injuries were found.",
+    "As it was not possible to hold who had caused the fatal injury to the deceased, the High Court rightly convicted them under Section 326 IPC."
+  ],
+  "holding": [
+    "The bail bonds are ordered to be cancelled.",
+    "It is dismissed."
+  ],
+  "cases_cited": [
+    "Rewa Ram v Teja"
+  ]
+}

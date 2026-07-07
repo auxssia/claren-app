@@ -1,0 +1,52 @@
+{
+  "case_id": "C647",
+  "case_name": "Y. K. Singla v Punjab National Bank and others",
+  "court": "Supreme Court of India",
+  "year": 2012,
+  "judges": [
+    "Jagdish Singh Khehar"
+  ],
+  "bench": [],
+  "petitioner": "Y. K. Singla",
+  "respondent": "Punjab National Bank",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "120B"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "14 December 2012",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant was inducted into the service of the Punjab National Bank (PNB) in 1958.",
+    "During 1981-1982, when the appellant was posted as Manager at the Sector 19, Chandigarh Branch of the PNB, he was accused of having entered into a conspiracy with R.L. Vaid and Dr. A.K. Sinha, IAS, and thereby, of fraudulently having sanctioned a loan of Rs.2,70,000/- to Mrs. Rama Sinha.",
+    "The trial in the above matter was conducted by the Special Judge, CBI Court, Chandigarh.",
+    "During the subsistence of the aforesaid criminal proceedings, the appellant retired from the employment of the PNB on having attained the age of superannuation, on 31.10.1996.",
+    "As already noticed above, the appellant was acquitted of the charges framed against him by the Special Judge, CBI Court, Chandigarh, on 31.10.2009.",
+    "Having received encashment of privileged leave balance, as also, gratuity in February, 2010, the appellant reiterated his claim for interest on account of delayed payment of the aforesaid amounts, through another letter dated 17.2.2010."
+  ],
+  "issues": [
+    "Whether the PNB was justified in withholding the retiral benefits of the appellant till the culmination of the proceedings pending against him.",
+    "Whether the High Court was correct in denying interest on the withheld amount of gratuity to the appellant."
+  ],
+  "petitioner_arguments": [
+    "The appellant argued that he was entitled to interest on account of withholding of his retiral benefits, from the date the aforesaid retiral benefits became due (on his retirement on 31.10.1996), till their eventual release (in February, 2010)."
+  ],
+  "respondent_arguments": [
+    "The PNB argued that it was open to them not to pay gratuity to the appellant till the culmination of the proceedings pending against him, as per Regulation 46(2) of the Punjab National Bank (Employees) Pension Regulations, 1995."
+  ],
+  "court_reasoning": [
+    "The High Court relied upon Regulation 46 of the Punjab National Bank (Employees) Pension Regulations, 1995, which stipulates that a withheld amount of gratuity would become payable only upon conclusion of the proceedings.",
+    "The Division Bench of the High Court arrived at the conclusion that the appellant was not entitled to any interest on delayed payment of Gratuity."
+  ],
+  "holding": [
+    "The Supreme Court held that the PNB was justified in withholding the retiral benefits of the appellant till the culmination of the proceedings pending against him, and that the appellant was not entitled to any interest on delayed payment of Gratuity."
+  ],
+  "cases_cited": [
+    "Y. K. Singla v Punjab National Bank"
+  ]
+}

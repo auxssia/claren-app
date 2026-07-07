@@ -1,0 +1,68 @@
+{
+  "case_id": "C1364",
+  "case_name": "Mahadeo Laxman Sarane and Another v State of Maharashtra",
+  "court": "Supreme Court of India",
+  "year": 2007,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Mahadeo Laxman Sarane and Another",
+  "respondent": "State of Maharashtra\nSupreme Court of India\n\n3  May  2007\nCr.A. No.1 152 of 2005\nThe Order of the Court was as follows:\n1.  In this appeal under Section 2(a) of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970 read with Section 379 of the Code Of Criminal Procedure, 1973 the appellants Mahadeo and Raju have impugned the judgment and order of the High Court of Judicature at Bombay dated April 6 and 7 of 2005 in Criminal Appeal No.279 of 1995 the appeal filed by the State against their acquittal. The Trial Court, on a consideration of the evidence on record, passed an order of acquittal in favour of all the four accused before it. The High Court by its impugned judgment and order, while upholding the acquittal of two other accused namely Basu and Sidhu, recorded an order of conviction against the appellants herein under Section 302 read with Section 34 of the Indian Penal Code, 1860 and sentenced them to undergo imprisonment",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "379"
+    },
+    {
+      "act": "Read With Section 34 Of The Indian Penal Code",
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "3 May 2007",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants Mahadeo and Raju have impugned the judgment and order of the High Court of Judicature at Bombay dated April 6 and 7 of 2005 in Criminal Appeal No.279 of 1995.",
+    "All the four accused including the two appellants herein are brothers.",
+    "The deceased Bhimashankar Madolappa Kapse was the brother of Kashappa Kapse (P.W.5) who is the informant in this case.",
+    "On 26th June, 1994 at about 8.30 p.m., an occurrence took place in which the deceased was assaulted by the appellants resulting in his death.",
+    "The first information report was lodged by the informant, P.W.5 who, as noticed earlier, is the brother of the deceased.",
+    "Sometime later they noticed the appellants herein armed with sword and knife and two of their brothers (since acquitted) going in the same direction.",
+    "Bhartabai (P.W.13) who was related to the deceased as his niece resided in a house about 18 ft. from the place of occurrence.",
+    "The motive of the offence is said to be that the deceased was married to Kalawati, sister of the accused, about 20 years ago.",
+    "Kalawati lived in the village with her parents while Pushpa resided in the fields where arrangement was made for her.",
+    "This appears to be the motive for the accused to commit the offence.",
+    "The prosecution examined P.W.5, P.W.8, P W.12 and P.W.13 as eye-witnesses at the trial.",
+    "The medical evidence on record conclusively established that death of Bheemashankar was not homicidal.",
+    "The only question was whether the eye-witnesses produced by the prosecution proved the case of the prosecution beyond reasonable doubt."
+  ],
+  "issues": [
+    "What is the credibility of the eyewitnesses?",
+    "Can the trial court's rejection of the eyewitnesses' testimony be sustained?",
+    "Is there sufficient evidence to prove the accused guilty beyond a reasonable doubt?"
+  ],
+  "petitioner_arguments": [
+    "The appellants have argued that the trial court erred in rejecting the eyewitnesses' testimony and that the prosecution failed to prove its case beyond a reasonable doubt.",
+    "The appellants have also argued that the trial court's reasoning was flawed and that it relied on general considerations rather than critically scrutinizing the evidence."
+  ],
+  "respondent_arguments": [
+    "The respondent has argued that the trial court's rejection of the eyewitnesses' testimony was justified due to their lack of credibility and the inconsistencies in their statements.",
+    "The respondent has also argued that the prosecution presented sufficient evidence to prove its case beyond a reasonable doubt."
+  ],
+  "court_reasoning": [
+    "The court has held that the trial court erred in rejecting the eyewitnesses' testimony without critically scrutinizing the evidence.",
+    "The court has also held that the trial court's reasoning was flawed and that it relied on general considerations rather than examining the evidence carefully.",
+    "The court has further held that the prosecution presented sufficient evidence to prove its case beyond a reasonable doubt."
+  ],
+  "holding": [
+    "The Supreme Court has set aside the judgment of the High Court and acquitted the appellants.",
+    "The Supreme Court has held that the trial court erred in rejecting the eyewitnesses' testimony and that the prosecution failed to prove its case beyond a reasonable doubt."
+  ],
+  "cases_cited": [
+    "Ors. Vs. State of Hyderabad this Court observed that however similar",
+    "and , HarijanaThirupala& Ors. Vs. Public Prosecutor",
+    "this Court reported in , Mathura Yadav alias Mathura Mahato Vs. State of Bihar"
+  ]
+}

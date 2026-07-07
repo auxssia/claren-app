@@ -1,0 +1,87 @@
+{
+  "case_id": "C2785",
+  "case_name": "State of Punjab v Tehal Singh and Others",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [
+    "V. N. Khare"
+  ],
+  "bench": [],
+  "petitioner": "State of Punjab",
+  "respondent": "Tehal Singh",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Punjab Gram Panchayat Act",
+      "section": "4"
+    },
+    {
+      "act": "The Act",
+      "section": "3"
+    },
+    {
+      "act": "The Act",
+      "section": "4"
+    },
+    {
+      "act": "Punjab Act",
+      "section": "241"
+    },
+    {
+      "act": "The Act",
+      "section": "10"
+    },
+    {
+      "act": "The Act",
+      "section": "35"
+    },
+    {
+      "act": "Act Determining The Territorial Area Of A Gram Sabha And Thereafter Establishing A Gram Sabha For That Area Is An Act",
+      "section": "3"
+    },
+    {
+      "act": "Or Section 4 Of The Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 226",
+  "court_level": "Supreme Court",
+  "decision_date": "7 January 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "The village called Wazidpur is located in Block Ghal Khurd in the district of Firozepur, Punjab.",
+    "For the said village and certain other adjoining areas, Gram Sabha, Wazidpur was constituted and established under Section 4 of the Punjab Gram Panchayat Act, 1952 (hereinafter referred to as the '1952 Act')",
+    "The areas included in the said Gram Sabha were villages Khanpur and Harijan Colony.",
+    "After the Act came into force, it appears that the residents of village Khanpur represented to the Government for having an independent Gram Sabha for village Khanpur by including certain portions of area of Gram Sabha, Wazidpur.",
+    "The Government after making inquiry issued notifications dated 24.10.97 under Sections 3, 4 and 10 of the Act respectively.",
+    "By the said notification, the Government under Section 3 of the Act declared the territorial area of Gram Sabha, Khanpur comprising of abadi portions of village Wazidpur and village Khanpur and Harijan Colony.",
+    "The Government also constituted Gram Panchayat for the Gram Sabha, Khanpur."
+  ],
+  "issues": [
+    "(1) Whether the State Government was required to give an opportunity of hearing to the residents of the area excluded from Gram Sabha, Wazidpur and now included in the Gram Sabha, Khanpur before issuing notifications under Sections 3 and 4 of Act, respectively declaring territorial area of Gram Sabha, Khanpur and establishing Gram Sabha, Khanpur;",
+    "(2) Whether the notifications under Sections 3 and 4 of the Act could be issued simultaneously;",
+    "(3) whether the Harijan colony being not contiguous to the village Khanpur could not have been included in Gram Sabha, Khanpur under Section 3(ii) of the Act."
+  ],
+  "petitioner_arguments": [
+    "The contentions raised by the writ petitioners before the High Court inter alia, were that no opportunity of hearing having been afforded before declaring the territorial area of village Khanpur inasmuch as before establishing Gram Sabha, Khanpur, the notifications were invalid;",
+    "That, the locality Harijan Colony not being contiguous to village Khanpur, the said locality could not have been included in Gram Sabha, Khanpur",
+    "That, the notifications under Sections 3 and 4 of the Act could not have been issued simultaneously and, therefore, the notifications are invalid."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The principles of law that emerge from the aforesaid decisions are-(l) where provisions of a statute provide for the legislative activity, i.e. making of a legislative instrument or promulgation of general rule of conduct or a declaration by a notification by the Government that certain place or area shall be part of a Gram Sabha and on issue of such a declaration certain other statutory provisions come into an action forthwith which provide for certain consequences;",
+    "(2) where the power to be exercised by the Government under provisions of a statute does not concern with the interest of an individual and it relates to public in general or concerns with a general direction of a general character and not directed against an individual or to a particular situation and",
+    "(3) lay down future course of actions, the same is generally held to be legislative in character."
+  ],
+  "holding": [
+    "The State Government was not required to give an opportunity of hearing to the residents of the area excluded from Gram Sabha, Wazidpur and now included in the Gram Sabha, Khanpur before issuing notifications under Sections 3 and 4 of Act, respectively declaring territorial area of Gram Sabha, Khanpur and establishing Gram Sabha, Khanpur.",
+    "The notifications under Sections 3 and 4 of the Act could be issued simultaneously.",
+    "Harijan colony being not contiguous to the village Khanpur could have been included in Gram Sabha, Khanpur under Section 3(ii) of the Act."
+  ],
+  "cases_cited": [
+    "In Rameshchandra Kachardas Porwal and Ors. etc. v. State of Maharashtra",
+    "State of Punjab v Tehal Singh",
+    "an act legislative in character. In Union of India and Anr. v. Cynamide India Ltd"
+  ]
+}

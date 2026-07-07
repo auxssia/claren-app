@@ -1,0 +1,76 @@
+{
+  "case_id": "C2099",
+  "case_name": "Rajesh Kumar v State of Himachal Pradesh",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Rajesh Kumar",
+  "respondent": "State of Himachal Pradesh\nSupreme Court of India\n\n3 October 2008\nCr.A. No. 639 of 2001\nThe Judgment was delivered by: Dr. Arijit Pasayat, J.\n1 Challenge in this appeal is to the judgment of the Division Bench of the Himachal Pradesh High Court holding the appellant and one Surjit Singh guilty of offence punishable u/s. 302 read with S. 34 of the Indian Penal Code, 1860 (in short the 'IPC') and each sentenced to imprisonment for life and to pay a fine of Rs.5,000/- with default stipulation. By order dated 19.2.2001, the Special Leave Petition was dismissed qua Surjit Singh.\n2. Prosecution version leading to the trial is as follows:\nBoth the accused are brothers. They and Ravinder Kumar (hereinafter referred to as the 'deceased') were the residents of Village Nangal Jarialan, Tehsil Amb District Una. On 17.01.1998, the deceased had gone to Nangal Jarialan market for purchasing some articles where he met Adesh Kumar (PW-14) and Raghubir Singh (PW-15). PW-14 told them that h",
+  "citations": [
+    "AIR 1945 PRIVY COUNCIL 118",
+    "AIR 1977 SC 109",
+    "AIR 1993 SC 1899"
+  ],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "5"
+    },
+    {
+      "section": "14"
+    },
+    {
+      "section": "34"
+    },
+    {
+      "section": "326"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "3 October 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "The case involves a murder charge against two brothers, Rajesh Kumar and Surjit Singh, who allegedly attacked and killed Ravinder Kumar on January 17, 1998.",
+    "The prosecution's version of events is that the accused brothers saw Ravinder Kumar standing by the road and pounced upon him with a 'Drat' and 'Danda', causing fatal injuries.",
+    "Ravinder Kumar died later that night due to his injuries.",
+    "The trial court convicted both brothers, but the High Court upheld their conviction.",
+    "The Supreme Court is considering an appeal against the conviction."
+  ],
+  "issues": [
+    "Whether the prosecution has established a case for application of Section 302 IPC read with Section 34 IPC.",
+    "Whether the evidence of eyewitnesses PWs 14 & 15 inspires confidence.",
+    "Whether the accused brothers had a common intention to cause death."
+  ],
+  "petitioner_arguments": [
+    "The prosecution version even if accepted in its totality does not make out a case for application of S.302 IPC read with S.34 IPC.",
+    "S.34 has no application so far as S.302 is concerned.",
+    "There was no plan or meeting of mind between the accused brothers to commit the offence."
+  ],
+  "respondent_arguments": [
+    "The conduct of the accused before and after the occurrence clearly shows the existence of common intention for the murder of the deceased.",
+    "The prosecution has established by evidence that there was a plan or meeting of mind between the accused brothers to commit the offence."
+  ],
+  "court_reasoning": [
+    "The court notes that the Doctor's evidence showed five injuries attributable to the assault done by danda on non-vital parts, and that PW 14 took away the lathi from the appellant and threw it out.",
+    "The court infers that there was a common intention amongst the participants in the crime, as required by Section 34.",
+    "The court notes that the acts of the several persons charged with commission of an offence jointly must be actuated by one and the same common intention."
+  ],
+  "holding": [
+    "The Supreme Court upholds the conviction of both brothers, finding that the prosecution has established a case for application of Section 302 IPC read with Section 34 IPC."
+  ],
+  "cases_cited": [
+    "and Amit Singh Bhikamsingh Thakur v. State of Maharashtra",
+    "in Harbans Kaur v. State of Haryana",
+    "position was highlighted recently in Anil Sharma and Others v. State of Jharkhand"
+  ]
+}

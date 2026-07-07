@@ -1,0 +1,51 @@
+{
+  "case_id": "C918",
+  "case_name": "Avtar Singh v Union of India and others",
+  "court": "Supreme Court of India",
+  "year": 2017,
+  "judges": [
+    "Kurian Joseph"
+  ],
+  "bench": [],
+  "petitioner": "Avtar Singh",
+  "respondent": "Union of India",
+  "citations": [
+    "2016 8 SCC 471"
+  ],
+  "statutes": [
+    {
+      "section": "34"
+    },
+    {
+      "act": "Indian Penal Code"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "15 November 2017",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant was terminated from service on account of suppression of his involvement in a criminal case.",
+    "He was enlisted for appointment in CRPF on 24.08.1994 and submitted a verification form on 9.12.1994.",
+    "On subsequent verification it was found that an FIR had been registered against him on 28.10.1992 under Sections 323, 324 read with Section 34 IPC.",
+    "He was acquitted by judgment dated 2.5.1994 but an appeal at the instance of the respondent(s) was pending when the termination took place."
+  ],
+  "issues": [
+    "What are the circumstances under which the stringent action could be taken and to what extent the employer can exercise its discretion?"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The Court has considered in detail as to the circumstances under which the stringent action could be taken and to what extent the employer can exercise its discretion.",
+    "In view of the judgment, operative portion of which we have extracted above, we direct the Appointing Authority to consider afresh the case of the appellant in the light of the law laid down by this Court and subsequent development pertaining to the order passed in appeal."
+  ],
+  "holding": [
+    "The appeal is disposed of as above.",
+    "There shall be no orders as to costs."
+  ],
+  "cases_cited": [
+    "Avtar Singh v Union of India",
+    "In Avtar Singh v. Union of India"
+  ]
+}

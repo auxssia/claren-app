@@ -1,0 +1,38 @@
+{
+  "case_id": "S59",
+  "case_name": "Formation of new States and alteration of areas, boundaries or names of existing States",
+  "court": "",
+  "year": 1955,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "2"
+    },
+    {
+      "section": "29"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "24 12 1995",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "Formation of new States",
+    "alteration of areas, boundaries or names of existing States"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The power conferred on Parliament by clause (a) includes the power to form a new State or Union territory..."
+  ],
+  "holding": [
+    "Parliament may form a new State by separation of territory from any State or by uniting two or more States or parts of States or by uniting any territory to a part of any State; Parliament may increase the area of any State; Parliament may diminish the area of any State; Parliament may alter the boundaries of any State; Parliament may alter the name of any State."
+  ],
+  "cases_cited": []
+}

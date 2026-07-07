@@ -1,0 +1,85 @@
+{
+  "case_id": "C34",
+  "case_name": "Kuldeep Singh v Commissioner of Police and Others",
+  "court": "Supreme Court of India",
+  "year": 1998,
+  "judges": [
+    "S. Saghir Ahmad"
+  ],
+  "bench": [],
+  "petitioner": "Kuldeep Singh",
+  "respondent": "Commissioner of Police",
+  "citations": [
+    "1976 1 SCC 518",
+    "1978 3 SCC 366",
+    "1984 4 SCC 635",
+    "1997 3 SCC 261",
+    "AIR 1963 SC 1723",
+    "AIR 1963 SC 375",
+    "AIR 1964 SC 708",
+    "AIR 1969 SC 983",
+    "AIR 1970 SC 679",
+    "AIR 1976 SC 98",
+    "AIR 1978 SC 1277",
+    "AIR 1984 SC 1805",
+    "AIR 1997 SC 1125"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    },
+    {
+      "section": "200"
+    },
+    {
+      "section": "21"
+    },
+    {
+      "section": "211"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 226",
+  "court_level": "Supreme Court",
+  "decision_date": "17 December 1998",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant, a constable in the Delhi Police, was dismissed from service after a regular departmental enquiry.",
+    "The appellant approached the Central Administrative Tribunal, Principal Bench, New Delhi and the Tribunal dismissed the Claim Petition.",
+    "A writ Petition filed before the Delhi High Court against this judgment was dismissed as not maintainable.",
+    "The Review Application filed against the judgment of the Tribunal was dismissed."
+  ],
+  "issues": [
+    "Whether the enquiry was held in consonance with the principles of natural justice?",
+    "Whether there was evidence to support the findings recorded by the Enquiry Officer?"
+  ],
+  "petitioner_arguments": [
+    "The findings recorded by the Enquiry Officer cannot be sustained as the enquiry itself was held in utter violation of the principles of natural justice.",
+    "There was no evidence worth the name to sustain the charge framed against the appellant."
+  ],
+  "respondent_arguments": [
+    "The enquiry was held in consonance with the principles of natural justice and during the course of the enquiry, full opportunity was given to the appellant to defend himself.",
+    "Though it is true that none of the complainant was examined but on account of Rule 16(3) of the Delhi Police Rules, 1980, it was not required to produce the complainant in person."
+  ],
+  "court_reasoning": [
+    "The findings recorded by the Enquiry Officer can be characterised as perverse if it is shown that such a finding is not supported by any evidence on record or is not based on the evidence adduced by the parties.",
+    "A broad distinction has, therefore, to be maintained between the decisions which are perverse and those which are not."
+  ],
+  "holding": [
+    "The findings recorded by the Enquiry Officer were perverse and the order of dismissal was set aside."
+  ],
+  "cases_cited": [
+    "AND State of U.P. vs. Om Prakash Gupta",
+    "In Nand Kishore vs. State of Bihar",
+    "In Rajinder Kumar Kindra vs. Delhi Administration through Secretary (Labour",
+    "Kuldeep Singh v Commissioner of Police",
+    "and Bharat Iron Works vs. Bhagubhai Balubhai Patel &",
+    "enquiry. This decision was followed in Central Bank of India vs. Prakash Chand Jain",
+    "the decision of this Court was rendered in L.Chandra Kumar Vs. Union of India &",
+    "was laid down by this Court in State of Andhra Pradesh vs. Sree Rama Rao"
+  ]
+}

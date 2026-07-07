@@ -1,0 +1,68 @@
+{
+  "case_id": "C405",
+  "case_name": "Shakti Tubes Limited, Tr. Director v State Of Bihar And Others",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "Shakti Tubes Limited, Tr. Director",
+  "respondent": "State Of Bihar",
+  "citations": [
+    "1971 1 SCC 24",
+    "1996 6 SCC 100",
+    "2004 3 SCC 458"
+  ],
+  "statutes": [
+    {
+      "act": "Limitation Act, 1963"
+    },
+    {
+      "section": "80"
+    },
+    {
+      "section": "14"
+    },
+    {
+      "section": "34"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "16 December 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant was a contractor of the State and entered into a contract for supply of black pipes to the Minor Irrigation Department of the State of Bihar.",
+    "Appellant filed a writ petition before the Patna High Court on or about 10.01.1994 praying inter alia for the following reliefs:",
+    "A notice was directed to be issued by a learned Judge of the High Court.",
+    "By an order dated 14.09.1995, a learned Single Judge of the said Court opined:",
+    "Appellant issued a notice u/s.80 of the Code of Civil Procedure on or about 7.10.1995.",
+    "On 25.06.1996, a suit was filed for a decree for a sum of Rs.65,97,319.00.",
+    "The said suit was decreed by a judgment and order dated 28.06.1997, and thereby rejecting the contention of the respondents that the suit was barred by limitation."
+  ],
+  "issues": [
+    "Whether the period spent on pursuing a writ petition should be excluded for the purpose of computing the period of limitation in filing a suit in terms of S.14 of the Limitation Act, 1963"
+  ],
+  "petitioner_arguments": [
+    "The appellant argued that the High Court committed a serious error insofar as it failed to take into consideration that in a case of this nature S.14 of the Limitation Act, 1963 would apply."
+  ],
+  "respondent_arguments": [
+    "The State submitted that the suit filed by the plaintiff-appellant having nothing to do with the applicability of the escalation clause, the impugned judgment is unassailable."
+  ],
+  "court_reasoning": [
+    "The Court held that the period taken for pursuing the remedy should be excluded and the suit must be held to have been filed within the period prescribed by the Limitation Act, 1963."
+  ],
+  "holding": [
+    "The final decision was that the suit was not barred by limitation and the appellant's claim for interests on delayed payments was allowed."
+  ],
+  "cases_cited": [
+    "Court had an occasion to consider the same in Rameshwarlal v. Municipal Council",
+    "See Gulbarga University v. Mallikarjun S",
+    "Shakti Tubes Limited, Tr. Director v State Of Bihar",
+    "We may also notice that in India Electric Works Ltd. v. Jamesh Mantosh &",
+    "consideration before this Court in Union of India and Others v. West Coast Paper Mills Ltd",
+    "up for the consideration of this Court in Roshanlal Kuthalia v. R.B"
+  ]
+}

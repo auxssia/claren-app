@@ -1,0 +1,85 @@
+{
+  "case_id": "C142",
+  "case_name": "Shyamal Saha and another v State of West Bengal",
+  "court": "Supreme Court of India",
+  "year": 2014,
+  "judges": [
+    "Madan B. Lokur"
+  ],
+  "bench": [],
+  "petitioner": "Shyamal Saha and another",
+  "respondent": "State of West Bengal\nSupreme Court of India\n\n24 February 2014\nCr.A. No. 1490 of 2008\nThe Judgment was delivered by : Madan B. Lokur, J.\n1. This appeal questions the limits of interference by the High Court in an appeal against the acquittal of an accused by the Trial Court. In our opinion, the High Court ought not to have interfered in the appeal before it with the acquittal of the appellants by the Trial Court.\nFacts:\n2. The sequence of events, as it has unfolded from the evidence of the witnesses, is that on 19th May, 1995 a thermal plant of the Calcutta Electric Supply Company had opened across the river Ganges in Mauza Bhabanipur Char, District Hooghly, West Bengal.\n3. Paritosh Saha was with his mother Bidyutprava Saha (PW-5) at about 5.00/5.30 p.m. on 19th May, 1995. Thereafter, he and his nephew Animesh Saha (CW-1) aged about 10 years went for a walk on the banks of the river Ganges where they met Gopal Saha, with whom they struck a conversation. At tha",
+  "citations": [
+    "1984 4 SCC 116",
+    "1992 2 SCC 105",
+    "1997 7 SCC 677",
+    "2000 4 SCC 484",
+    "2007 4 SCC 415",
+    "2008 10 SCC 450",
+    "2010 12 SCC 59",
+    "2013 7 SCC 192",
+    "AIR 1934 PC 227",
+    "AIR 1945 PC 151",
+    "AIR 1954 SC 36"
+  ],
+  "statutes": [
+    {
+      "section": "5000"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "161"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "24 February 2014",
+  "outcome": "Unknown",
+  "facts": [
+    "On 19th May, 1995 a thermal plant of the Calcutta Electric Supply Company had opened across the river Ganges in Mauza Bhabanipur Char, District Hooghly, West Bengal.",
+    "Paritosh Saha was with his mother Bidyutprava Saha (PW-5) at about 5.00/5.30 p.m. on 19th May, 1995.",
+    "The five of them then went across the river Ganges and, according to Animesh, when they reached the other side of the river, Dipak and Panchu went towards the thermal plant while Paritosh, Shyamal and Prosanta went in a different direction towards the jungle.",
+    "According to Bidyutprava Saha, at about 8.00 or 8.30 p.m. Shyamal and Prosanta came to her house and asked the whereabouts of Paritosh.",
+    "According to Paritosh's brother Amaresh Saha (PW-1) at about 10.00 p.m. Shyamal and Prosanta came to his house and enquired about Paritosh.",
+    "Early next morning on 20th May, 1995 Bidyutprava Saha noticed that Paritosh had not eaten his dinner which she had kept for him.",
+    "On receiving this information Amaresh enquired from Shyamal and Prosanta the whereabouts of Paritosh but they informed him that they had seen him across the river with some boys.",
+    "Later in the day, Amaresh was informed by Dipak and Panchu that they had crossed the river along with Paritosh, Shyamal and Prosanta.",
+    "After crossing the river, Dipak and Panchu had gone to see the thermal plant and the others had gone in another direction towards the jungle.",
+    "Dipak and Panchu pleaded ignorance of the subsequent movements of Paritosh.",
+    "Later in the evening at about 7.30 p.m. Amaresh Saha lodged a First Information Report regarding the disappearance of Paritosh.",
+    "Sometime in the morning of 21st May, 1995 the corpse of Paritosh was found in the river tied to two iron chairs with a napkin around his neck."
+  ],
+  "issues": [
+    "The limits of interference by the High Court in an appeal against the acquittal of an accused by the Trial Court."
+  ],
+  "petitioner_arguments": [
+    "The primary submission made on their behalf was to the effect that the High Court ought not to have interfered in the acquittal by the Trial Court particularly, in a case of circumstantial evidence.",
+    "It was also submitted that the evidence on record points to the fact that they were made scapegoats by the prosecution."
+  ],
+  "respondent_arguments": [
+    "The crucial issue for consideration, therefore, relates to interference by the High Court in an acquittal given by the Trial Court."
+  ],
+  "court_reasoning": [
+    "Before we proceed to consider the rivalised contentions raised at the bar and independently scrutinize the relevant evidence brought on record, it is fruitful to recapitulate the law enunciated by this Court pertaining to an appeal against acquittal.",
+    "The legal position was reiterated in Nur Mohammad v. Emperor, AIR 1945 PC 151 1945 Indlaw PC 46 after citing Sheo Swarup 1934 Indlaw PC 30 and it was held:",
+    "Their Lordships do not think it necessary to read it all again, but would like to observe that there really is only one principle, in the strict use of the word, laid down there; that is, that the High Court has full power to review at large all the evidence upon which the order of acquittal was founded, and to reach the conclusion that upon that evidence the order of acquittal should be reversed."
+  ],
+  "holding": [
+    "The decision of the Trial Court was reversed and they were convicted for the murder of Paritosh and sentenced to imprisonment for life and a fine of Rs.5000/- each and in default of payment to undergo rigorous imprisonment of one year each."
+  ],
+  "cases_cited": [
+    "Chandra Mohan Tiwari v. State of M",
+    "Ghurey Lal v. State of U",
+    "State of West Bengal v. Shyamal Saha",
+    "The legal position was reiterated in Nur Mohammad v. Emperor",
+    "entire case law on the subject was discussed in Chandrappa v. State of Karnataka",
+    "first case decided by this Court on the subject being Prandas v. State",
+    "given by the Trial Court. Recently, in Joginder Singh v. State of Haryana",
+    "it was held, after referring to Sheo Swarup v. King Emperor",
+    "recent decisions in this regard is Majenderan Langeswaran v. State (NCT of Delhi",
+    "were generally reiterated but mainly reformulated in Ganpat v. State of Haryana"
+  ]
+}

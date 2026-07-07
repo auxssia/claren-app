@@ -1,0 +1,86 @@
+{
+  "case_id": "C2239",
+  "case_name": "Jamna v State Of U.P.",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [
+    "K. Jayachandra Reddy"
+  ],
+  "bench": [],
+  "petitioner": "Jamna",
+  "respondent": "State Of U.P.\nSupreme Court of India\n\n21 September 1993\nThe Judgment was delivered by : K. Jayachandra Reddy, J.\nThis is an appeal under Section 379 CrPC read with Section 2 of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act. There are eight appellants. They along with eight",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "379"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "147"
+    },
+    {
+      "section": "148"
+    },
+    {
+      "section": "107"
+    },
+    {
+      "section": "161"
+    },
+    {
+      "section": "149"
+    },
+    {
+      "section": "34"
+    },
+    {
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "21 September 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "The case involves eight appellants who were tried for offenses punishable under various sections of the Indian Penal Code.",
+    "The trial court acquitted all of them, but the State preferred an appeal and the High Court convicted the appellants.",
+    "Appellants 1 to 4 are convicted under Sections 302 read with 149 IPC and each is sentenced to undergo imprisonment for life.",
+    "The remaining four appellants are convicted under Sections 326/149 IPC and each is sentenced to undergo two years' RI.",
+    "All the eight appellants are further convicted under Sections 324/149 and 323/149 IPC and each is sentenced to undergo one year and six months' RI respectively.",
+    "Appellant 1, Jamna is reported to be dead and a death certificate is filed. Permanand, appellant 3 is also reported to be dead as per the office report dated July 21, 1988."
+  ],
+  "issues": [
+    "Whether the evidence of the injured witnesses can be relied upon?"
+  ],
+  "petitioner_arguments": [
+    "The learned Sessions Judge has given a number of reasons for not relying upon the evidence of the injured witnesses and the view taken by him is quite reasonable.",
+    "PW 1, who is the author of the earlier report, was a highly interested witness and the version given by him was repeated by the other witnesses and having regard to many discrepancies and omissions, the evidence of all the witnesses has to be rejected."
+  ],
+  "respondent_arguments": [
+    "The High Court held that the injured witnesses are reliable to the extent that specific overt acts were attributed to the accused.",
+    "The common object of the unlawful assembly was not to commit murder but was only to cause grievous hurt."
+  ],
+  "court_reasoning": [
+    "When once their presence is established, even assuming that there are some discrepancies regarding the actual time of occurrence, that is not at all material.",
+    "PWs 1, 4 and 6 were present at the scene of occurrence and had witnessed the same.",
+    "The delay by itself is not a circumstance to doubt the prosecution case.",
+    "In our view, this is not at all a significant factor."
+  ],
+  "holding": [
+    "We are not able to find any material discrepancy or infirmity in the evidence of PW 1.",
+    "PW 4 also has given the details and descriptions of the accused.",
+    "The FIR was filed by PW 1 at about 3.50 p.m. on the same day."
+  ],
+  "cases_cited": [
+    "Jamna v State Of U"
+  ]
+}

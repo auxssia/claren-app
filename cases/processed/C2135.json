@@ -1,0 +1,77 @@
+{
+  "case_id": "C2135",
+  "case_name": "Shambhu v State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [
+    "K. G. Balakrishnan"
+  ],
+  "bench": [],
+  "petitioner": "Shambhu",
+  "respondent": "State of Madhya Pradesh\nSupreme Court of India\n\n6 March 2002\nAppeal (Crl.) 117 of 2000\nThe Judgment was delivered by : K. G. Balakrishnan, J.\n1.  Appellant-Shambhu and his wife Sadhna Bai were tried by the Court of Addl. Sessions Judge, Indore in Madhya Pradesh, for the offence punishable under Section 302 read with Section 34 IPC. Against the present appellant, there was also a charge under Section 376 IPC. The Sessions Judge found them 'not guilty' and acquitted of the charges framed against them. Aggrieved by the judgment of the Sessions Court, the State of Madhya Pradesh preferred an appeal before the High Court of Madhya Pradesh and the Division Bench of the Madhya Pradesh High Court found the present appellant guilty of offences punishable under Section 302 IPC, for having caused the death of one Sunder Bai and he was sentenced to imprisonment for life. The finding of the High Court is challenged before us.\n2.  The prosecution case is that on 28th June, 1986, deceased S",
+  "citations": [
+    "1971 3 SCC 767",
+    "1983 2 SCC 14",
+    "AIR 1956 SC 425",
+    "AIR 1962 SC 439"
+  ],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "section": "34"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "376"
+    },
+    {
+      "section": "1"
+    },
+    {
+      "section": "423"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "6 March 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "Appellant-Shambhu and his wife Sadhna Bai were tried by the Court of Addl. Sessions Judge, Indore in Madhya Pradesh, for the offence punishable under Section 302 read with Section 34 IPC.",
+    "Against the present appellant, there was also a charge under Section 376 IPC.",
+    "The Sessions Judge found them 'not guilty' and acquitted of the charges framed against them.",
+    "Aggrieved by the judgment of the Sessions Court, the State of Madhya Pradesh preferred an appeal before the High Court of Madhya Pradesh",
+    "The prosecution case is that on 28th June, 1986, deceased Sunder Bai went to the house of appellant Shambhu requesting him to repay the sum of Rs.1,000/- entrusted by her with the appellant.",
+    "PW-2, Amritlal, having reached Prianko colony on a bicycle, heard the sound of 'bachao, bachao' (help, help) and went near the house of appellant-Shambhu.",
+    "He saw the deceased Sunder Bai set on fire by appellant-Shambhu.",
+    "In the meantime, the husband of the deceased Sunder Bai also reached the place of incident."
+  ],
+  "issues": [
+    "Whether the High Court erred in reversing the acquittal of the appellant",
+    "Whether the prosecution had succeeded in proving that appellant-Shambhu had caused the death of deceased Sunder Bai"
+  ],
+  "petitioner_arguments": [
+    "The counsel for the appellant contended that the High Court seriously erred in reversing the acquittal of the appellant, and as the trial court had taken a reasonable view of the evidence, the High Court should not have reversed the findings of the Sessions Judge.",
+    "The counsel for the appellant further contended that the evidence adduced by the prosecution was not sufficient to hold the appellant guilty."
+  ],
+  "respondent_arguments": [
+    "The State of Madhya Pradesh preferred an appeal before the High Court of Madhya Pradesh and the Division Bench of the Madhya Pradesh High Court found the present appellant guilty of offences punishable under Section 302 IPC, for having caused the death of one Sunder Bai and he was sentenced to imprisonment for life."
+  ],
+  "court_reasoning": [
+    "The learned Sessions Judge acquitted the appellant for the reasons that the First Information Report was recorded belatedly and there were a series of discrepancies in Ex. P-1 F.I. Statement",
+    "The High Court held that the dying declaration was reliable and that there was no reason to disbelieve the evidence of PW-9.",
+    "We do not think that the High Court has erred in finding the appellant guilty of murder.",
+    "Even if the evidence of PW-2 is eschewed, there is convincing and satisfactory evidence to prove that the appellant was responsible for the murder of the deceased Sunder Bai."
+  ],
+  "holding": [
+    "The appeal is dismissed accordingly."
+  ],
+  "cases_cited": []
+}

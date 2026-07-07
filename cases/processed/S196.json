@@ -1,0 +1,33 @@
+{
+  "case_id": "S196",
+  "case_name": "Appeal in case of acquittal",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "32"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The Delhi Special Police Establishment constituted under the Delhi Special Police Establishment Act, 1946 or any other agency empowered to make investigation into an offence under any Central Act other than this Code",
+    "If such an order of acquittal is passed in any case instituted upon complaint and the High Court, on an application made to it by the complainant in this behalf, grants special leave to appeal from the order of acquittal"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "No appeal to the High Court under sub-section (1) or sub-section (2) shall be entertained except with the leave of the High Court."
+  ],
+  "cases_cited": []
+}

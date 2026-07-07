@@ -1,0 +1,66 @@
+{
+  "case_id": "C989",
+  "case_name": "State of Madhya Pradesh and Others v Abdeali",
+  "court": "Supreme Court of India",
+  "year": 1962,
+  "judges": [
+    "S. K. Das, J."
+  ],
+  "bench": [],
+  "petitioner": "State of Madhya Pradesh and Others",
+  "respondent": "Abdeali\nSupreme Court of India\n\n24 August 1962\nCivil Appeal No. 373 of 1961\nThe Judgment was delivered by : S. K. Das, J.\n1.  This is an appeal by special leave from the judgment and order of the High Court of Madhya Pradesh dated December 14, 1959, by which the said High Court quashed an assessment of sales tax made against the respondent for the assessment year 1956-57. The appellant before us are the State of the Madhya Pradesh, the Commissioner of Sales Tax, Madhya Pradesh. 'and the Sales Tax Officer, Circle No.2, Indore.\n2.  We may first state the circumstances under which the respondent was assessed to sales tax and the reasons for which the High Court quashed the, said assessment. The respondent carried on the business of importing and selling different types of footwear in the State of Madhya Pradesh under the name and style of Munwar Shoe Company, Indore. During the assessment year 1956-57 the taxable turnover of the goods sold by the respo",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "3"
+    },
+    {
+      "act": "Act Fixes The Rate Of Tax And States That The Tax Payable By A Dealer Under The Act",
+      "section": "5"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "24 August 1962",
+  "outcome": "Unknown",
+  "facts": [
+    "This is an appeal by special leave from the judgment and order of the High Court of Madhya Pradesh dated December 14, 1959, by which the said High Court quashed an assessment of sales tax made against the respondent for the assessment year 1956-57.",
+    "The respondent carried on the business of importing and selling different types of footwear in the State of Madhya Pradesh under the name and style of Munwar Shoe Company, Indore.",
+    "During the assessment year 1956-57 the taxable turnover of the goods sold by the respondent was determined to be a little over Rs. 60,000/-, and he was assessed to sales tax on his taxable turnover in accordance with item 32 Sch.3 of the notification dated October 24, 1953 issued under s. 5 of the Madhya Bharat Sales Tax Act, 1950 (Act 30 of 1950) 'hereinafter referred to as the Act).",
+    "The respondent contended before the Sale Tax Officer that he was not liable to pay any sales tax on the sale of hand-made shoes, chappal and other type of footwear whose sale price did not exceed Rs. 12/8/- per pair on the ground that such footwear was exempt from tax by reason of the notification dated January 28, 1956.",
+    "The Sales Tax Officer negatived this contention.",
+    "He pointed out in his order dated March 25, 1958 that the condition laid down in the notification to the effect that the sale must be by the manufacturer or any member of his family was not fulfilled, and as the respondent was an importer and dealer of footwear and not the manufacturer or a member of the family of the manufacturer, he was not entitled to claim any exemption under the notification.",
+    "The respondent then moved the High Court of Madhya Pradesh by means of a petition under Art. 226 of the Constitution and in that petition the respondent said that the notification dated January 28, 1956, exempted from tax all sales of footwear which fulfilled the following two conditions, viz., (a) such footwear was hand-made and not manufactured on power machine, and (b) the sale price whereof did not exceed Rs. 12/8/- per pair.",
+    "The respondent further averred that if the exemption were held to be in favour of sales by a manufacturer or a member of his family and not sales by an importer, then the notification would be discriminatory in nature and would contravene the provisions of Art. 304(a) of the Constitution."
+  ],
+  "issues": [
+    "Whether the notification dated January 28, 1956, exempted from tax all sales of footwear which fulfilled the two conditions laid down therein?",
+    "Whether the exemption granted by the notification dated January 28, 1956, was discriminatory in nature and contravened the provisions of Art. 304(a) of the Constitution?"
+  ],
+  "petitioner_arguments": [
+    "The respondent contended before the Sale Tax Officer that he was not liable to pay any sales tax on the sale of hand-made shoes, chappal and other type of footwear whose sale price did not exceed Rs. 12/8/- per pair on the ground that such footwear was exempt from tax by reason of the notification dated January 28, 1956.",
+    "The respondent further averred that if the exemption were held to be in favour of sales by a manufacturer or a member of his family and not sales by an importer, then the notification would be discriminatory in nature and would contravene the provisions of Art. 304(a) of the Constitution."
+  ],
+  "respondent_arguments": [
+    "The Sales Tax Officer negatived this contention.",
+    "He pointed out in his order dated March 25, 1958 that the condition laid down in the notification to the effect that the sale must be by the manufacturer or any member of his family was not fulfilled, and as the respondent was an importer and dealer of footwear and not the manufacturer or a member of the family of the manufacturer, he was not entitled to claim any exemption under the notification."
+  ],
+  "court_reasoning": [
+    "The notification clearly lays down three conditions for the grant of exemption: one of the conditions is that the sale must be of such shoes, chappals, country shoes and footwear as are hand-made and not manufactured on power machine; the second condition is that the sale price must not exceed Rs. 12/8/-; and the third condition is that the sale must be by the manufacturer or any member of his family.",
+    "The notification when it uses the expression 'in case of sale' must refer to the sale which is being exempted from tax in the State; in other words, it has reference to the taxable event in the State as per Sec. 3 of the notification dated October 24, 1953.",
+    "When a manufacturer sells shoes outside the State to an importer And the importer again sells shoes in the State, there are really two sales, one outside the State and one inside it.",
+    "The sales outside the State are not taxable under the Act and the notification of January 28, 1956, has no reference to such sales."
+  ],
+  "holding": [
+    "We think that this contention is right and must be accepted.",
+    "All the three conditions laid down in the notification must be fulfilled before the exemption referred to therein can be claimed and we cannot, by interpretation, delete one of the conditions.",
+    "The result will be that the notification dated January 28, 1956, will be void."
+  ],
+  "cases_cited": [
+    "and The British India Corporation Ltd. v. The Collector of Central Exeise",
+    "and upheld by this Court. (See Orient Weaving Mills (P) Ltd. v. The",
+    "laid down by this Court in M/s Ram. Narain Sons of Ltd. v. Assistant Commissioner of Sales Tax"
+  ]
+}

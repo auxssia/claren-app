@@ -1,0 +1,54 @@
+{
+  "case_id": "C1114",
+  "case_name": "Teeja Devi @ Triza Devi v State of Rajasthan and others",
+  "court": "Supreme Court of India",
+  "year": 2014,
+  "judges": [
+    "Shiva Kirti Singh"
+  ],
+  "bench": [],
+  "petitioner": "Teeja Devi @ Triza Devi",
+  "respondent": "State of Rajasthan",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "482"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "3(1)"
+    },
+    {
+      "section": "173"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "12 November 2014",
+  "outcome": "Unknown",
+  "facts": [
+    "The accused approached the High Court through an application u/s. 482 of the Code of Criminal Procedure (for the sake of brevity CrPC) and sought quashing of FIR No. 7 of 2012, PS Kalandri, District Sirohi, registered for offences under Sections 420, 465, 467, 468 and 120B of the Indian Penal Code and u/s. 3(1)(x) of the Scheduled Castes & Scheduled Tribes (Prevention of Atrocities) Act, 1989.",
+    "After noticing that the complaint of the appellant was forwarded to the police for instituting FIR and investigation and that the accused were seeking quashing of the FIR, the High Court took into consideration a report described as a factual report submitted by the Investigating Officer and by placing reliance solely upon such report obtained from the IO, the High Court passed the order under appeal and quashed the FIR and all related proceedings.",
+    "The complainant belonged to a Scheduled Tribe and allegedly she was cheated by the accused persons who fraudulently represented to her that her thumb impression was being taken for creating a mortgage deed but later she came to know that they had dishonestly prepared an agreement for sale of her lands."
+  ],
+  "issues": [
+    "What is the scope of interference with police investigation under Section 482 CrPC?",
+    "Can the High Court quash an FIR without thorough investigation?"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The impugned order of the High Court under appeal is set aside. The appeal stands allowed."
+  ],
+  "cases_cited": [
+    "Triza Devi v State of Rajasthan",
+    "of judgment of this Court in the case of State of Karnataka vs. Pastor P"
+  ]
+}

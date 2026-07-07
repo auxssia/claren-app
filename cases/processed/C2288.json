@@ -1,0 +1,85 @@
+{
+  "case_id": "C2288",
+  "case_name": "Surinder Singh Alias Chhinda and Another v State of Punjab",
+  "court": "Supreme Court of India",
+  "year": 2006,
+  "judges": [
+    "Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Surinder Singh Alias Chhinda and Another",
+  "respondent": "State of Punjab\nSupreme Court of India\n\n31 August 2006\nAppeal (Crl.) 403 of 2006 (Arising out of SLP (Crl.) No. 729 of 2006)\nThe Judgment was delivered by : Arijit Pasayat, J.\nLeave granted.\nAppellants call in question legality of the judgment rendered by a Division Bench of the Punjab and Haryana High Court dismissing the appeal filed by the appellants and thereby confirming the judgment of conviction and sentence passed by learned Sessions Judge, Rupnagar. The appellants were convicted for offences punishable under Section 302/323 read with Section 34 of Indian Penal Code, 1860 (in short the IPC ). Accused appellant-Narinder Singh was sentenced to undergo imprisonment for life for commission of offence punishable under Section 302 IPC with a fine of Rs.5,000/- with default stipulation. He was, further sentenced to undergo rigorous imprisonment for six months in terms of Section 323 read with Section 34 IPC and to pay a fine of Rs.200/- with",
+  "citations": [
+    "AIR 1945 PRIVY COUNCIL 118",
+    "AIR 1977 SC 109",
+    "AIR 1993 SC 1899"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "34"
+    },
+    {
+      "act": "Has Been Enacted On The Principle Of Joint Liability In The Doing Of A Criminal Act",
+      "section": "34"
+    },
+    {
+      "act": "If Such Criminal Act",
+      "section": "34"
+    },
+    {
+      "act": "The Essence Of The Liability Is To Be Found In The Existence Of A Common Intention Animating The Accused Leading To The Doing Of A Criminal Act",
+      "section": "34"
+    },
+    {
+      "act": "It Is Not Necessary To Show Some Overt Act",
+      "section": "34"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "31 August 2006",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants were convicted for offences punishable under Section 302/323 read with Section 34 of Indian Penal Code, 1860 (in short the IPC ).",
+    "Accused-appellant, Amarjit Singh was sentenced to undergo imprisonment for life for commission of offence punishable under Section 302 read with Section 34 IPC and to pay a fine of Rs.2,500/- with default stipulation.",
+    "The prosecution case as unfolded during trial is as follows: Statement was given by lnderjit (PW 8) to ASI Sukhjit Singh in Civil Hospital, Morinda on 10.4.1996 at 11.50 P.M.",
+    "Accused persons stopped them and stated that they wanted to talk to them.",
+    "Pawan Kumar, the son of the complainant, came forward to rescue him.",
+    "Raja Singh and Surinder Singh caught hold of Pawan Kumar and Narinder Singh @ Nita thrust a knife in the chest of deceased who fell down.",
+    "On this, Inderjit fell upon his son to save him.",
+    "Thereafter, accused Raja Singh, Surinder Singh and Amarjit Singh gave fist and slap blows to the complainant.",
+    "Complainant raised a hue and cry.",
+    "Amarjit Singh son of Ram Singh, Ved Parkash and the complainant then took deceased to Civil Hopsital, Morinda, but his life could not be saved."
+  ],
+  "issues": [
+    "Whether Section 34 has no application so far as the appellants are concerned.",
+    "Whether the prosecution has brought any cogent evidence to show that the appellants had shared any common intention for the murder of the deceased.",
+    "Whether the conviction is altered applying the principle set out above."
+  ],
+  "petitioner_arguments": [
+    "The prosecution has not brought any cogent evidence to show that the appellants had shared any common intention for the murder of the deceased.",
+    "Section 34 has no application so far as the appellants are concerned.",
+    "It is not necessary that the acts of the several persons charged with commission of an offence jointly must be the same or identically similar."
+  ],
+  "respondent_arguments": [
+    "The presence of the accused persons at the time of assault has been established.",
+    "The prosecution has to establish by evidence, whether direct or circumstantial, that there was plan or meeting of mind of all the accused persons to commit the offence for which they are charged with the aid of Section 34, be it pre-arranged or on the spur of moment;",
+    "Under the provisions of Section 34 the essence of the liability is to be found in the existence of a common intention animating the accused leading to the doing of a criminal act in furtherance of such intention."
+  ],
+  "court_reasoning": [
+    "The true contents of the Section are that if two or more persons intentionally do an act jointly, the position in law is just the same as if each of them has done it individually by himself.",
+    "As observed in Ashok Kumar v. State of Punjab (AIR 1977 SC 109), 1976 Indlaw SC 468 the existence of a common intention amongst the participants in a crime is the essential element for application of this Section.",
+    "The provision is intended to meet a case in which it may be difficult to distinguish between acts of individual members of a party who act in furtherance of the common intention of all or to prove exactly what part was taken by each of them.",
+    "When an accused is convicted under Section 302 read with Section 34, in law it means that the accused is liable for the act which caused death of the deceased in the same manner as if it was done by him alone."
+  ],
+  "holding": [
+    "The conviction is altered applying the principle set out above. Appropriate conviction will be under Section 304 Part II IPC read with Section 34 IPC.",
+    "Custodial sentence of seven years would meet the ends of justice.",
+    "Apart from this, the appeal is allowed to the aforesaid extent."
+  ],
+  "cases_cited": [
+    "accused. These aspects have been highlighted in Harbans Kaur v. State of Haryana"
+  ]
+}

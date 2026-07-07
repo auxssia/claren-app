@@ -1,0 +1,45 @@
+{
+  "case_id": "S164",
+  "case_name": "",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "111"
+    },
+    {
+      "section": "113"
+    },
+    {
+      "section": "136"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The section deals with evasion of duty or prohibitions.",
+    "If any person is knowingly concerned in misdeclaration of value or in any fraudulent evasion or attempt at evasion of any duty chargeable thereon or of any prohibition for the time being imposed under this Act or any other law for the time being in force with respect to such goods; or",
+    "he shall be punishable, - (i) in the case of an offence relating to, - (A) any goods the market price of which exceeds one crore of rupees; or (B) the evasion or attempted evasion of duty exceeding 50 lakh of rupees; or (C) such categories of prohibited goods as the Central Government may, by notification in the Official Gazette, specify; or (D) fraudulently availing of or attempting to avail of drawback or any exemption from duty referred to in clause (d), if the amount of drawback or exemption from duty exceeds 50 lakh of rupees,"
+  ],
+  "issues": [
+    "Evasion of duty or prohibitions",
+    "Misdeclaration of value",
+    "Fraudulent evasion or attempt at evasion of duty",
+    "Evasion or attempted evasion of duty exceeding 50 lakh of rupees"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The person shall be punishable with imprisonment for a term which may extend to seven years and with fine: Provided that in the absence of special and adequate reasons to the contrary to be recorded in the judgment of the court, such imprisonment shall not be for less than one year;"
+  ],
+  "cases_cited": []
+}

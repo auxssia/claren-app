@@ -1,0 +1,89 @@
+{
+  "case_id": "C1479",
+  "case_name": "Mangalam Organics Limited v Union of India",
+  "court": "Supreme Court of India",
+  "year": 2017,
+  "judges": [
+    "A.K. Sikri"
+  ],
+  "bench": [],
+  "petitioner": "Mangalam Organics Limited",
+  "respondent": "Union of India\nSupreme Court of India\n\n24 April 2017\nCivil Appeal No. 1338 of 2017\nThe Judgment was delivered by : A.K. Sikri, J.\n1. This appeal arises out of the judgment of the High Court rendered in the writ petition filed by the appellant, wherein the appellant wanted the High Court to exercise its powers under Article 226 of the Constitution of India and issue mandamus to the Central Government directing the Central Government to issue a notification under Section 11C of the Central Excise Act, 1944 (hereinafter referred to as the 'Act') to the effect that duty payable by the appellant on goods manufactured by it shall not be paid.\n2. Section 11C of the Act reads as under:\n\"11C. Power not to recover duty of excise not levied or short-\nlevied as a result of general practice.-\n(1) Notwithstanding anything contained in this Act, if the Central Government is satisfied-\n(a) that a practice was, or is, generally prevalent regarding levy of duty of excise (inc",
+  "citations": [
+    "1970 1 SCC 248",
+    "1982 1 SCC 271",
+    "1989 4 SCC 187",
+    "2005 13 SCC 287"
+  ],
+  "statutes": [
+    {
+      "act": "Central Excise Act",
+      "section": "11C"
+    },
+    {
+      "act": "The Act",
+      "section": "11C"
+    },
+    {
+      "act": "Act Was A Discretionary Power And It Was Amenable To Judicial Review Under Article 226 Of The Constitution",
+      "section": "11C"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Fundamental Rights",
+  "court_level": "Supreme Court",
+  "decision_date": "24 April 2017",
+  "outcome": "Unknown",
+  "facts": [
+    "The appeal arises out of the judgment of the High Court rendered in the writ petition filed by the appellant.",
+    "Section 11C of the Act reads as under: '11C. Power not to recover duty of excise not levied or short-levied as a result of general practice.'",
+    "The Central Government may, by notification in the Official Gazette, direct that the whole of the duty of excise payable on such goods, or, as the case may be, the duty of excise in excess of that payable on such goods, but for the said practice, shall not be required to be paid.",
+    "The appellant is in the business of manufacturing Rosin and Turpentine.",
+    "There are two methods of manufacturing Rosin/Turpentine from Oleo Pine Resin: one method uses power in almost all processes, while the second method, commonly known as the Bhatti process, is entirely manual except for the use of power to operate the pump for lifting up the water to the storage tank.",
+    "The appellant is using the second method of manufacturing Rosin/Turpentine.",
+    "Majority of the units (about 300) are using the Bhatti method whereby use of power is confined to lifting of water to overhead tanks for condensation of Turpentine vapours collected as liquid Turpentine in tanks.",
+    "The Central Government had exempted all goods, falling under Item No.68 of erstwhile First Schedule to the Central Government Excise and Salt Act (1 of 1944) in or relation to the manufacturing of such goods where no process is ordinarily carried on with the aid of power, from the whole of the duty of excise leviable thereon.",
+    "A show cause notice dated 04.10.2004 was issued to the appellant by the Excise Department demanding duty of Rs.10,91,99,456/- on the aforesaid products manufactured by the appellant and cleared during the period 01.04.1999 to 31.08.2003.",
+    "Gurukripa had challenged the order of assessment passed in its case by filing the appeal before the Central Excise and Service Tax Appellate Tribunal, Mumbai (for short 'CESTAT').",
+    "This Court held that the process of lifting of water into the cooling tank was integrally connected with the manufacture of these goods and hence, if the power was used for lifting of water, the exemption would not be available.",
+    "In view of the aforesaid judgment rendered in the case of Gurukripa Resins Private Limited, appeals filed by the appellant before the CESTAT came to be dismissed.",
+    "The Central Board of Excise and Customs decided to float a survey to ascertain a general practice during the period from 27.05.1994 to 27.02.2006."
+  ],
+  "issues": [
+    "Whether Section 11C of the Act grants a discretionary power to the Government to issue or not to issue such a notification.",
+    "Whether the Central Government may, by notification in the Official Gazette, direct that the whole of the duty of excise payable on such goods, or, as the case may be, the duty of excise in excess of that payable on such goods, but for the said practice, shall not be required to be paid."
+  ],
+  "petitioner_arguments": [
+    "The appellant argued that Section 11C of the Act grants a discretionary power to the Government to issue or not to issue such a notification.",
+    "The appellant contended that there was a general practice of non-levying excise duty on these products during the period from 27.05.1994 to 27.02.2006."
+  ],
+  "respondent_arguments": [
+    "The respondent argued that Section 11C of the Act does not mandate the Government to necessarily issue such a notification.",
+    "The respondent contended that there was no general practice of non-levying excise duty on these products during the period from 27.05.1994 to 27.02.2006."
+  ],
+  "court_reasoning": [
+    "The Court held that Section 11C of the Act grants a discretionary power to the Government to issue or not to issue such a notification.",
+    "The Court observed that there was no general practice of non-levying excise duty on these products during the period from 27.05.1994 to 27.02.2006."
+  ],
+  "holding": [
+    "The final decision is that the appeal is allowed and the impugned judgment of the High Court is set aside.",
+    "The Central Government may, by notification in the Official Gazette, direct that the whole of the duty of excise payable on such goods, or, as the case may be, the duty of excise in excess of that payable on such goods, but for the said practice, shall not be required to be paid."
+  ],
+  "cases_cited": [
+    "Anr., which was followed by this Court in Ambica Quarry Works v. State of Gujarat &",
+    "Government. Reference was also made to Suresh Chand Gautam v. State of Uttar Pradesh &",
+    "and Union of India & Ors. v. N.S",
+    "approach and legal position has been laid down in D.K. Basu v. State of West Bengal &",
+    "authority. This view has been reiterated in State of J & K v. A.R",
+    "earlier. Example of cases titled Choksi Tube Company Ltd. v. Union of India &",
+    "in the case of Madria Chemicals Ltd. Etc. Etc. v. Union of India",
+    "judgment of this Court in Collector of Central Excise, Jaipur v. Rajasthan",
+    "legislation as well (Indian Express Newspapers, Bombay v. Union of India",
+    "the Privy Council in Julius v. Lord Bishop of Oxford",
+    "to the judgment in the case of Dhampur Sugar Mills Ltd. v. State of U",
+    "to the judgment of this Court in the case of Common Cause v. Union of India",
+    "was made to the judgment of the Privy Council in Julius v. Lord Bishop of Oxford &",
+    "we may refer to a three-Judge Bench decision in Suresh Seth v. Commr",
+    "within a time bound period. Again in Aneesh D. Lawande & Ors. v. State of Goa &"
+  ]
+}

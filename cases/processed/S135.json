@@ -1,0 +1,38 @@
+{
+  "case_id": "S135",
+  "case_name": "",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Government Of India Act",
+      "section": "88"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "Notwithstanding the repeal by this Constitution of the enactments referred to in Article 395 but subject to the other provisions of this Constitution, all the law in force in the territory of India immediately before the commencement of this Constitution shall continue in force therein until altered or repealed or amended by a competent Legislature or other competent authority.",
+    "For the purpose of brining the provisions of any law in force in the territory of India into accord with the provisions of this Constitution, the President may by order make such adaptations and modifications of such law, whether by way of repeal or amendment, as may be necessary or expedient,"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Nothing in this Article shall be construed as continuing any temporary law in force beyond the date fixed for its expiration or the date on which it would have expired if this Constitution had not come into force.",
+    "An Ordinance promulgated by the Governor of a Province under section 88 of the Government of India Act, 1935 , and in force immediately before the commencement of this Constitution shall, unless withdrawn by the Governor of the corresponding State earlier, cease to operate at the expiration of six weeks from the first meeting after such commencement of the Legislative Assembly of that State functioning under cluase (1) of Article 382,"
+  ],
+  "holding": [
+    "All the law in force in the territory of India immediately before the commencement of this Constitution shall continue in force therein until altered or repealed or amended by a competent Legislature or other competent authority.",
+    "The President may by order make such adaptations and modifications of such law, whether by way of repeal or amendment, as may be necessary or expedient."
+  ],
+  "cases_cited": []
+}

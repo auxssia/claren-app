@@ -1,0 +1,70 @@
+{
+  "case_id": "C1023",
+  "case_name": "Debabrata Gupta v S. K. Ghosh",
+  "court": "Supreme Court of India",
+  "year": 1970,
+  "judges": [
+    "A. N. Ray"
+  ],
+  "bench": [],
+  "petitioner": "Debabrata Gupta",
+  "respondent": "S. K. Ghosh\nSupreme Court of India\n\n23 February 1970\nCriminal Appeal No. 134 of\n1967\nThe Judgment was delivered by : A. N. Ray, J.\n1. This is an appeal by special leave against the judgment of the Calcutta High Court dated 7 June, 1967 refusing to quash the process issued and the proceedings pending before the Additional Chief Presidency Magistrate, Calcutta under section 406 of the Indian Penal Code.\n2. The appellant and the respondent entered into a registered deed of partnership on 27 March, 1963. The name of the partnership business was \"Allied Engineers\". The nature of the business was that if the tender submitted by the respondent to the Eastern Railways for extension of bridge No., 2 at the west and of Howrah yard, West Bengal was accepted by the Eastern Railways the said work would be deemed to be included within the partnership. Under the terms of partnership agreement the capital was Rs. 20,000 to be contributed equally by the partners within six months from",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "406"
+    },
+    {
+      "act": "Arbitration Act",
+      "section": "20"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "23 February 1970",
+  "outcome": "Unknown",
+  "facts": [
+    "This is an appeal by special leave against the judgment of the Calcutta High Court dated 7 June, 1967 refusing to quash the process issued and the proceedings pending before the Additional Chief Presidency Magistrate, Calcutta under section 406 of the Indian Penal Code.",
+    "The appellant and the respondent entered into a registered deed of partnership on 27 March, 1963.",
+    "The name of the partnership business was 'Allied Engineers'.",
+    "Under the terms of partnership agreement the capital was Rs. 20,000 to be contributed equally by the partners within six months from the date of the agreement.",
+    "The main office of the partnership was at 12/1/5 Manohar Pukur Road, Kalighat, Calcutta.",
+    "Another term of the partnership was that if the tender was accepted the appellant would advance or lend from time to time a total sum of Rs. 20,000 towards the work represented by the tender as and when necessary.",
+    "The respondent executed the power of attorney in favour of the appellant on 27 March, 1963 and authorised the appellant to submit all bills, interim as well as final, to receive cheques and to do necessary things on behalf of the respondent in connection with the said work for extension of bridge under the partnership agreement.",
+    "On 18 April, 1964 a second deed of partnership was made between the appellant and the respondent in modification of the earlier deed dated 27 March, 1963.",
+    "It appears that disputes arose between the appellant and the respondent whereupon the respondent wrote to the bank to stop all payments to the appellant.",
+    "The respondent sent to the appellant a notice for dissolution of the partnership.",
+    "The appellant in accordance with the partnership agreement instituted proceedings in the High Court at Calcutta on or about 8 September, 1965 for filing an arbitration agreement under section 20 of the Arbitration Act.",
+    "Summons was issued by the Chief Presidency Magistrate, Calcutta under sections 406 and 424/34 of the Indian Penal Code against the appellant.",
+    "The respondent also filed a suit being Title Suit No. 15 of 1966 in the Third Court of the Subordinate Judge, Alipore, West Bengal against the appellant for dissolution of partnership and for accounts."
+  ],
+  "issues": [
+    "Whether there could be no issue of process in disputes between the partners",
+    "Whether the Additional Chief Presidency Magistrate had jurisdiction to issue process because the alleged offence had taken place outside the jurisdiction of that court",
+    "Whether the High Court could exercise inherent jurisdiction to quash proceedings where the allegations in the complaint did not make out a case"
+  ],
+  "petitioner_arguments": [
+    "There could be no issue of process in disputes between the partners",
+    "The Additional Chief Presidency Magistrate had no jurisdiction to issue process because the alleged offence had taken place outside the jurisdiction of that court",
+    "The High Court could exercise inherent jurisdiction to quash proceedings where the allegations in the complaint did not make out a case"
+  ],
+  "respondent_arguments": [
+    "There was special entrustment of property which constitutes one of the basic ingredients of an offence u/s. 406 of the Indian Penal Code",
+    "The appellant had been entrusted with property or with dominion over the property"
+  ],
+  "court_reasoning": [
+    "It has to be established first that the dispute is only between the partners and secondly it does not relate to any special entrustment of property which constitutes one of the basic ingredients of an offence u/s. 406 of the Indian Penal Code",
+    "Before criminal breach of trust is established it must be shown that the person charged has been entrusted with property or with dominion over the property"
+  ],
+  "holding": [
+    "The appeal fails and is dismissed."
+  ],
+  "cases_cited": [
+    "Debabrata Gupta v S. K",
+    "relied on the decision of this Court in Velji Raghavji Patel v. State of Maharashtra (",
+    "relying on the decision of this Court in R. P. Kapur v. The",
+    "the decision of the Calcutta High Court in Bhuban Mohan Rana v. Surendra Mohan Das(I"
+  ]
+}

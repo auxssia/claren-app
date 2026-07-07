@@ -1,0 +1,41 @@
+{
+  "case_id": "C1113",
+  "case_name": "Rajan v State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Rajan",
+  "respondent": "State of Madhya Pradesh\nSupreme Court of India\n\n12 April 1999\nCr.A. No. 424 of 1999 (Arising out of S.L.P. (Cr.) No. 274 of 1999)\nThe Order of the Court was as follows:\nLeave granted.\n1.  In this case the appellant has been convicted of Section 307 of the Indian Penal Code besides Sections 25 and 27 of the Arms Act, 1959. Sentence of RI for 3 years on the 1st count and lesser sentence for the other counts have been imposed by the Sessions Court. When he filed the appeal in the High Court, after narrating the facts proceeded to consider the merits of the case in the following sentences.\n\"Prosecution in support of its case has examined altogether 8 witnesses. Three defence witnesses have also been examined on behalf of the accused. PW 2 Raghunath Singh, PW 3 Roop Narayan Sharma and PW 4 Ram Narayan are witnesses to the occurrence. PW 2 is the Head Constable. PW 4 is Constable whereas PW 3 is Assistant Sub-Inspector of Police. They have consistently stated in their evidence that i",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "307"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "12 April 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "In this case the appellant has been convicted of Section 307 of the Indian Penal Code besides Sections 25 and 27 of the Arms Act, 1959. Sentence of RI for 3 years on the 1st count and lesser sentence for the other counts have been imposed by the Sessions Court.",
+    "Prosecution in support of its case has examined altogether 8 witnesses. Three defence witnesses have also been examined on behalf of the accused.",
+    "Gun as also cartridges were recovered from the possession of this appellant."
+  ],
+  "issues": [],
+  "petitioner_arguments": [
+    "Various arguments had been addressed concerning the merits of the case and also alternatively pleaded that offence under Section 307 cannot, from any angle, be sustained."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "It cannot be forgotten that the appellate court's jurisdiction is coextensive with that of the trial court in the matter of assessment, appraisal and appreciation of the evidence and also to determine the disputed issues.",
+    "We deem it necessary that the appeal must be heard and disposed of afresh in accordance with law."
+  ],
+  "holding": [
+    "Appeal allowed.",
+    "The petitioner is allowed to remain on bail if he executes a bond to the satisfaction of the trial court during the pendency of the appeal in the High Court."
+  ],
+  "cases_cited": []
+}

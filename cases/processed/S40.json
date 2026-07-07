@@ -1,0 +1,34 @@
+{
+  "case_id": "S40",
+  "case_name": "Forgery for purpose of cheating",
+  "court": "",
+  "year": 2000,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "91"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "17 10 2000",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "Forgery",
+    "Cheating"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "Imprisonment for a term which may extend to seven years",
+    "Fine"
+  ],
+  "cases_cited": []
+}

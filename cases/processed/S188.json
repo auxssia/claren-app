@@ -1,0 +1,36 @@
+{
+  "case_id": "S188",
+  "case_name": "Rights of citizenship of certain persons who have migrated to India from Pakistan",
+  "court": "",
+  "year": 1948,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "5"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "A person who has migrated to the territory of India from the territory now included in Pakistan",
+    "He or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted)",
+    "The person has been ordinarily resident in the territory of India since the date of his migration"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "A person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution",
+    "Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application"
+  ],
+  "cases_cited": []
+}

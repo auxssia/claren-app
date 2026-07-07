@@ -1,0 +1,114 @@
+{
+  "case_id": "C84",
+  "case_name": "P. Ram Reddy and Others v Land Acquisition Officer, Hyderabad Urban Development Authority, Hyderabad and Others",
+  "court": "Supreme Court of India",
+  "year": 1995,
+  "judges": [
+    "Hon'ble Justice N. Venkatachala"
+  ],
+  "bench": [],
+  "petitioner": "P. Ram Reddy and Others",
+  "respondent": "Land Acquisition Officer, Hyderabad Urban Development Authority, Hyderabad",
+  "citations": [
+    "1994 4 SCC 595",
+    "AIR 1926 BOMBAY 420"
+  ],
+  "statutes": [
+    {
+      "section": "4(1)"
+    },
+    {
+      "section": "6"
+    },
+    {
+      "section": "9"
+    },
+    {
+      "section": "18"
+    },
+    {
+      "section": "80"
+    },
+    {
+      "section": "20"
+    },
+    {
+      "section": "40"
+    },
+    {
+      "section": "32"
+    },
+    {
+      "section": "28"
+    },
+    {
+      "section": "51"
+    },
+    {
+      "section": "23(1A)"
+    },
+    {
+      "section": "23"
+    },
+    {
+      "section": "11"
+    },
+    {
+      "section": "23(2)"
+    },
+    {
+      "section": "23(1)"
+    },
+    {
+      "section": "4"
+    },
+    {
+      "section": "8"
+    },
+    {
+      "section": "57"
+    },
+    {
+      "section": "60"
+    },
+    {
+      "section": "27"
+    },
+    {
+      "section": "5"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "27 January 1995",
+  "outcome": "Unknown",
+  "facts": [
+    "P. Ram Reddy, the owner in possession of dry land, was the claimant.",
+    "The acquisition of the said lands having been completed by a declaration made and published u/s. 6 of the LA Act, notice u/s. 9 was issued to the claimant calling upon him to make his claim for compensation of the acquired land before the Land Acquisition Officer of the HUDA -hereinafter to be referred to as "
+  ],
+  "issues": [
+    "The correctness of the judgment and decree of the High Court.",
+    "Whether the market value of the acquired lands should be determined at Rs.80 per square yard or Rs.32 per square yard."
+  ],
+  "petitioner_arguments": [
+    "The claimant contended that the High Court had failed to take into consideration the very statement of the LAO made in his award that the acquired land had high potentiality for developing into a Housing Colony, in determining its market value of the acquired land.",
+    "The claimant also contended that the Civil Court had determined the market value of the acquired land of the claimant at Rs.80 per square yard on the basis of amounts of consideration of building plots mentioned under Exs. A-1 to A-3 (Sale Deeds) and Exs. A2, A-4 and A-5 (Gift Deeds) and Ex. A-6, Basic Valuation Register extract.",
+    "The claimant further contended that the High Court should not have rejected Exs. A-1 to A-6 themselves as unreliable documentary evidence for fixing the market value of the acquired land."
+  ],
+  "respondent_arguments": [
+    "The LAO submitted that although the High Court had held that the Sale Deeds, Ex. B-3 to B-5 had not been proved by examination of witnesses connected with them, the High Court could not be found fault with, for fixing the market value of the acquired land on the basis of the award of the LAO based on Exs. B-3 to B-5 when the claimant's evidence adduced in disproof of that award had not been accepted by it (the High Court)."
+  ],
+  "court_reasoning": [
+    "The High Court held that the value of Rs.20 per square yard, on which the LAO had determined the market value of the acquired lands, was on the lower side for determining the market value of that land.",
+    "The High Court deducted 20% towards lay-out losses out of Rs.40 per square yard and determined the market value of the acquired lands at Rs.32 per square yard."
+  ],
+  "holding": [
+    "The High Court reduced the market value of the acquired lands from Rs.80 per square yard awarded by the Civil Court to Rs.32 per square yard, and granted in addition 30% solatium on the market value, 12% additional amount on such market value from the date of the notification i.e. 24.7.1985 till the date of the award i.e. 14.7.1988 and interest on the enhanced amount of compensation u/s. 28 of the LA Act."
+  ],
+  "cases_cited": [
+    "P. Ram Reddy and Others v Land Acquisition Officer",
+    "it was observed by this Court in Chaturbhuj Pande and Others v. Collector",
+    "the LA Act is no longer res Integra. In Jawajee Nagnatham Vs. Revenue Divisional Officer"
+  ]
+}

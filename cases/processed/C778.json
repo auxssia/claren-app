@@ -1,0 +1,76 @@
+{
+  "case_id": "C778",
+  "case_name": "Ruli Ram and Another v State of Haryana",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [
+    "Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Ruli Ram and Another",
+  "respondent": "State of Haryana\nSupreme Court of India\n\n17 September 2002\nCriminal Appeal 887-888 of 2001\nThe Judgment was delivered by : Arijit Pasayat, J.\n1.  Political battles are increasingly being fought with bullets and not with ballots. Innocent lives are lost and in some cases of those who have no role to play therein.\n2.  Two young boys, Manohar and Satish, aged about 10 and 12 years respectively (hereinafter referred to as the 'deceased' by the respective names) lost their lives allegedly on account of one such battle. The two accused-appellants Ruli Ram and his son Ramesh were said to be responsible for taking away their lives.\n3. The trial court i.e. the Court of Sessions at Hissar held the accused-appellants guilty under Section 304 Part II of Indian Penal Code, 1860 (in short 'IPC'). In appeal by the State a Division Bench of Punjab and Haryana High Court at Chandigarh held that the accused-appellants were to be convicted under Section 302 IPC. The trial court awa",
+  "citations": [
+    "AIR 1958 SC 465",
+    "AIR 1966 SC 1874"
+  ],
+  "statutes": [
+    {
+      "act": "Part Ii Of Indian Penal Code",
+      "section": "304"
+    },
+    {
+      "act": "Both Require Knowledge Of The Probability Of The Act",
+      "section": "300"
+    },
+    {
+      "act": "Would Be Applicable Where The Knowledge Of The Offender As To The Probability Of Death Of A Person Or Persons In General As Distinguished From A Particular Person Or Persons Being Caused From His Imminently Dangerous Act",
+      "section": "300"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "17 September 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "Innocent lives are lost and in some cases of those who have no role to play therein.",
+    "The two accused-appellants Ruli Ram and his son Ramesh were said to be responsible for taking away their lives.",
+    "On 2.8.1988 Datta Ram PW2 lodged first information report alleging that while two young boys (his grandsons) were playing by the side of a pond, they were thrown into it by the accused-appellants.",
+    "Effort was made to take out the two victims out of the water and later on they were taken to the hospital where they were declared dead.",
+    "The act was stated to be on account of refusal by PW2 and his family members to vote in favour of candidate supported by accused appellants.",
+    "On the date of the incident, election to the panchayat was being held.",
+    "Almost as a sequel to the aforesaid incident, there were allegations of booth capturing and poll violence.",
+    "In support of the appeal, learned counsel for the accused-appellants submitted that the evidence is so sketchy that no credence can be put on it.",
+    "The witnesses were partisan and biased, more particularly in the background of almost admitted political enmity.",
+    "Filtering out unnecessary details, the prosecution version is as follows:",
+    "It has been noted that in a faction ridden village, independent witnesses, as submitted by the learned counsel for the accused-appellant, are difficult to get."
+  ],
+  "issues": [
+    "What was the appropriate provision to be applied?",
+    "Was the evidence presented sufficient to prove culpable homicide or murder?"
+  ],
+  "petitioner_arguments": [
+    "The evidence is so sketchy that no credence can be put on it.",
+    "The witnesses were partisan and biased, more particularly in the background of almost admitted political enmity.",
+    "No case under Section 302 IPC is made out and the trial court's conviction under Section 304 Part II should have been maintained by the High Court, even if the prosecution case was to be accepted."
+  ],
+  "respondent_arguments": [
+    "The case is clearly covered under Section 302 IPC.",
+    "Evidence of the witnesses is unimpeachable.",
+    "There is no scope for applying Section 304 Part II IPC because the said provision is applicable only when any of the exceptions to Section 300 covers the case."
+  ],
+  "court_reasoning": [
+    "Culpable homicide is genus and 'murder' its specie.",
+    "The academic distinction between 'murder' and 'culpable homicide not amounting to murder' has always vexed the Courts.",
+    "The safest way of approach to the interpretation and application of these provisions seems to be to keep in focus the keywords used in the various clauses of Sections 299 and 300.",
+    "The degree of probability of death resulting from the intended bodily injury determines whether a culpable homicide is of the gravest, medium or the lowest degree."
+  ],
+  "holding": [
+    "The accused-appellants were convicted under Section 304 Part II IPC by the trial court and their appeal was dismissed by the High Court. The Supreme Court upheld the conviction and sentence."
+  ],
+  "cases_cited": [
+    "In Virsa Singh v. State of Punjab",
+    "death in the ordinary course of nature. Rajwant and Anr. v. State of Kerala",
+    "highlighted by this Court in State of Andhra Pradesh v. Rayavarapu Punnayya"
+  ]
+}

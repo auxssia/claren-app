@@ -1,0 +1,72 @@
+{
+  "case_id": "C1810",
+  "case_name": "Dharman v State of Punjab",
+  "court": "Supreme Court of India",
+  "year": 1956,
+  "judges": [
+    "GOVINDA MENON"
+  ],
+  "bench": [],
+  "petitioner": "Dharman",
+  "respondent": "State of Punjab\nSupreme Court of India\n\n13 September 1956\nCr.A. No. 10 of 1956.\nThe Judgment was delivered by: GOVINDA MENON, J.\n1.  This is an appeal by special leave, preferred by Dharman, son of Dhani Ram (accused No. 2), against the dismissal of his appeal by the High Court of Punjab, at Simla, thereby confirming the conviction and sentence of transportation for life passed on him by the Sessions Judge of Rohtak.\n2.  The facts which gave rise to the prosecution may be briefly stated as follows : -\n3. There was a dispute regarding a vacant pieces of shamilat land in which the contending parties were, the party of the accused on one side and the party of the deceased on the other. Whereas the accused claimed that the land was in their possession, the party of the deceased put forward the claim that they had set up a line crushing machine on the land and that the land had been in their possession for many years. On the 13th of June, 1953, the party of the deceased built a Ka",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "145"
+    },
+    {
+      "section": "107"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "300"
+    },
+    {
+      "section": "304"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "13 September 1956",
+  "outcome": "Unknown",
+  "facts": [
+    "This is an appeal by special leave, preferred by Dharman, son of Dhani Ram (accused No. 2), against the dismissal of his appeal by the High Court of Punjab, at Simla, thereby confirming the conviction and sentence of transportation for life passed on him by the Sessions Judge of Rohtak.",
+    "There was a dispute regarding a vacant pieces of shamilat land in which the contending parties were, the party of the accused on one side and the party of the deceased on the other.",
+    "On the 13th of June, 1953, the party of the deceased built a Kacha wall near this machine which had the effect of shutting off the door of a pucca gher, belonging to the party of the accused.",
+    "Proceedings u/s. 145 of the Criminal Procedure Code resulted on account of this action and the sub-inspector of police applied to the Magistrate that both the parties should be bound over u/s. 107 of the Criminal Procedure Code.",
+    "While the matters were in this state, on the 30th of July, 1953, the accused's party demolished the line crushing machine, when two women, Marwan and Nathian, relations of the deceased, intervened;",
+    "Immediately a fight ensued and in the course of this fight Mansa Ram received fatal injuries and Rup Chand (P.W. 3) was also injured.",
+    "The injured man Mansa Ram gave a statement before the police which after his death was admissible as a dying declaration.",
+    "In that Mansa Ram stated that Dharman had stabbed him with a spear in his chest."
+  ],
+  "issues": [
+    "The question then revolves itself into this: The courts below negatived the defence story of self-defence. The appellate Court found that Mansa Ram died in the course of a sudden and free fight by reason of the injury inflicted by the appellant.",
+    "On the findings by the learned judges of the High Court in our opinion the facts fall within the ambit of Exception 4 to section 300, Indian Penal Code.",
+    "Could it, therefore, be said that the appellant was guilty of an offence u/s. 302 of the Indian Penal Code?",
+    "The only other matter for consideration is whether the appellant had taken undue advantage and acted in a cruel or unusual manner in inflicting the injury on Mansa Ram."
+  ],
+  "petitioner_arguments": [
+    "It is then urged by Mr. Jindra Lal that no such point was taken by the defence before the learned Judges in High Court; but in a case where the question for decision is the nature of the offence deducible from proved facts, the matter is one of pure law and even if there has been no elucidation of the point with clarity in the courts below, this court is not precluded from giving a decision as to the exact nature of the offence proved on a scrutiny of the findings."
+  ],
+  "respondent_arguments": [
+    "This argument runs counter to the findings of the High Court which are to the effect that the second incident was more in the nature of a fight.",
+    "If it was such, no question of premeditation arises.",
+    "Therefore, it is clear that the Injury on Mansa Ram was caused without premeditation in a sudden fight, after the appellant and his party arrived and during the course of the second incident."
+  ],
+  "court_reasoning": [
+    "The courts below found that there was no identity of purpose between the two incidents and such being the case they were of the opinion that the injuries on Mensa Ram, Rup Chand (P.W. 3) and Chaman Lal (P.W. 4) were not inflicted in furtherance of a common object.",
+    "The result of this conclusion was that so far as the second incident is concerned, each of the accused was responsible for his own act and nothing more.",
+    "In these circumstances, there can be no doubt, as is clear from the testimony of witnesses, that the deceased's party was also armed with dangerous weapons, and when two such contending parties, each armed with sharp edged weapons, clashed and in the course of a free fight some injuries were inflicted on one party or the other, it cannot be said that either of them acted in a cruel or unusual manner.",
+    "It would be otherwise if the deceased and his party were unarmed or armed with weapons which were not lethal or dangerous and the accused's party used sharp weapons."
+  ],
+  "holding": [
+    "The conviction u/s. 302 of the Indian Penal Code is act aside but the appellant is convicted under section 304, Part I, of the Indian Penal Code and sentenced to rigorous imprisonment for seven years."
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,65 @@
+{
+  "case_id": "C1900",
+  "case_name": "State of Karnataka v Sateesh and others",
+  "court": "Supreme Court of India",
+  "year": 2015,
+  "judges": [
+    "Uday Umesh Lalit"
+  ],
+  "bench": [],
+  "petitioner": "State of Karnataka",
+  "respondent": "Sateesh",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "12"
+    },
+    {
+      "section": "1"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "114"
+    },
+    {
+      "section": "324"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "1 July 2015",
+  "outcome": "Unknown",
+  "facts": [
+    "On 06.09.2000, PW15 M.N. Somashekharaih, then working as ASI in Kota Police Station, reached the Police Station at 6.55 a.m.",
+    "Shivarudraiah was admitted to Tumkur district hospital for treatment and while undergoing treatment, he died at 10.25 a.m. on 06.09.2000.",
+    "The prosecution principally relied on the testimony of PW1 Siddaramaiah, PW2 Savitha and PW13 Parwathamma who were stated to be eye-witnesses to the incident",
+    "The trial court while accepting the case of the prosecution came to the conclusion that the case against the respondents was fully proved.",
+    "The convicted accused i.e. the respondents herein carried the matter further by filing Criminal Appeal No.1656 of 2005 in the High Court."
+  ],
+  "issues": [
+    "Whether the conduct of PW15 unexplainable?",
+    "Whether there was unexplained delay in registering the crime?",
+    "Whether PW1 was an eye witness to the occurrence?"
+  ],
+  "petitioner_arguments": [
+    "Three eye witnesses, namely, PWs 1, 2 and 13 were completely consistent in their assertions about the involvement of the respondents herein",
+    "The FIR having been lodged at 10.30a.m., there was absolutely no delay in registration of crime"
+  ],
+  "respondent_arguments": [
+    "If PW15 was present in the village immediately after the incident, it does not stand to reason why he did not make any inquiry and register the crime.",
+    "If two constables were present in the village, one of them being injured, that source was a better one to gather information and register the crime."
+  ],
+  "court_reasoning": [
+    "The High Court found the conduct of PW15 unexplainable in that he had chosen not to record the statements of two police constables who were present at the site and one of them was injured and also had chosen not to ask questions to injured Shivarudraiah.",
+    "The High Court further found it completely unexplainable that PW15 had not made any inquiry in the village itself."
+  ],
+  "holding": [
+    "The State being aggrieved has approached this Court by filing this appeal by special leave."
+  ],
+  "cases_cited": [
+    "State of Karnataka v Sateesh"
+  ]
+}

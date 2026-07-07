@@ -1,0 +1,74 @@
+{
+  "case_id": "C1501",
+  "case_name": "Reserve Bank Of India v N. C. Paliwal & Others",
+  "court": "Supreme Court of India",
+  "year": 1976,
+  "judges": [
+    "P. N. Bhagwati, J."
+  ],
+  "bench": [],
+  "petitioner": "Reserve Bank Of India",
+  "respondent": "N. C. Paliwal &",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "12"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "16"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "24 August 1976",
+  "outcome": "Unknown",
+  "facts": [
+    "The Reserve Bank of India was originally constituted to regulate the issue of bank notes and keep reserves with a view to securing monetary stability in India.",
+    "In course of time, other functions were added as a result of various statutes passed by Parliament to meet economic needs.",
+    "The administrative machinery of the Reserve Bank for carrying out these diverse functions was divided into five groups of departments: General Side, Department of Banking Operations, Development and Industrial Finance, Agricultural Credit Department, Economic Department, and Department of Statistics.",
+    "Recruitment to these different groups of departments was made on a common basis, but each group was treated as a separate unit for determining seniority and promotion.",
+    "There were two grades of clerks in each group: Grade I and Grade II. Pay scales and conditions of service were the same for both grades.",
+    "Automatic promotion from Grade II to Grade I was possible, with an additional officiating allowance of Rs. 25 per month.",
+    "Some employees in the general departments were non-graduates, while those in the specialized departments were invariably graduates.",
+    "There were also several categories of non-clerical posts in both general and specialized departments."
+  ],
+  "issues": [
+    "Whether the Combined Seniority Scheme issued by the Reserve Bank was valid",
+    "Whether employees in the general departments should have equal confirmation and promotional opportunities as those in the specialized departments"
+  ],
+  "petitioner_arguments": [
+    "The Association argued that all promotions should be made strictly according to combined seniority, regardless of department.",
+    "The Reserve Bank sought to justify maintaining separate seniority lists for various departments on the ground that work in each department was becoming more special and inter-transferability was undesirable."
+  ],
+  "respondent_arguments": [
+    "The Reserve Bank argued that it was desirable to group employees in a particular category serving in different departments at one centre together for the purpose of being considered for promotion, but this would not affect the interests of the bank or efficiency.",
+    "The National Tribunal observed that it is desirable to maintain a common seniority list for employees in a particular category serving in different departments at one centre."
+  ],
+  "court_reasoning": [
+    "The Court approved the observations of the National Tribunal, which were endorsed by this Court in All India Bank Employees Association v. Reserve Bank of India [1966] 1 S.C.R. 25.",
+    "The Court noted that the Reserve Bank took the first step towards equalising confirmation and promotional opportunities by introducing the Optee Scheme of 1965."
+  ],
+  "holding": [
+    "The judgment of the High Court allowing Writ Petition No. 690/72 filed by some employees of the Reserve Bank challenging the validity of the Combined Seniority Scheme was upheld.",
+    "The appeals were allowed, and the judgment of the High Court was confirmed."
+  ],
+  "cases_cited": [
+    "Anand Parkash Saksena v. Union of India",
+    "II and V at each centre",
+    "Reserve Bank Of India v N. C",
+    "behalf of this Court in All India Bank Employees Association v. Reserve Bank of India",
+    "for transfer to any of the Departments in Groups II, III and V at each centre under",
+    "of the decision of this Court in Kishori Mohanlal Bakshi v. Union of India",
+    "optees on transfer to the Departments in Groups II, III and V will be determined on",
+    "posted to the same Departments in Group II, III and V will be fixed in",
+    "the categories that have been listed as groups I, Iii, IV and V in the annexure (Reference is not to",
+    "when vacancies arise in the Departments in Groups II, III and V at each centre"
+  ]
+}

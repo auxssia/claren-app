@@ -1,0 +1,64 @@
+{
+  "case_id": "C93",
+  "case_name": "Amresh Tiwari v Lalta Prasad Dubey and Another",
+  "court": "Supreme Court of India",
+  "year": 2000,
+  "judges": [
+    "S. N. Variava"
+  ],
+  "bench": [],
+  "petitioner": "Amresh Tiwari",
+  "respondent": "Lalta Prasad Dubey and Another\nSupreme Court of India\n\n11 April 2000\nSpecial Leave Petition (crl.) 3858 of 1999\nThe Judgment was delivered by : S. N. Variava, J.\nLeave granted.\n1. This appeal is against an Order dated 8th September, 1999. By this Order the High Court has, in exercise of powers under Section 482 of the Criminal Procedure Code, set aside an Order dt. 09 June 1999, passed by the sub-divisional Magistrate. The SDM had dropped/discontinued the proceedings under Section 145 of the Criminal Procedure Code.\nBriefly stated the facts are as follows :\n2. In respect of the property concerned the 1st Respondent had a dispute with Sharda Prasad and Shiv Kumar. The 1st Respondent filed Civil Suit No. 280 of 1990 in the Court of Civil Judge, Gyanpur on 10 October, 1990. It is not denied that this Suit was for declaration of title, possession and for injunction. On 10 October 1990, itself an application for ad interim Order was made. An Order to maintain status quo, as",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Criminal Procedure Code",
+      "section": "482"
+    },
+    {
+      "act": "Criminal Procedure Code",
+      "section": "145"
+    },
+    {
+      "act": "The Code",
+      "section": "145"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "11 April 2000",
+  "outcome": "Unknown",
+  "facts": [
+    "The 1st Respondent had a dispute with Sharda Prasad and Shiv Kumar over property.",
+    "The 1st Respondent filed Civil Suit No. 280 of 1990 in the Court of Civil Judge, Gyanpur on 10 October, 1990.",
+    "An application for ad interim Order was made and an Order to maintain status quo, as on that date, was passed by the Court.",
+    "The Appellant's mother appeared and filed a written statement stating that there was no dispute likely to cause breach of peace regarding possession of the said property.",
+    "The 1st Respondent also filed a written statement pursuant to the preliminary Order.",
+    "The proceedings under Section 145 Criminal Procedure Code were resumed. Statements of parties were recorded."
+  ],
+  "issues": [
+    "Whether the High Court erred in setting aside the Order of the Magistrate on the basis that the earlier Order was final and binding.",
+    "Whether the principles laid down in Ram Sumer's case apply only if the civil Court has already adjudicated on the dispute regarding the property and given a finding."
+  ],
+  "petitioner_arguments": [
+    "The Appellant argued that the proceedings under Section 145 Criminal Procedure Code should be dropped as a civil Suit in respect of the same property was pending.",
+    "The Appellant's mother appeared and filed a written statement stating that there was no dispute likely to cause breach of peace regarding possession of the said property."
+  ],
+  "respondent_arguments": [
+    "The 1st Respondent claimed that the property which formed the subject matter of the civil Suit was different from the property in respect of which proceedings under Section 145 Criminal Procedure Code had been adopted.",
+    "The 1st Respondent also filed a written statement pursuant to the preliminary Order."
+  ],
+  "court_reasoning": [
+    "The Court held that interim Orders, even though they may have been confirmed by the higher Courts, never bind and do not prevent passing of contrary Order at the stage of final hearing.",
+    "The Court held that when possession is being examined by the civil Court and parties are in a position to approach the civil Court for adequate protection of the property during the pendency of the dispute, the parallel proceedings i.e. Section 145 proceedings should not continue."
+  ],
+  "holding": [
+    "Leave granted.",
+    "The High Court's Order setting aside the Magistrate's Order was set aside and the matter remanded back to the trial Court for resuming the proceeding under Section 145 Criminal Procedure Code."
+  ],
+  "cases_cited": [
+    "Amresh Tiwari v Lalta Prasad Dubey",
+    "decision of this Court in the case of Ram Sumer Puri Mahant vs. State of U"
+  ]
+}

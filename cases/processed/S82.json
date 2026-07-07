@@ -1,0 +1,34 @@
+{
+  "case_id": "S82",
+  "case_name": "Powers to control production, supply, distribution, etc., of essential commodities",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Reserve Bank Of India Act",
+      "section": "2"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The Central Government has powers to control production, supply, distribution, etc., of essential commodities.",
+    "If the Central Government is of opinion that it is necessary or expedient so to do for maintaining or increasing supplies of any essential commodity or for securing their equitable distribution and availability at fair prices, it may, by order, provide for regulating or prohibiting the production, supply and distribution thereof and trade and commerce therein."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "There shall be paid to the person concerned an amount determined by the Central Government or the State Government, as the case may be,-- (a) having regard to the Controlled price, if any, fixed under this section or by or under any law for the time being in force for such grade or variety of foodgrains, edible oilseeds or edible oils, or (b) having regard to the prices recommended by the Agricultural Prices Commission for the concerned essential commodity, where no controlled price in relation to such commodity has been fixed by or under any law for the time being in force."
+  ],
+  "cases_cited": []
+}

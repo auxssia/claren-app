@@ -1,0 +1,41 @@
+{
+  "case_id": "S97",
+  "case_name": "None",
+  "court": "None",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "352"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "341"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "342"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "279A"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [],
+  "cases_cited": []
+}

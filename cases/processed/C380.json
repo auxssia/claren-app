@@ -1,0 +1,52 @@
+{
+  "case_id": "C380",
+  "case_name": "Jagpal Singh and Others v State of Punjab",
+  "court": "Supreme Court of India",
+  "year": 1990,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Jagpal Singh and Others",
+  "respondent": "State of Punjab\nSupreme Court of India\n\n6 December 1990\nCr.A. No. 666 of 1979 (From the Judgment and Order Dt. 12 June 1979 of the Punjab and Haryana High Court in Criminal Appl. No. 108 of 1976)\nThe Order of the Court was as follows:\n1. This criminal appeal is preferred by the three appellants challenging the correctness and validity of the judgment, rendered by the High Court of Punjab and Haryana in Criminal Appeal No. 108 of 1976 on its file convicting the three appellants under Section 302 read with Sections 149, 307 read with Sections 149 and 148 of the Indian Penal Code and sentencing each of the appellants to undergo life imprisonment, three years' rigorous imprisonment and two years rigorous imprisonment respectively.\n2. According to the prosecution, these three appellants along with two",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "301"
+    },
+    {
+      "section": "148"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "6 December 1990",
+  "outcome": "Unknown",
+  "facts": [
+    "The three appellants challenged the correctness and validity of the judgment rendered by the High Court of Punjab and Haryana in Criminal Appeal No. 108 of 1976.",
+    "According to the prosecution, these three appellants along with two others on March 26, 1971 at village Govindpura formed themselves into an unlawful assembly with a common object of causing the death of one Kapur Singh, committed rioting, attempted to cause the death of Kapur Singh and caused the death of Mrs. Surjit Kaur.",
+    "Two eye-witnesses were examined, namely, Kapur Singh (PW 2) and Dalip Singh (PW 3). The evidence discloses that these appellants and the other two came to the house of Kapur Singh (PW 2) to attack him and fired shots."
+  ],
+  "issues": [
+    "The correctness and validity of the judgment rendered by the High Court of Punjab and Haryana in Criminal Appeal No. 108 of 1976",
+    "Whether the appellants were guilty under all the charges and convicted and sentenced them"
+  ],
+  "petitioner_arguments": [
+    "The doctrine of transfer of malice as contemplated under Section 301 of the IPC, Jagpal Singh has made himself punishable under Section 302 IPC (simpliciter)"
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "On going through he entire evidence and other connected records placed before us, we are fortified in holding that appellant 1, Jagpal Singh shot at Surjit Kaur even though he aimed at only Kapur Singh.",
+    "Therefore, under the doctrine of transfer of malice as contemplated under Section 301 of the IPC, Jagpal Singh has made himself punishable under Section 302 IPC (simpliciter)."
+  ],
+  "holding": [
+    "The appeal of Jagpal Singh is dismissed subject to the above modification and the appeal so far as the other two appellants are concerned is allowed.",
+    "The conviction recorded against these two appellants under Sections 302 read with 149, 307 read with 149 and 148 IPC as well the sentences imposed on them therefor are set aside."
+  ],
+  "cases_cited": []
+}

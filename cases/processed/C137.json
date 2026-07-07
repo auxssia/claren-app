@@ -1,0 +1,78 @@
+{
+  "case_id": "C137",
+  "case_name": "A. Shankar v State Of Karnataka",
+  "court": "Supreme Court of India",
+  "year": 2011,
+  "judges": [
+    "Balbir Singh Chauhan"
+  ],
+  "bench": [],
+  "petitioner": "A. Shankar",
+  "respondent": "State Of Karnataka\nSupreme Court of India\n\n9 June 2011\nCRIMINAL APPEAL NO. 1006 of 2007\nThe Judgment was delivered by : Balbir Singh Chauhan, J.\n1.   This criminal appeal has been filed under Section 2(a) of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970 against the judgment and order dated 28.2.2007 of the High Court of Karnataka, Bangalore, in Criminal Appeal No.1069 of 2000 by which the High Court has reversed the judgment and order dated 31.10.1998 passed by the XVth Additional City Sessions Judge, Bangalore, in Sessions Case No.366 of 1996, acquitting the appellant of the charges under Sections 302 and 307 of the Indian Penal Code, 1860 (hereinafter called 'IPC').\n2.   Facts and circumstances, as per the prosecution case giving rise to this appeal had been that the law was put into motion by younger brother of the deceased, Shankara (PW.8), who lodged a complaint orally on 26.3.1996 that the appellant came to the Barber Saloon of Murthy P",
+  "citations": [
+    "2009 11 SCC 106",
+    "2009 11 SCC 334",
+    "2010 8 SCC 191",
+    "2011 2 SCC 750",
+    "2011 4 SCC 324",
+    "2011 4 SCC 779",
+    "AIR 2009 SC 152",
+    "AIR 2009 SC 331",
+    "AIR 2011 SC 280"
+  ],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "9 June 2011",
+  "outcome": "Unknown",
+  "facts": [
+    "The law was put into motion by younger brother of the deceased, Shankara (PW.8), who lodged a complaint orally on 26.3.1996 that the appellant came to the Barber Saloon of Murthy Prasad, deceased, on 25.3.1996 at about 8 p.m. and demanded Rs.150/- from the deceased.",
+    "The investigation ensued and the appellant was arrested on 31.3.1996.",
+    "After conclusion of the investigation, charge sheet was filed against the appellant and he was put to trial under Sections 302 and 307 IPC.",
+    "The Trial Court came to the conclusion that prosecution failed to prove beyond reasonable doubt that the appellant had committed murder of Murthy Prasad or made an attempt to kill the complainant Shankara (PW.8).",
+    "The High Court convicting the appellant under Section 302 IPC for committing the murder of Murthy Prasad, deceased and awarding him life imprisonment.",
+    "The post mortem examination report dated 26.3.1996 revealed that following injuries were there on the person of Murthy Prasad: ..."
+  ],
+  "issues": [
+    "Whether the High Court has committed an error in interfering with the well reasoned judgment of acquittal by the Trial Court and relying upon the evidence on record while ignoring the material inconsistencies between the evidence of the witnesses; and medical and ocular evidence."
+  ],
+  "petitioner_arguments": [
+    "The High Court has committed an error in interfering with the well reasoned judgment of acquittal by the Trial Court and relying upon the evidence on record while ignoring the material inconsistencies between the evidence of the witnesses; and medical and ocular evidence.",
+    "No motive was proved by the prosecution to commit the offence.",
+    "There had been an inordinate delay of 4 hours in lodging the F.I.R. as the murder was alleged to have been committed at 2 a.m. while the complaint was lodged at 6 a.m. on the same day, though the Police Station was at a distance of only one kilometre."
+  ],
+  "respondent_arguments": [
+    "The High Court has rightly reversed the findings recorded by the Trial Court being the First Court of Appeal after appreciating the evidence properly.",
+    "The trial Court had misappreciated the material evidence of the witnesses.",
+    "More so, the trial Court had failed to give due weightage to the evidence of injured witness, namely Shankara (PW.8)."
+  ],
+  "court_reasoning": [
+    "We have considered the rival submissions made by learned counsel for the parties and perused the record.",
+    "The post mortem examination report dated 26.3.1996 revealed that following injuries were there on the person of Murthy Prasad: ...",
+    "According to the opinion of the Doctor, the death was due to shock and haemorrhage as a result of the aforesaid injuries."
+  ],
+  "holding": [
+    "The appeal deserves to be allowed.",
+    "The Court below had misappreciated the material evidence of the witnesses.",
+    "More so, the trial Court had failed to give due weightage to the evidence of injured witness, namely Shankara (PW.8).",
+    "Thus, in view of the above, there could be no dispute that as per the opinion of Doctors, it was possible to cause the injuries found on the person of the deceased and the complainant with scissors in case the sharp edge and tip of the scissors is held open at the time of assault."
+  ],
+  "cases_cited": [
+    "Abrar v. State of U",
+    "Arumugam v. State",
+    "Chinee v. State of M",
+    "Dr. Sunil Kumar Sambhudayal Gupta & Ors. v. State of Maharashtra",
+    "Mahendra Pratap Singh v. State of Uttar Pradesh",
+    "State Represented by Inspector of Police v. Saravanan &",
+    "State of Rajasthan v. Rajendra Singh",
+    "State of U.P. v. Naresh &",
+    "and Brahm Swaroop & Anr. v. State of U",
+    "and Rukia Begum & Ors. v. State of Karnataka"
+  ]
+}

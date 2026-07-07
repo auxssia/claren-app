@@ -1,0 +1,31 @@
+{
+  "case_id": "S186",
+  "case_name": "",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Central Excise Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "No tax under this Act shall be payable by any dealer in respect of sale of any goods made by such dealer, in the course of inter-State trade or commerce to a registered dealer for the purpose of manufacture, production, processing, assembling, repairing, reconditioning, re-engineering, packaging or for use as trading or packing material or packing accessories in an unit located in any special economic zone, if such registered dealer has been authorized to establish such unit by the authority specified by the Central Government in this behalf."
+  ],
+  "cases_cited": []
+}

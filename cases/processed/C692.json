@@ -1,0 +1,59 @@
+{
+  "case_id": "C692",
+  "case_name": "Shankaranarayana B. R. and Others v State of Mysore and Others",
+  "court": "Supreme Court of India",
+  "year": 1966,
+  "judges": [
+    "P. Satyanarayana Raju"
+  ],
+  "bench": [],
+  "petitioner": "Shankaranarayana B. R. and Others",
+  "respondent": "State of Mysore",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Provides For Relief To The Holders Of Village Offices Abolished Under The Act",
+      "section": "9"
+    },
+    {
+      "act": "Authorized The State Government To Make Rules For The Purpose Of Carrying Out The Provisions Of The Act",
+      "section": "11"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "21 January 1966",
+  "outcome": "Unknown",
+  "facts": [
+    "The Mysore Village Offices Abolition Act, 1961 (Act 14 of 1961) was enacted by the State of Mysore.",
+    "The Act received the assent of the President on July 8, 1961.",
+    "Rules called 'the Mysore General Services (Revenue Subordinate Branch) Village Accountants (Cadre and Recruitment) Rules, 1961' were framed to make recruitment to the posts of village accountants.",
+    "The appellants filed petitions under Art. 226 of the Constitution in the High Court of Mysore for the issue of writs of prohibition and certiorari declaring the impugned Act to be illegal, unconstitutional and void."
+  ],
+  "issues": [
+    "Is the Mysore Village Offices Abolition Act, 1961 a piece of colourable legislation?",
+    "Does the Act constitute a valid exercise of legislative power by the State of Mysore?"
+  ],
+  "petitioner_arguments": [
+    "The appellants argued that the Act is a piece of colourable legislation and seeks to remove the present incumbents to enable the respondent to appoint persons of his choice.",
+    "They contended that the Act is not intended to abolish village offices but to extinguish the right of the present incumbents and thereafter appoint persons recruited by the State Government."
+  ],
+  "respondent_arguments": [
+    "The respondents argued that the Act is a valid exercise of legislative power by the State of Mysore.",
+    "They contended that the Act is intended to abolish village offices and provide for matters consequential and incidental thereto."
+  ],
+  "court_reasoning": [
+    "The court held that the doctrine of colourable legislation does not involve any question of bona fides or mala fides on the part of the legislature.",
+    "It was observed that whether a statute is constitutional or not is always a question of power, and if the legislature lacks competency, the question of motive does not arise at all."
+  ],
+  "holding": [
+    "The court held that the Mysore Village Offices Abolition Act, 1961 is valid and constitutional.",
+    "It was observed that the substance of the Act is material and not merely the form or outward appearance, and if the subject-matter is something which is beyond the powers of that legislature to legislate upon, the form in which the law is clothed would not save it from condemnation."
+  ],
+  "cases_cited": [
+    "As was said by Duff, J., in Attorney-General for Ontario v. Reciprocal Insurers",
+    "In G. Nageswara Rao v. Andhra Pradesh",
+    "Shankaranarayana B. R. and Others v State of Mysore"
+  ]
+}

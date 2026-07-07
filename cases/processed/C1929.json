@@ -1,0 +1,55 @@
+{
+  "case_id": "C1929",
+  "case_name": "P.Vijayapal Reddy & Ors v Government Of India",
+  "court": "Supreme Court of India",
+  "year": 1978,
+  "judges": [
+    "Jaswant Singh"
+  ],
+  "bench": [],
+  "petitioner": "P.Vijayapal Reddy & Ors",
+  "respondent": "Government Of India\nSupreme Court of India\n\n10 August 1978\nCriminal Appeal No. 261 of 1976. Appeal by Special Leave from the Judgment and order dated 2-12-1975 of the Andhra Pradesh High Court in Criminal Misc. Petition No. 2064/75.\nThe Judgment was delivered by : Jaswant Singh, J.\n1. The appellants who are Directors of Tandur and Navandgi Stone Quarries Private Limited and holders of a mining lease for extraction of lime stones (Shahabad Stones) are being prosecuted in the Court of Munsif, Judicial Magistrate, First Class, Tandur, for the alleged violation of Rule 21 (1)(ii) of the Mineral Conservation and Development Rules, 1958 which is made punishable under Rule 27 of the said Rules in that they failed to employ a qualified geologist or a mining engineer. they made an application before the trial Magistrate urging by way of preliminary objection that the complaint against them was not maintainable in view of the fact that the 'Shahabad Stones' Which were b",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure 1973",
+      "section": "482"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "482"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Lease",
+  "court_level": "Supreme Court",
+  "decision_date": "10 August 1978",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants who are Directors of Tandur and Navandgi Stone Quarries Private Limited and holders of a mining lease for extraction of lime stones (Shahabad Stones) are being prosecuted in the Court of Munsif, Judicial Magistrate, First Class, Tandur, for the alleged violation of Rule 21 (1)(ii) of the Mineral Conservation and Development Rules, 1958 which is made punishable under Rule 27 of the said Rules.",
+    "The appellants thereupon moved the High Court for quashing the aforesaid criminal proceedings pending against them reiterating that as the Shahabad Stones which they were extracting were used for building purposes and were described as minor minerals in Item 15 of Schedule I to the Andhra Pradesh Minor Mineral Concession Rules, 1966 (hereinafter referred to as M.M.C. Rules, 1966), the complaint against them was not tenable.",
+    "It is now well settled that the High Court does not ordinarily interfere at an interlocutory stage of a criminal proceedings pending in a subordinate Court."
+  ],
+  "issues": [
+    "What was being operated by the appellants was 'a mine for the purpose of the provisions of Rule 21 of the Mineral Conservation and Development Rules, 1958'?",
+    "Whether the complaint against them was tenable",
+    "Whether the High Court could invoke and exercise its inherent powers under Section 482 of the Code of Criminal Procedure 1973"
+  ],
+  "petitioner_arguments": [
+    "The Shahabad Stones which they were extracting were used for building purposes and were described as minor minerals in Item 15 of Schedule I to the Andhra Pradesh Minor Mineral Concession Rules, 1966",
+    "The complaint against them was not tenable"
+  ],
+  "respondent_arguments": [
+    "What was being operated by the appellants was 'a mine for the purpose of the provisions of Rule 21 of the Mineral Conservation and Development Rules, 1958'",
+    "Some evidence regarding their user was necessary for determination of the question as to whether the appellants were entitled to the benefit of the provision of Rule 2 of the M.M.C. & D. Rules"
+  ],
+  "court_reasoning": [
+    "The High Court does not ordinarily interfere at an interlocutory stage of a criminal proceedings pending in a subordinate Court",
+    "It is also not a matter in which we may legitimately interfere in exercise of our extraordinary powers under Article 136 of the Constitution specially when the case is at its threshold and evidence has still to be adduced as to whether the minerals extracted could or could not be used as a major mineral for certain purposes"
+  ],
+  "holding": [
+    "We dismiss the appeal",
+    "Our order will not, however, be interpreted as barring the appellants from raising any defence or contention that may be open to them before the trial court which will dispose of the same in accordance with law uninhibited by any observations made by it earlier or by the High Court in the course of its Order dismissing the application under section 482 of the Code of Criminal Procedure, 1973"
+  ],
+  "cases_cited": []
+}

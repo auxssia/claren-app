@@ -1,0 +1,32 @@
+{
+  "case_id": "S133",
+  "case_name": "",
+  "court": "",
+  "year": 1960,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "198"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "28 12 1960",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "Definition of \"Government Company\""
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "A government company is defined as any company in which not less than fifty-one per cent of the paid up share capital is held by the Central Government, or by any State Government or Governments, or partly by the Central Government and partly by one or more State Governments."
+  ],
+  "cases_cited": []
+}

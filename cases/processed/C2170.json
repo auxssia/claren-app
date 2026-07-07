@@ -1,0 +1,89 @@
+{
+  "case_id": "C2170",
+  "case_name": "Glodyne Technoserve Ltd v State Of M.P. & Ors",
+  "court": "Supreme Court of India",
+  "year": 2011,
+  "judges": [
+    "Altamas Kabir"
+  ],
+  "bench": [],
+  "petitioner": "Glodyne Technoserve Ltd",
+  "respondent": "State Of M.P. &",
+  "citations": [
+    "1990 2 SCC 486",
+    "1994 6 SCC 651",
+    "1995 1 SCC 478",
+    "2007 8 SCC 1",
+    "2008 16 SCC 215",
+    "2009 11 SCC 9"
+  ],
+  "statutes": [
+    {
+      "section": "750"
+    },
+    {
+      "section": "3"
+    },
+    {
+      "section": "7"
+    },
+    {
+      "section": "5"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "136"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "4 April 2011",
+  "outcome": "Unknown",
+  "facts": [
+    "The Appellant is a Public Limited Company which claims to have an annual turnover of almost Rs.750 crores and has been carrying out large scale infrastructure projects for various State Governments in India, including Maharashtra and Bihar.",
+    "The Appellant Company has been holding ISO 9001:2000 Certificate for the highest quality standards in respect of the services rendered by it.",
+    "On 12th December, 2009, the Government of Madhya Pradesh in the Department of Food, Civil Supplies and Consumer Protection, hereinafter referred to as 'FCS', issued a Request for Proposal, hereinafter referred to as 'RFP', for the appointment of a vendor for District Mechanism for Public Distribution System, hereinafter referred to as 'PDS'.",
+    "The RFP, as it stood at the time when the bids were invited, included Section 3.1 which, inter alia, provides that the bidder/one partner in the consortium must possess a valid certification in the Capability Maturity Model (CMM level 3 or above).",
+    "Subsequently, on 18th January, 2010, the pre- qualification (Eligibility Criteria) provided in the RFP was changed and the corrigendum, as far as it relates to Section 3.1, was amended so that the bidder/one partner in the consortium had to possess a valid certification in the Capability Maturity Model (CMM level 3 or above).",
+    "It was also submitted that in case the certificate was issued for renewal, the bidder should ensure that the renewed certificate was made available at the time of signing of the contract.",
+    "The criteria relating to the documents to be submitted as qualifying documents included a copy of the quality certificate/documentation of quality policy.",
+    "The corrigendum dated 18th January, 2010, amended the said provision to indicate that the bidder/one partner in the consortium must possess a valid certification in the Capability Maturity Model (CMM level 3 or above), in case of consortium the partner developing the software application was required to have CMM level 3 certification.",
+    "The question for decision in this case is whether, on account of the corrigendum whereby the provisions of Section 3 of the Tender documents and Section 7 of the Bidder's Check List were amended, the appellant was, disqualified from consideration, in view of the fact that along with the Tender documents it had filed, through inadvertence or otherwise, a copy of the ISO 9001:2000 certificate of the previous year, instead of the current year, although, it did have the said valid ISO 9001:2000 certification at the time of making of the bid.",
+    "The case of the Appellant depends almost entirely on the submission that on the date of submission of the Bid, it had a valid and active ISO 9001:2000 certification, but that through inadvertence the expired certification of the previous year had been filed along with the bid papers."
+  ],
+  "issues": [
+    "Whether the appellant was disqualified from consideration due to the corrigendum whereby the provisions of Section 3 of the Tender documents and Section 7 of the Bidder's Check List were amended.",
+    "What are the requirements for a valid bid and what supporting documents were to be submitted along with the bid papers?",
+    "Whether the requirement of a valid ISO 9001:2000 certification on the date of submission of the Bid documents was duly satisfied in the Appellant's case."
+  ],
+  "petitioner_arguments": [
+    "The Appellant Company has been holding ISO 9001:2000 Certificate for the highest quality standards in respect of the services rendered by it.",
+    "The requirement of a valid ISO 9001:2000 certification on the date of submission of the Bid documents was duly satisfied in the Appellant's case.",
+    "Although, one of the conditions of the Tender document required that the Quality Certification and the documentation of the quality policy were to be provided along with the bid documents as supporting documents, Clause 9 also provided that in case the certificate was due for renewal, the bidder should ensure that the renewal certificate was made available at the time of signing of the contract.",
+    "It would be clear from the said condition that it was not absolutely necessary for the valid ISO 9001:2000 certification to be filed along with the bid documents and that they could be filed before the agreement was ultimately signed.",
+    "The Appellant's bid documents had been wrongly rejected at the Technical Bid stage, without even considering the Financial Bid which had been submitted by it.",
+    "After the Financial Bids, except that of the Appellant, were opened, the Appellant came to learn that its offer was about 200 crores less than the second-lowest tenderer to whom the contract was ultimately given and that by awarding the contract to the second lowest tenderer, the State of Madhya Pradesh was incurring a loss of such a huge amount.",
+    "The said condition is read with the conditions contained in Clause 9 of Section 7.1.1 of the RFP, it would be seen that the requirement of a valid ISO 9001:2000 certification on the date of submission of the Bid documents was duly satisfied in the Appellant's case."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The said condition is read with the conditions contained in Clause 9 of Section 7.1.1 of the RFP, it would be seen that the requirement of a valid ISO 9001:2000 certification on the date of submission of the Bid documents was duly satisfied in the Appellant's case.",
+    "It would be clear from the said condition that it was not absolutely necessary for the valid ISO 9001:2000 certification to be filed along with the bid documents and that they could be filed before the agreement was ultimately signed.",
+    "The requirement of a valid ISO 9001:2000 certification on the date of submission of the Bid documents was duly satisfied in the Appellant's case.",
+    "Although, one of the conditions of the Tender document required that the Quality Certification and the documentation of the quality policy were to be provided along with the bid documents as supporting documents, Clause 9 also provided that in case the certificate was due for renewal, the bidder should ensure that the renewal certificate was made available at the time of signing of the contract.",
+    "The Appellant's bid documents had been wrongly rejected at the Technical Bid stage, without even considering the Financial Bid which had been submitted by it."
+  ],
+  "holding": [
+    "Leave granted."
+  ],
+  "cases_cited": [
+    "General lastly referred to the decision in Sorath Builders vs. Shreejikrupa Buildcon Ltd",
+    "Glodyne Technoserve Ltd v State Of M",
+    "made to another decision of this Court in Ram Gajadhar Nishad vs. State of U",
+    "of a Three- Judge Bench of this Court in Tata Cellular Vs. Union of India",
+    "this Court in Siemens Public Communication Network Pvt. Ltd. vs. Union of India &",
+    "to the decision of this Court in New Horizons Limited & Anr. Vs. Union of India &",
+    "to the decision of this Court in Reliance Energy Ltd. & Anr. Vs. Maharashtra"
+  ]
+}

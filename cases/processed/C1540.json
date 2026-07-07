@@ -1,0 +1,82 @@
+{
+  "case_id": "C1540",
+  "case_name": "Khuman Singh and Others v State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "year": 2004,
+  "judges": [
+    "B. P. Singh"
+  ],
+  "bench": [],
+  "petitioner": "Khuman Singh and Others",
+  "respondent": "State of Madhya Pradesh\nSupreme Court of India\n\n24 November 2004\nAppeal (crl.) 998 of 1999\nThe Judgment was delivered by: B. P. Singh, J.\n1. There are seven appellants in this Appeal who have impugned the judgement and order of the High Court of Madhya Pradesh at Jabalpur dated 2nd September, 1998 in Criminal Appeal No.1035 of 1989. The High Court by its impugned judgement and order dismissed the appeal preferred by them and upheld the judgement and order of the First Additional Sessions Judge, Sehore in Sessions Trial No. 74 of 1988 finding them guilty of the offence punishable u/s. 302 read with S. 149 IPC and sentencing them to imprisonment for life. The appellants were also found guilty of the offences u/ss. 147 and 323 read with S. 149 IPC and sentenced to undergo one year, and six months, rigorous imprisonment respectively for those offences.\n2. The facts of the case are that in connection with the Flag Ceremony performed near the Hanuman Temple, the vil",
+  "citations": [
+    "AIR 1958 SC 465",
+    "AIR 1966 SC 151"
+  ],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "147"
+    },
+    {
+      "section": "326"
+    },
+    {
+      "section": "300"
+    },
+    {
+      "section": "10"
+    },
+    {
+      "section": "304"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "24 November 2004",
+  "outcome": "Unknown",
+  "facts": [
+    "There are seven appellants in this Appeal who have impugned the judgement and order of the High Court of Madhya Pradesh at Jabalpur dated 2nd September, 1998 in Criminal Appeal No.1035 of 1989.",
+    "The facts of the case are that in connection with the Flag Ceremony performed near the Hanuman Temple, the villagers had assembled from different villages.",
+    "They danced the whole night in celebration.",
+    "It appears that inadvertently the stick of Khuman Singh, Appellant No.2 hit PW 5 on his face.",
+    "There was protest from Nanla, and it appears that an altercation followed the protest.",
+    "However, the groups dispersed thereafter.",
+    "Rayla (since deceased) had intervened to pacify the parties.",
+    "According to the prosecution, the complainant party was chased by the appellants who caught hold of Nanla (PW 5).",
+    "There was protest from deceased Rayla and others.",
+    "It appears that appellant No.1 gave a lathi blow to Bair Singh (PW 1).",
+    "The chase continued and ultimately in the field of Samadh Miyan, Rayla, the deceased was over-powered and was assaulted with lathi and stones."
+  ],
+  "issues": [
+    "Whether the appellants committed the act with the intention of causing bodily injury to the deceased and the bodily injury intended to be inflicted was sufficient in the ordinary course of nature to cause death."
+  ],
+  "petitioner_arguments": [
+    "Even if the prosecution case is accepted to be true, the nature of injuries caused, the weapons used, the genesis of the occurrence and the trivial dispute which gave rise to the occurrence, belie the case of the prosecution that the appellants intended to cause the death of the deceased.",
+    "None of the injuries caused was by itself sufficient in the ordinary course of nature to cause death, and at best death resulted on account of the unintended injury to the liver caused by fracture of a rib bone which punctured the liver.",
+    "The offence made out may be one u/s. 326 or S. 324 IPC."
+  ],
+  "respondent_arguments": [
+    "A large number of injuries were inflicted on the deceased by the appellants.",
+    "The appellants must have known that such large number of injuries caused by them would result in the death of the victim in the ordinary course of nature.",
+    "The case clearly comes u/s. 302 IPC."
+  ],
+  "court_reasoning": [
+    "Firstly, the occurrence has its genesis in a trivial matter namely the unintended hitting of Nanla (PW 5) by the stick of appellant No.2 when they were dancing at the festival.",
+    "Secondly, while returning to their respective villages the appellants caught hold of Nanla (PW 5) but there was intervention by the deceased Rayla.",
+    "Thirdly, the medical evidence discloses that the following injuries were caused:",
+    "From the external and internal injuries found, we have come to the conclusion that it was the injury caused to the liver resulting in profuse bleeding which caused the death.",
+    "If the liver had not been damaged, perhaps death would not have resulted."
+  ],
+  "holding": [
+    "We hold that S. 300 'thirdly' IPC is not attracted, and it cannot be said that the appellants intended to cause any injury to the liver which perhaps proved fatal.",
+    "There is no evidence to suggest that any of the other injuries suffered by him was sufficient to cause death in ordinary course of nature."
+  ],
+  "cases_cited": []
+}

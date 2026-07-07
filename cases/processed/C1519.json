@@ -1,0 +1,65 @@
+{
+  "case_id": "C1519",
+  "case_name": "Nagesh Singh and Another v B.D. Virdi and Others",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Nagesh Singh and Another",
+  "respondent": "B.D. Virdi",
+  "citations": [
+    "1994 5 SCC 450"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "section": "19"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "309"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "24 July 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "These appeals by special leave are directed against the order passed by the Division Bench of the Delhi High Court dated 22nd July, 2003.",
+    "The Division Bench of the Delhi High Court in a writ petition filed by the respondent herein set aside the order passed by the Administrative Tribunal dated 7th January, 1999.",
+    "Both these appellants i.e Nagesh Singh and B.S. Bhandari joined Grade IV (Assistant Director) in the Indian Economic Service (IES) on 1st September, 1982.",
+    "The other respondents joined the service after them.",
+    "Respondent No.1 was promoted on 25th May, 1988 as Grade III (Deputy Director) by the Order dated 25th May, 1988 and respondent Nos. 2 to 5 were promoted as Grade III (Deputy Director) on 7th July, 1988.",
+    "The main grievance of these petitioners before the Tribunal was that as per Rule 13 as it stood in 1988 there was no reservation quota in promotion for SC/ST and they have been wrongly promoted under the garb of so called administrative instruction issued on 27th November, 1972."
+  ],
+  "issues": [
+    "Whether the retrospective operation of the amended Rule 13 can be sustained?",
+    "Whether the amendment to Rule 13 is violative of Articles 14 and 16 of the Constitution?"
+  ],
+  "petitioner_arguments": [
+    "The petitioners argued that as per Rule 13 as it stood in 1988 there was no reservation quota in promotion for SC/ST and they have been wrongly promoted under the garb of so called administrative instruction issued on 27th November, 1972.",
+    "They also argued that the retrospective operation of the amended Rule 13 cannot be sustained."
+  ],
+  "respondent_arguments": [
+    "The respondents did not present any arguments in this case."
+  ],
+  "court_reasoning": [
+    "The Court observed that the legislature and the competent authority under Article 309 of the Constitution of India have the power to make laws with retrospective effect.",
+    "However, this power cannot be used to justify the arbitrary, illegal or unconstitutional acts of the Executive.",
+    "When a person is deprived of an accrued right vested in him under a statute or under the Constitution and he successfully challenges the same in the court of law, the legislature cannot render the said right and the relief obtained nugatory by enacting retrospective legislation."
+  ],
+  "holding": [
+    "The Court declared amended Rule 13 to the extent it has been made operative retrospectively to be unreasonable, arbitrary and, as such, violative of Articles 14 and 16 of the Constitution of India.",
+    "The Court struck down the retrospective operation of the rule."
+  ],
+  "cases_cited": [
+    "Nagesh Singh and Another v B.D",
+    "in Union of India and Others vs. Tushal Ranjan Mohanty"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "case_id": "C108",
+  "case_name": "K.I. Shephard And Ors. Etc. Etc. v Union Of India And Ors.",
+  "court": "Supreme Court of India",
+  "year": 1987,
+  "judges": [
+    "Rangnath Misra"
+  ],
+  "bench": [],
+  "petitioner": "K.I. Shephard And Ors. Etc. Etc",
+  "respondent": "Union Of India",
+  "citations": [
+    "1967 2 SCR 625",
+    "1970 1 SCR 457",
+    "1981 2 SCR 533"
+  ],
+  "statutes": [
+    {
+      "section": "45"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "31"
+    },
+    {
+      "section": "21"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "31A"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "18 September 1987",
+  "outcome": "Unknown",
+  "facts": [
+    "The writ petitions u/art. 32 of the Constitution and appeals by special leave are against the judgment of the Division Bench of the Kerala High Court in writ appeals have a common set of facts as also law for consideration.",
+    "Hindustan Commercial Bank ('Hindustan' for short). The Bank of Cochin Ltd. (hereafter referred to as 'Cochin Bank') and Lakshmi Commercial Bank ('Lakshmi' for short) were private banks.",
+    "Amalgamation has been made. Pursuant to the schemes, 28 employees of Hindustan, 21 employees of Cochin Bank and 76 employees of Lakshmi were excluded from employment and their services were not taken over by the respective transferee banks.",
+    "Some of these excluded employees of the Cochin Bank went before the Kerala High Court for relief u/art. 226 of the Constitution.",
+    "Though employees of the other two banks had not challenged the vires of s. 45 of the Act, on behalf of Lakshmi such a challenge has been made."
+  ],
+  "issues": [],
+  "petitioner_arguments": [
+    "Counsel on behalf of the excluded employees have broadly contended that the draft schemes did not include any name of employees intended to be excluded; no opportunity of being heard was afforded to them before exclusion was ordered under the schemes and the authorities concerned have not acted fairly;",
+    "They deny the allegation that any of them was responsible for ficticious, improper or non-business like advances of loan to parties thereby bringing conditions near about bankruptcy for the appropriate banking companies;",
+    "Many other employees against whom there were definite charges already pending enquiry or even orders of dismissal had been proposed have been taken over and retained in service of the transferee banks while these excluded employees without justification have been called upon to face this unfortunate situation."
+  ],
+  "respondent_arguments": [
+    "The Union of India has contended that the scheme in respect of each of the banks that has got amalgamated had been approved by it as required under the Act and since finality was attached to such schemes challenge was not open against the schemes particularly in view of the provisions contained in Art. 31-A of the Constitution.",
+    "On behalf of the Reserve Bank of India, several contentions were raised by way of opposition and shortly stated these submissions are:-(1) Law does not require that the draft scheme should contain the names of the employees to be excluded;",
+    "(2) The incorporation of the names finalised on the basis of scrutiny of the records before the schemes were placed before the RBI was sufficient compliance of the requirements of the law;",
+    "(3) The provisions of the Act did not confer any right on the employees of being heard;",
+    "(4) The scheme-making process was legislative in character and therefore did not come within the ambit of natural justice;",
+    "(5) Moratorium under the statutory provisions could not be beyond six months and in view of the fact that the entire operation had to be finalised within a brief time frame, the requirement of an enquiry by notice to all the officers intended to be excluded could not have been intended to be implanted into the provisions of section 45;",
+    "(6) Provision of compensation has been made for those who were excluded from the respective scheme."
+  ],
+  "court_reasoning": [
+    "It has often been said by this Court that Courts should not enter into constitutional issues and attempt interpretation of its provisions unless it is really necessary for disposal of the dispute.",
+    "In our opinion, this group of cases can be disposed of without reference to question of vires of some part of s. 45 of the Act being examined.",
+    "The entire law applicable to the facts of these cases is to be found in Part III of the Act and in particular in s. 45.",
+    "As far as relevant, that section provides: 'Notwithstanding anything contained in the foregoing provisions of this Part or in any other law or any agreement or other instrument, for the time being in force...'",
+    "The scheme aforesaid may contain provisions for all or any of the following matters, namely:-(a) ...............................................",
+    "(b) ...............................................",
+    "(c) ...............................................",
+    "(d) ...............................................",
+    "(e) ...............................................",
+    "(f) ...............................................",
+    "(g) ...............................................",
+    "(h) ...............................................",
+    "(i) the continuance of the services of all the employees of the banking company (excepting such of them as not being workmen within the meaning of the Industrial Disputes Act, 1947 are specifically mentioned in the scheme) in the banking company itself on its reconstruction or, as the case may be, in the transferee bank at the same remuneration and on the same terms and conditions of service, which they were getting or, as the case may be, by which they were being governed, immediately before the date of the order of moratorium:"
+  ],
+  "holding": [
+    "The scheme aforesaid may contain provisions for all or any of the following matters, namely:-(a) ...............................................",
+    "(b) ...............................................",
+    "(c) ...............................................",
+    "(d) ...............................................",
+    "(e) ...............................................",
+    "(f) ...............................................",
+    "(g) ...............................................",
+    "(h) ...............................................",
+    "(i) the continuance of the services of all the employees of the banking company (excepting such of them as not being workmen within the meaning of the Industrial Disputes Act, 1947 are specifically mentioned in the scheme) in the banking company itself on its reconstruction or, as the case may be, in the transferee bank at the same remuneration and on the same terms and conditions of service, which they were getting or, as the case may be, by which they were being governed, immediately before the date of the order of moratorium:"
+  ],
+  "cases_cited": [
+    "As has beer. pointed out by Wells J. in Perre Brothers v. Citrus organisation Committee",
+    "In Swadeshi Cotton Mills v. Union of India",
+    "In the case of State of Horsily v. Dr. (Miss",
+    "K.I. Shephard And Ors. Etc. Etc. v Union Of India",
+    "a recent decision of this Court being Union of India and Anr. v. Cynamide India Ltd",
+    "indeed one for purposes of evidence. In Smt. Somavanti & ors. v. State of Punjab &",
+    "ln A.K Kraipak & ors. v. Union of India &",
+    "the epoch- making decision of the House of Lords in Ridge v. Baldwin",
+    "this Court in Chandra Bhavan Boarding and Lodging, Bangalore v. The"
+  ]
+}

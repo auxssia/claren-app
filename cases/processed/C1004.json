@@ -1,0 +1,65 @@
+{
+  "case_id": "C1004",
+  "case_name": "Minor P. Rajendran v State of Madras and Others",
+  "court": "Supreme Court of India",
+  "year": 1968,
+  "judges": [
+    "Kailas Nath Wanchoo, J."
+  ],
+  "bench": [],
+  "petitioner": "Minor P. Rajendran",
+  "respondent": "State of Madras",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "17 January 1968",
+  "outcome": "Unknown",
+  "facts": [
+    "The three petitions and the civil appeal challenge the same order of the State of Madras by which rules were promulgated for selection of candidates for admission to the First Year integrated M.B.B.S. Course.",
+    "There was a large rush of candidates for admission to the medical colleges in the State of Madras while the seats therein were limited.",
+    "The State of Madras, which runs these colleges, framed rules for admission to them.",
+    "Rule 2 provides for reservation of 10 seats for certain categories.",
+    "Rule 3 provides for appointment of a Selection Committee of not more than three persons.",
+    "Rule 5 provides for reservation for socially and educationally backward classes, and lays down that for the purpose of this rule 'socially and educationally backward classes' will mean those classes which have been specified in Group III of the revised Appendix 17-A to the Madras Educational Rules, issued with G.O. (Ms) 839 Education, dated 6th April, 1951, as subsequently amended.",
+    "Rule 8 provides that the seats reserved in the general pool and the seats reserved for the socially and educationally backward classes will be allocated among the various districts on the basis of the ratio of the population of each district to the total population of the State."
+  ],
+  "issues": [
+    "Whether Rule 5, which provides for reservation for socially and educationally backward classes, is bad as it violates Art. 15 of the Constitution on the ground that it is based entirely on consideration of caste.",
+    "Whether the district wise allocation under Rule 8 violates Arts. 14 and 15.",
+    "Whether the procedure evolved by the Selection Committee for interview was in violation of the Rules.",
+    "Whether there was no objective test laid down in the Rules for interview and the questions that were put were unrelated to r. 10(d).",
+    "Whether the selection was mala fide inasmuch as the two official members contrived to secure caste representation in the matter of admission."
+  ],
+  "petitioner_arguments": [
+    "Rule 5, which provides for reservation for socially and educationally backward classes, is bad as it violates Art. 15 of the Constitution on the ground that it is based entirely on consideration of caste.",
+    "The district wise allocation under Rule 8 violates Arts. 14 and 15.",
+    "The procedure evolved by the Selection Committee for interview was in violation of the Rules.",
+    "There was no objective test laid down in the Rules for interview and the questions that were put were unrelated to r. 10(d).",
+    "The selection was mala fide inasmuch as the two official members contrived to secure caste representation in the matter of admission."
+  ],
+  "respondent_arguments": [
+    "There is no substance in any of the contentions raised in these cases.",
+    "The list of socially and educationally backward classes for whom reservation is made under Rule 5 nothing but a list of certain castes.",
+    "The main criterion for inclusion in the list was the social and educational backwardness of the caste based on occupations pursued by these castes."
+  ],
+  "court_reasoning": [
+    "Art. 15 forbids discrimination against any citizen on the grounds only of religion, race, caste, sex, place of birth or any of them.",
+    "Art. 15 (4) inter alia permits the State to make any special provision for the advancement of any socially and educationally backward classes of citizens.",
+    "A caste is also a class of citizens and if the caste is a whole is socially and educationally backward reservation can be made in favour of such a caste on the ground that it is a socially and educationally backward class of citizens within the meaning of Art. 15(4).",
+    "Though the caste of a class of citizens may be relevant its importance should not be exaggerated; and, if classification of backward classes of citizens was based solely on the caste of the citizen, it might be open to objection."
+  ],
+  "holding": [
+    "The court accepts that though the list shows certain castes, the members of those castes are really classes of educationally and socially backward citizens.",
+    "No attempt was made on behalf of the petitioners/appellant to show that any caste mentioned in this list was not educationally and socially backward."
+  ],
+  "cases_cited": [
+    "Minor P. Rajendran v State of Madras",
+    "may be made to the observations of this Court in M. R. Balaji v. State of Mysore"
+  ]
+}

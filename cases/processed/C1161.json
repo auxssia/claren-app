@@ -1,0 +1,96 @@
+{
+  "case_id": "C1161",
+  "case_name": "R. Rajashekar and others v Trinity House Building Co-operative Society and others",
+  "court": "Supreme Court of India",
+  "year": 2016,
+  "judges": [
+    "V. Gopala Gowda"
+  ],
+  "bench": [],
+  "petitioner": "R. Rajashekar and others",
+  "respondent": "Trinity House Building Co-operative Society",
+  "citations": [
+    "1991 3 SCC 67",
+    "1995 2 SCC 326",
+    "1995 2 SCC 677",
+    "1995 3 SCC 128",
+    "2003 1 SCC 228",
+    "2007 9 SCC 304",
+    "2012 10 SCC 184",
+    "2012 3 SCC 727"
+  ],
+  "statutes": [
+    {
+      "act": "And 6 Of The Land Acquisition Act",
+      "section": "4"
+    },
+    {
+      "act": "Contract Act",
+      "section": "23"
+    },
+    {
+      "act": "And 6 Of The Act",
+      "section": "4"
+    },
+    {
+      "act": "Part Vii Of The Act",
+      "section": "39"
+    },
+    {
+      "act": "Said Land Acquisition Act",
+      "section": "11"
+    },
+    {
+      "act": "General Clauses Act",
+      "section": "6"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "15 September 2016",
+  "outcome": "Unknown",
+  "facts": [
+    "The lands involved in all these acquisition proceedings are agricultural lands belonging to poor agriculturalists.",
+    "On 09.01.1984, Trinity House Building Co-Operative Society (hereinafter referred to as the 'respondent-Society') was registered with the object of providing sites for building residential houses for its members.",
+    "As per the agreement, a contract of agency was created in favour of Mr. S. Rangarajan to act as a middleman between the respondent-Society and the State Government to get the lands mentioned therein acquired in favour of the respondent-Society.",
+    "The state government of Karnataka by its order dated 23.06.1986, fixed the last date as 30.06.1984 for the registration of the societies.",
+    "By way of order dated 30.04.1987, the state government of Karnataka constituted a 'Three Men Committee' to verify the claims of land for acquisition being made by the various societies, and a State level Co-ordination Committee also was constituted by the Government to inquire into the affairs of the society before recommending their claim for acquisition.",
+    "The case of the respondent-Society came up for consideration before the State Level Coordination Committee on 25.09.1987.",
+    "On 10.03.1988, the Additional Registrar of Co-Operative Societies, Bangalore passed an order under Section 64 of the Karnataka Co-operative Societies Act, 1959, to inquire into certain allegations made against 98 House Building Co-Operative Societies of Bangalore City, including the respondent-Society, and appointed Sri G.V.K. Rao, the then Controller of Weights and Measures to investigate into the allegations of irregularities and malpractices against the concerned societies.",
+    "Subsequently, on 09.05.1988, an agreement was entered into between the state government of Karnataka and the respondent-Society as required under Section 39 read with Section 41 of Part VII of the L.A. Act.",
+    "Subsequently, around 33 Objection Petitions were filed before the Land Acquisition Officer by the landowners, which were all rejected under the inquiry conducted by him under Section 5-A(2) of the L.A. Act.",
+    "On 18.03.1999, the state government issued the final notification under Section 6(1) of the L.A. Act declaring that the lands were required for public purpose without proper application of mind to the report received from the Land Acquisition Officer."
+  ],
+  "issues": [
+    "The power u/s 4(1) and 6(1) of the Act has been exercised for extraneous consideration at the instance of the persons who have no role in the decision making process.",
+    "The lands could not have been acquired by the state government in favour of a society for the purpose of providing residential sites to its members without following the procedure provided under Part VII of the L.A. Act."
+  ],
+  "petitioner_arguments": [
+    "There is reference that the landowners have been paid the consideration for their lands through M/S Sree Srinivasa Enterprises.",
+    "In the statement of objections it is stated that the society through the agency of M/S Srinivasa Enterprises, represented by its proprietor has made payments to the landowners.",
+    "This fact shows that the facts involved in these petitions are identical with that of the case involved in the decision of HMT House Building Co-Operative Society 1995 Indlaw SC 1559 (supra)."
+  ],
+  "respondent_arguments": [
+    "There was no evidence on record to suggest that the 'outside agency' (M/s Srinivasa Enterprises) had influenced the acquisition proceedings.",
+    "On the other hand, it is clear from the material placed on record that the case of the respondent-Society was considered by the State Level Co-ordination Committee on 25.09.1987, and on the basis of the clearance granted by the Committee the state government granted approval to acquire the lands in question."
+  ],
+  "court_reasoning": [
+    "The Supreme Court in the said decision has held that the power u/s 4(1) and 6(1) of the Act has been exercised for extraneous consideration at the instance of the persons who have no role in the decision making process.",
+    "In view of the decision of the Supreme Court referred to above, I hold that the petitioners are entitled to challenge the impugned acquisition since the land acquisition proceedings is the product of colourable exercise of power at the instance of the third parties."
+  ],
+  "holding": [
+    "The impugned notifications are liable to be quashed.",
+    "The petitioners are entitled to challenge the impugned acquisition since the land acquisition proceedings is the product of colourable exercise of power at the instance of the third parties."
+  ],
+  "cases_cited": [
+    "B. Anjanappa and Ors. v. Vyalikaval House Building Cooperative Society Limited",
+    "In Bangalore City Cooperative Housing Society Limited v. State of Karnataka",
+    "R. Rajashekar and others v Trinity House Building Co-operative Society",
+    "We have heard Mr. Shekhar Naphade, Mr. V. Giri",
+    "and Muniyappa v. State of Karnataka SLP (C",
+    "has been followed by this Court in the cases of Sumitramma v. State of Karnataka SLP (C",
+    "of this Court in the case of U.P. Awas Evam Vikas Parishad v. Gyan Devi (D",
+    "of this Court in the case of Uddar Gagan Properties Ltd. v. Sant Singh &"
+  ]
+}

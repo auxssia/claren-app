@@ -1,0 +1,37 @@
+{
+  "case_id": "S172",
+  "case_name": "Power to record statements and confessions",
+  "court": "",
+  "year": 0,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "364"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The Power to record statements and confessions",
+    "Any Presidency Magistrate, any Magistrate of the first class and any Magistrate of the second class specially empowered in this behalf by the State Government may, if he is not a police-officer] record any statement or confession made to him in the course of an investigation under this Chapter 2 [or under any other law for the time being in force] or at any time afterwards before the commencement of the inquiry or trial.",
+    "Such statements shall be recorded in such of the manners hereinafter prescribed for recording evidence as is, in his opinion, best fitted for the circumstances of the case. Such confessions shall be recorded and signed in the manner provided in section 364, and such statements or confessions shall then be forwarded to the Magistrate by whom the case is to be inquired into or tried.",
+    "A Magistrate shall, before recording any such confession, explain to the person making it that he is not bound to make a confession and that if he does so it may be used as evidence against him and no Magistrate] shall record any such confession unless, upon questioning the person making it, he has reason to believe that it was made voluntarily ;"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "It is not necessary that the Magistrate receiving and recording a confession or statement should be a Magistrate having jurisdiction in the case."
+  ],
+  "holding": [
+    "A confession shall not be recorded unless the person making it has been informed that they are not bound to make a confession and that any confession made may be used as evidence against them, and the Magistrate has reason to believe that the confession was made voluntarily."
+  ],
+  "cases_cited": []
+}

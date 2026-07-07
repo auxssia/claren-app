@@ -1,0 +1,76 @@
+{
+  "case_id": "C2175",
+  "case_name": "A.K. Bhatnagar and Others v Union of India and Others",
+  "court": "Supreme Court of India",
+  "year": 1990,
+  "judges": [
+    "RANGANATH MISRA, C.J."
+  ],
+  "bench": [],
+  "petitioner": "A.K. Bhatnagar and Others",
+  "respondent": "Union of India",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "309"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 32",
+  "court_level": "Supreme Court",
+  "decision_date": "9 November 1990",
+  "outcome": "Unknown",
+  "facts": [
+    "The civil appeals are by special leave and the writ petition is under Article 32 of the Constitution.",
+    "The service with which we are concerned in this group of cases is known as 'Central Information Service'(CIS for short).",
+    "This service was constituted by the Central Information Service Rules, 1959 framed by the president in exercise of powers conferred by the proviso to Article 309 of the Constitution with effect from March 1, 1960 in terms of Rule 5.",
+    "Under Rule 4 the service has seven tiers beginning with grade IV and going up to the selection grade.",
+    "Direct recruitment is to grade IV and the higher grades are manned on the basis of promotion.",
+    "The requirements of promotional qualifications are in Rule 6-A.",
+    "After the initial constitution there were four recruitment up to 1970, being in 1964, 1965, 1969 and 1970.",
+    "It appears that in 1964 there was condonation of the age bar and 141 candidates had appeared but 22 qualified.",
+    "In terms of this proviso the notification of January 27, 1977, was issued to the following effect:",
+    "Mr. V. Thirunavukkarasu, respondent 1, in the Civil Appeal of 1985 whose services were regularised by the order of January 27, 1977 with effect from January 4, 1977 - and his name occurred at 19th place in the notification - moved the Madras High Court under Article 226 of the Constitution for a mandamus to the Union Government to consider his case for promotion to grad II and grad I of the service in the existing vacancies arising subsequent to 1964 by taking into consideration the period of his ad hoc service from the year 1964.",
+    "He maintained that the ad hoc service between May 25, 1964 to January 4, 1977 should have been taken into account for determining his seniority."
+  ],
+  "issues": [
+    "The dispute is one of inter se seniority among direct recruits to grade IV.",
+    "Whether the period of ad hoc service should be taken into account for determining seniority.",
+    "Whether the regularised officers would be placed below regular recruits through the 1970 examination."
+  ],
+  "petitioner_arguments": [
+    "The ad hoc service between May 25, 1964 to January 4, 1977 should have been taken into account for determining his seniority.",
+    "The period of ad hoc service should be considered for promotion to grad II and grad I of the service."
+  ],
+  "respondent_arguments": [
+    "The regularised officers would be placed below regular recruits through the 1970 examination.",
+    "The length of service is taken into account in the absence of a provision."
+  ],
+  "court_reasoning": [
+    "Seniority is an incidence of service and where the service rules prescribe the method of its computation, it is squarely governed by such rules.",
+    "In this group of cases, however, we are concerned with the inter se seniority between direct recruits alone.",
+    "The regularised officers admittedly remained outside the cadre until January 4, 1977 from when their services were regularised.",
+    "Since rules are clear and the government action was within the purview of the rules, judicial interference was not called for."
+  ],
+  "holding": [
+    "The writ petition has to be dismissed and the civil appeals have to be allowed.",
+    "The judgments of the Division Bench and the Single Judge of the High Court are set aside and the judgments of the Tribunal are vacated and the two claims filed before the Central Administrative Tribunal are also dismissed."
+  ],
+  "cases_cited": [
+    "A.K. Bhatnagar and Others v Union of India",
+    "Mr. V. Thirunavukkarasu",
+    "relied upon the judgments of this Court in Baleshwar Dass v. State of U"
+  ]
+}

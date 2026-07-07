@@ -1,0 +1,63 @@
+{
+  "case_id": "C866",
+  "case_name": "State Of Punjab v Rajinder Singh",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [],
+  "bench": [],
+  "petitioner": "State Of Punjab",
+  "respondent": "Rajinder Singh\nSupreme Court of India\n\n11 August 2009\nCriminal Appeal No.1252 of 2006\nThe Order of the Court was as follows :\n1.  This appeal by way of special leave arises out of the judgment and order dated 22.07.2004 in Criminal Appeal No. 481 of 1999 passed by a Division Bench of the High Court of Punjab and Haryana whereby the High Court had allowed the appeal filed by the accused-respondent Rajinder Singh setting aside his conviction and sentence of life imprisonment and fine under Section 302 IPC and under Section 27 of the Arms Act, by giving him the benefit of doubt and had also dismissed the appeal against acquittal filed by the appellant-State against the acquittal of Kuldip Singh and Rachhpal Singh, by the Sessions Judge, Faridkot.\nThe brief facts leading to this appeal are as follows:\n2. Madan Lal - P.W. 2, the father of the deceased- Harinder Kumar was the co-owner of brick kilns in villages Madooke and Ajitwal with Rajinder Singh, respondent herein. Abo",
+  "citations": [
+    "1976 4 SCC 394",
+    "2009 4 SCC 271"
+  ],
+  "statutes": [
+    {
+      "act": "Ipc And Under Section 27 Of The Arms Act",
+      "section": "302"
+    },
+    {
+      "act": "Ipc And All The Three Were Also Charged Under Section 27 Of The Arms Act",
+      "section": "120B"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "11 August 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "The brief facts leading to this appeal are as follows:",
+    "About one year prior to the occurrence, a settlement had been arrived at between the parties aforesaid and the brick kiln in village Madooke had fallen to the share of Madan Lal and the one in Ajitwal to the share of Rajinder Singh.",
+    "On 30th November, 1995, Madan Lal and his son Harinder Kumar, the deceased along with P.W.3 - Shamsher Singh and P.W.4 - Anil Kumar had visited the brick kiln at Madooke to make payment to the labour",
+    "Madan Lal, accompanied by Shamsher Singh and Anil Kumar, attempted to move Harinder Kumar to the hospital at Moga in a car but he died along the way.",
+    "A First Information Report was thereafter lodged by Madan Lal at Police Station, Mehna."
+  ],
+  "issues": [
+    "The settled law is that it is safe to acquit 10 accused persons rather than to convict one innocent.",
+    "When there is a doubt with regard to the participation of accused Kuldip Singh in the present occurrence, then it is safe to give him the benefit of doubt and acquit him."
+  ],
+  "petitioner_arguments": [
+    "There was no reason whatsoever to disbelieve the eyewitness accounts given by Madan Lal, Shamsher Singh and Anil Kumar;",
+    "The first and the third named being close relatives of the deceased, and in that eventuality any flaw or shortcoming with regard to the medical evidence ought to have been ignored.",
+    "As per the statement of P.W.1 - Dr. Iqbal Singh who had conducted the post mortem examination on the dead body, the injury on the person of the deceased could have been caused by a shot gun using a single projectile cartridge",
+    "The injuries on the person of Rajinder Singh and Mohinder Singh had not been explained which cast a doubt on the entire prosecution story."
+  ],
+  "respondent_arguments": [
+    "The judgment of the High Court was correct in holding that there was a doubt with regard to the participation of accused Kuldip Singh in the present occurrence",
+    "The possibility of a mistake is difficult to swallow for the very significant reason that Madan Lal and his son Anil Kumar - P.W.4 were the owners of a shot gun and a rifle respectively.",
+    "No conclusive opinion could be given as to the use of Rajinder Singh's shot gun on account of insufficient identifying characteristics on the cartridges."
+  ],
+  "court_reasoning": [
+    "The Sessions Judge had no option but to hold that Madan Lal who was an old man, had seen the weapon from some distance and it was possible that he had been unable to distinguish between a rifle and a shot gun",
+    "We are of the opinion that this is perhaps over simplifying and stretching the matter too far in favour of the prosecution as Madan Lal had identified the murder weapon as a 'pakki' weapon which in Punjab's rural dialect always means a 'rifle'."
+  ],
+  "holding": [
+    "The High Court by its judgment dated 07.01.2002 dismissed the appeal filed by the State and allowed the appeal filed by Rajinder Singh primarily on two grounds:-(i) that as per the eye witnesses - Madan Lal and Shamsher Singh in particular, the weapon used in causing the fatal injury was a shot gun but the injury found on the deceased was by a shot from a rifle; and (ii) that the injuries on the person of Rajinder Singh and Mohinder Singh had not been explained which cast a doubt on the entire prosecution story."
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,57 @@
+{
+  "case_id": "C1208",
+  "case_name": "Julia Jose Mavely v Union of India and Others",
+  "court": "Supreme Court of India",
+  "year": 1991,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Julia Jose Mavely",
+  "respondent": "Union of India",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "22"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "22 October 1991",
+  "outcome": "Unknown",
+  "facts": [
+    "Julia Jose Mavely, who is now lodged in the Central Prison, Thiruvananthapuram, has filed this petition under Art. 32 of the Constitution of India challenging the validity of the order of detention passed by the second respondent, the State of Kerala.",
+    "The period of detention has been fixed for one year as per the order dated 16-1-1991 with effect from 27-10-90.",
+    "As the facts of the case which necessitated the detaining authority to pass this detention order are well set out in the grounds of detention, we think that it is not necessary for us to reiterate the same."
+  ],
+  "issues": [
+    "The validity of the order of detention passed by the second respondent, the State of Kerala",
+    "Whether there has been undue and unexplained delay in disposing the representation made by the detenue"
+  ],
+  "petitioner_arguments": [
+    "There has been undue and unexplained delay in disposing the representation made by the detenue",
+    "The continued detention of the petitioner is bad in law"
+  ],
+  "respondent_arguments": [
+    "The Sponsoring Authority from whom the comments were called for had delayed in spending the comments up to 1-1-91 despite the fact that the comments were called for from him on 4-12-90",
+    "The delay cannot be said to have been explained, because the postal transmission, according to the learned counsel was by speed post"
+  ],
+  "court_reasoning": [
+    "The use of the word 'as soon as may be' occurring in Article 22(5) of the Constitution reflects that the representation should be expeditiously considered and disposed of with due promptitude and diligence",
+    "What is reasonable dispatch depends as on the facts and circumstances of each case and no hard and fast rule can be laid down in that regard"
+  ],
+  "holding": [
+    "The impugned order of detention is set aside and the detenu is directed to be set at liberty forthwith unless the petitioner's detention is required for any other cause",
+    "The writ petition is allowed"
+  ],
+  "cases_cited": [
+    "Julia Jose Mavely v Union of India",
+    "M. Mohamed Sultan v. The Joint Secretary",
+    "and Pratap Jeevan Lal v. State of Maharashtra",
+    "on the decision of this Court, namely, Rama Dhondu Borade v. V. K",
+    "upon on the side of the petitioner is Mukesh Kumar Chauhan v. Union of India"
+  ]
+}

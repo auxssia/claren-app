@@ -1,0 +1,57 @@
+{
+  "case_id": "C2402",
+  "case_name": "Laxmanji and Another v State of Gujarat",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Laxmanji and Another",
+  "respondent": "State of Gujarat\nSupreme Court of India\n\n5 December 2008\nCRIMINAL APPEAL No. 1972 OF 2008 (Arising out of SLP (Crl.) No. 7034/2008)\nThe Judgment was delivered by : Arijit Pasayat, J.\n1. Leave granted. Challenge in this appeal is to the judgment of the Division Bench of the Gujarat High Court upholding the conviction of the accused appellant nos. 1 to 3. Four persons faced trial and the trial court directed acquittal of accused No. 4. All the accused persons were charged for commission of offence punishable under Section 302 read with Section 34 of the Indian Penal Code, 1860 ( in short 'IPC'). Three appeals were filed before the High Court. Two of them were by accused No. 1 (Criminal Appeal No. 259/99) and the other Criminal Appeal No. 301 of 1999 by accused nos. 2 and 3. Criminal Appeal 380/1999 was preferred by the State questioning acquittal of original accused No. 4.\nThe prosecution version as unfolded during trial is as follows:\n2. On 26/10/1997, at around 1",
+  "citations": [
+    "AIR 1999 SC 1083"
+  ],
+  "statutes": [
+    {
+      "act": "Read With Section 34 Of The Indian Penal Code",
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "5 December 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "On 26/10/1997, at around 15.30 hours, Nainaben,daughter of deceased -Bhamraji, had gone to fetch water from a nearby public tap.",
+    "While Nainaben was fetching water, original accused Nos. 1, 2 and 3 and some other persons began to tease Nainaben.",
+    "After returning to her house, Nainaben informed about the said incident to her father deceased Bhamarji.",
+    "Sometime later, all the four accused persons went to the house of deceased- Bhamraji and during that time, original accused No. 1 was having a 'Rampuri' -knife, original accused No. 4 was having a stick while the two other accused persons, i.e. original accused Nos. 2 and 3, were unarmed.",
+    "Thereafter, the deceased was taken to Sardarnagar Police Station in an Auto- rickshaw.",
+    "On the basis of information given case was registered for offence punishable under Section 326 read with Section 34 IPC."
+  ],
+  "issues": [
+    "Whether Section 34 can be applied so far as the appellants are concerned",
+    "To apply Section 34 apart from the fact that there should be two or more accused, two factors must be established: (i) Common intention and (ii) Participation of accused in the commission of an offence"
+  ],
+  "petitioner_arguments": [
+    "The appellant cannot be held guilty of offence punishable under Section 302 read with Section 34 IPC",
+    "A 2 was not armed. It is therefore submitted that the appellant cannot be held guilty of offence punishable under Section 302 read with Section 34 IPC"
+  ],
+  "respondent_arguments": [
+    "The basic question arises for consideration is whether Section 34 can be applied so far as the appellants are concerned",
+    "The State supported the judgment"
+  ],
+  "court_reasoning": [
+    "To apply Section 34 apart from the fact that there should be two or more accused, two factors must be established: (i) Common intention and (ii) Participation of accused in the commission of an offence",
+    "If common intention is proved but no overt act is attributed to the individual accused, section 34 will be attracted as essentially it involves vicarious liability. But if participation of the accused in the crime is proved and common intention is absent, section 34 cannot be invoked"
+  ],
+  "holding": [
+    "The appeal is allowed with the above observation",
+    "Custodial sentence of three years would meet the ends of justice"
+  ],
+  "cases_cited": [
+    "cannot be invoked. (Jai Bhagwan VS. State of Haryana"
+  ]
+}

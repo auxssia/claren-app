@@ -1,0 +1,91 @@
+{
+  "case_id": "C1620",
+  "case_name": "Rotash v State Of Rajasthan",
+  "court": "Supreme Court of India",
+  "year": 2006,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "Rotash",
+  "respondent": "State Of Rajasthan\nSupreme Court of India\n\n6 December 2006\nAppeal (crl.) 335 of 2006\nThe Judgment was delivered by : S. B. Sinha, J.\n1.  Appellant is before us aggrieved by and dissatisfied with a judgment of conviction and sentence passed by a Division Bench of Rajasthan High Court, Bench at Jaipur in D.B. Criminal Appeal No.765 of 1999. He was proceeded against for commission of murder along with one Pitram, his brother-in-law. Pitram, accused No. 1 (A.1), Mali Ram, the first informant (P.W.1) and Moosaram are brothers. Mooli Devi is their mother. A First Information Report was lodged at about 9.30 p.m. on 13.10.1996 in relation to an incident which took place at the 'Dhani' of Mali Ram's father, which is situated on Bhudoli Road, whereat, allegedly, the said Pitram committed murder of the said Moosaram at about 8 p.m. on the same day.\n2.  P.W.1, in his First Information Report, alleged that he and the deceased carried some household articles from town Neem Ka Thana and went",
+  "citations": [
+    "2001 3 SCC 673",
+    "2003 1 SCC 268",
+    "2003 10 SCC 414",
+    "2003 6 SCC 73",
+    "AIR 1925 PC 1"
+  ],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure Code",
+      "section": "161"
+    },
+    {
+      "act": "Indian Penal Code",
+      "section": "34"
+    },
+    {
+      "act": "Is Simultaneous Consensus Of The Mind Of Persons Participating In The Criminal Act",
+      "section": "34"
+    },
+    {
+      "act": "A Criminal Act",
+      "section": "33"
+    },
+    {
+      "act": "Includes A Series Of Act",
+      "section": "34"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "6 December 2006",
+  "outcome": "Unknown",
+  "facts": [
+    "The Appellant is before us aggrieved by and dissatisfied with a judgment of conviction and sentence passed by a Division Bench of Rajasthan High Court, Bench at Jaipur in D.B. Criminal Appeal No.765 of 1999.",
+    "Pitram, accused No.1 (A.1), Mali Ram, the first informant (P.W.1) and Moosaram are brothers.",
+    "Mooli Devi is their mother.",
+    "A First Information Report was lodged at about 9:30 p.m. on 13.10.1996 in relation to an incident which took place at the 'Dhani' of Mali Ram's father, which is situated on Bhudoli Road, whereat, allegedly, the said Pitram committed murder of the said Moosaram at about 8 p.m. on the same day.",
+    "P.W.1, in his First Information Report, alleged that he and the deceased carried some household articles from town Neem Ka Thana and went to their father's 'Dhani'.",
+    "They stopped there, talked to their mother and left for their 'Dhani at Lambawali. When they reached the field of 'Darogas', they heard shouting of their mother, whereupon they started running, sensing that they would be attacked.",
+    "Moosaram was then attacked by 4-5 persons.",
+    "It was alleged that Pitram, A.1, his brother, who at the relevant time had been working at Jaisalmer in Border Security Force, having 'bakda' in his hand attacked the deceased, as a result whereof he fell down, whereafter his associates started assaulting him with respective weapons in their hands.",
+    "Moosaram shouted at his brother to save him. He ran and hid himself in the crops.",
+    "The accused and his associates searched for him with torches in their hands, but because of shoutings of Moosaram they fled away.",
+    "He reached the police station immediately after the occurrence.",
+    "The investigation was started by P.W.17-Surendra Kumar Bhati.",
+    "It is not in dispute that P.W.6-Mooli Devi, mother of the deceased as well had sustained injuries."
+  ],
+  "issues": [
+    "Whether the Appellant's conviction for commission of an offence under Section 302/34 Indian Penal Code was proper?",
+    "Whether the prosecution case was fatally flawed by omission to name the Appellant in the First Information Report?"
+  ],
+  "petitioner_arguments": [
+    "Appellant was known to the informant and having regard to the fact that he could identify the assailants of his brother, there was no reason as to why he was not named;",
+    "The mother of the deceased, although named Appellant in her statement under Section 161 of the Code of Criminal Procedure Code, 1973 before the Investigating Officer, she did not attribute any overt act on his part.",
+    "Presence of P.Ws.8-Khyaliram and P.W.9-Sarjeet Singh at the scene of occurrence was highly doubtful as their statements were recorded by the police after a few days.",
+    "All the witnesses being related to the deceased, were highly interested and the courts below committed a serious error in relying upon their statements."
+  ],
+  "respondent_arguments": [
+    "P.W.1 in his deposition had asserted that somebody else has recorded his statement at the police station, who might have committed an error in not recording the fact that Appellant herein also took part in the commission of murder of the deceased;",
+    "Having regard to the fact that in the statements of both P.Ws. 1 and 6, which were recorded by the Investigating Officer on 13th October, 1996 itself, he was named, it cannot be said to be a case where omission to name Appellant would be fatal to the prosecution case."
+  ],
+  "court_reasoning": [
+    "The Court, in a case of this nature, must take into consideration the entire circumstances surrounding the incidence and may not start with a presumption that he is not a truthful witness.",
+    "There cannot be furthermore any doubt whatsoever that ordinarily it was expected that P.W.1 would disclose the name of the assailants in the First Information Report, but the Court, in a case of this nature, must take into consideration the entire circumstances surrounding the incidence and may not start with a presumption that he is not a truthful witness.",
+    "We do not find any reason to disbelieve the statement of Mooli Devi-P.W.6."
+  ],
+  "holding": [
+    "The conviction of Appellant for commission of an offence under Section 302/34 Indian Penal Code was proper."
+  ],
+  "cases_cited": [
+    "In Lallan Rai & Ors. vs. State of Bihar",
+    "In State of M.P. vs. Mansingh &",
+    "In Suresh & Anr. vs. State of U",
+    "In Visveswaran vs. State Rep",
+    "In a similar vein the Privy Council in Barendra Kumar Ghosh v. King Emperor",
+    "support from the decision of this Court in Ramaswami Ayyangar v. State of T"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "case_id": "C2108",
+  "case_name": "Satish @ Dhanna v State of Madhya Pradesh and Others",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Satish @ Dhanna",
+  "respondent": "State of Madhya Pradesh",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "149"
+    },
+    {
+      "act": "2000 Act",
+      "section": "16"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "17 April 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "Challenge in this appeal is to the judgment of a Division Bench of the Madhya Pradesh High Court, Indore Bench.",
+    "Stand of the present appellant was that he was juvenile when the occurrence took place. His date of birth was 12.11.1980.",
+    "Various accused persons faced trial for offence punishable under Sections 147, 148, 302 read with Section 149 of the Indian Penal Code, 1860 (in short the ' IPC ').",
+    "Prior to the date of occurrence the Madhya Pradesh Children Act, 1928 (in short the ' Children Act ') was in force.",
+    "The Juvenile Justice Act, 1986 (in short ' 1986 Act ') was in operation on the date of occurrence.",
+    "Subsequently, the Juvenile Justice (Care and Protection of Children) Act, 2000 (hereinafter referred to as '2000 Act') has been enacted."
+  ],
+  "issues": [
+    "Whether the accused was juvenile when the occurrence took place"
+  ],
+  "petitioner_arguments": [
+    "Since the accused was juvenile, his trial could not have been held alongwith others"
+  ],
+  "respondent_arguments": [
+    "The question whether the appellant was a juvenile was never raised earlier"
+  ],
+  "court_reasoning": [
+    "An accused who was juvenile cannot be denied the benefit of provisions of 2000 Act",
+    "At this distant point of time to refer the appellant to the Juvenile Board would not be proper",
+    "The sentence awarded is restricted to the period already undergone"
+  ],
+  "holding": [
+    "The appeal is allowed",
+    "Appeal allowed"
+  ],
+  "cases_cited": [
+    "Dhanna v State of Madhya Pradesh",
+    "and Bhoop Ram v. State of U"
+  ]
+}

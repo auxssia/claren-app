@@ -1,0 +1,56 @@
+{
+  "case_id": "C763",
+  "case_name": "G. T. N. Textiles Limited and Another v Assistant Directors R. O. T. Commissioner and Others",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [
+    "Kuldip Singh"
+  ],
+  "bench": [],
+  "petitioner": "G. T. N. Textiles Limited and Another",
+  "respondent": "Assistant Directors R. O. T. Commissioner",
+  "citations": [
+    "AIR 1986 MADRAS 66"
+  ],
+  "statutes": [
+    {
+      "act": "Essential Commodities Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 226",
+  "court_level": "Supreme Court",
+  "decision_date": "17 March 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants-petitioners challenged the constitutional validity of Clause 16 of the Textile (Control) Order, 1986 [the 1986 Order] and the notification, issued thereunder, dated March 29, 1990 as amended on May 11, 1990 and May 17, 1990 by the Textile Commissioner before the Andhra Pradesh High Court by way of writ petitions under Article 226 of the Constitution of India.",
+    "The appellants are the Spinning and Weaving Mills in the State of Andhra Pradesh.",
+    "The cotton yarn manufactured by the mills is of different varieties.",
+    "There are two methods of packing the yarn. One is the cone form packing which is used in power-loom and hosiery industry. The other is hank form packing which is exclusively consumed by the handloom industry.",
+    "Spinning and packing are the two stages of manufacturing yarn.",
+    "Raw-cotton has to pass through the process of blow-room, carding, drawing, simplex and finally the ring frame to complete the process of spinning.",
+    "The process of packing starts thereafter."
+  ],
+  "issues": [
+    "Constitutional validity of Clause 16 of the Textile (Control) Order, 1986 [the 1986 Order] and the notification, issued thereunder",
+    "Power of the Textile Commissioner to issue directions providing the manner of packing of yarn in hanks, cones or in any other form"
+  ],
+  "petitioner_arguments": [
+    "The appellants do not manufacture hank yarn.",
+    "The respondents cannot compel the appellants to manufacture something for which the appellants have not installed the necessary machinery and other superstructure."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Unlike Clause 21(5) of the 1948 Order proviso to Clause 16(1)- of the 1986 Order provides complete guidelines to the Textile Commissioner to issue the directions envisaged thereunder.",
+    "The respondents have given cogent reasons for issuing the impugned notification."
+  ],
+  "holding": [
+    "We do not agree with the learned counsel. The present notification has been issued under Clause 16(1) of the 1986 Order. Unlike Clause 21(5) of the 1948 Order proviso to Clause 16(1)- of the 1986 Order provides complete guidelines to the Textile Commissioner to issue the directions envisaged thereunder.",
+    "We, therefore, reject the contention based on the judgment of the Madras High Court in Rani Lakshmi Mills' case."
+  ],
+  "cases_cited": [
+    "Court in Sri Rani Lakshmi G.S. & W. Mills Pvt. Ltd. & Others v. Textile Commissioner",
+    "G. T. N. Textiles Limited and Another v Assistant Directors R"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "case_id": "C2560",
+  "case_name": "Rakesh v State Of M.P.",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Rakesh",
+  "respondent": "State Of M.P.\nSupreme Court of India\n\n11 February 2008\nCRIMINAL APPEAL NO 287 OF 2008 (Arising out of SLP (Crl.) No. 6598 of 2007)\nThe Judgment was delivered by : Dr. Arijit Pasayat, J.\nLeave granted.\n1.  Challenge in this appeal is to the judgment of a Division Bench of the Madhya Pradesh High Court at Indore, upholding conviction of the appellant for offence punishable under Section 302 of the Indian Penal Code, 1860 (in short the 'IPC') and sentence of imprisonment for life. Four persons faced trial for committing murder of Kailash (hereinafter referred to as the 'deceased').\n2. Though the trial court had convicted the appellant for offence punishable under Section 302 IPC, three persons were convicted for offences punishable under Section 302 read with Section 34 IPC. By the impugned judgment, conviction of",
+  "citations": [
+    "2006 4 SCC 653"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Ipc Covers Act",
+      "section": "300"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "11 February 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "On 15/11/1998 at about 08.30 pm, in Bhagirathpura, near the house of Sheetal Deen, Complainant Ramesh and witness Lalchand were standing near the culvert, when Praveen (PW4) came shouting that brother of Ramesh namely Kamlesh was being assaulted by the appellants.",
+    "These persons, therefore, rushed to the place and witnessed that appellant Shailu, Raju, and Ravi had kept Kailash in their grip, while Rakesh was assaulting him with a knife, and others were administering kicks, fits and blows.",
+    "When these persons raised an alarm, the accused persons fled away.",
+    "Kailash was immediately taken to M. Y. Hospital.",
+    "He had number of injuries which had been dressed initially but when Doctor saw Kailash, he declared him dead.",
+    "There was a quarrel between them with regard to peels of eggs and it was on that account the accused persons had assaulted his brother.",
+    "Report on this incident (Ex P /18) was lodged which was recorded in Rojnamcha.",
+    "On being informed by the operator from M.Y. Hospital about death of Kailash, Inayat Hussain recorded information as (Ex. P/28m) and forwarded Raifulla Khan to investigate."
+  ],
+  "issues": [
+    "The legal questions or points of law being debated"
+  ],
+  "petitioner_arguments": [
+    "Evidence does not establish guilt of the present appellant.",
+    "Offence under Section 302 IPC is not made out.",
+    "Occurrence took place in the course of a sudden quarrel and therefore Exception 4 to Section 300 IPC is attracted."
+  ],
+  "respondent_arguments": [
+    "Evidence of the witnesses to be credible and cogent and as noted above directed conviction.",
+    "The occurrence took place without premeditation, in a sudden fight in the heat of passion upon a sudden quarrel without the offender having taken undue advantage and not having acted in a cruel or unusual manner."
+  ],
+  "court_reasoning": [
+    "The Fourth Exception to Section 300 IPC covers acts done in a sudden fight.",
+    "There is mutual provocation and aggravation, and it is difficult to apportion the share of blame which attaches to each fighter.",
+    "To bring a case within Exception 4 all the ingredients mentioned in it must be found.",
+    "It takes two to make a fight.",
+    "Heat of passion requires that there must be no time for the passions to cool down and in this case, the parties have worked themselves into a fury on account of the verbal altercation in the beginning."
+  ],
+  "holding": [
+    "The appeal is allowed to the extent that the appropriate conviction would be in terms of Section 304 Part I IPC, and custodial sentence of 10 years would meet the ends of justice."
+  ],
+  "cases_cited": [
+    "Rakesh v State Of M"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "case_id": "C256",
+  "case_name": "Centre for Public Interest Litigation v Union of India and others",
+  "court": "Supreme Court of India",
+  "year": 2013,
+  "judges": [
+    "K. S. Radhakrishnan"
+  ],
+  "bench": [],
+  "petitioner": "Centre for Public Interest Litigation",
+  "respondent": "Union of India",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "13(4)"
+    },
+    {
+      "section": "4"
+    },
+    {
+      "section": "14"
+    },
+    {
+      "section": "24"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "22 October 2013",
+  "outcome": "Unknown",
+  "facts": [
+    "The writ petition was preferred for constituting an independent Expert/Technical Committee to evaluate the harmful effects of soft drinks on human health, particularly on the health of children.",
+    "Petitioner has also sought for a direction to respondent no. 1 to make it mandatory for the soft drinks manufacturers to disclose the contents and their specific quantity on the labels of soft drinks, including appropriate warnings, qua a particular ingredient, and its harmful effects on the people.",
+    "The Union of India and other respondents have maintained the stand that the Food Supply and Standards Act, 2006 (the FSS Act), along with its Rules and Regulations framed thereunder, constitute a vigorous regulatory regime, which takes care of all the above mentioned situations and provisions of the FSS Act and the Rules and Regulations are being enforced scrupulously and meticulously.",
+    "The findings recorded in the order dated 12.9.2012 passed by the Food Authority would allay all the fears and apprehensions raised by the writ petitioner and in any view the same could be taken care of by the authorities functioning under the provisions of the FSS Act as well as the Rules and Regulations framed thereunder.",
+    "Petitioner has also highlighted the harmful effects on children created through misleading advertising, for which reference has been made on the study conducted by the World Health Organisation (WHO) and also on various study papers published in the several International journals, highlighting the impact of advertising on children and its harmful effects."
+  ],
+  "issues": [
+    "Constituting an independent Expert/Technical Committee to evaluate the harmful effects of soft drinks on human health, particularly on the health of children.",
+    "Regulatory regime for controlling and checking the contents in particular chemical additive in food, including soft drinks.",
+    "Mandatory disclosure of contents and their specific quantity on the labels of soft drinks, including appropriate warnings, qua a particular ingredient, and its harmful effects on the people."
+  ],
+  "petitioner_arguments": [
+    "There is no proper regulatory regime in place to evaluate the harmful effects of soft drinks on human health, particularly on the health of children.",
+    "The ingredients present in the beverage do not appear to pose any health hazard.",
+    "Consumption of large amount of Caffeine (methylated xanthine) can cause diseases and disorders, such as, insomnia, nervousness, anxiety and so on, which has been used as an additive in soft drinks and is harmful to human life."
+  ],
+  "respondent_arguments": [
+    "The Food Supply and Standards Act, 2006 (the FSS Act), along with its Rules and Regulations framed thereunder, constitute a vigorous regulatory regime, which takes care of all the above mentioned situations.",
+    "The findings recorded in the order dated 12.9.2012 passed by the Food Authority would allay all the fears and apprehensions raised by the writ petitioner and in any view the same could be taken care of by the authorities functioning under the provisions of the FSS Act as well as the Rules and Regulations framed thereunder."
+  ],
+  "court_reasoning": [
+    "By and large, the various grievances raised by the petitioner are seen covered by the above mentioned legislations.",
+    "The main apprehension of the petitioner is that there is no proper regulatory regime in place to evaluate the harmful effects of soft drinks on human health, particularly on the health of children.",
+    "We find not much force in this contention, when we examine the credentials of the members of the scientific panel on labelling/advertising."
+  ],
+  "holding": [
+    "The Food Authority has already constituted an expert Scientific Panel on Labelling and Claims/Advertising and that Panel, after examining the various grievances raised by the petitioner and giving an opportunity of being heard, passed an order on 12.9.2012.",
+    "The Act provides for a machinery for examining the grievances and if a citizen has got any complaint with regard to the ingredients of any soft drinks, he can approach the machinery."
+  ],
+  "cases_cited": [
+    "Centre for Public Interest Litigation v Union of India"
+  ]
+}

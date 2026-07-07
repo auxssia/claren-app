@@ -1,0 +1,64 @@
+{
+  "case_id": "C606",
+  "case_name": "Municipal Board, Hapur v Raghuvendra Kripal and Others",
+  "court": "Supreme Court of India",
+  "year": 1965,
+  "judges": [
+    "M. Hidayatullah"
+  ],
+  "bench": [],
+  "petitioner": "Municipal Board, Hapur",
+  "respondent": "Raghuvendra Kripal",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "134"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    },
+    {
+      "section": "135(1)"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "23 September 1965",
+  "outcome": "Unknown",
+  "facts": [
+    "The Municipal Board, Hapur passed a Special Resolution (No. 296) on September 28, 1956 imposing water tax in Hapur from April 1, 1957 and a notification was published in the Uttar Pradesh Gazette under s. 135(2) of the U.P. Municipalities Act (Act 2 of 1916) dated December 11, 1956 notifying the resolution.",
+    "Fifteen house owners of Hapur who received notices from the appellant Board for the payment of the tax assessed in respect of their houses petitioned to the High Court at Allahabad under Art. 226 of the Constitution and asked for a writ or order preventing the appellant Board from realising the tax.",
+    "The main grounds of objection were (a) that the resolution of the appellant Board framing the proposal was not published in a local paper of Hapur printed in Hindi, and (b) that the rules framed for the imposition of the tax did not accompany the resolution which was affixed on the notice board at the office of the appellant Board in purported compliance with the requirements for publication.",
+    "The imposition was also challenged on the ground that Arts. 14 and 19 of the Constitution were violated."
+  ],
+  "issues": [
+    "Whether the tax imposed by the Municipal Board, Hapur was illegal",
+    "Whether the notification under s. 135(2) of the U.P. Municipalities Act (Act 2 of 1916) is conclusive evidence that the tax has been imposed in accordance with the provisions of the Act"
+  ],
+  "petitioner_arguments": [
+    "The resolution of the appellant Board framing the proposal was not published in a local paper of Hapur printed in Hindi",
+    "The rules framed for the imposition of the tax did not accompany the resolution which was affixed on the notice board at the office of the appellant Board",
+    "Arts. 14 and 19 of the Constitution were violated"
+  ],
+  "respondent_arguments": [
+    "The notification under s. 135(2) of the U.P. Municipalities Act (Act 2 of 1916) is conclusive evidence that the tax has been imposed in accordance with the provisions of the Act",
+    "The sub-section, by making Government the sole judge of compliance with the Act conferred judicial power on Government contrary to the intendment of the Constitution"
+  ],
+  "court_reasoning": [
+    "The language of s. 135(3) is as wide as it is peremptory and can lead to the conclusion that even an illegal tax cannot be questioned",
+    "The words are susceptible of another construction obviating such a patently absurd result",
+    "The power to tax in a State can only be exercised by the State Legislature, the extent of the power being fixed by the Constitution"
+  ],
+  "holding": [
+    "The tax imposed by the Municipal Board, Hapur was illegal",
+    "The notification under s. 135(2) of the U.P. Municipalities Act (Act 2 of 1916) is not conclusive evidence that the tax has been imposed in accordance with the provisions of the Act"
+  ],
+  "cases_cited": [
+    "In Berar Swadeshi Vanaspati v. Municipal Committee Sheogaon &",
+    "Municipal Board, Hapur v Raghuvendra Kripal",
+    "and Rajnarain Singh v. The Chairman",
+    "are not of the same character. In Raza Bunland Sugar Co. Ltd. v. The Municipal Board",
+    "of evidence or a substantive provision in Ishar Ahmad Khan v. Union of India"
+  ]
+}

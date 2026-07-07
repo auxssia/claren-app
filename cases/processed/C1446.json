@@ -1,0 +1,80 @@
+{
+  "case_id": "C1446",
+  "case_name": "Miss Lena Khan v Union Of India And Ors.",
+  "court": "Supreme Court of India",
+  "year": 1987,
+  "judges": [
+    "V. Khalid, J."
+  ],
+  "bench": [],
+  "petitioner": "Miss Lena Khan",
+  "respondent": "Union Of India",
+  "citations": [
+    "1982 1 SCR 438"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "15"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "6(1)"
+    },
+    {
+      "section": "6(2)"
+    },
+    {
+      "section": "6(4)"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "12"
+    },
+    {
+      "section": "6"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "30 March 1987",
+  "outcome": "Unknown",
+  "facts": [
+    "The writ petition was filed by an Air India employee who was Deputy Chief Air Hostess.",
+    "Notice was taken for the respondents when the matter came up for admission.",
+    "The petitioner has filed her Rejoinder Affidavit also."
+  ],
+  "issues": [
+    "Whether Regulation 46(1)(c) of the Service Regulation is ultra vires",
+    "Whether Air India discriminates between Air Hostesses and officers like the petitioner"
+  ],
+  "petitioner_arguments": [
+    "Air India discriminates between Air Hostesses and officers like the petitioner",
+    "The employees of Indian origin have to retire at 35 years with extension till 45, while those of foreign origin can go beyond 45 years",
+    "The case that Air Hostess recruited outside India can be in the employment of Air India beyond 45 years"
+  ],
+  "respondent_arguments": [
+    "Air-India employ Indian as well as girls coming from different nationalities as air-hostesses and in respect of the age of retirement there are different rules for airhostesses recruited from different countries",
+    "The stand taken by the Air-India is that 'As a matter of fact the Air Hostess recruited by British Airways in India retire at the age of 36 years in India whereas their counterparts in U.K. retire at the age of 55 years.'"
+  ],
+  "court_reasoning": [
+    "We are bound by this decision.",
+    "The main thrust of the submissions by the petitioner's counsel is based on Article 14 and Article 15 of the Constitution of India",
+    "Air Hostesses employed in Japan would also retire upon reaching the normal age of retirement applicable to Indian Air Hostesses"
+  ],
+  "holding": [
+    "The writ petition thus is devoid of any merit and hence is dismissed."
+  ],
+  "cases_cited": [
+    "Miss Lena Khan v Union Of India",
+    "return on the decision of this Court in Air India etc. etc. v. Nergesh Meerza &",
+    "vires, to direct reconsideration of the decision in Air India v. Nargesh Meerza"
+  ]
+}

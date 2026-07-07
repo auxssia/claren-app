@@ -1,0 +1,58 @@
+{
+  "case_id": "C2636",
+  "case_name": "Pappu v State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "year": 2006,
+  "judges": [
+    "Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Pappu",
+  "respondent": "State of Madhya Pradesh\nSupreme Court of India\n\n11 July 2006\nAppeal (Crl.) 751 of 2006\nThe Judgment was delivered by : Arijit Pasayat, J.\nLeave granted.\n1.  Challenge in this appeal is to the correctness of judgment rendered by a Division Bench of the Madhya Pradesh High Court, Indore Bench. By the impugned judgment conviction of the appellant for offence punishable under Section 302 of Indian Penal Code, 1860 (in short 'IPC') and sentence of RI for life and fine of Rs.500/- imposed by the trial Court were maintained.\nBackground facts in a nutshell are as follows:\n2. On 26.5.2004 in village Teki marriage function of the daughter of one Rama was going on. In the said marriage function, Rama invited complainant Madhu Singh (PW-2) and his family members. In the afternoon between 3 to 4 p.m. father and mother of the complainant i.e. Mal Singh (hereinafter referred to as the 'deceased') and Sajan Bai, went to the house of Rama for taking meals. At that time the complainant Madhu Sin",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Ipc Covers Act",
+      "section": "300"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "11 July 2006",
+  "outcome": "Unknown",
+  "facts": [
+    "On 26.5.2004 in village Teki marriage function of the daughter of one Rama was going on.",
+    "In the said marriage function, Rama invited complainant Madhu Singh (PW-2) and his family members.",
+    "The incident was witnessed by Ban Singh (PW-5), Sajjan Bai (PW-3), Madhu (PW-2) and Kamlabai.",
+    "Mal Singh fell down unconscious because of the injuries.",
+    "Injured Mal Singh was sent for medical examination to Primary Health Centre Baag, where he was attended by Dr. H.S. Muvel (PW-6).",
+    "The injured died in the District Hospital, Barwani on 27.5.2004."
+  ],
+  "issues": [
+    "What is the applicability of Exception 4 of Section 300 IPC?"
+  ],
+  "petitioner_arguments": [
+    "There was no pre-mediation and the accused did not take advantage and had also not acted in a cruel manner.",
+    "Only one blow by lathi was allegedly given by picking up a lathi.",
+    "In essence it was submitted that Section 302 IPC has no application and in essence Fourth Exception of Section 300 IPC applies."
+  ],
+  "respondent_arguments": [
+    "The pivotal plea relates to the applicability of Exception 4 of Section 300 IPC.",
+    "For bringing in its operation it has to be established that the act was committed without premeditation, in a sudden fight in the heat of passion upon a sudden quarrel without the offender having taken undue advantage and not having acted in a cruel or unusual manner."
+  ],
+  "court_reasoning": [
+    "The Fourth Exception of Section 300 IPC covers acts done in a sudden fight.",
+    "There is only that heat of passion which clouds men's sober reason and urges them to deeds which they would not otherwise do.",
+    "A 'sudden fight' implies mutual provocation and blows on each side.",
+    "It may be that one of them starts it, but if the other had not aggravated it by his own conduct it would not have taken the serious turn it did."
+  ],
+  "holding": [
+    "The appeal is allowed to the aforesaid extent. Custodial sentence of eight years would meet the ends of justice."
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,61 @@
+{
+  "case_id": "C2156",
+  "case_name": "Syed Aleem Alias Syed Baba v State of Karnataka",
+  "court": "Supreme Court of India",
+  "year": 1980,
+  "judges": [
+    "KAILASAM, J."
+  ],
+  "bench": [],
+  "petitioner": "Syed Aleem Alias Syed Baba",
+  "respondent": "State of Karnataka\nSupreme Court of India\n\n24 July 1980\nCr.A. No. 299 of 1975.\nThe Judgment was delivered by : KAILASAM, J.\n1. This appeal by Syed Aleem alias Syed Baba is u/s. 379 CrPC and S. 2(a) of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970 against the conviction and sentence imposed by a Division Bench of the High Court of Karnataka.\n2. The appellant was tried by the first Additional Sessions Judge, Bangalore for an offence u/ss. 201 and 302, IPC and was acquitted. On appeal by the State of Karnataka, the High Court found the accused guilty u/ss. 201 and 302 IPC and sentenced him to imprisonment for life under Section 302, IPC. No separate sentence him to imprisonment for life under Section 302, IPC. No separate sentence was passed u/s. 201. The case against the accused is purely circumstantial and the question for our consideration is whether the High Court was right in holding that the circumstantial evidence adduced",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "379"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "201"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "CrPC",
+  "court_level": "Supreme Court",
+  "decision_date": "24 July 1980",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal by Syed Aleem alias Syed Baba is u/s. 379 CrPC and S. 2(a) of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970 against the conviction and sentence imposed by a Division Bench of the High Court of Karnataka.",
+    "The appellant was tried by the first Additional Sessions Judge, Bangalore for an offence u/ss. 201 and 302, IPC and was acquitted.",
+    "On appeal by the State of Karnataka, the High Court found the accused guilty u/ss. 201 and 302 IPC and sentenced him to imprisonment for life under Section 302, IPC."
+  ],
+  "issues": [
+    "Whether the High Court was right in holding that the circumstantial evidence adduced is sufficient to bring home the accused the charge framed against him."
+  ],
+  "petitioner_arguments": [
+    "The case for the prosecution that the accused had illicit relations with PW 6 cannot be accepted as if it were true, the accused could not have been re-entertained in service.",
+    "The evidence is that the accused was not in the regular employment of PW 24 but was employed on ad hoc basis whenever his services were needed."
+  ],
+  "respondent_arguments": [
+    "There is no cross examination of PWs 25 and 26 challenging the fact of the accused taking the car to the garage and taking delivery of it after the job was done on December 1, 1971.",
+    "The evidence of PWs 10 and 11 are disinterested witnesses and they speak of the accused driving the car and dropping them in their respective houses."
+  ],
+  "court_reasoning": [
+    "We accept the testimony of these witnesses.",
+    "We agree with the view taken by the High Court that the evidence of these witnesses is acceptable and the prosecution has established that soon after the death of the deceased, he was in possession of a diamond ring and the watch belonging to the deceased and produced a knife near the scene of the offence which was stained with human blood.",
+    "We are satisfied that the judgment of the trial Court is vitiated by wrong appreciation of evidence of several mistakes."
+  ],
+  "holding": [
+    "We dismiss the appeal.",
+    "Appeal dismissed."
+  ],
+  "cases_cited": []
+}

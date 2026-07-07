@@ -1,0 +1,64 @@
+{
+  "case_id": "C125",
+  "case_name": "Union of India and Others v Garware Nylons Limited and Others",
+  "court": "Supreme Court of India",
+  "year": 1996,
+  "judges": [
+    "K. S. Paripoornan"
+  ],
+  "bench": [],
+  "petitioner": "Union of India and Others",
+  "respondent": "Garware Nylons Limited",
+  "citations": [
+    "1935 4 SCC 241",
+    "1994 6 SCC 610",
+    "AIR 1977 SC 597"
+  ],
+  "statutes": [
+    {
+      "section": "4"
+    },
+    {
+      "section": "5"
+    }
+  ],
+  "legal_domain": "Administrative",
+  "legal_subdomain": "Tribunal",
+  "court_level": "Supreme Court",
+  "decision_date": "9 September 1996",
+  "outcome": "Unknown",
+  "facts": [
+    "The above three appeals involve a common question of law, namely, whether 'Nylon Twine' can be considered as 'Nylon Yarn' so as to be covered by Item 18 of the First Schedule to the Central Excises and Salt Act, 1944.",
+    "Prior to 1975 they were allowed to clear Nylon Twine manufactured by them on payment of excise duty as specified under the above exemption notification.",
+    "The assessees contended that 'Nylon Twine' manufactured by them is used for the purpose of making fishing nets.",
+    "Thereafter, when the new item, viz Item 68 (residuary entry) was introduced in the Act, it was contended by the Excise Authority that Nylon twine manufactured by the assessees was not covered by item 18.",
+    "The authorities claimed excise duty on 'Nylon twine' under Item 68."
+  ],
+  "issues": [
+    "Whether 'Nylon Twine' can be considered as 'Nylon Yarn' so as to be covered by Item 18 of the First Schedule to the Central Excises and Salt Act, 1944."
+  ],
+  "petitioner_arguments": [
+    "'Nylon Twine' is nothing but 'Nylon Yarn', other than textured yarn",
+    "The trade and industry which deals with the goods consider 'Nylon Twine' as a kind of 'Nylon Yarn'",
+    "There is sufficient material on record which goes to show that nylon twine manufactured by the petitioners has been treated as a kind of nylon yarn by the people in the trade."
+  ],
+  "respondent_arguments": [
+    "'Nylon Twine' is different from 'Nylon Yarn', that Item 18 of the Act would cover only 'Nylon Yarn' and not Nylon Twine",
+    "A mere look of Nylon Twine will go to show that it is different from Nylon Yarn,; that in commercial different physical characteristics.",
+    "The commodity involved int e instant case is not known as 'Nylon Yarn' and so, the same is outside the purview of Item 18 of the Act."
+  ],
+  "court_reasoning": [
+    "There is sufficient material on record which goes to show that nylon twine manufactured by the petitioners has been treated as a kind of nylon yarn by the people in the trade.",
+    "The respondents have failed to establish that nylon twine must be taxed under Item 68, as it is not covered by Item 18 of the First Schedule.",
+    "The burden is on the taxing authorities to show that the item in question is taxable in the manner claimed by them."
+  ],
+  "holding": [
+    "The Revenue to refund to the assessees the excess amount collected from them as Central Excise Duty on the basis that 'Nylon Twine' falls under Item 18 of the First Schedule to the Act."
+  ],
+  "cases_cited": [
+    "In recent decision in Indian Cable Company Ltd., Calcutta v. Collector of Central Excise",
+    "Union of India and Others v Garware Nylons Limited",
+    "be made in such cases has been stated by Lord Esher in Unwin v. Hanson thus",
+    "decision in Collector of Central Excise, Chandigarh v. Steel Strips Ltd"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "case_id": "C24",
+  "case_name": "H. B. Gandhi, Excise and Taxation v Messrs Gopi Nath and Sons and Others",
+  "court": "Supreme Court of India",
+  "year": 1989,
+  "judges": [],
+  "bench": [],
+  "petitioner": "H. B. Gandhi, Excise and Taxation",
+  "respondent": "Messrs Gopi Nath and Sons",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "39"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "11 December 1989",
+  "outcome": "Unknown",
+  "facts": [
+    "These appeals are by the Revenue and are directed against the order dated May 20, 1983 of the Division Bench of the High Court of Punjab and Haryana in L.P.A.",
+    "By those writ petitions, the respondents assailed orders of assessment of sales tax under the Haryana General Sales Tax Act, 1973 bringing to tax a turnover of sales of articles of food said to have been sold by the respondents in their restaurants.",
+    "Respondents thereafter approached the High Court u/art. 226 of the Constitution.",
+    "The constitutional validity of the provisions in sub-s. (5) of S. 39 of the Act were not assailed in the writ petition."
+  ],
+  "issues": [
+    "Permissibility of re-assessment of evidence by the High Court at a stage where appeals were the appropriate remedy",
+    "Whether supply of articles of food and drinks to a customer in a hotel constitute sale of goods invoking a transfer of the property in the goods to the customer or whether the transactions are essentially and predominantly one of merely the rendering of service"
+  ],
+  "petitioner_arguments": [
+    "The assessing authority said: 'After going through the above judgment of the Supreme Court of India, it becomes clear that where a food is supplied in an eating house or a restaurant and the substance of the transaction has a dominant object of sale and rendering of services is merely incidental, the transactions would be subject to sales tax.'",
+    "The dominant object in his case is, therefore, undoubtedly the sale of foodstuffs and not of providing any music, or entertainment services."
+  ],
+  "respondent_arguments": [
+    "The respondents raised and the High Court permitted a challenge to the merits of the assessment itself on the ground that the transactions assessed to sales tax were in fact services rendered by the respondent restaurants to their customers and did not constitute sale of articles of food."
+  ],
+  "court_reasoning": [
+    "In our opinion, the High Court was in error in constituting itself into a court of appeal against the assessment.",
+    "Judicial review is not directed against the decision but is confined to the decision making process.",
+    "It will be erroneous to think that the Court sits in judgment not only on the correctness of the decision making process but also on the correctness of the decision itself."
+  ],
+  "holding": [
+    "The High Court was in error in constituting itself into a court of appeal against the assessment.",
+    "The question whether the transactions were or were not sales exigible to sales tax constituted an exercise in recording secondary or inferential facts based on primary facts found by the statutory authorities."
+  ],
+  "cases_cited": [
+    "H. B. Gandhi, Excise and Taxation v Messrs Gopi Nath"
+  ]
+}

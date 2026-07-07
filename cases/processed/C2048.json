@@ -1,0 +1,46 @@
+{
+  "case_id": "C2048",
+  "case_name": "State of Uttar Pradesh v Man Singh and Others",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [
+    "Arun Kumar"
+  ],
+  "bench": [],
+  "petitioner": "State of Uttar Pradesh",
+  "respondent": "Man Singh",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "307"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "148"
+    },
+    {
+      "section": "201"
+    },
+    {
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "24 October 2002",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The judgment of the High Court which is under appeal is set aside. The judgment of the trial Court is upheld. The conviction of the accused persons and the sentence imposed on them by the trial court are upheld."
+  ],
+  "cases_cited": [
+    "State of Uttar Pradesh v Man Singh"
+  ]
+}

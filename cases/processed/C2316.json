@@ -1,0 +1,65 @@
+{
+  "case_id": "C2316",
+  "case_name": "State Of U.P. v Dr.G.K. Ghosh",
+  "court": "Supreme Court of India",
+  "year": 1983,
+  "judges": [
+    "THAKKAR, J."
+  ],
+  "bench": [],
+  "petitioner": "State Of U.P",
+  "respondent": "Dr.G.K. Ghosh\nSupreme Court of India\n\n21 September 1983\nCriminal Appeal No. 609 of 1981. Appeal by Special leave from the judgment and Order dated the 22nd July, 1983 of the Allahabad High Court in Criminal Appeal No. 1237 of 1979\nThe Judgment was delivered by\n1. THAKKAR, J. A doctor in a Government Hospital was found guilty of demanding and accepting illegal gratification from the father of a patient under his treatment at the Hospital and was convicted for an offence u/s. 5 (1) (d) of Prevention of Corruption Act, 1947, and for an offence u/s. 161 of Indian Penal Code, 1860 by the Special Judge, Kanpur. The appeal preferred by the convict, Dr. Ghosh was allowed, and the order of conviction and sentence was set aside by the High Court. The State has called into question the said order of acquittal rendered by the High Court in this appeal by special leave.\n2. The High Court allowed the appeal on forming the opinion that Dr. Ghosh  might have demanded and accepted the a",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "5"
+    },
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    },
+    {
+      "section": "161"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "313"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "5(1)"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "21 September 1983",
+  "outcome": "Unknown",
+  "facts": [
+    "A doctor in a Government Hospital was found guilty of demanding and accepting illegal gratification from the father of a patient under his treatment at the Hospital.",
+    "The appeal preferred by the convict, Dr. Ghosh was allowed, and the order of conviction and sentence was set aside by the High Court.",
+    "The State has called into question the said order of acquittal rendered by the High Court in this appeal by special leave."
+  ],
+  "issues": [
+    "Whether the respondent had accepted money from PW 3",
+    "Whether the demand for Rs. 250 was illegal"
+  ],
+  "petitioner_arguments": [
+    "The respondent might have demanded and accepted the amount as and by way of his professional fees inasmuch as a Government doctor was permitted to have private practice of his own as per the relevant rules, though such was not his defence at any stage."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The High Court resorted to surmises and conjectures for which there was not the slightest basis, apart from the fact that no such defence was taken and no such plea was ever advanced by the respondent accused.",
+    "If only the High Court had performed this function, as usual, and had recorded its finding in regard to the question of reliability and credibility of witnesses, and, after weighing the probabilities, and taking into account the circumstantial evidence, had recorded a finding of fact, as it was expected to do,"
+  ],
+  "holding": [
+    "The decision of the High Court cannot be sustained on the basis of the reasoning which found favour with it.",
+    "The finding of guilt, recorded by the Sessions Court, will therefore have to be examined afresh on merits, since the High Court has altogether failed to undertake the exercise of scrutinizing and making assessment of the evidence."
+  ],
+  "cases_cited": [
+    "State Of U.P. v Dr.G"
+  ]
+}

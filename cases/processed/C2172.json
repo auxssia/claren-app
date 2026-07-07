@@ -1,0 +1,76 @@
+{
+  "case_id": "C2172",
+  "case_name": "Gordhandas Lalji v B. Banerjee and Others",
+  "court": "Supreme Court of India",
+  "year": 1958,
+  "judges": [
+    "P. B. Gajendragadkar"
+  ],
+  "bench": [],
+  "petitioner": "Gordhandas Lalji",
+  "respondent": "B. Banerjee",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    },
+    {
+      "section": "5(2)"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "286"
+    },
+    {
+      "section": "2(I)"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "136"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "7 April 1958",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant Gordhandas Lalji had filed a petition in the High Court at Calcutta under Article 226 of the Constitution for quashing an order of assessment made by the respondents against him for Rs. 23, 905-11-0 for the year 1949-50 under the Bengal Finance (Sales Tax) Act, 1941.",
+    "The appellant is a registered dealer under the Act.",
+    "As required by the Act, the appellant submitted his return for the year 1949-50 which showed that his turnover was Rs. 24, 21, 023-3-3.",
+    "The Commercial Tax Officer allowed the claim for exemption under section 5(2) (a)(ii) of the Act in full, but in regard to the exemption claimed by the appellant under section 5(2)(a)(v) he disallowed it to the extent of Rs. 5, 74, 422-7-3 on the ground that the relevant bills of lading showed the consignor to be not the appellant but the aforesaid three Bombay parties.",
+    "The result was that the appeal failed and was dismissed."
+  ],
+  "issues": [
+    "Whether the appellant's case that, in purchasing the teas in question at the public auction in Calcutta, he was acting merely as an agent for his principals in Bombay is well-founded",
+    "Whether the transactions in question can be treated as a part of the appellant's turnover which could be taxed under the Act"
+  ],
+  "petitioner_arguments": [
+    "The argument is that, since the appellant purchased the goods not as a dealer for himself or on his own behalf but as an agent for and on behalf of his principals in Bombay, the transactions cannot be treated as a part of the appellant's turnover which could be taxed under the Act."
+  ],
+  "respondent_arguments": [
+    "The Commercial Tax Officer allowed the claim for exemption under section 5(2) (a)(ii) of the Act in full, but in regard to the exemption claimed by the appellant under section 5(2)(a)(v) he disallowed it to the extent of Rs. 5, 74, 422-7-3 on the ground that the relevant bills of lading showed the consignor to be not the appellant but the aforesaid three Bombay parties."
+  ],
+  "court_reasoning": [
+    "It is significant that the appellant has obtained a certificate under the Act as a dealer and in consequence he is obviously a registered dealer under the Act.",
+    "Besides the return on which tax has been assessed has been submitted by the appellant in Form No. III on the basis that he is a dealer.",
+    "The fact that those transactions were included in his return is consistent only with the theory that the appellant purchased the teas as a dealer within the meaning of the Act and is wholly inconsistent with his case that in these transactions he was concerned only as an agent."
+  ],
+  "holding": [
+    "The appeal failed and was dismissed"
+  ],
+  "cases_cited": [
+    "Gordhandas Lalji v B. Banerjee",
+    "Travancore case in The State of Travancore-Cochin and Others v. Shanmuga Vilas Cashew-Nut Factory",
+    "appellant's case. In the case of M/s. Daulatram Rameshwarlal v. B. K",
+    "as the decision of the Madras High Court in Gandhi Sons, Ltd. v. The",
+    "been recently considered by this Court in The State of Mysore v. The Mysore Spinning",
+    "cases. In The State of Travancore-Cochin and Others v. The Bombay Co",
+    "different. Similarly, in the case of Gandhi Sons, Ltd. v. The",
+    "of the Bombay High Court in M/s. Daulatram Rameshwarlal v. B. K"
+  ]
+}

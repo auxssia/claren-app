@@ -1,19 +1,17 @@
 import type { Metadata } from "next";
 import { HomeHero } from "@/components/sections/home/hero";
 import { WhatClarenDoes } from "@/components/sections/home/what-claren-does";
-import { MeetArch } from "@/components/sections/home/meet-arch";
-import { OpenSourceFirst } from "@/components/sections/home/open-source-first";
 import { WhoThisIsFor } from "@/components/sections/home/who-this-is-for";
 import { FutureDirection } from "@/components/sections/home/future-direction";
 
 export const metadata: Metadata = {
-  title: "Visual intelligence for litigation",
+  title: "Visual intelligence for litigation workflows",
   description:
-    "Claren helps lawyers and law students understand cases, evidence, timelines, and legal procedures visually — instead of digging through endless PDFs and documents.",
+    "Claren maps unstructured case documents, procedural stages, and statutory relationships into deterministic timelines for lawyers and law students.",
   openGraph: {
-    title: "Claren — Visual intelligence for litigation",
+    title: "Claren — Visual intelligence for litigation workflows",
     description:
-      "Understand cases, evidence, timelines, and legal procedures visually.",
+      "Deterministic timelines from unstructured case documents, procedural stages, and statutory relationships.",
   },
 };
 
@@ -22,8 +20,6 @@ export default function HomePage() {
     <>
       <HomeHero />
       <WhatClarenDoes />
-      <MeetArch />
-      <OpenSourceFirst />
       <WhoThisIsFor />
       <FutureDirection />
     </>

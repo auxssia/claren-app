@@ -1,0 +1,63 @@
+{
+  "case_id": "C608",
+  "case_name": "P. C. Sethi & Ors. v Union Of India & Ors.",
+  "court": "Supreme Court of India",
+  "year": 1975,
+  "judges": [
+    "P. K. Goswami"
+  ],
+  "bench": [],
+  "petitioner": "P. C. Sethi & Ors",
+  "respondent": "Union Of India &",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "16"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Fundamental Rights",
+  "court_level": "Supreme Court",
+  "decision_date": "17 January 1975",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioners are Assistants in Grade IV (Class II Non-gazetted) of the Central Secretariat Service and have been working in the various Ministries of the Government of India.",
+    "They were appointed as Assistants during the period between 1944 and 1954.",
+    "Their next promotional post is now that of Section Officer (Class 11, Gazetted).",
+    "The petitioners allege that the Government have not followed any consistent principle or rule in regulating the seniority of the Assistants.",
+    "The first Respondent prepared lists of officers in the Assistant's Grade by different combination of classifications, such as initial constitution, regular temporary establishments, non-test category, first test category, second test category, hard cases category, displaced persons, direct recruits, etc., and effected promotions in utter disregard of the dates of confirmation.",
+    "The first Respondent appointed a large number of persons as Assistants by direct recruitment and many of those appointed after the petitioners have been confirmed in the grade and have since been promoted to the next higher grade of Section Officer."
+  ],
+  "issues": [
+    "The question of their seniority",
+    "The validity of the Office Memorandum of 7th September, 1971, issued by the first Respondent fixing zones for promotion to the grade of Section Officer on the basis or ranks assigned in the Civil List of 1962 for the grade of Assistant",
+    "The validity of rule 18(1) of the Central Secretariat Service Rules, 1962 (briefly the Rules) in so far as it is construed to protect the seniority determined prior to the commencement of the said Rule"
+  ],
+  "petitioner_arguments": [
+    "The Government have not followed any consistent principle or rule in regulating the seniority of the Assistants",
+    "The first Respondent prepared lists of officers in the Assistant's Grade by different combination of classifications, such as initial constitution, regular temporary establishments, non-test category, first test category, second test category, hard cases category, displaced persons, direct recruits, etc., and effected promotions in utter disregard of the dates of confirmation",
+    "The assignment of en bloc seniority to persons appointed by direct recruitment in 1956 exceeding 800 in number who have been assigned seniority over all the petitioners appointed as Assistants long prior thereto"
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "It is essential from the point of view alike of economy and efficiency that as large a proportion as possible members of the Service should be recruited on a permanent basis",
+    "A flexible system of fixation of Authorised Permanent Strength will therefore be followed should be revised once in every three years",
+    "The rights of members appointed to the Service on a permanent basis will not be prejudiced by any revision of permanent strength, effected subsequent to such appointment"
+  ],
+  "holding": [
+    "The direct recruits who were appointed after the absorption of the Assistants, in conformity with the instructions of the initial constitution or in regular temporary establishment shall rank junior to the latter."
+  ],
+  "cases_cited": [
+    "P. C. Sethi & Ors. v Union Of India &",
+    "in Part V of the Scheme dealing with future maintenance of",
+    "the case is distinguishable from Union of India and Ors. v. M. Ravi Yarma"
+  ]
+}

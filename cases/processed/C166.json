@@ -1,0 +1,57 @@
+{
+  "case_id": "C166",
+  "case_name": "Narayanan Nair Raghavan Nair v State of Travancore-Cochin",
+  "court": "Supreme Court of India",
+  "year": 1955,
+  "judges": [
+    "BOSE, J."
+  ],
+  "bench": [],
+  "petitioner": "Narayanan Nair Raghavan Nair",
+  "respondent": "State of Travancore-Cochin\nSupreme Court of India\n\n26 September 1955\nCr.A. No. 66 of 1955.\nThe Judgment was delivered by: BOSE, J.\n1. The appellant Raghavan has been convicted under S. 302, Indian Penal Code, for murdering one Ayyappan and has been sentenced to death. His younger brother Bhaskaran was also charged but was convicted under S. 324, Indian Penal Code, and sentenced to two years. We are not concerned with him here.\n2. There are six eye-witnesses to the murder, all of whom have been believed by both the Courts. We decline to go behind this evidence and so will proceed at once to assess the case on the basis of the facts found. They are as follows :\n3. Litigation was in progress between the appellant and his grandmother Parvathi Amma. The latter sued the appellant and his brother for partition and separate possession of her share in her son's estate, the son being the father of the appellant and his two brothers (one of whom does not figure in t",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "26 September 1955",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant Raghavan has been convicted under S.302, Indian Penal Code, for murdering one Ayyappan and has been sentenced to death.",
+    "There are six eye-witnesses to the murder, all of whom have been believed by both the Courts.",
+    "Litigation was in progress between the appellant and his grandmother Parvathi Amma.",
+    "During the course of proceedings the grandmother Parvathi Amma assigned her interest to her daughter Parvathy Lakshmi Amma (P.W.10).",
+    "The two accused came on the scene and started pelting Velayudhan Nair (P.W.1) with stones and abusing him.",
+    "Velayudhan (P.W.1) retaliated by slapping the appellant across the cheek.",
+    "Ayyappan did not die at once. He was carried about a mile on a cot to a waiting jeep and then driven to the hospital.",
+    "The doctor explains that it was necessary to perform a minor operation to push the omentum back into place as that could not be done from the outside."
+  ],
+  "issues": [
+    "Whether this is a case of murder or one under S.304.",
+    "Whether the wound was fatal in itself and whether death was due to the negligence of the doctor rather than the wound inflicted by his client.",
+    "Whether the Exception to S.300, I.P.C. applies."
+  ],
+  "petitioner_arguments": [
+    "The wound was not fatal in itself and that if the doctor had not stupidly interfered with the ordinary course of nature all would have been well.",
+    "Death was due to the negligence of the doctor rather than the wound inflicted by his client.",
+    "This is a case, of a sudden fight and so the case falls within the fourth Exception to S.300, I.P.C."
+  ],
+  "respondent_arguments": [
+    "The injury was sufficient to cause death in the ordinary course of nature.",
+    "There was no undue advantage taken by the accused when he stabbed the deceased.",
+    "The Exception does not apply and the appellant was rightly convicted under S.302, Indian Penal Code."
+  ],
+  "court_reasoning": [
+    "We do not read the passage to mean that. It indicates that such injuries are likely to be fatal though not 'rapidly' so.",
+    "Modi's book does not establish that injuries to the diaphragm cannot be fatal : some are and some are not.",
+    "The question is, therefore, reduced to one of fact in each case."
+  ],
+  "holding": [
+    "Appeal allowed. The appeal succeeds on the question of sentence only. We reduce the sentence to one of transportation for life."
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,37 @@
+{
+  "case_id": "S38",
+  "case_name": "Second appeal",
+  "court": "High Court",
+  "year": 1977,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "37"
+    },
+    {
+      "section": "100"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "(1) Save as otherwise expressly provided in the body of this Code or by any other law for the time being in force,"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Save as otherwise expressly provided in the body of this Code or by any other law for the time being in force,"
+  ],
+  "holding": [
+    "The appeal shall be heard on the question so formulated and the respondent shall, at the hearing of the appeal, be allowed to argue that the case does not involve such question : Provided that nothing in this sub-section shall be deemed to take away or abridge the power of the Court to hear, for reasons to be recorded, the appeal on any other substantial question of law, not formulated by it, if it is satisfied that the case involves such question."
+  ],
+  "cases_cited": []
+}

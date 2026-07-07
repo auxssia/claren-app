@@ -1,0 +1,81 @@
+{
+  "case_id": "C715",
+  "case_name": "Sampelly Satyanarayana Rao v Indian Renewable Energy Development Agency Limited",
+  "court": "Supreme Court of India",
+  "year": 2016,
+  "judges": [
+    "Adarsh Kumar Goel"
+  ],
+  "bench": [],
+  "petitioner": "Sampelly Satyanarayana Rao",
+  "respondent": "Indian Renewable Energy Development Agency Limited\nSupreme Court of India\n\n19 September 2016\nCriminal Appeal No. 867 of 2016 (Arising Out of S. L. P. (Crl.) No. 5410 of 2014)\nThe Judgment was delivered by : Adarsh Kumar Goel, J.\n1. This appeal has been preferred against the judgment and order dated 8th May, 2014 passed by the High Court of Delhi at New Delhi in Writ Petition (Criminal) No.1170 of 2011.\n2. Question for consideration is whether in the facts of the present case, the dishonour of a post-dated cheque given for repayment of loan installment which is also described as \"security\" in the loan agreement is covered by Section 138 of the Negotiable Instruments Act, 1881 (\"the Act\").\n3. The appellant is Director of the company whose cheques have been dishonoured and who is also the co-accused. The company is engaged in the field of power generation. The respondent is engaged in development of renewable energy and is a Government of India enterprise. Vid",
+  "citations": [
+    "2003 3 SCC 232",
+    "2008 13 SCC 678",
+    "2010 11 SCC 441",
+    "2011 13 SCC 88",
+    "2014 12 SCC 539",
+    "2015 11 SCC 776"
+  ],
+  "statutes": [
+    {
+      "act": "Negotiable Instruments Act",
+      "section": "138"
+    },
+    {
+      "act": "The Act",
+      "section": "138"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "482"
+    },
+    {
+      "act": "Code Of Criminal Procedure When",
+      "section": "482"
+    },
+    {
+      "act": "Code Of Criminal Procedure Is",
+      "section": "482"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "19 September 2016",
+  "outcome": "Unknown",
+  "facts": [
+    "The appeal has been preferred against the judgment and order dated 8th May, 2014 passed by the High Court of Delhi at New Delhi in Writ Petition (Criminal) No.1170 of 2011.",
+    "The respondent is engaged in development of renewable energy and is a Government of India enterprise.",
+    "Vide the loan agreement dated 15th March, 2001, the respondent agreed to advance loan of Rs.11.50 crores for setting up of 4.00 MW Biomass based Power Project in the State of Andhra Pradesh.",
+    "The cheques carried different dates depending on the dates when the installments were due and upon dishonour thereof, complaints including the one dated 27th September, 2002 were filed by the respondent in the court of the concerned Magistrate at New Delhi.",
+    "The appellant approached the High Court to seek quashing of the complaints arising out of 18 cheques of the value of about Rs.10.3 crores."
+  ],
+  "issues": [
+    "Whether in the facts of the present case, the dishonour of a post-dated cheque given for repayment of loan installment which is also described as 'security' in the loan agreement is covered by Section 138 of the Negotiable Instruments Act, 1881 ('the Act')."
+  ],
+  "petitioner_arguments": [
+    "The cheques were given by way of security as mentioned in the agreement and that on the date the cheques were issued, no debt or liability was due.",
+    "Thus, dishonour of post-dated cheques given by way of security did not fall under Section 138 of the Act.",
+    "Reliance was placed on clause 3.1 (iii) of the agreement to the effect that deposit of post-dated cheques toward repayment of installments was by way of 'security'."
+  ],
+  "respondent_arguments": [
+    "The High Court did not accept the above contention and held :-",
+    "In the present case when the post-dated cheques were issued, the loan had been sanctioned and hence the same fall in the first category that is they were cheque issued for a debt in present but payable in future."
+  ],
+  "court_reasoning": [
+    "The question whether a post-dated cheque is for 'discharge of debt or liability' depends on the nature of the transaction.",
+    "If on the date of the cheque liability or debt exists or the amount has become legally recoverable, the Section is attracted and not otherwise.",
+    "Once the loan was disbursed and installments have fallen due on the date of the cheque as per the agreement, dishonour of such cheques would fall under Section 138 of the Act.",
+    "The cheques undoubtedly represent the outstanding liability."
+  ],
+  "holding": [
+    "We are of the view that the question whether a post-dated cheque is for 'discharge of debt or liability' depends on the nature of the transaction.",
+    "If on the date of the cheque liability or debt exists or the amount has become legally recoverable, the Section is attracted and not otherwise.",
+    "Once the loan was disbursed and installments have fallen due on the date of the cheque as per the agreement, dishonour of such cheques would fall under Section 138 of the Act."
+  ],
+  "cases_cited": [
+    "In Rallis India Ltd. v. Poduru Vidya Bhushan",
+    "In Suryalakshmi Cotton Mills Ltd. v. Rajvir Industries Ltd"
+  ]
+}

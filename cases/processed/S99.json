@@ -1,0 +1,36 @@
+{
+  "case_id": "S99",
+  "case_name": "Power to make orders detaining certain persons",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Prevention Of Illicit Traffic In Narcotic Drugs And Psychotropic Substances Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The Central Government or the State Government or any officer of the Central Government, not below the rank of a Joint Secretary to that Government, specially empowered for the purposes of this section by that Government, may, if satisfied, with respect to any person (including a foreigner), that, with a view to preventing him from acting in any manner prejudicial to the conservation or augmentation of foreign exchange or with a view to preventing him from-",
+    "Provided that no order of detention shall be made on any of the grounds specified in this sub-section on which an order of detention may be made under section 3 of the Prevention of Illicit Traffic in Narcotic Drugs and Psychotropic Substances Act, 1988 or under section 3 of the Jammu and Kashmir Prevention of Illicit Traffic in Narcotic Drugs and Psychotropic Substances Ordinance, 1988 (J and K Ordinance, 1 of 1988).",
+    "When any order of detention is made by a State Government or by an officer empowered by a State Government, the State Government shall, within ten days, forward to the Central Government a report in respect of the order.",
+    "For the purposes of clause (5) of article 22 of the Constitution , the communication to a person detained in pursuance of a detention order of the grounds on which the order has been made shall be made as soon as may be after the detention, but ordinarily not later than five days, and in exceptional circumstances and for reasons to be recorded in writing, not later than fifteen days, from the date of detention."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "No order of detention shall be made on any of the grounds specified in this sub-section on which an order of detention may be made under section 3 of the Prevention of Illicit Traffic in Narcotic Drugs and Psychotropic Substances Act, 1988 or under section 3 of the Jammu and Kashmir Prevention of Illicit Traffic in Narcotic Drugs and Psychotropic Substances Ordinance, 1988 (J and K Ordinance, 1 of 1988)."
+  ],
+  "cases_cited": []
+}

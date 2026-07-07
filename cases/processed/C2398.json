@@ -1,0 +1,83 @@
+{
+  "case_id": "C2398",
+  "case_name": "State Of Madhya Pradesh v Sanjay Rai",
+  "court": "Supreme Court of India",
+  "year": 2004,
+  "judges": [
+    "Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "State Of Madhya Pradesh",
+  "respondent": "Sanjay Rai\nSupreme Court of India\n\n25 March 2004\nAppeal (crl.) 641 of 1998\nThe Judgment was delivered by : Arijit Pasayat, J.\n1.  State of Madhya Pradesh calls in question legality of the judgment rendered by a Division Bench of the Madhya Pradesh High Court directing acquittal of the respondent by upsetting judgment of conviction recorded by the Trial Court. The Trial Court found the respondent (hereinafter referred to as 'the accused') guilty of offences punishable under Section 302 of Indian Penal Code, 1860 (in short 'the IPC') and sentenced to undergo life imprisonment and a fine of Rs.200/- in addition to sentence of three years RI imposed for offence punishable under Section 201 IPC and fine of Rs.200/- with default stipulation for fines.\nProsecution version in a nutshell is as follows:-\n2. Anita Bai (hereinafter referred to as the 'deceased') was married to the accused on 14.12.1990 at Allahabad (U.P.) whereafter she came to Dhanpuri along with the acc",
+  "citations": [
+    "AIR 1952 SC 343",
+    "AIR 1954 SC 28",
+    "AIR 1954 SC 621",
+    "AIR 1956 SC 316",
+    "AIR 1957 SC 589",
+    "AIR 1973 SC 2622",
+    "AIR 1983 SC 446",
+    "AIR 1984 SC 1622",
+    "AIR 1985 SC 1224",
+    "AIR 1987 SC 350",
+    "AIR 1989 SC 1890",
+    "AIR 1990 SC 79"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "25 March 2004",
+  "outcome": "Unknown",
+  "facts": [
+    "The Trial Court found the respondent (hereinafter referred to as 'the accused') guilty of offences punishable under Section 302 of Indian Penal Code, 1860 (in short 'the IPC') and sentenced to undergo life imprisonment and a fine of Rs.200/- in addition to sentence of three years RI imposed for offence punishable under Section 201 IPC and fine of Rs.200/- with default stipulation for fines.",
+    "Anita Bai was married to the accused on 14.12.1990 at Allahabad (U.P.) whereafter she came to Dhanpuri along with the accused on 15.12.1990.",
+    "Anita Bai died on 25.12.1990 at Dhanpuri in her room in their house.",
+    "A written report about the incident (Ex.P-14) was lodged by the accused at P.S. Amlai, District Shahdol on 25.12.1990 at about 11.40 p.m.",
+    "The respondent-accused and his father immediately after the occurrence called the doctors PW-1 and PW-2."
+  ],
+  "issues": [
+    "Circumstantial evidence",
+    "Inference of guilt"
+  ],
+  "petitioner_arguments": [
+    "The Trial Court had analysed the evidence in its proper perspective and had held the accused to be guilty.",
+    "The circumstances presented unerringly pointed out at the guilt of the accused.",
+    "The inference of guilt can be justified only when all the incriminating facts and circumstances are found to be incompatible with the innocence of the accused or the guilt of any other person."
+  ],
+  "respondent_arguments": [
+    "The Trial Court had proceeded on surmises and conjectures and, therefore, the High Court was justified in directing acquittal.",
+    "The circumstances from which an inference as to the guilt of the accused is drawn have to be proved beyond reasonable doubt and have to be shown to be closely connected with the principal fact sought to be inferred from those circumstances."
+  ],
+  "court_reasoning": [
+    "The settled law is that the circumstances from which the conclusion of guilt is drawn should be fully proved and such circumstances must be conclusive in nature.",
+    "All the circumstances should be complete and there should be no gap left in the chain of evidence.",
+    "The proved circumstances must be consistent only with the hypothesis of the guilt of the accused and totally inconsistent with his innocence....",
+    "When a case rests upon circumstantial evidence, such evidence must satisfy the following tests:-(1) the circumstances from which an inference of guilt is sought to be drawn, must be cogently and firmly established;",
+    "(2) those circumstances should be of a definite tendency unerringly pointing towards guilt of the accused;",
+    "(3) the circumstances, taken cumulatively should form a chain so complete that there is no escape from the conclusion that within all human probability the crime was committed by the accused and none else;",
+    "(4) the circumstantial evidence in order to sustain conviction must be complete and incapable of explanation of any other hypothesis than that of the guilt of the accused and such evidence should not only be consistent with the guilt of the accused but should be inconsistent with his innocence."
+  ],
+  "holding": [
+    "The High Court was justified in directing acquittal.",
+    "The respondent-accused is acquitted."
+  ],
+  "cases_cited": [
+    "Ashok Kumar Chatterjee v. State of M",
+    "In Hanumant Govind Nargundkar and Anr. V. State of Madhya Pradesh",
+    "In Padala Veera Reddy v. State of A",
+    "In State of U.P. v. Ashok Kumar Srivastava",
+    "Raj Kishore Jha v. State of Bihar",
+    "State of Punjab v. Pohla Singh",
+    "State of U.P. v. Sukhbasi",
+    "This Court in Sunderlal v. The",
+    "and Suchand Pal v. Phani Pal",
+    "may be made to a later decision in Sharad Birdhichand Sarda v. State of Maharashtra",
+    "to a decision of this Court in C. Chenga Reddy and Ors. v. State of A"
+  ]
+}

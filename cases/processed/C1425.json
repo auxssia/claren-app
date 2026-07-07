@@ -1,0 +1,55 @@
+{
+  "case_id": "C1425",
+  "case_name": "Karan Singh v State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "year": 1964,
+  "judges": [
+    "A. K. Sarkar, J."
+  ],
+  "bench": [],
+  "petitioner": "Karan Singh",
+  "respondent": "State of Madhya Pradesh\nSupreme Court of India\n\n4 November 1964\nCr.A. No. 55 of 1963\nThe Judgment was delivered by : A. K. Sarkar, J.\n1. The appellant, Ramhans, and six other persons were alleged to have committed the murder of Gabde and to have attempted to murder Ramchandra.\n2. The deceased and Ramchandra are said to have belonged to one party while the alleged assailants belonged to another, and between these two parties there had been great enmity for some time past. It was said that about midnight of November 18, 1959, while the deceased and Ramchandra and certain other persons were sleeping on a Tiwaria (terrace), the assailants entered the place and Ramhans shot Gabde dead with a gun and fired two shots at Ramchandra with intent to kill him but only succeeded in injuring him and that all this time the appellant was standing there armed with a gun and the other persons were also there armed variously and that all had entered the place with the common intention of co",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "34"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "4 November 1964",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant, Ramhans, and six other persons were alleged to have committed the murder of Gabde and to have attempted to murder Ramchandra.",
+    "It was said that about midnight of November 18, 1959, while the deceased and Ramchandra and certain other persons were sleeping on a Tiwaria (terrace), the assailants entered the place and Ramhans shot Gabde dead with a gun and fired two shots at Ramchandra with intent to kill him but only succeeded in injuring him and that all this time the appellant was standing there armed with a gun and the other persons were also there armed variously and that all had entered the place with the common intention of committing the offences.",
+    "Ramhans had absconded and so the appellant and the other six alleged assailants were put up for trial for offences under ss. 302 and 307 read with ss. 148 and 149 of the Indian Penal Code for the murder of Gabde and the attempt to murder Ramchandra.",
+    "The learned Sessions Judge convicted the appellant of these offences but acquitted the other six persons tried along with him, giving them the benefit of doubt."
+  ],
+  "issues": [
+    "Whether in view of the acquittal of Ramhans by the learned Sessions Judge from which there had been no appeal, it was open to the High Court to hold that the appellant was guilty of murder under S. 302 read with S. 34 by finding on the evidence that Ramhans who shared a common intention with him, shot the deceased dead and attempted to murder Ramchandra."
+  ],
+  "petitioner_arguments": [
+    "Ramhans having been acquitted the appellant could not be held constructively liable for the offences with the aid of S. 149 of the Code.",
+    "The acquittal of Ramhans was not in any proceeding to which the appellant was a party, and therefore, the decision in each case has to turn on the evidence led in it; Ramhans's case depended on the evidence led there while the appellant's case had to be decided only on the evidence led in it."
+  ],
+  "respondent_arguments": [
+    "The judgments of this Court in Marachalil Pakku v. The State of Madras, A.I.R. 1954 S.C. 648, Bombadhar Pradhan v. State of Orissa [1956] S.C.R. 206, and Sunder Singh v. State of Punjab A.I.R. 1962 S.C. 121 show that the High Court was right in ignoring the fact of the acquittal of Ramhans."
+  ],
+  "court_reasoning": [
+    "The point there considered really was whether when four persons had been charged with the commission of an offence of murder read with s. 34 and the trial Court had acquitted three of them, it was legal to convict the remaining accused of the offence of murder read with s. 34.",
+    "We are unable to accept that contention. The principle of Sambasivam's case has no application here because the two cases we are concerned with are against two different persons though for the commission of the same offence.",
+    "Each case has to be decided on the evidence led in it and this irrespective of any view of the same act that might have been taken on different evidence led in another case."
+  ],
+  "holding": [
+    "The appeal fails and is dismissed."
+  ],
+  "cases_cited": [
+    "and Sunder Singh v. State of Punjab A",
+    "relying upon the judgments of this Court in Marachalil Pakku v. The",
+    "that the decision of this Court in Krishna Govind Patil v. State of Maharashtra",
+    "the appellant on the judgment of this Court in Pritam Singh v. State of Punjab A",
+    "to the judgment of the Judicial Committee in Sambasivam v. Public Prosecutor"
+  ]
+}

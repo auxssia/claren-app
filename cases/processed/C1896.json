@@ -1,0 +1,49 @@
+{
+  "case_id": "C1896",
+  "case_name": "State of Assam v Ramesh Chandra Dey and Others",
+  "court": "Supreme Court of India",
+  "year": 1961,
+  "judges": [
+    "M. Hidayatullah, J."
+  ],
+  "bench": [],
+  "petitioner": "State of Assam",
+  "respondent": "Ramesh Chandra Dey",
+  "citations": [],
+  "statutes": [],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "14 April 1961",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal has been filed by the State of Assam against a judgment of the High Court of Assam dated July 16, 1956.",
+    "R. C. Dey, the answering respondent, is a wholesale dealer in tea, and has been in business since 1949.",
+    "He registered himself as a dealer under the Assam Sales Tax Act on January 14, 1950.",
+    "In respect of tea sold in Calcutta, R. C. Dey consigns the tea to himself after purchasing it in Assam.",
+    "This tea is then approved by prospective purchasers, to whom the documents of title are endorsed on receipt of the price."
+  ],
+  "issues": [
+    "Whether s. 15 of the Assam Sales Tax Act, 1947, and Rule 80 framed under the Act were ultra vires, being a breach of Art. 286(2) of the Constitution.",
+    "Whether the amendment to s. 15 and the Rules affected inter-State trade or commerce directly or indirectly."
+  ],
+  "petitioner_arguments": [
+    "The amendment and the Rule were void as offending Art. 19 (1)(g).",
+    "The amendment and the Rule had the effect of taxing sales in the course of inter-State trade or commerce and were, therefore, illegal."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Only sales which affected inter-State trade or commerce directly and were an integral part thereof, were saved under Art. 286(2).",
+    "The transactions of sales which have been taxed were wholly inside the State of Orissa.",
+    "The present levy is not on the sales by the petitioner to persons outside the State, but on the purchases by him inside the State.",
+    "What s. 15 does, is to grant an additional exemption in respect of sales in which the goods, though sold to a registered dealer, are meant for resale in the State, itself."
+  ],
+  "holding": [
+    "The High Court held that s. 15 of the Assam Sales Tax Act, 1947, and Rule 80 framed under the Act were ultra vires, being a breach of Art. 286(2) of the Constitution.",
+    "The amendment to s. 15 and the Rules did not affect inter-State trade or commerce directly or indirectly."
+  ],
+  "cases_cited": [
+    "State of Assam v Ramesh Chandra Dey",
+    "this Court in another case. In Endupuri Narasimham & Son v. State of Orissa"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "case_id": "C847",
+  "case_name": "Parvinderjit Singh And Anr v State (U.T. Chandigarh) And Anr",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "Arijit Pasayat, J."
+  ],
+  "bench": [],
+  "petitioner": "Parvinderjit Singh And Anr",
+  "respondent": "State (U.T. Chandigarh)",
+  "citations": [
+    "AIR 1977 SC 366",
+    "AIR 1980 SC 785",
+    "AIR 1996 SC 10421995"
+  ],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "482"
+    },
+    {
+      "act": "The Code",
+      "section": "438"
+    },
+    {
+      "act": "Of Code",
+      "section": "438"
+    },
+    {
+      "act": "The Code",
+      "section": "439"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "3 November 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "Citibank and Citigroup Wealth Advisors (in short 'CWA') are two separate legal entities.",
+    "Appellants' (who are employees of Citi Bank) prayer for anticipatory bail are based on the premises that the allegations in the complaint are purely of civil nature since arbitration proceedings have been initiated at the behest of both the complainant and CWA much prior to the institution of the criminal case.",
+    "A perusal of the FIR shows that an amount of Rs. 1.10 crores has been fraudulently withdrawn from the saving account of the complainant and shares worth Rs. 1.60 crores have been fraudulently withdrawn/embezzled from his demat account maintained in the City Bank with whom the petitioners were employed at the relevant time."
+  ],
+  "issues": [
+    "The legal questions or points of law being debated"
+  ],
+  "petitioner_arguments": [
+    "The FIR was nothing but a sheer abuse of the process of the law.",
+    "The complaint made by the complainant is not bona fide and has been filed with ulterior motive."
+  ],
+  "respondent_arguments": [
+    "In spite of the directions of this Court the appellants are not cooperating with the investigation."
+  ],
+  "court_reasoning": [
+    "The power exercisable under Section 438 is somewhat extraordinary in character and it is only in exceptional cases where it appears that the person may be falsely implicated or where there are reasonable grounds for holding that a person accused of an offence is not likely to otherwise misuse his liberty then power is to be exercised under Section 438.",
+    "The object which is sought to be achieved by Section 438 of the Code is that the moment a person is arrested, if he has already obtained an order from the Court of Session or High Court, he shall be released immediately on bail without being sent to jail."
+  ],
+  "holding": [
+    "The High Court noted that this was not a case where any protection in terms of Section 438 of Code was to be extended.",
+    "The power exercisable under Section 438 is somewhat extraordinary in character and it is only in exceptional cases where it appears that the person may be falsely implicated or where there are reasonable grounds for holding that a person accused of an offence is not likely to otherwise misuse his liberty then power is to be exercised under Section 438."
+  ],
+  "cases_cited": [
+    "In K.L. Verma v. State",
+    "In Nirmal Jeet Kaur v. State of M",
+    "Parvinderjit Singh And Anr v State (U",
+    "and Sunita Devi v. State of Bihar",
+    "view of the decision of this Court in Niranjan Singh and Anr. v. Prabhakar Rajaram Kharote"
+  ]
+}

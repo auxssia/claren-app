@@ -1,0 +1,61 @@
+{
+  "case_id": "C1591",
+  "case_name": "Lakhi Ram v Sita Devi and Others",
+  "court": "Supreme Court of India",
+  "year": 1987,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Lakhi Ram",
+  "respondent": "Sita Devi",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "section": "34"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "306"
+    },
+    {
+      "section": "482"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "6 March 1987",
+  "outcome": "Unknown",
+  "facts": [
+    "A young married girl, Neelam by name, is alleged to have been murdered on April 23, 1982. It is said that her body was burnt after she died.",
+    "It appears that no action was taken by the police. Her father was, therefore, compelled to file a private complaint before the Judicial Magistrate at Mansa on August 2, 1982, for offences under Section 302 read with Section 34 IPC.",
+    "The accused filed a revision petition against the order of committal made by the Magistrate before the High Court and obtained a stay of the Sessions trial.",
+    "Transfer Petition No. 168 of 1983 is to transfer the criminal revision petition pending before the High Court to this Court, to be heard along with the criminal appeal."
+  ],
+  "issues": [],
+  "petitioner_arguments": [
+    "The police was inactive on the complaint by the father.",
+    "It is necessary in such cases, to see that the ordinary citizen does not lose his faith in the police and in courts."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "We must be influenced more by a sense of justice than by mere technicalities of law.",
+    "There are cases in which we have to discard technicalities and promote justice."
+  ],
+  "holding": [
+    "The learned Sessions Judge will call to his file the criminal case pending before the Judicial Magistrate, Mansa, initiated by the police against the mother-in-law of the deceased girl.",
+    "He will proceed with the Sessions case committed before him first.",
+    "After the conclusion of the arguments in that case, he will proceed with the trial of the police charge case.",
+    "He will pronounce Judgment in both the cases together on the same day."
+  ],
+  "cases_cited": [
+    "Lakhi Ram v Sita Devi"
+  ]
+}

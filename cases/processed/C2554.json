@@ -1,0 +1,84 @@
+{
+  "case_id": "C2554",
+  "case_name": "State of Uttar Pradesh and Another v Sanjai Pratap Gupta @ Pappu and Others",
+  "court": "Supreme Court of India",
+  "year": 2004,
+  "judges": [
+    "Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "State of Uttar Pradesh and Another",
+  "respondent": "Sanjai Pratap Gupta @ Pappu",
+  "citations": [
+    "AIR 1972 SC 1656"
+  ],
+  "statutes": [
+    {
+      "section": "3(2)"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "5"
+    },
+    {
+      "section": "307"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "20 September 2004",
+  "outcome": "Unknown",
+  "facts": [
+    "The order dated 23.12.2002 was served on the detenu on that day itself.",
+    "One Anand Kumar Jain lost his life because of the firing done by the detenu and his associates.",
+    "Attempt to take away the life of one Ajay Kumar Jain, son of aforesaid Anand Kumar Jain was made, but luckily he had escaped.",
+    "Case was registered for commission of offences punishable u/ss. 302 and 307 of the Indian Penal Code, 1860 (in short the 'IPC').",
+    "Reference was also made to several earlier incidents which according to the detaining authority highlighted the criminal antecedents of the detenu and as to how he was creating a sense of terror in the minds of the general public.",
+    "With a view to prevent him from committing similar prejudicial acts and to maintain public order the order of detention was purportedly passed.",
+    "A habeas corpus petition was filed u/art. 226 of the Constitution of India, 1950 (in short the 'Constitution') by the detenu questioning validity of the order of detention."
+  ],
+  "issues": [
+    "The crucial issue is whether the activities of the detenu were prejudicial to public order.",
+    "What is the distinction between law and order and public order?",
+    "Can an act affecting law and order also affect public order?"
+  ],
+  "petitioner_arguments": [
+    "One aspect which was highlighted related to the criminal antecedents of the detenu and as to how there were many cases registered against him in the past for being treated him as a history sheeter.",
+    "The second aspect related to a particular incident.",
+    "Necessary documents like the bail application etc. were also supplied to the detenu.",
+    "Even if it is held that the judgment of the High Court is bad yet direction should not have been given for taking him back to detention because of long passage of time and in the absence of any live link between the alleged incident and the requirement for his continued detention."
+  ],
+  "respondent_arguments": [
+    "The two aspects highlighted in the grounds of detention were not separable and were intimately linked with one another.",
+    "As necessary documents to substantiate the allegations relating to earlier incidents were not supplied to the detenu that rendered the order of detention invalid.",
+    "One act may affect only individuals while the other, though of a similar kind, may have such an impact that it would disturb the even tempo of the life of the community."
+  ],
+  "court_reasoning": [
+    "The test to be adopted in determining whether an act affects law and order or public order, is: Does it lead to disturbance of the current life of the community so as to amount to disturbance of the public order or does it affect merely an individual leaving the tranquility of the society undisturbed?",
+    "Public order if disturbed, must lead to public disorder.",
+    "The true test is not the kind, but the potentiality of the act in question.",
+    "One act may affect only individuals while the other, though of a similar kind, may have such an impact that it would disturb the even tempo of the life of the community."
+  ],
+  "holding": [
+    "The order of detention was passed to prevent the detenu from committing similar prejudicial acts and to maintain public order.",
+    "The High Court's judgment is set aside and the order of detention is upheld."
+  ],
+  "cases_cited": [
+    "Babul Mitra alias Anil Mitra v. State of West Bengal",
+    "Dr. Ram Manohar Lohia v. State of Bihar",
+    "Kishori Mohan Bera v. The",
+    "Kuso Sah v. The",
+    "State of Maharashtra v. Mohd",
+    "detention. Strong reliance is placed on Sunil Fulchand Shah v. Union of India",
+    "justifying detention. In Attorney General for India and Ors. v. Amratlal Prajivandas"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case_id": "S177",
+  "case_name": "Public charities",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "92"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "section": "31"
+    },
+    {
+      "section": "9"
+    },
+    {
+      "section": "13"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The Public Charities Act, 1950",
+    "In the case of any alleged breach of any express or constructive trust created for public purposes of a charitable or religious nature",
+    "the Advocate-General, or two or more persons having an interest in the trust and having obtained the leave of the Court may institute a suit"
+  ],
+  "issues": [
+    "breach of express or constructive trust",
+    "directions for administration of trust",
+    "removing trustee",
+    "appointing new trustee",
+    "vesting property in trustee",
+    "directing accounts and inquiries",
+    "declaring proportion of trust property",
+    "authorizing letting, selling, mortgaging, or exchanging trust property"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The Court may alter the original purposes of an express or constructive trust created for public purposes of a charitable or religious nature and allow the property or income of such trust or any portion thereof to be applied cy pres",
+    "In one or more of the following circumstances, namely :-- (a) where the original purposes of the trust, in whole or in part, have been, as far as may be, fulfilled; or (ii) cannot be carried out at all, or cannot be carried out according to the directions given in the instrument creating the trust"
+  ],
+  "holding": [
+    "The Court may institute a suit for any relief specified in sub-section (1)",
+    "No suit claiming any of the reliefs specified in sub-section (1) shall be instituted except in conformity with the provisions of that sub-section",
+    "The Court may alter the original purposes of an express or constructive trust created for public purposes of a charitable or religious nature and allow the property or income of such trust or any portion thereof to be applied cy pres"
+  ],
+  "cases_cited": []
+}

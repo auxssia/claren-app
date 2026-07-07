@@ -1,0 +1,56 @@
+{
+  "case_id": "C2534",
+  "case_name": "Messrs Anwarkhan Mahboob Company v State of Bombay (Now Maharashtra) and Others",
+  "court": "Supreme Court of India",
+  "year": 1960,
+  "judges": [
+    "K. C. Das Gupta"
+  ],
+  "bench": [],
+  "petitioner": "Messrs Anwarkhan Mahboob Company",
+  "respondent": "State of Bombay (Now Maharashtra)",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "7A"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Fundamental Rights",
+  "court_level": "Supreme Court",
+  "decision_date": "20 September 1960",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner, a partnership firm carrying on the business of manufacture of bidis and having its head office at Jabalpur within the State of Madhya Pradesh complain that its fundamental rights under Art. 19(1)(f) and (g) of the Constitution have been violated by the illegal imposition of a purchase tax on certain purchases of tobacco made by it in the State of Bombay.",
+    "The Sales Tax Officer, Baroda, made an order assessing the petitioner to a purchase tax under s. 14, sub-s. (6), of the Bombay Sales Tax Act, 1953 for the period April 1, 1954 to September 29, 1955.",
+    "The petitioner preferred an appeal to the Assistant Collector of Sales Tax and this officer set aside the order of the Sales Tax Officer imposing a penalty under s. 16(4) but dismissed the appeal against the order of assessment to tax.",
+    "The present petition was filed on August 4, 1958, praying for a writ in the nature of mandamus or any other appropriate direction or order against the respondents-The State of Bombay, The Collector of Sales Tax, State of Bombay The Sales Tax Officer, Baroda and the Assistant Collector of Sales Tax, Northern Division, Range III, Baroda- preventing them from enforcing the provisions of the Bombay Sales Tax Act against the petitioner on the transactions in question, for a writ in the nature of certiorari for quashing the proceedings taken against the petitioner and the orders of assessment made by the Sales Tax Officer and the order in appeal by the Assistant Collector of Sales Tax and for a declaration that the Act does not authorise the imposition, levy or collection of tax on the transactions in question."
+  ],
+  "issues": [
+    "Whether the Bombay Sales Tax Act, 1953, authorises the imposition of a purchase tax on the purchases of bidi-tobacco made by the petitioner.",
+    "Whether the purchases took place outside the State of Bombay.",
+    "Whether the delivery of tobacco within the State of Bombay was for the purpose of consumption in that State."
+  ],
+  "petitioner_arguments": [
+    "The Bombay Sales Tax Act, 1953, does not authorise the imposition of a tax on the purchase of bidi-tobacco.",
+    "The purchases took place outside the State of Bombay.",
+    "The delivery of tobacco within the State of Bombay was not for the purpose of consumption in that State."
+  ],
+  "respondent_arguments": [
+    "The Bombay Sales Tax Act, 1953, authorises the imposition of a purchase tax on the purchases of bidi-tobacco made by the petitioner.",
+    "The purchases took place within the State of Bombay.",
+    "The delivery of tobacco within the State of Bombay was for the purpose of consumption in that State."
+  ],
+  "court_reasoning": [
+    "We are unable to accept the argument that only the mention of specific goods can amount to specification and mention of goods in such general language as 'all goods other than those specified from time to time in Schedule A and in the preceding entries' cannot be said to be a specification of goods.",
+    "The delivery of tobacco within the State of Bombay was for the purpose of consumption in that State."
+  ],
+  "holding": [
+    "The purchase tax under s. 10 is leviable on these purchases, at the rate mentioned against Entry 80.",
+    "The purchases took place within the State of Bombay and the delivery of tobacco within the State of Bombay was for the purpose of consumption in that State."
+  ],
+  "cases_cited": [
+    "Messrs Anwarkhan Mahboob Company v State of Bombay (Now Maharashtra",
+    "by Das, J. (as he then was), in State of Travancore-Cochin v. Shanmugha Vilas Cashew Nut Factory"
+  ]
+}

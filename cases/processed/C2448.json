@@ -1,0 +1,55 @@
+{
+  "case_id": "C2448",
+  "case_name": "Gopal Bauri v The District Magistrate Burdwan And Others",
+  "court": "Supreme Court of India",
+  "year": 1975,
+  "judges": [
+    "P. K. Goswami"
+  ],
+  "bench": [],
+  "petitioner": "Gopal Bauri",
+  "respondent": "The District Magistrate Burdwan",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Maintenance Of Internal Security Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "17 January 1975",
+  "outcome": "Unknown",
+  "facts": [
+    "This application for a writ of habeas corpus under Article 32 of the Constitution arises out of an order of detention made on June 25, 1973, by the District Magistrate Burdwan under subsection (1) read with subsection (2) of section 3 of the Maintenance of Internal Security Act, 1971.",
+    "The order was made in order to prevent the petitioner from acting in a manner prejudicial to the maintenance of supplies and services essential to the community.",
+    "The grounds on which the said order is based are as follows",
+    "The petitioner was arrested by the police in connection with the aforesaid two incidents on March 26, 1973 and was released by the court on bail on the same day.",
+    "As seen earlier the impugned order of detention was made on June 25, 1973 and the petitioner was detained in pursuance of that order on July 13, 1973."
+  ],
+  "issues": [
+    "Whether the grounds for detention are vague",
+    "Whether there is an inordinate delay in making the detention order"
+  ],
+  "petitioner_arguments": [
+    "Based on the grounds as given, there is an inordinate delay in making the detention order.",
+    "The grounds are vague inasmuch as there is no mention of the number of ball bearings nor of the number of associates in the grounds."
+  ],
+  "respondent_arguments": [
+    "Even a disclosure of the name of the associate would have evoked the same plea of denial by the detenu and, therefore, would be inconsequential."
+  ],
+  "court_reasoning": [
+    "We are not impressed by these submissions in this case",
+    "The grounds which have been furnished to the detenu describe the occurrence of two successive days, namely, 20th and 21st March, 1973",
+    "Since it is clear from the District Magistrate's affidavit that the recovery of the stolen articles from one of the detenu's associates weighed with him in making the impugned order, the petitioner should have been apprised of that material fact in a specific manner",
+    "In case of preventive detention the duty to furnish the relevant material particulars in the grounds which reasonably influence the subjective satisfaction in making the order of detention is not to be judged by what the answer the detenu will make but whether the detenu will be able to make an effective representation against the order."
+  ],
+  "holding": [
+    "The impugned order is invalid and the same is quashed.",
+    "The rule nisi is made absolute and the petitioner shall be released from detention forthwith."
+  ],
+  "cases_cited": [
+    "Gopal Bauri v The District Magistrate Burdwan"
+  ]
+}

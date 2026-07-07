@@ -1,0 +1,59 @@
+{
+  "case_id": "C1532",
+  "case_name": "Vijayendra Kumar v State Of Bihar & Anr.",
+  "court": "Supreme Court of India",
+  "year": 2004,
+  "judges": [
+    "B.P.Singh"
+  ],
+  "bench": [],
+  "petitioner": "Vijayendra Kumar",
+  "respondent": "State Of Bihar &",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "409"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "477"
+    },
+    {
+      "section": "5(1)"
+    },
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "24 November 2004",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant has challenged the judgment and order of the High Court of Judicature at Patna dated 21-5-1999 in Criminal Appeal No. 68 of 1989.",
+    "The learned Judge of the High Court affirmed the judgment and order of the Special Judge, CBI dated 4-2-1989 in Special Case No. 11 of 1982 whereby the appellant was found guilty of the offence u/s. 409 IPC",
+    "Though it affirmed the conviction for the offences u/ss. 5(1)(c) and 5(1)(d) read with S. 5(2) of the Prevention of Corruption Act, 1947, no separate sentence was passed.",
+    "The High Court has observed that the trial court had gone into all details of oral and documentary evidence adduced in the case",
+    "Counsel for the appellant has drawn our attention in the judgment of the trial court and argued that the findings recorded by the trial court cannot be sustained"
+  ],
+  "issues": [
+    "Whether the High Court's approach was perverse",
+    "Whether the matter requires deeper consideration"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "This Court has consistently observed that an appeal against an order of conviction preferred by an accused, must be considered by the appellate court, both on questions of law and questions of fact.",
+    "The High Court has the power to dismiss a criminal appeal summarily, that power must be exercised only in a case where there is no arguable question of fact or law."
+  ],
+  "holding": [
+    "We set aside the impugned judgment and order of the High Court and remit the matter to the High Court for fresh hearing by a Judge other than the Judge who decided this appeal.",
+    "The appeal is disposed of in the above terms."
+  ],
+  "cases_cited": [
+    "Vijayendra Kumar v State Of Bihar &"
+  ]
+}

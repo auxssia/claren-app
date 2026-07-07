@@ -1,0 +1,72 @@
+{
+  "case_id": "C1492",
+  "case_name": "Surinder Singh @ Shingara Singh v State of Punjab",
+  "court": "Supreme Court of India",
+  "year": 2005,
+  "judges": [
+    "B. P. Singh"
+  ],
+  "bench": [],
+  "petitioner": "Surinder Singh @ Shingara Singh",
+  "respondent": "State of Punjab\nSupreme Court of India\n\n6 September 2005\nAppeal (Crl.) 1154 of 2005 (Arising out of SLP (Crl.) No. 896 of 2005)\nThe Judgment was delivered by : B. P. Singh, J.\n1. Special leave granted.\n2.   The appellant herein was found guilty of the offence under Section 302 read with Section 34 of the Indian Penal Code and was sentenced to undergo imprisonment for life and to pay a fine of Rs.2,000/-. He preferred an appeal before the High Court of Punjab and Haryana at Chandigarh against his conviction and sentence which was registered as Criminal Appeal No. 29-DB of 2000. The said appeal was admitted for hearing on November 3, 2001.\n3.   The appellant's application for grant of regular bail was dismissed by order dated September 8, 2004. One of the co- accused namely, Satwant Singh was granted bail by the High Court by order dated September 17, 2004 since he had suffered imprisonment for three years after his conviction and, therefore, was covered",
+  "citations": [
+    "1977 4 SCC 291",
+    "1980 1 SCC 81",
+    "1981 3 SCC 671",
+    "1992 1 SCC 225",
+    "1994 6 SCC 731",
+    "2001 4 SCC 355"
+  ],
+  "statutes": [
+    {
+      "act": "Read With Section 34 Of The Indian Penal Code",
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "6 September 2005",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant was found guilty of the offence under Section 302 read with Section 34 of the Indian Penal Code and was sentenced to undergo imprisonment for life and to pay a fine of Rs.2,000/-.",
+    "He preferred an appeal before the High Court of Punjab and Haryana at Chandigarh against his conviction and sentence which was registered as Criminal Appeal No.29-DB of 2000.",
+    "The said appeal was admitted for hearing on November 3, 2001.",
+    "One of the co-accused namely, Satwant Singh was granted bail by the High Court by order dated September 17, 2004 since he had suffered imprisonment for three years after his conviction and, therefore, was covered by the ratio of the judgment in Dharampal Vs. State of Haryana : 2000 (1) C.L.R.74.",
+    "The case of the appellant is that his case is also covered by the said judgment and, therefore, he should also be released on bail.",
+    "It was submitted on his behalf that in terms of the law as laid down in Dharampal's case, he having undergone more than three years of actual sentence he deserves to be released on bail."
+  ],
+  "issues": [
+    "Whether the appellant is entitled to be released on bail pending the hearing of his appeal",
+    "What are the guidelines for grant of bail to life convicts who have undergone at least five years of imprisonment"
+  ],
+  "petitioner_arguments": [
+    "The case of the appellant is that his case is also covered by the said judgment and, therefore, he should also be released on bail.",
+    "It was submitted on his behalf that in terms of the law as laid down in Dharampal's case, he having undergone more than three years of actual sentence he deserves to be released on bail."
+  ],
+  "respondent_arguments": [
+    "Counsel for the State submitted that the Punjab and Haryana High Court in Dharampal's case did not intend to lay down any invariable rule of universal application for grant of bail.",
+    "It only laid down guidelines which may be kept in mind by a Court while considering an application for grant of bail."
+  ],
+  "court_reasoning": [
+    "The practice not to release on bail a person who has been sentenced to life imprisonment was evolved in the High Courts and in this Court on the basis that once a person has been found guilty and sentenced to life imprisonment, he should not be let loose, so long as his conviction and sentence are not set aside.",
+    "But the underlying postulate of this practice was that the appeal of such person would be disposed of within a measureable distance of time, so that if he is ultimately found to be innocent, he would not have to remain in jail for an unduly long period.",
+    "It is observed:- 'The rationale of this practice can have no application where the Court is not in a position to dispose of the appeal for five or six years.'",
+    "Would it be just at all for the Court to tell a person :- 'We have admitted your appeal because we think you have a prima facie case, but unfortunately we have no time to hear your appeal for quite a few years and, therefore, until we hear your appeal, you must remain in jail, even though you may be innocent?'",
+    "What confidence would such administration of justice inspire in the mind of the public?"
+  ],
+  "holding": [
+    "The Court should ordinarily, unless there are cogent grounds for acting otherwise, release the accused on bail in cases where special leave has been granted to the accused to appeal against his conviction and sentence",
+    "The practice which this Court has been following in the past must be reconsidered and so long as this Court is not in a position to hear the appeal of an accused within a reasonable period of time, the Court should release the accused on bail"
+  ],
+  "cases_cited": [
+    "Akhtari Bi Vs. State of M",
+    "Court Legal Aid Committee representing under-trial Prisoners Vs. Union of India",
+    "Hussainara Khatoon and others Vs. Home Secretary",
+    "Kashmira Singh Vs. The",
+    "and Abdul Rehman Antulay and others Vs. R.S",
+    "and Kadra Pehadiya and others Vs. State of Bihar",
+    "be disposed of within a reasonable time. In Kashmira Singh Vs. State of Punjab",
+    "was covered by the ratio of the judgment in Dharampal Vs. State of Haryana"
+  ]
+}

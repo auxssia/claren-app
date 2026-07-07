@@ -1,0 +1,30 @@
+{
+  "case_id": "S11",
+  "case_name": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "If an offence is committed by any member of an unlawful assembly..."
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Every person who, at the time of the committing of that offence, is a member of the same assembly, is guilty of that offence."
+  ],
+  "holding": [
+    "every person who, at the time of the committing of that offence, is a member of the same assembly, is guilty of that offence."
+  ],
+  "cases_cited": []
+}

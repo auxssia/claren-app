@@ -1,0 +1,40 @@
+{
+  "case_id": "C331",
+  "case_name": "Ramachandran v R. Udhayakumar and Others",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Ramachandran",
+  "respondent": "R. Udhayakumar",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "482"
+    },
+    {
+      "act": "The Code",
+      "section": "173"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "13 May 2008",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The directions of the High Court for re-investigation or fresh investigation are clearly indefensible. Instead, there can be further investigation if required under Section 173 (8) of the Code."
+  ],
+  "cases_cited": [
+    "Ramachandran v R. Udhayakumar",
+    "This was highlighted by this Court in K. Chandrasekhar v. State of Kerala"
+  ]
+}

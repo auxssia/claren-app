@@ -1,0 +1,75 @@
+{
+  "case_id": "C2899",
+  "case_name": "Shiv Sarup Gupta v Dr. Mahesh Chand Gupta",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [
+    "R. C. Lahoti"
+  ],
+  "bench": [],
+  "petitioner": "Shiv Sarup Gupta",
+  "respondent": "Dr. Mahesh Chand Gupta\nSupreme Court of India\n\n30 July 1999\nCivil Appeal No. 4166 of 1999\nThe Judgment was delivered by : R. C. Lahoti, J.\n1.  The appellant, a tenant in a residential accommodation has sought for special leave to appeal feeling aggrieved by an order of the High Court of Delhi which has in exercise of jurisdiction conferred by Section 25-B (8) of Delhi Rent Control Act, 1958 allowed a civil revision and directed the appellant tc be ejected from the suit accommodation reversing an order of Additional Rent Controller, Delhi dismissing the landlord's application for recovery of possession of the suit premises on the ground specified in clause (e) of the proviso to sub-section (1) of Section 14 of Delhi Rent Control Act, 1958 (hereinafter the Act, for short).\nLeave granted.\n2.  The suit premises are situated at D-219, Defence Colony, New Delhi. The building has two floors and a Barsati. The accommodation in each of the two floors consists of two bathrooms",
+  "citations": [
+    "1998 8 SCC 119",
+    "1999 1 SCC 1411998",
+    "AIR 1960 MP 345",
+    "AIR 1981 SC 1113",
+    "AIR 1988 SC 1422"
+  ],
+  "statutes": [
+    {
+      "act": "Delhi Rent Control Act",
+      "section": "14"
+    },
+    {
+      "act": "The Act",
+      "section": "25B"
+    },
+    {
+      "act": "Code Of Civil Procedure",
+      "section": "115"
+    },
+    {
+      "act": "The Act",
+      "section": "14"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "30 July 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant, a tenant in a residential accommodation has sought for special leave to appeal feeling aggrieved by an order of the High Court of Delhi which has in exercise of jurisdiction conferred by Section 25-B (8) of Delhi Rent Control Act, 1958 allowed a civil revision and directed the appellant tc be ejected from the suit accommodation reversing an order of Additional Rent Controller, Delhi dismissing the landlord's application for recovery of possession of the suit premises on the ground specified in clause (e) of the proviso to sub-section (1) of Section 14 of Delhi Rent Control Act, 1958.",
+    "The suit premises are situated at D-219, Defence Colony, New Delhi. The building has two floors and a Barsati. ...",
+    "In January, 1988 when the proceedings for eviction were initiated, the family of the landlord consisted of himself, his wife, a son Munish (also a practising doctor), daughter-in-law and a grandson.",
+    "The landlord preferred a revision to the High Court. The landlord also moved an application styled as one under Order 41 Rule 27 read with section 151 of the CPC inviting the attention of the High Court to the effect of the death of his wife Sushila Devi on 13th January, 1995 and annexing with the application copy of a registered will dated 13th June, 1994 executed by late Smt. Sushila Devi.",
+    "Before this Court, Ms. Syamla Pappu, the learned senior counsel for the tenant-appellant has submitted that the High Court has committed a jurisdictional error in reversing the findings of facts recorded by the Additional Rent Controller."
+  ],
+  "issues": [
+    "Whether the High Court was justified in allowing the landlord's revision and directing the eviction of the tenant.",
+    "Whether the Additional Rent Controller's order dismissing the landlord's application for recovery of possession of the suit premises was according to law or not."
+  ],
+  "petitioner_arguments": [
+    "The findings of fact recorded by the Additional Rent Controller were based on evidence and reasonably arrived at; there was no occasion to interfere with and reverse the same.",
+    "The High Court has committed a serious jurisdictional irregularity by taking into consideration the documents filed for the first time by the landlord before the High Court without formally admitting the same in evidence and without affording the tenant-appellant an opportunity of rebutting the additional evidence."
+  ],
+  "respondent_arguments": [
+    "The documents placed before the High court by the landlord along with his application merely intended a subsequent event to be brought to the notice of the High Court.",
+    "The ultimate finding arrived at by the High Court would not be dislodged even if the documents accompanying the application were excluded from consideration."
+  ],
+  "court_reasoning": [
+    "The phraseology of the provision as reproduced hereinbefore provides an interesting reading placed in juxtaposition with the phraseology employed by the Legislature in drafting Section 115 of the Code of Civil Procedure.",
+    "The finding arrived at by the High Court was the only finding that could have been reasonably arrived at from the material available on record and hence the conclusion arrived at by the Additional Rent Controller being not one 'according to law' within the meaning of Section 25-B (8) was rightly set aside by the High court."
+  ],
+  "holding": [
+    "The revision filed by the landlord has been allowed and eviction of the tenant ordered recording a finding of the premises in occupation of the tenant being needed bonafide for the residence of the landlord and his family."
+  ],
+  "cases_cited": [
+    "In Prativa Devi (Smt) Vs. T.V",
+    "In Ram Dass Vs. Ishwar Chander",
+    "In Sarla Ahuja Vs. United India Insurance Co",
+    "Sarla Ahuja Vs. United India Insurance Co",
+    "and Ram Narain Arora Vs. Asha Rani"
+  ]
+}

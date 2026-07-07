@@ -1,0 +1,83 @@
+{
+  "case_id": "C134",
+  "case_name": "Ramprasad and Others v State of Maharashtra",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [
+    "K. T. Thomas, J."
+  ],
+  "bench": [],
+  "petitioner": "Ramprasad and Others",
+  "respondent": "State of Maharashtra\nSupreme Court of India\n\n12  May  1999\nCriminal Appeal No. 592 of 1994 Etc\nThe Judgment was delivered by : K. T. Thomas, J.\n1.  These appeals relate to a case of mercenary killing. Though the principal target of the killers was one Ram Kishore Somani @ Ramu they could kill only his younger brother Ashok Somani, who, per chance was with his elder brother then, due to his jinxed destiny. Nevertheless they succeeded in brutally mangling the targeted person inflicting a lot of injuries on him, some of them near fatal. As he survived such injuries he appeared in the trial court to tell the tale.\n2.  If the story is true, the intrigue was hatched, ironically, at the precincts of a court of law and its finale was staged on a public road near the Employment Exchange Office at Amravati (Maharashtra). Ten persons, in all, were charge-sheeted by the police in connection with the said case, out of which one Anil Chaudhary (PW.2) was granted pardon as he t",
+  "citations": [
+    "AIR 1983 SC 126"
+  ],
+  "statutes": [
+    {
+      "act": "Evidence Act",
+      "section": "32"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "162"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "157"
+    },
+    {
+      "act": "The Code",
+      "section": "162"
+    },
+    {
+      "act": "The Code",
+      "section": "164"
+    },
+    {
+      "act": "Becomes Usable To Corroborate The Witness As Provided In Section 157 Of The Evidence Act",
+      "section": "164"
+    },
+    {
+      "act": "The Code",
+      "section": "151"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "12 May 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "The appeals relate to a case of mercenary killing.",
+    "Ram Kishore Somani @ Ramu and his brother Ashok Somani were doing cloth business at Amravati.",
+    "A.1-Gopal Maharaj contested as a candidate for the Municipal election in 1986 from the same Ward in which PW.1-Ramu Somani also contested as a candidate.",
+    "The contest burgeoned ill-feeling which, by course of time, snowballed into deep-rooted rancour and it escalated to its zenith when he decided to go forward for the liquidation of his rival Ramu Somani.",
+    "He sought the assistance of A.2-Ram Kishore Yadao who was leader of a gangster-gang.",
+    "A.1-Gopal Maharaj impressed upon A.2-Ram Kishore Yadao that it was PW.1 who made all efforts to see that A.2 was not enlarged on bail.",
+    "The above talk was again repeated on 10.12.1987 at the same place.",
+    "Six accused persons (A.5-Baba Swami @ Vinit, A.6-Anil Motiram Dhote, A.7-Raju @ Mitun Galhot and Pramod Ingale) along with Anil Chaudhary (PW.2) went on a prowl for the target.",
+    "Around 4 P.M. on 15.12.1987, Ramu Somani went out of the house without having any foreboding of the slinking marauders, he was on the pillion seat of a scooter ridden by his younger brother Ashok Somani."
+  ],
+  "issues": [
+    "Whether the court could treat Ext.52 as an item of evidence for any purpose.",
+    "Whether the testimony of PW.2-Anil Chaudhary can be relied upon to corroborate the conviction of A.1-Gopal Maharaj and A.4-Ram Prasad Yadao."
+  ],
+  "petitioner_arguments": [
+    "Shri R.S. Lambat, learned counsel contended that both courts have gone wrong in treating Ext.52 as evidence because the person who gave that statement is not dead and hence it could not fall under Section 32 of the Evidence Act.",
+    "Counsel further contended that even otherwise Ext.52 could only have been used to contradict PW.1 as provided in Section 162 of the Code of Criminal Procedure (for short the Code) as it was a statement recorded during investigation."
+  ],
+  "respondent_arguments": [
+    "The Division Bench of the High Court placed full reliance on his evidence.",
+    "Though there is no legal hurdle against acting on the testimony of an accomplice it is well-nigh settled that it would be imprudent to base a conviction on such testimony unless it is corroborated in material particulars."
+  ],
+  "court_reasoning": [
+    "We are in full agreement with the contention of the learned counsel that Ext.52 cannot be used as evidence under Section 32 of the Evidence Act though it was recorded as a dying declaration.",
+    "A statement recorded by a magistrate under Section 164 becomes usable to corroborate the witness as provided in Section 157 of the Evidence Act or to contradict him as provided in Section 155 thereof."
+  ],
+  "holding": [
+    "We, therefore, find no reason to interfere with the concurrent finding that A.5-Baba Swami, A.6-Anil Motiram Dhote, A.7-Raju Galhot and A.10 Pramod Motiram Ingale were active participants in the occurrence in which deceased and PW.1 Ramu Somani were violently attacked."
+  ],
+  "cases_cited": [
+    "In Maqsoodan and ors. v. State of U"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "case_id": "C2886",
+  "case_name": "Digvijay Mote v Union of India and Others",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [
+    "MOHAN, J."
+  ],
+  "bench": [],
+  "petitioner": "Digvijay Mote",
+  "respondent": "Union of India",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "324"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Fundamental Rights",
+  "court_level": "Supreme Court",
+  "decision_date": "16 August 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "The petition has been preferred by way of Public Interest Litigation for the enforcement of fundamental rights, political rights and fundamental duties of the people and electorate - citizens of India.",
+    "The petitioner claims to be an active social worker. He further claims that he is a keen observer of the electoral process in the Republic of India.",
+    "The election process in this country is afflicted with distortions, very often intentionally.",
+    "According to the petitioner, the States of Assam and Punjab have become the worst victims of terrorist activities.",
+    "All the consequential proceedings, leading to the prayers, are illegal."
+  ],
+  "issues": [
+    "What is the scope of judicial review over the Election Commission's powers?",
+    "Can the Election Commission postpone elections in a state or part thereof due to unsettled conditions?",
+    "What are the limits on the Election Commission's power to superintend, direct and control elections?"
+  ],
+  "petitioner_arguments": [
+    "The election process in this country is afflicted with distortions, very often intentionally.",
+    "All the consequential proceedings, leading to the prayers, are illegal.",
+    "The petitioner has every prospect of winning the election."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The concept of democracy as visualised by the Constitution presupposes the representation of the people in Parliament and State Legislatures by the method of election.",
+    "A free and fair election based on universal adult franchise is the basic; the regulatory procedures vis-a-vis the repositories of functions and the distribution of legislative, executive and judicative roles in the total scheme, directed towards the holding of free elections, are the specifics.",
+    "The conduct of election is in the hands of the Election Commission which has the power of superintendence, direction and control of elections vested in it as per Art. 324 of the Constitution of India, 1950.",
+    "If the Election Commission is of the opinion that having regard to the disturbed conditions of a State or a part thereof, free and fair elections could not be held it may postpone the same.",
+    "The power is not unbridled. Judicial review will still be permissible, over the statutory body exercising its functions affecting public law rights."
+  ],
+  "holding": [
+    "The Election Commission has the power to superintend, direct and control elections, but this power is not unbridled. Judicial review will still be permissible, over the statutory body exercising its functions affecting public law rights.",
+    "If the Election Commission is of the opinion that having regard to the disturbed conditions of a State or a part thereof, free and fair elections could not be held it may postpone the same."
+  ],
+  "cases_cited": [
+    "Digvijay Mote v Union of India",
+    "Mathew, J. has observed in Indira Gandhi Indira Nehru Gandhi v. Raj Narain",
+    "and Harishankar Harishankar Bagla v. State of M",
+    "constituting the majority in Bharati case Kesavananda Bharati v. State of Kerala",
+    "expeditiously. Moreover, as held in Virendra Virendra v. State of Punjab",
+    "have to be free and fair. Fazl Ali, J. in N.P. Ponnuswami v. Returning Officer"
+  ]
+}

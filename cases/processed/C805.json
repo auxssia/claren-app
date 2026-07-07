@@ -1,0 +1,103 @@
+{
+  "case_id": "C805",
+  "case_name": "Pawan Kumar Ralli v Maninder Singh Narula",
+  "court": "Supreme Court of India",
+  "year": 2014,
+  "judges": [
+    "N. V. Ramana"
+  ],
+  "bench": [],
+  "petitioner": "Pawan Kumar Ralli",
+  "respondent": "Maninder Singh Narula\nSupreme Court of India\n\n11 August 2014\nCr.A. No. 1684 of 2014 Arising out of S.L.P. (Cr.) No. 8924 of 2013\nThe Judgment was delivered by : N. V. Ramana, J.\n1. Leave granted.\n2. This appeal arises out of the judgment and order dated 15th January, 2013 of the High Court of Delhi passed in Criminal Miscellaneous Case No. 2961 of 2012 filed by the respondent herein u/s. 482 of the Criminal Procedure Code. By the said judgment, the High Court quashed the criminal proceedings initiated by the appellant u/s. 138 of the Negotiable Instruments Act, 1881 (hereinafter referred to as 'the Act') against the respondent.\n3. The brief history of the case, according to the appellant, is that he had given a loan of Rs.60 lakhs to the respondent in the month of November, 2011. In discharge of his obligation to the appellant, on 25th April, 2012, the respondent issued (i) Cheque No. 889953, drawn on Allahabad Bank, for Rs.30 lakhs; (ii) Cheque No. 545420, drawn on",
+  "citations": [
+    "1999 8 SCC 221",
+    "1999 8 SCC 304",
+    "2000 7 SCC 656",
+    "2008 13 SCC 689",
+    "2013 1 SCC 177"
+  ],
+  "statutes": [
+    {
+      "section": "482"
+    },
+    {
+      "section": "138"
+    },
+    {
+      "section": "60"
+    },
+    {
+      "section": "30"
+    },
+    {
+      "section": "20"
+    },
+    {
+      "section": "420"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "142(B)"
+    },
+    {
+      "section": "138(B)"
+    },
+    {
+      "section": "473"
+    },
+    {
+      "section": "245"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "91"
+    },
+    {
+      "section": "410"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "11 August 2014",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant had given a loan of Rs.60 lakhs to the respondent in November, 2011.",
+    "In discharge of his obligation to the appellant, on 25th April, 2012, the respondent issued three cheques for Rs.30 lakhs, Rs.20 lakhs, and Rs.10 lakhs respectively.",
+    "The appellant presented the said cheques in his Bank for realization, they were dishonoured by the respondent's banker with remarks 'Stop Payment'.",
+    "The appellant issued a handwritten notice to the respondent on 27th April, 2012 calling upon him to make the payment.",
+    "Upon non-compliance by the respondent, a formal legal notice dated 24th May, 2012 was issued under Section 138/142 of the Act requiring the respondent to pay the cheques amount along with interest and costs."
+  ],
+  "issues": [
+    "Whether the High Court was justified in quashing the criminal proceedings initiated by the appellant against the respondent.",
+    "Whether the handwritten notice sent by the appellant on 27th April, 2012 can be considered as a valid notice under Section 138 of the Act."
+  ],
+  "petitioner_arguments": [
+    "The High Court incorrectly considered the handwritten note as legal notice and calculated the limitation period accordingly.",
+    "The actual notice within 30 days from the date of dishonour of the cheques was issued on 24th May, 2012 and accordingly criminal proceedings were initiated well within the limitation period.",
+    "The Act clearly enables the Court to condone the delay, if any, beyond 30 days of limitation period under proviso to S.142(b) of the Act."
+  ],
+  "respondent_arguments": [
+    "There is no apparent error in the judgment of the High Court in quashing the criminal proceedings on the ground of limitation.",
+    "The High Court has correctly treated the handwritten notice sent by the appellant on 27th April, 2012 as a valid notice in terms of S.138 of the Act.",
+    "Looking at this settled legal position, the first notice issued by the appellant on 27th April, 2012 had since fulfilled the criteria laid down by this Court, the same has to be treated as 'notice' within the meaning of S.138(b) of the Act."
+  ],
+  "court_reasoning": [
+    "The High Court failed to take into consideration the material fact that the actual notice was issued on 24th May, 2012 and accordingly criminal proceedings were initiated well within the limitation period.",
+    "The Court should act reasonably in providing an opportunity to the Cheque holder to present his version on the issue of delay if any.",
+    "Before quashing the criminal proceedings on the ground of limitation, the High Court could have decided whether sufficient cause was made out by the appellant under the proviso to S.142(b) of the Act."
+  ],
+  "holding": [
+    "The appeal is allowed and the impugned order is set aside. The matter is remanded back to the Trial Court for hearing the issue of limitation by providing an opportunity to the appellant to avail the remedy envisaged under the proviso to S.142(b) of the Act."
+  ],
+  "cases_cited": [
+    "See Subodh S. Salaskar Vs. Jayprakash M",
+    "he relied on this Court's Judgment in Ramesh Chand Sharma Vs. Udham Singh Kamal &",
+    "reliance on a judgment of this Court in Rakesh Kumar Jain Vs. State (Through CBI",
+    "the judgment of this Court in Central Bank of India & Anr. Vs. Saxons Farms &"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "case_id": "C356",
+  "case_name": "State of Madhya Pradesh v Mishrilal (Dead) and others",
+  "court": "Supreme Court of India",
+  "year": 2003,
+  "judges": [
+    "H. K. Sema"
+  ],
+  "bench": [],
+  "petitioner": "State of Madhya Pradesh",
+  "respondent": "Mishrilal (Dead)",
+  "citations": [
+    "1976 4 SCC 394",
+    "AIR 1968 SC 1281",
+    "AIR 1991 SC 1065"
+  ],
+  "statutes": [
+    {
+      "act": "Arms Act",
+      "section": "25"
+    },
+    {
+      "act": "Indian Penal Code",
+      "section": "148"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "2 April 2003",
+  "outcome": "Unknown",
+  "facts": [
+    "The accused Mishrilal s/o Balmukund Jaiswal, Madhusudan s/o Mishrilal, Jamunaprasad s/o Mishrilal, Radhakishan s/o Ganpat Kalal, Vinod Kumar s/o Babulal Kalal, Hukumchand s/o Shankerlal Kalal, Jagdish s/o Shankarlal Kalal, Rajendrakumar s/o Babulal Kalal and Ashok Kumar s/o Mishrilal Kalal were tried in Session Trial No. 73 of 1987.",
+    "The accused pleaded not guilty to the charges and after the trial they were convicted and sentenced as noticed above.",
+    "Accused Mishrilal also lodged the report as regards the injuries sustained by him, Madhusudan and Jamunaprasad on the same day i.e. 5.3.1987 and over the same incident.",
+    "The police investigated the complaint lodged by Mishrilal and challan was filed under Sections 147, 148, 149 and 324 IPC and registered a crime No.52 of 1987, which is pending before the learned Judicial Magistrate First Class for disposal."
+  ],
+  "issues": [
+    "Whether the accused were guilty of the charges levelled against them?",
+    "Whether the trial court's decision was correct?"
+  ],
+  "petitioner_arguments": [
+    "The prosecution party is stated to be an aggressor.",
+    "It is logically improbable that the accused being able to stop and compel the bullock-cart to retreat would have still opted to follow Babulal and initiate a quarrel."
+  ],
+  "respondent_arguments": [
+    "The accused pleaded not guilty to the charges and after the trial they were convicted and sentenced as noticed above."
+  ],
+  "court_reasoning": [
+    "The fair procedure to adopt in a matter like the present where there are cross cases, is to direct that the same learned Judge must try both the cross cases one after the other.",
+    "Each case must be decided on the basis of the evidence which has been placed on record in that particular case without being influenced in any manner by the evidence or arguments urged in the cross case."
+  ],
+  "holding": [
+    "The High Court set-aside the order of conviction and acquitted the respondents of all the charges levelled against them.",
+    "The court held that the investigating officer failed to discharge the obligation, resulting in grave miscarriage of justice."
+  ],
+  "cases_cited": [
+    "In State of Rajasthan Vs. Madho",
+    "State of Madhya Pradesh v Mishrilal (Dead",
+    "is fatal to the prosecution case. In Lakshmi Singh and others vs. State of Bihar",
+    "party is stated to be an aggressor. This Court in Nathilal Vs. State of U",
+    "referring to earlier decisions in Mohar Rai v. State of Bihar"
+  ]
+}

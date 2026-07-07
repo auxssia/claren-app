@@ -1,0 +1,73 @@
+{
+  "case_id": "C2911",
+  "case_name": "Satvir v State Of Uttar Pradesh",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [
+    "Lokeshwar Singh Panta"
+  ],
+  "bench": [],
+  "petitioner": "Satvir",
+  "respondent": "State Of Uttar Pradesh\nSupreme Court of India\n\n21 January 2009\nCRIMINAL APPEAL NO. 551 OF 2005\nThe Judgment was delivered by: Lokeshwar Singh Panta, J.\n1. Eight accused, namely, (1) Fateh Singh, (2) Ram Chander, (3) Brahma, (4) Satvir, (5) Ram Saran, (6) Harbir, (7) Pratap and (8) Genda were tried by learned VI Additional District and Sessions Judge, Meerut, in Sessions Trial No. 70 of 1978 for committing the murder of Hari Dutt Singh.\n2. By judgment and order dated 05.12.1979, the learned trial judge convicted all the accused u/s. 302 read with S. 149 of the Indian Penal Code (for short \"IPC\") and sentenced each to imprisonment for life. The accused - Ram Saran, Satvir and Harbir have been further convicted u/s. 148 IPC and each sentenced to two years rigorous imprisonment, whereas Fateh Singh, Genda, Pratap, Brahma and Ram Chander have been convicted u/s. 147 IPC and sentenced to one year rigorous imprisonment. All the sentences were, however, ordered to run concurrently.\n3",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "148"
+    },
+    {
+      "section": "147"
+    },
+    {
+      "section": "313"
+    },
+    {
+      "section": "304"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "21 January 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "Eight accused were tried by a learned VI Additional District and Sessions Judge, Meerut, for committing the murder of Hari Dutt Singh.",
+    "The trial judge convicted all the accused under Section 302 read with Section 149 of the Indian Penal Code (IPC) and sentenced each to imprisonment for life.",
+    "The accused - Ram Saran, Satvir, and Harbir were further convicted under Section 148 IPC and each sentenced to two years rigorous imprisonment.",
+    "Fateh Singh, Genda, Pratap, Brahma, and Ram Chander were convicted under Section 147 IPC and sentenced to one year rigorous imprisonment.",
+    "All the sentences were ordered to run concurrently.",
+    "The accused persons filed a joint appeal in the High Court of Judicature at Allahabad.",
+    "The High Court modified the judgment of the trial court and converted the conviction of Satvir, Ram Saran, and Harbir to Section 302 IPC read with Section 34 IPC and sentenced them to undergo life imprisonment.",
+    "Ram Chander, Brahma, Pratap, and Genda were acquitted.",
+    "Satvir approached this Court in appeal."
+  ],
+  "issues": [
+    "Whether the evidence against the appellant is reliable and believable?",
+    "Whether the High Court committed grave error in convicting the appellant on the same set of evidence that led to the acquittal of four accused?"
+  ],
+  "petitioner_arguments": [
+    "The evidence appearing on record against the appellant is verbatim version to that which was taken into consideration with regard to the acquittal of four accused.",
+    "The High Court has committed grave error in convicting the appellant on the same set of evidence, on the basis of which four accused have been acquitted.",
+    "The conduct of the alleged eyewitnesses is so unnatural and casual that they witnessed the entire incident as silent spectators and did not make any attempt to save the life of Hari Dutt Singh at the hands of the accused."
+  ],
+  "respondent_arguments": [
+    "The views taken by the trial judge were confirmed by the High Court.",
+    "The evidence of the eyewitnesses is reliable, consistent, and creditable, and inspires confidence."
+  ],
+  "court_reasoning": [
+    "We have independently scrutinized the oral and documentary evidence appearing on record.",
+    "The eyewitnesses have been cross-examined at length by the learned counsel, but nothing tangible has been extracted from their evidence to create any shadow of doubt that they are not truthful witnesses.",
+    "Their evidence inspires confidence."
+  ],
+  "holding": [
+    "The judgment of the High Court suffers from factual and legal infirmity and perversity.",
+    "The conviction of Satvir, Ram Saran, and Harbir is converted from Section 302 read with Section 149 and Section 148 IPC to Section 302 read with Section 34 IPC.",
+    "They were sentenced to suffer rigorous imprisonment for life."
+  ],
+  "cases_cited": []
+}

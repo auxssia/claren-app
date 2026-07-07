@@ -1,0 +1,35 @@
+{
+  "case_id": "S70",
+  "case_name": "",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "If the plaintiff appears and the defendant does not appear,"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "the Court may proceed ex parte",
+    "the Court shall direct a second summons to be issued and served on the defendant",
+    "the Court shall postpone the hearing of the suit to a future day to be fixed by the Court, and shall direct notice of such day to be given to the defendant"
+  ],
+  "holding": [
+    "If it is proved that the summons was duly served, the Court may proceed ex parte",
+    "If it is not proved that the summons was duly served, the Court shall direct a second summons to be issued and served on the defendant",
+    "If it is proved that the summons was served on -the defendant, but not in sufficient time to enable him to appear and answer on the day fixed in the summons, the Court shall postpone the hearing of the suit to a future day to be fixed by the Court, and shall direct notice of such day to be given to the defendant",
+    "If it is owing to the plaintiffs default that the summons was not served in sufficient time, the Court shall order him to pay the costs occasioned by such postponement"
+  ],
+  "cases_cited": []
+}

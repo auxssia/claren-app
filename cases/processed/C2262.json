@@ -1,0 +1,51 @@
+{
+  "case_id": "C2262",
+  "case_name": "Shri Prithvi Cotton Mills Limited and another v Broach Borough Municipality and Others",
+  "court": "Supreme Court of India",
+  "year": 1969,
+  "judges": [
+    "M. Hidayatullah, J."
+  ],
+  "bench": [],
+  "petitioner": "Shri Prithvi Cotton Mills Limited and another",
+  "respondent": "Broach Borough Municipality",
+  "citations": [],
+  "statutes": [],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "25 April 1969",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant No. 1 is a Company which has spinning and weaving mills at Broach and manufactures and sells cotton yarn and cloth.",
+    "Respondent No. 1 is the Broach Borough Municipality constituted under S. 8 of the Bombay Municipal Boroughs Act, 1925.",
+    "In the assessments years 1961-62, 1962-63 and 1963-64 the Municipality purporting to act under s. 73 of the Bombay Municipal Boroughs Act, 1925 and the Rules made thereunder imposed a purported rate on lands and buildings belonging to the respondent at a certain percentage of the capital value.",
+    "The assessments lists were published and tax was imposed according to the rates calculated on the basis of the capital value of the property of the appellant and bills in respect of the tax were served."
+  ],
+  "issues": [
+    "What is the meaning of the word 'rate' as used in s. 73 of the Bombay Municipal Boroughs Act, 1925?",
+    "Is the Validation Act effective in validating the imposition of taxes by municipalities under the relevant municipal law or any rules made thereunder on the basis of the capital value of a building or land, as the case may be, or on the basis of a percentage of such capital value?"
+  ],
+  "petitioner_arguments": [
+    "The word 'rate' has acquired a special meaning in English legislative history and practice and also in Indian legislation and it means a tax for local purposes imposed by local authorities.",
+    "In S. 73 the word 'rate' as used must have been used in the special sense in which the word was understood in the legislative practice of India before that date.",
+    "The Validation Act is ineffective in carrying out its avowed object."
+  ],
+  "respondent_arguments": [
+    "The legislature possesses the power to validate statutes and to pass retrospective laws.",
+    "The Validation Act removes the defect which the courts had found in the existing law and makes adequate provisions in the Validating law for a valid imposition of the tax."
+  ],
+  "court_reasoning": [
+    "When a legislature sets out to validate a tax declared by a court to be illegally collected under an ineffective or an invalid law, the cause for ineffectiveness or invalidity must be removed before validation can be said to take place effectively.",
+    "A court's decision must always bind unless the conditions on which it is based are so fundamentally altered that the decision could not have been given in the altered circumstances.",
+    "The legislature may follow any one method or all of them and while it does so it may neutralise the effect of the earlier decision of the court which becomes ineffective after the change of the law."
+  ],
+  "holding": [
+    "The Validation Act is effective in validating the imposition of taxes by municipalities under the relevant municipal law or any rules made thereunder on the basis of the capital value of a building or land, as the case may be, or on the basis of a percentage of such capital value."
+  ],
+  "cases_cited": [
+    "Shri Prithvi Cotton Mills Limited and another v Broach Borough Municipality",
+    "after the decision of this Court in Sudhir Chandra Nawn v. Wealth Tax Officer",
+    "of this Court reported in Patel Gordhandas Hargovindas v. Municipal Commissioner"
+  ]
+}

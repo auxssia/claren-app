@@ -1,0 +1,89 @@
+{
+  "case_id": "C2559",
+  "case_name": "Mohan Meakin Limited v State of Himachal Pradesh and Others",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "Mohan Meakin Limited",
+  "respondent": "State of Himachal Pradesh",
+  "citations": [
+    "1971 2 SCC 236",
+    "1990 1 SCC 109",
+    "1995 1 SCC 574",
+    "2000 8 SCC 167",
+    "2004 1 SCC 225",
+    "2004 11 SCC 26",
+    "2005 11 SCC 1",
+    "2005 5 SCC 598",
+    "2006 4 SCC 327",
+    "2006 7 SCC 241",
+    "2007 5 SCC 353"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "21"
+    },
+    {
+      "section": "20"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "301"
+    },
+    {
+      "section": "18"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "18 December 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant, Mohan Meakin Limited, is a public limited company registered and incorporated under the Companies Act, 1956. It carries on business of manufacture and sale of India Made Foreign Liquor (IMFL) and beer, etc. Its distillery is situated at Kasauli in the District of Solan.",
+    "The appellant imported 'Malt Spirit of over proof strength' from its distillery situated at Mohan Nagar in the State of Uttar Pradesh. For the said purpose, it was required to obtain import permit from the Collector Excise, Himachal Pradesh.",
+    "A representation was made by the appellant in respect of the said demands by a letter dated 30.01.1999 inter alia contending that the State of Himachal Pradesh had no jurisdiction to levy such fee.",
+    "The High Court, however, by reason of the impugned judgment rejected the contentions of the appellant."
+  ],
+  "issues": [
+    "Whether the State has the jurisdiction to impose any restriction on the movement of industrial alcohol and/or Malt Spirit of over proof strength.",
+    "Whether the permit fee levied by the State is constitutional or not."
+  ],
+  "petitioner_arguments": [
+    "(i) Transportation of industrial alcohol and/or rectified spirit being not within the legislative competence of the State, it cannot exercise any control thereover.",
+    "(ii) The High Court committed a serious error as it proceeded on the premise that there does not exist any distinction between import of potable liquor and that of Malt Spirit of over proof strength.",
+    "(iii) The element of quid pro quo being inherent in the levy of fee and as no material was produced by the State to justify its demand, the impugned judgment cannot be sustained."
+  ],
+  "respondent_arguments": [
+    "The State has to incur a huge expenditure towards maintenance of staff for regulating the business of liquor.",
+    "Permit is granted for import of country spirit, beer, IMFL, etc. in the interest of the permit holders themselves so that abuse of import by non-permit holders can be prevented."
+  ],
+  "court_reasoning": [
+    "We will assume, as has been contended, that no person has any fundamental right to carry on business in liquor, it being res extra commercium.",
+    "Indisputably, the Parliament has the exclusive power to make laws, in respect of the matters enumerated in List I of the Seventh Schedule of the Constitution whereas the State has the exclusive legislative power to make laws with respect to any of the matters enumerated in List II of the Seventh Schedule of the Constitution."
+  ],
+  "holding": [
+    "The impugned judgment is hereby set aside and the appeals are allowed. The permit fee levied by the State is held to be unconstitutional."
+  ],
+  "cases_cited": [
+    "Furthermore, it was held in A.P. Paper Mills Ltd. v. Govt",
+    "In State of Kerala v. Maharashtra Distilleries Ltd",
+    "Mohan Meakin Limited v State of Himachal Pradesh",
+    "See also Ashok Lanka and Another v. Rishi Dixit",
+    "This Court in Kerala Samsthana Chethu Thozhilali Union v. State of Kerala",
+    "and Another v. State of Haryana",
+    "and State of Punjab and Another v. Devans Modern Breweries Ltd",
+    "is limited. It has been so held in State of U.P. and Others v. Vam Organic Chemicals Ltd",
+    "judgments including Khoday Distilleries Ltd. and Others v. State of Karnataka",
+    "jump is deprecated. In Indian Mica Micanite Industries v. The",
+    "of this Court in Synthetics and Chemicals Ltd. and Others v. State of U",
+    "the High Court. In Commissioner of Income Tax and Another v. Distillers Co",
+    "upon noticing State of Kerala and Others v. Maharashtra Distilleries Ltd"
+  ]
+}

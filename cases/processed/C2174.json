@@ -1,0 +1,82 @@
+{
+  "case_id": "C2174",
+  "case_name": "Habeeb Mohamed v State of Hyderabad",
+  "court": "Supreme Court of India",
+  "year": 1953,
+  "judges": [
+    "Bijan Kumar Mukherjea"
+  ],
+  "bench": [],
+  "petitioner": "Habeeb Mohamed",
+  "respondent": "State of Hyderabad\nSupreme Court of India\n\n30 March 1953\nCriminal Appeal No. 43 of\n1952 and Petition No. 173 of 1952\nThe Judgment was delivered by :  Bijan Kumar Mukherjea, J.\n1. The appellant before us, who in the year 1947 was a Revenue Officer in the District of Warangal within the State of Hyderabad, was brought to trial before the Special Judge of Warangal appointed, under Regulation X of 1359F. on charges of murder, attempt to murder, arson, rioting and other offences punishable under various sections of the Hyderabad Penal Code. The offences were alleged to have been committed on or about the 9th of December, 1947, and the First Information Report was lodged, a considerable time afterwards, on 31st January, 1949. On 28th August, 1949, there was an order in terms of section 3 of the Special Tribunal Regulation No. V of 1358 F., which was in force at that time, directing the appellant to be tried by the Special Tribunal (A). The accused being a public officer, the",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Hyderabad Penal Code",
+      "section": "243"
+    },
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Hyderabad Criminal Procedure Code",
+      "section": "267A"
+    },
+    {
+      "act": "Hyderabad Criminal Procedure Code",
+      "section": "20"
+    },
+    {
+      "act": "Hyderabad Code",
+      "section": "307"
+    },
+    {
+      "act": "Indian Criminal Procedure Code",
+      "section": "374"
+    },
+    {
+      "act": "Hyderabad Code",
+      "section": "20"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "30 March 1953",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant before us, who in the year 1947 was a Revenue Officer in the District of Warangal within the State of Hyderabad, was brought to trial before the Special Judge of Warangal appointed, under Regulation X of 1359F.",
+    "On 28th August, 1949, there was an order in terms of section 3 of the Special Tribunal Regulation No. V of 1358 F., which was in force at that time, directing the appellant to be tried by the Special Tribunal (A).",
+    "The trial commenced on and from 11th February, 1950, and altogether 21 witnesses were examined for the prosecution and one for the defence.",
+    "Against this judgment the appellant took an appeal to the High Court of Hyderabad and the appeal was first heard by a Division Bench consisting of Shripat Rao and S. Ali Khan JJ.",
+    "The case was then referred to Mr. Justice Manohar Prasad, as a third Judge and by his judgment dated the 11th of December, 1960, the learned Judge agreed with the opinion of Shripat Rao J. and dismissed the appeal upholding the conviction and sentences passed by the Special Judge.",
+    "The present hearing of the appeal is confined to certain Constitutional points which have been raised by the appellant attacking the legality of the entire trial which resulted in his conviction on the ground that the procedure for trial laid down in Regulation X of 1359F. became void after the 26th of January, 1960, by reason of its being in conflict with the equal protection clause embodied in article 14 of the Constitution.",
+    "The substantial contention put forward by Mr. Peerbhoy, who appeared in support of the appeal, is that as the procedure for trial prescribed by Regulation X of 1359F. deviated to a considerable extent from the normal procedure laid down by the general law and deprived the accused of substantial benefits to which otherwise he would have been entitled, -the Regulation became void under article 13(1) of the Constitution on and from the 26th of January, 1950",
+    "The other point raised by the learned counsel is that the making over of the case of the appellant to the Special Judge was illegal as the authority to make over such cases was not properly delegated by the Chief Minister to the Civil Administrator in the manner contemplated by section 5 of the Regulation."
+  ],
+  "issues": [
+    "Whether the procedure for trial prescribed by Regulation X of 1359F. became void after the advent of the Constitution on and from the 26th of January, 1950.",
+    "Whether the making over of the case of the appellant to the Special Judge was illegal as the authority to make over such cases was not properly delegated by the Chief Minister to the Civil Administrator in the manner contemplated by section 5 of the Regulation."
+  ],
+  "petitioner_arguments": [
+    "The procedure for trial prescribed by Regulation X of 1359F. deviated to a considerable extent from the normal procedure laid down by the general law and deprived the accused of substantial benefits to which otherwise he would have been entitled, -the Regulation became void under article 13(1) of the Constitution on and from the 26th of January, 1950",
+    "The making over of the case of the appellant to the Special Judge was illegal as the authority to make over such cases was not properly delegated by the Chief Minister to the Civil Administrator in the manner contemplated by section 5 of the Regulation."
+  ],
+  "respondent_arguments": [
+    "The impugned Regulation was a pre-constitution statute and therefore, the Constitution has no retrospective effect.",
+    "Article 13(1) of the Constitution does not necessarily make the whole statute invalid even after the advent of the Constitution. It invalidates only those provisions which are inconsistent with the fundamental rights guaranteed under Part III of the Constitution."
+  ],
+  "court_reasoning": [
+    "The Constitution has no retrospective effect and even if the law is in any sense discriminatory, it must be held to be valid for all past transactions and for enforcement of rights and liabilities accrued before the coming into force of the Constitution.",
+    "Article 13(1) of the Constitution does not necessarily make the whole statute invalid even after the advent of the Constitution. It invalidates only those provisions which are inconsistent with the fundamental rights guaranteed under Part III of the Constitution."
+  ],
+  "holding": [
+    "The appeal is dismissed and the conviction and sentences passed by the Special Judge are upheld."
+  ],
+  "cases_cited": [
+    "by the majority of this court in the case of Qasim Razvi v. The",
+    "where the earlier decision in Lachman Das Kewalram v. The",
+    "while interpreting the decision in Lachmandas Kewalram Ahuja v. The"
+  ]
+}

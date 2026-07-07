@@ -1,0 +1,49 @@
+{
+  "case_id": "C293",
+  "case_name": "Shyam Swarup Singhal v Kapil and Anr",
+  "court": "Supreme Court of India",
+  "year": 2001,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Shyam Swarup Singhal",
+  "respondent": "Kapil",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "And 4 Of The Dowry Prohibition Act",
+      "section": "3"
+    },
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "9 April 2001",
+  "outcome": "Unknown",
+  "facts": [
+    "The respondent has been granted bail that the offence alleged against him included Section 304-B and 498-A of the Indian Penal Code as well as Section 3 and 4 of the Dowry Prohibition Act.",
+    "The petitioner is the father of Renu, the deceased. Petitioner believes that the offence committed by the respondent would fall under Section 302 of the Indian Penal Code.",
+    "It may not be necessary for the State to move for cancellation of bail if the offence escalates to 302 IPC because bail granted to him now is on the premise that the offence alleged is only under Section 304-B of IPC.",
+    "When the offence is found to be under Section 302 IPC the bail will automatically stand cancelled. The question of releasing the accused on bail in such a contingency will depend on the order which may be passed by the court concerned on an application moved by him."
+  ],
+  "issues": [],
+  "petitioner_arguments": [
+    "The offence committed by the respondent would fall under Section 302 of the Indian Penal Code."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "We dispose of this SLP without prejudice the right of the petitioner as well as the State to move for cancellation of bail if the investigating agency comes to the conclusion that the offence is under Section 302 of the IPC.",
+    "It may not be necessary for the State to move for cancellation of bail if the offence escalates to 302 IPC because bail granted to him now is on the premise that the offence alleged is only under Section 304-B of IPC.",
+    "When the offence is found to be under Section 302 IPC the bail will automatically stand cancelled. The question of releasing the accused on bail in such a contingency will depend on the order which may be passed by the court concerned on an application moved by him."
+  ],
+  "holding": [
+    "The SLP is dismissed subject to the above observations.",
+    "Petition dismissed."
+  ],
+  "cases_cited": [
+    "Shyam Swarup Singhal v Kapil"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "case_id": "C301",
+  "case_name": "State of Haryana v Ram Pal and Others",
+  "court": "Supreme Court of India",
+  "year": 2005,
+  "judges": [
+    "Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "State of Haryana",
+  "respondent": "Ram Pal",
+  "citations": [
+    "AIR 1982 SC 1215"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "149"
+    },
+    {
+      "act": "Ipc It Is Not Necessary To Attribute Any Particular Overt Act",
+      "section": "149"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "7 February 2005",
+  "outcome": "Unknown",
+  "facts": [
+    "The State of Haryana questions legality of the order passed by the Division Bench of the Punjab and Haryana High Court dismissing its application under Section 378(3) of the Criminal Procedure Code, 1973 (in short the 'Code').",
+    "Respondents faced trial for alleged commission of the offences punishable under Sections 148, 302, 452, 506, 323 read with Section 149 of the Indian Penal Code, 1860 (in short the 'IPC').",
+    "The accusations against the accused persons were that they formed an unlawful assembly and being members of such unlawful assembly, they trespassed into the house of one Dalel Singh (hereinafter referred to as the 'deceased') and inflicted injuries on him and his son Nafe Singh (PW-5) by deadly weapons which they were carrying.",
+    "The date and time of occurrence was stated to be 23.2.1999 at about 6.00 a.m.",
+    "There were two eyewitnesses to the occurrence namely Parma Nand (PW-4), the informant and Nafe Singh, the injured (PW-5).",
+    "Accused persons took the plea of false implication and attributed assaults on the accused persons by the deceased and Nefa Singh (PW-5).",
+    "Three witnesses were examined to further the defence version of false implication.",
+    "The trial Court found the evidence of witnesses to be credible and cogent and found that some of the accused persons were responsible for the injuries on the deceased and the injured PW-5.",
+    "It held that some of the accused persons did not inflict any injury and the assault made by accused Ram Chander was an individual act and the other two accused persons, namely, Ram Pal and Palla Ram were to be convicted for offence punishable under Sections 452 and 323 read with Section 34 IPC.",
+    "It was held that since the total number of persons proved to have committed the offences was only three, provisions of Section 149 were not attracted.",
+    "Ultimately, accused Ram Chander was found guilty of offence punishable under Section 304 Part II IPC and other two accused persons named above for the offences punishable under Sections 452 and 323 read with Section 34 IPC.",
+    "Other accused persons were acquitted of the charges."
+  ],
+  "issues": [
+    "The legality of the order passed by the Division Bench of the Punjab and Haryana High Court dismissing its application under Section 378(3) of the Criminal Procedure Code, 1973 (in short the 'Code').",
+    "Whether the trial Court was correct in finding that some of the accused persons were responsible for the injuries on the deceased and the injured PW-5.",
+    "Whether the provisions of Section 149 IPC were attracted in this case."
+  ],
+  "petitioner_arguments": [
+    "The manner of disposal of the application as done by the High Court is unsustainable.",
+    "The trial Court was required to carefully appraise the entire evidence and then come to a conclusion.",
+    "If the trial Court was at lapse in this regard the High Court was obliged to undertake such an exercise by entertaining the appeal."
+  ],
+  "respondent_arguments": [
+    "The High Court was justified in not interfering with the elaborate judgment of the trial Court, by refusing grant of leave."
+  ],
+  "court_reasoning": [
+    "Reason is the heartbeat of every conclusion, and without the same it becomes lifeless.",
+    "Judicial discipline to abide by declaration of law by this Court, cannot be forsaken, under any pretext by any authority or Court, be it even the highest Court in a State, oblivious to Article 141 of the Constitution of India, 1950 (in short the 'Constitution').",
+    "The giving of reasons is one of the fundamentals of good administration.",
+    "Failure to give reasons amounts to denial of justice."
+  ],
+  "holding": [
+    "In view of the aforesaid legal position, the impugned judgment of the High Court is unsustainable and is set aside.",
+    "We grant leave to the State to file the appeal.",
+    "The High Court shall entertain the appeal and after requisite notice to the respondents hear the appeal and dispose of it in accordance with law, uninfluenced by any observation made in the present appeal."
+  ],
+  "cases_cited": [
+    "State of Haryana v Ram Pal",
+    "as imperative. The view was re-iterated in Jawahar Lal Singh v. Naresh Singh",
+    "respect of administrative orders Lord Denning M.R. in Breen v. Amalgamated Engineering",
+    "sustainable. Similar view has been expressed in State of U.P. v. Battan",
+    "without the same it becomes lifeless. (See Raj Kishore Jha v. State of Bihar"
+  ]
+}

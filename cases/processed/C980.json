@@ -1,0 +1,87 @@
+{
+  "case_id": "C980",
+  "case_name": "Prathap and another v State of Kerala",
+  "court": "Supreme Court of India",
+  "year": 2010,
+  "judges": [
+    "Hon'ble Justice Surinder Singh Nijjar"
+  ],
+  "bench": [],
+  "petitioner": "Prathap and another",
+  "respondent": "State of Kerala\nSupreme Court of India\n\n27 August 2010\nCr.A. Nos. 1198-1199 of 2005\nThe Judgment was delivered by : Hon'ble Justice Surinder Singh Nijjar\n1. These two appeals have been filed against the common judgment of the High Court of Kerala at Ernakulam dated 28.6.2004 in Criminal Appeal No. 432 of 2003 and Criminal Appeal No. 873 of 2003 whereby the High Court dismissed the appeal filed by the appellants herein by confirming the judgment of the trial court convicting and sentencing them u/s. 302 and 149 of the Indian Penal Code. By the same judgment, their conviction u/s. 120(B) was set aside.\n2. The appellants along with eight other persons were tried by the Sessions Court, Kollam, in Sessions case no. 564/1999 for the offences punishable under Section 114, 143, 147, 148, 120(B) & 302 read with S. 149 of Indian Penal Code. It was the case of the prosecution that the deceased Kochukuttan and Murali (CW-11) had assaulted the appellants on 19.5.1997 \"at 9.00",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "120(B)"
+    },
+    {
+      "section": "114"
+    },
+    {
+      "section": "120B"
+    },
+    {
+      "section": "304"
+    },
+    {
+      "section": "141"
+    },
+    {
+      "section": "149"
+    },
+    {
+      "act": "Constitution of India"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "27 August 2010",
+  "outcome": "Unknown",
+  "facts": [
+    "These two appeals have been filed against the common judgment of the High Court of Kerala at Ernakulam dated 28.6.2004 in Criminal Appeal No. 432 of 2003 and Criminal Appeal No. 873 of 2003 whereby the High Court dismissed the appeal filed by the appellants herein by confirming the judgment of the trial court convicting and sentencing them u/s. 302 and 149 of the Indian Penal Code.",
+    "The appellants along with eight other persons were tried by the Sessions Court, Kollam, in Sessions case no. 564/1999 for the offences punishable under Section 114, 143, 147, 148, 120(B) & 302 read with S. 149 of Indian Penal Code.",
+    "The prosecution cited PW-1, PW-2, PW-4 and PW-5 to PW-10 as eye-witnesses.",
+    "It is noticed by the High Court that PW-6 to PW-10 were declared hostile as they did not fully support the prosecution story."
+  ],
+  "issues": [
+    "Whether the presence of the eye-witnesses is doubtful?",
+    "Whether the evidence of the eye-witnesses can be relied upon?",
+    "Whether the appellants can be convicted under S. 302 IPC?",
+    "Whether the identification parade was necessary?"
+  ],
+  "petitioner_arguments": [
+    "The presence of the eye- witnesses is doubtful.",
+    "Even if the alleged eye-witnesses were present, their evidence cannot be relied upon as it would have been impossible to identify the assailants as the scene of occurrence was not a well lit place.",
+    "Assault which led to the death of Kochukuttan is alleged to have taken place at about 7.45 P.M. At the relevant time, there was load shedding of electricity in Kerala.",
+    "The eye-witnesses account is highly suspicious.",
+    "Attacking the evidence of PW1, the learned counsel has submitted that the witness is the brother-in-law of the deceased."
+  ],
+  "respondent_arguments": [
+    "The trial court as well as the High Court has given concurrent findings.",
+    "The evidence having been appreciated twice, by the trial court as also the High Court, does not leave any iota of doubt as to the involvement of the appellants in the murder of the deceased.",
+    "The first information report was registered on the basis of the first information statement given by the brother-in-law of the deceased, PW1 very soon after the incident."
+  ],
+  "court_reasoning": [
+    "The High Court having acquitted all the accused from the charge of criminal conspiracy, there was hardly any evidence of unlawful assembly or common object.",
+    "Any infirmities in not holding the identification parade would be totally irrelevant in case of the appellants as they were previously well known to PW1 and PW2."
+  ],
+  "holding": [
+    "The appeals filed by the two appellants against the conviction and sentence u/s. 302 IPC read with S. 149 of the IPC were dismissed.",
+    "However, the conviction of these two appellants u/s. 120(B) was set aside."
+  ],
+  "cases_cited": [
+    "Chanda and Others Vs. State of U",
+    "Mummidi Hemadri and Others Vs. State of Andhra Pradesh",
+    "Siri Kishan and Others Vs. State of Haryana",
+    "can be fastened on the accused, in the case of Bhagwan Singh Vs. State of M",
+    "proposition was further reiterated in the case of Chanda Vs. State of U",
+    "the principle as stated in the case of Gangadhar Behera Vs. State of Orissa"
+  ]
+}

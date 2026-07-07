@@ -1,0 +1,88 @@
+{
+  "case_id": "S42",
+  "case_name": "None",
+  "court": "None",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "22"
+    },
+    {
+      "section": "15"
+    },
+    {
+      "section": "17"
+    },
+    {
+      "section": "19"
+    },
+    {
+      "section": "33A"
+    },
+    {
+      "section": "33B"
+    },
+    {
+      "section": "36A"
+    },
+    {
+      "section": "10"
+    },
+    {
+      "section": "9C"
+    },
+    {
+      "section": "2A"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "section": "3"
+    },
+    {
+      "section": "4"
+    },
+    {
+      "section": "7"
+    },
+    {
+      "section": "8"
+    },
+    {
+      "section": "5"
+    }
+  ],
+  "legal_domain": "Administrative",
+  "legal_subdomain": "Tribunal",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The appropriate Government may at any time refer an industrial dispute to a Board for promoting a settlement thereof or to a court for inquiry.",
+    "If the dispute relates to any matter specified in the Second Schedule and is not likely to affect more than one hundred workmen, the appropriate Government may make the reference to a Labour Court under clause (c).",
+    "The Central Government may refer an industrial dispute to a National Tribunal if it involves any question of national importance or is of such a nature that industrial establishments situated in more than one State are likely to be interested in, or affected by, such dispute.",
+    "Where the parties to an industrial dispute apply for a reference of the dispute to a Board, Court, Labour Court, Tribunal or National Tribunal, the appropriate Government shall make the reference accordingly."
+  ],
+  "issues": [
+    "What is the scope of the Central Government's power to refer an industrial dispute to a National Tribunal?",
+    "Can the appropriate Government refer an industrial dispute to a Labour Court or Tribunal if it relates to any matter specified in the Second Schedule and is not likely to affect more than one hundred workmen?",
+    "Is the Central Government required to refer an industrial dispute to a National Tribunal if it involves any question of national importance or is of such a nature that industrial establishments situated in more than one State are likely to be interested in, or affected by, such dispute?"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The court held that the Central Government has the power to refer an industrial dispute to a National Tribunal if it involves any question of national importance or is of such a nature that industrial establishments situated in more than one State are likely to be interested in, or affected by, such dispute.",
+    "The court also held that the appropriate Government may refer an industrial dispute to a Labour Court or Tribunal if it relates to any matter specified in the Second Schedule and is not likely to affect more than one hundred workmen."
+  ],
+  "holding": [
+    "The Central Government has the power to refer an industrial dispute to a National Tribunal if it involves any question of national importance or is of such a nature that industrial establishments situated in more than one State are likely to be interested in, or affected by, such dispute.",
+    "The appropriate Government may refer an industrial dispute to a Labour Court or Tribunal if it relates to any matter specified in the Second Schedule and is not likely to affect more than one hundred workmen."
+  ],
+  "cases_cited": []
+}

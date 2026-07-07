@@ -1,0 +1,61 @@
+{
+  "case_id": "C1808",
+  "case_name": "Neelakantan And Bros. Construction v Superintending Engineer, National Highways,Salem And Ors.",
+  "court": "Supreme Court of India",
+  "year": 1988,
+  "judges": [
+    "Sabyasachi Mukharji"
+  ],
+  "bench": [],
+  "petitioner": "Neelakantan And Bros. Construction",
+  "respondent": "Superintending Engineer, National Highways,Salem",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "136"
+    }
+  ],
+  "legal_domain": "Administrative",
+  "legal_subdomain": "Natural Justice",
+  "court_level": "Supreme Court",
+  "decision_date": "16 August 1988",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner company undertook the work of widening and strengthening pavements in Nation Highway No. 7, Madurai-Kanya-kumari Road from Reaches 37.6 k.m. to '1', k.m.",
+    "At the relevant time, according to the petitioner, the Superintending Engineer, National Highways, Salem was one Thiru Mohan.",
+    "He entered into reference and took up the matter for arbitration and called for statements from the parties.",
+    "Statements were filed before him and evidence were also adduced before him.",
+    "But before he could complete the adjudication he was transferred and was succeeded by one Thiru J.R. Cornelius, Superintending Engineer."
+  ],
+  "issues": [
+    "Whether the arbitrator had jurisdiction to proceed with the arbitration after the previous arbitrator's transfer"
+  ],
+  "petitioner_arguments": [
+    "The arbitrator could not complete the award within time and there was need for extension of time.",
+    "The arbitrator has made the award, which was challenged before the learned District Judge by means of a suit under sections 30 and 33 of the Arbitration Act, 1940",
+    "Once an arbitrator had entered into reference, the next incumbent could not conclude the said arbitration proceeding without a fresh agreement."
+  ],
+  "respondent_arguments": [
+    "The parties to the reference either agree beforehand to the method of appointment, or afterwards acquiescence in the appointment made with full knowledge of all the circumstances.",
+    "Attending and taking part in the proceedings with full knowledge of the relevant fact will amount to such acquiescence",
+    "There was no disregard of any principle of law."
+  ],
+  "court_reasoning": [
+    "If the parties to the reference either agree beforehand to the method of appointment, or afterwards acquiescence in the appointment made with full knowledge of all the circumstances, they will be precluded from objection to such appointment as invalidating subsequent proceedings.",
+    "Attending and taking part in the proceedings with full knowledge of the relevant fact will amount to such acquiescence",
+    "Unless there was a patent mistake of law and gross misstatement of facts resulting in miscarriage of justice or of equity, the award remains unassailable."
+  ],
+  "holding": [
+    "The High Court was, therefore, right in upholding the learned District judge's dismissal of the challenge to the award.",
+    "These petitions, therefore, fail and are dismissed accordingly, without any order as to costs."
+  ],
+  "cases_cited": [
+    "Neelakantan And Bros. Construction v Superintending Engineer",
+    "This Court held in N. Challappan v. Secretary",
+    "adjudication by the arbitrator-See Champsey Bhara B Company v. Jivray Ballo Spinning",
+    "of Bachawat, J. in Firm Madanlal Roshanlal Mahajan v. Hukumchand Mills Ltd",
+    "stage. See also the observations of this Court in Prasun Roy v. The Calcutta Metropolitan Development Authority",
+    "the Judicial Committee long ago in Chowdhury Murtaza Hossein v. Mussumat Bibi Bechunnissa"
+  ]
+}

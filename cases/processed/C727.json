@@ -1,0 +1,65 @@
+{
+  "case_id": "C727",
+  "case_name": "State of Andhra Pradesh and Another v Nalla Raja Reddy and Others",
+  "court": "Supreme Court of India",
+  "year": 1967,
+  "judges": [
+    "Subba Rao, J."
+  ],
+  "bench": [],
+  "petitioner": "State of Andhra Pradesh and Another",
+  "respondent": "Nalla Raja Reddy",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "4"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "28 February 1967",
+  "outcome": "Unknown",
+  "facts": [
+    "These 44 appeals by certificate are preferred against the common judgment of a Division Bench of the Andhra Pradesh High Court allowing the petitions filed by the respondents under Art. 226 of the Constitution for directing the State of Andhra Pradesh and other appropriate authorities to forbear from collecting the assessment of land revenue under the provisions of the Andhra Pradesh Land Revenue (Additional Assessment) and Cess Revision Act, 1962 (Act 22 of 1962), hereinafter called the Principal Act, as amended by the Andhra Pradesh Land Revenue (Additional Assessment) and Cess Revision (Amendment) Act, 1962 (Act 23 of 1962), hereinafter called the Amending Act.",
+    "The Principal Act was passed on September 27, 1962 and it came into force on July 1, 1962; and the Amending Act was passed on December 24, 1962, and it came into force on July 1, 1962.",
+    "For convenience of reference the Principal Act as amended by the Amending Act will be called in the course of the judgment as 'the Act'.",
+    "The appellants raised the question of the constitutional validity of the relevant provisions of the Act.",
+    "It is said that the main object in passing the Principal Act was to rationalize the land revenue assessment in the State by bringing uniformity between Telengana and Andhra areas and to raise the rate of revenue in view of the rise in prices and to make the ryots bear equitably their share of the burden of the plans.",
+    "The relevant provisions of the Act, i.e., the Principal Act as amended by the Amending Act, read thus: S. 3.",
+    "In case of dry land in the State, an additional assessment at the rate of seventy-five per cent of the assessment payable for a fasli year for that land shall be levied and collected by the Government from the person liable to pay the assessment for each fasli year in respect of that land: Provided that the additional assessment together with the assessment payable in respect of any such land shall in no case be less than fifty naye paise per acre per fasli year.",
+    "In the case of wet land in the State which Is served by a Government source of irrigation specified in classes 1, II, and III of the Table below, an additional assessment at the rate of one hundred per cent and in the case of wet land in the State which is served by a Government source of irrigation specified in Class IV thereof, an additional assessment at the rate of fifty per cent, of the assessment payable for a fasli year for that land shall be levied and collected by the Government from the person liable to pay the assessment for each fasli year in respect of that land: Provided that the additional assessment together with the assessment payable per acre per fasli year for any wet land specified in column (1) of the Table below shall, in no case, be less than the minimum, or exceed the maximum, specified in the corresponding entry against that land.",
+    "The High Court in deciding against the constitutional validity of the said provisions gave in effect the following findings: (1) Under s. 3 of the Act there is no classification at all in the case of dry lands.",
+    "The ayacut basis adopted in the Table under S. 4 of the Act has no rational relation to the taram or quality of the land or the nature of the irrigation source.",
+    "The minimum fixed by the proviso in many cases is more than 100 per cent increase fixed by the section and thus, the proviso has exceeded the section.",
+    "The Act is silent as to the machinery for making the assessment, the criteria for fixation of the assessment, within the range of a fixed maximum and a minimum the rights and remedies of the assesses and the obligation of the Government to survey the lands."
+  ],
+  "issues": [
+    "Constitutional validity of the relevant provisions of the Act",
+    "Reasonable classification at all in the case of dry lands",
+    "Rational relation between the quality of the land and the ayacut",
+    "Procedure for assessment"
+  ],
+  "petitioner_arguments": [
+    "The Legislature did was nothing more than imposing a surcharge on previous rates fixed on the basis of tarams in the case of lands in Andhra and bhagana in the case of lands in Telengana.",
+    "There is a correlation between the extent of the ayacut and the duration of water supply.",
+    "The said section, by reference, incorporated the pro-existing procedure for assessment in Andhra under the Board's Standing Orders and in Telengana tinder the relevant Acts."
+  ],
+  "respondent_arguments": [
+    "From time immemorial land assessment, both in Andhra and in Telengana, was scientifically settled on the basis of taram or bhagana, as the case may be, depending upon the quality and the productivity of the soil.",
+    "The Act omitted the entire machinery for assessment which would be found in almost every taxation statuts and conferred an arbitrary and uncanalized power on the appropriate authority to impose assessments."
+  ],
+  "court_reasoning": [
+    "The High Court struck down the said provisions on the ground that they offend Arts. 14 and 19 of the Constitution for three reasons, namely (i) in the case of dry lands there is no reasonable classification at all as the flat minimum rate of 50 naye paise per acre has no relation to the fertility of the land, (ii) in regard to wet land there is no reasonable relation between the quality of the land and the ayacut to which it belongs, and (iii) the procedure prescribed for the ascertainment of the rate is arbitrary and uncontrolled."
+  ],
+  "holding": [
+    "The High Court struck down the said provisions on the ground that they offend Arts. 14 and 19 of the Constitution."
+  ],
+  "cases_cited": [
+    "Constitution, did not express a final opinion thereon.Mr. S. V. Gupte",
+    "Court in H. H. Vishwasha Thirtha Swamiar or Sri Pejawar Mutt v. The",
+    "State of Andhra Pradesh and Another v Nalla Raja Reddy",
+    "learned counsel for the appellant may now be noticed. In C. V. Rajagopalachariar v",
+    "statutes. This Court in Kunnathat Thathunni Moopil Nair v. The"
+  ]
+}

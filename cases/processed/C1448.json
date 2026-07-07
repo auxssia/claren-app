@@ -1,0 +1,65 @@
+{
+  "case_id": "C1448",
+  "case_name": "Umesh v State Of Maharashtra",
+  "court": "Supreme Court of India",
+  "year": 2007,
+  "judges": [
+    "Lokeshwar Singh Panta"
+  ],
+  "bench": [],
+  "petitioner": "Umesh",
+  "respondent": "State Of Maharashtra\nSupreme Court of India\n\n7 February 2007\nAppeal (crl.) 744 of 2006\nThe Judgment was delivered by : Lokeshwar Singh Panta, J.\nUmesh, the accused in Sessions Case No.15 of 1998 on the file of the Sessions Judge, Amravati, is the appellant before us.\n1. The appellant was charged under Section 302 of the Indian Penal Code (for short 'IPC') for committing the murder of Dilip Ganpatrao Shirbhate on 26.11.1997. The broad facts giving rise to this appeal may be set out briefly.\n2.  The prosecution case is that on 26.11.1997 in the midnight Vasant Shankarrao Bijwe, resident of Vivekanand Colony, Warud, lodged a report (Ext. 32) at Warud Police Station, Sub-division Morshi, District Amravati, alleging that when he was sleeping in his house, one Anil Ramrao Gulhane, resident of Warud, came there and told him that Dilip Ganpatrao Shirbhate resident of Warud was found lying in injured condition near the shop of Patel situated near Bombay Lodge. Vasant Shankarrao Bijwe im",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "27"
+    },
+    {
+      "act": "Code Of Criminal Procedure Denied",
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "7 February 2007",
+  "outcome": "Unknown",
+  "facts": [
+    "The broad facts giving rise to this appeal may be set out briefly.",
+    "Vasant Shankarrao Bijwe immediately went to the spot of occurrence and found Dilip Ganpatrao Shirbhate, his brother-in-law (wife's brother) lying dead.",
+    "He noticed injury on the chest of Dilip-the deceased.",
+    "The clothes of the deceased were smeared with blood.",
+    "PW-7 had inspected the spot and prepared Panchnama.",
+    "He sent the dead-body for autopsy."
+  ],
+  "issues": [
+    "Whether the High Court committed a serious error in appreciating the evidence of the alleged eye-witnesses",
+    "Whether undue importance has been given to the recovery of the weapon of offence (knife)",
+    "Whether no motive has been attributed to the appellant for commission of the offence"
+  ],
+  "petitioner_arguments": [
+    "The High Court committed a serious error in appreciating the evidence of the alleged eye-witnesses",
+    "Undue importance has been given to the recovery of the weapon of offence (knife)",
+    "No motive has been attributed to the appellant for commission of the offence"
+  ],
+  "respondent_arguments": [
+    "The evidence of the eye-witnesses supported by other ocular and documentary evidence has been rightly examined and appreciated",
+    "No adverse inference can be drawn against the prosecution for non-examination of the informant and other witness because the prosecution has fully established the charge against the appellant beyond reasonable doubt"
+  ],
+  "court_reasoning": [
+    "The learned Sessions Judge as well as the High Court have accepted the testimony of eye-witnesses PW-1 and PW-2 to the incident.",
+    "Their evidence is cogent, reliable and convincing and there is no good reason to disbelieve and discard their consistent and truthful version.",
+    "To discard the evidence of a witness on the ground that he did not react in any particular manner is to appreciate the evidence in a wholly unrealistic and unimaginative way."
+  ],
+  "holding": [
+    "The prosecution has been able to establish the offence against the appellant beyond reasonable doubt.",
+    "None of the contentions raised by the learned counsel on behalf of the appellant can be accepted.",
+    "As a result of the aforementioned discussion, this appeal is dismissed and the conviction and sentence imposed upon the appellant is maintained."
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,67 @@
+{
+  "case_id": "C1638",
+  "case_name": "Mallikarjuna Rao And Ors. Etc. Etc v State Of Andhra Pradesh And Ors. Etc. Etc",
+  "court": "Supreme Court of India",
+  "year": 1990,
+  "judges": [
+    "Kuldip Singh"
+  ],
+  "bench": [],
+  "petitioner": "Mallikarjuna Rao And Ors. Etc. Etc",
+  "respondent": "State Of Andhra Pradesh",
+  "citations": [
+    "1972 1 SCR 940"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "10 April 1990",
+  "outcome": "Unknown",
+  "facts": [
+    "The conditions of service of the Andhra Pradesh Animal Husbandry Department were initially governed by the Andhra Pradesh Animal Husbandry Service Rules, 1961 (hereinafter called 1961 Rules).",
+    "Under these Rules Veterinary Assistant Surgeons were eligible for promotion to three different categories of posts called class IV posts and Rule 6 provided special eligibility qualifications for those posts.",
+    "Some of the Veterinary Assistant Surgeons challenged the vires of Rule 6 of the 1961 Rules by way of Civil Writ Petition No. 4532 of 1971 in the Andhra Pradesh High Court.",
+    "The learned Single Judge by his judgment dated August 24, 1973 rejected the contentions of the writ petitioners in the following words:",
+    "The State Government amended Rule 6 of the 1961 Rules on May 10, 1976 by which the categories of Class IV posts were increased to thirteen.",
+    "The 1961 Rules were superseded by the Andhra Pradesh Animal Husbandary Service--Special Rules, 1977 (hereinafter called the Special Rules) which came into force on September 24, 1977."
+  ],
+  "issues": [
+    "Can the High Court/Administrative Tribunal direct the State Government to frame or amend the existing statutory rules to alter the conditions of service of the civil servants in terms of the directions?",
+    "When there are specialised posts in a feeder cadre and also in the higher cadre, can the Government restrict the promotions from feeder cadre to the higher cadre only speciality-wise irrespective of the seniority?"
+  ],
+  "petitioner_arguments": [
+    "It was alleged that at the time of recruitment all the Veterinary Assistant Surgeons possessed Bachelor Degree in Veterinary Science and the special qualifications and training prescribed under Rule 6 could only be acquired after joining as Veterinary Assistant Surgeon and that also at the discretion of the Government.",
+    "It was open to the Government to choose any person for the specialised training and may deny such an opportunity to another person who may be equally or better suited for such training."
+  ],
+  "respondent_arguments": [
+    "The main reason for contending that Rule 6 is ultra vires was not that it prescribed certain qualifications but because in the absence of any guiding principles the Government would be enable to pick and choose persons who would be given opportunities to obtain those qualifications which would enable them to get promotion."
+  ],
+  "court_reasoning": [
+    "I do not find it possible to agree with the broad contention that Rule 6 is ultra vires and unconstitutional for the reasons stated by the petitioners.",
+    "Though I have held that Rule 6 is not unconstitutional there cannot be any doubt that as this stand at present, it is left to the discretion of the authorities concerned to post any particular Veterinary Surgeon to any Special Section or to give him training in any advanced course.",
+    "It is not advisable to it that a particular authority however high placed he may be to choose persons at his sweet will and pleasure to undergo training in a particular field or have service in a particular sections especially when such training and service would effect the chances of promotion to higher posts."
+  ],
+  "holding": [
+    "I therefore see no reason for declaring Rule 6 as ultra vires and unconstitutional.",
+    "The Tribunal in its judgment posed the question to be decided in the following manner: 'The question to be decided is whether the Department of Animal Husbandry is justified in not following the directions of the A.P. High Court referred to above.'"
+  ],
+  "cases_cited": [
+    "Assistant Surgeons come under the heading class V and are divided into seven categories",
+    "IV and so on. Although there is one common seniority of class V officers but",
+    "Mallikarjuna Rao And Ors. Etc. Etc v State Of Andhra Pradesh",
+    "This Court relying on Narender Chand Hem Raj & Ors. v. Lt. Governor",
+    "and State of Himachal Pradesh v. A parent of a student of medical college",
+    "and promotions from class V to class IV be made on",
+    "further argued that the posts in seven categories of class V are inter-transferable",
+    "held in Asif Hameed & Ors. v. State of Jammu & Kashmir &",
+    "not only given at the time of initial recruitment into class V service but also subsequently as",
+    "of the Special Rules provides method of promotion from class V to Class IV",
+    "other class V officers filed Representation Petition No",
+    "to merge all the respective categories in class IV and class V of theSpecial Rules"
+  ]
+}

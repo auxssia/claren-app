@@ -1,0 +1,50 @@
+{
+  "case_id": "C925",
+  "case_name": "Laxman v State of Haryana",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Laxman",
+  "respondent": "State of Haryana\nSupreme Court of India\n\n19 February 2002\nCr.A. No. 694 of 1992\nThe Order of the Court was as follows:\n1.  The appellant along with Ram Parshad and Sarup Chand was tried for the offences punishable under sections 302, 325 and 323 read with section 34 of the Indian Penal Code, 1860. by the additional sessions judge, Gurgaon. Accused Sarup Chand was given the benefit of doubt and the appellant along with Ram Parshad was convicted for the commission of offence punishable under sections 302, 325 and 323 read with section 34 of the Indian Penal Code, 1860. Both were sentenced to life imprisonment for the main offence.\n2. In appeal, the conviction of the appellant and Ram Parshad under section 302 was altered holding them guilty for the offence punishable under section 304 part-I besides offences under sections 325, 323 read with section 34 Indian Penal Code, 1860. The appellant and Ram Parshad were sentenced to undergo rigorous imprisonment for 10 years for the main",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "34"
+    },
+    {
+      "act": "Indian Penal Code",
+      "section": "300"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "19 February 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "On 10th February, 1989, Umesh, complainant along with his brother Naresh, deceased, Ram Bhagat and Ram Phal had come to village Jacubpura, Gurgaon in the marriage party of Bhim Singh's son.",
+    "At about 5.45 p.m., when the deceased was returning home and had reached in front of Dharamshala, Ram Parshad with a broken bottle in his hand, appellant with an iron rod and Sarup Chand came suddenly from back side and started abusing the deceased, his brother and Ram Bhagat.",
+    "The accused fled away on hearing noise of the victims, many people came on the spot.",
+    "There was no enmity between the parties and the occurrence had suddenly taken place without any provocation."
+  ],
+  "issues": [
+    "Whether the prosecution proved the existence of common intention"
+  ],
+  "petitioner_arguments": [
+    "The prosecution did not prove the existence of common intention. Such intention could not be gathered even from the circumstances of the case.",
+    "As only one injury is shown to have been caused to the deceased in heat of passion and on sudden provocation, the appellant could not be held to be sharing any intention with the co-accused to cause such an injury."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The prosecution failed to prove the existence of common intention between the accused Ram Parshad and the appellant without which the appellant could not be convicted for the main offence punishable under section 304 part-I.",
+    "He is, however, liable to be convicted for his individual acts which are punishable under sections 325 and 323 of the Indian Penal Code, 1860."
+  ],
+  "holding": [
+    "The appeal is partly allowed by setting aside the conviction and sentence of the appellant under section 304 part-I read with section 34 of the Indian Penal Code, 1860.",
+    "His conviction under sections 325, 323 is, however, upheld.",
+    "The appellant has already undergone the aforesaid sentence. As the appellant is already on bail, his bail bonds shall stand discharged."
+  ],
+  "cases_cited": []
+}

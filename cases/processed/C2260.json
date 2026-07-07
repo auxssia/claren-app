@@ -1,0 +1,66 @@
+{
+  "case_id": "C2260",
+  "case_name": "Bharwad Jakshibhai Nagjibhai and Others v State of Gujarat",
+  "court": "Supreme Court of India",
+  "year": 1995,
+  "judges": [
+    "M. K. Mukherjee"
+  ],
+  "bench": [],
+  "petitioner": "Bharwad Jakshibhai Nagjibhai and Others",
+  "respondent": "State of Gujarat\nSupreme Court of India\n\n24 August 1995\nCriminal Appeal No. 381 of 1989\nThe Judgment was delivered by : M. K. Mukherjee, J.\nFifteen persons were put up for trial before the Additional Sessions Judge, Ahmedabad (Rural) at Narol for rioting with deadly weapons, committing the murder of Govindbhai Girdharbhai and attempting to commit the murders of Arvind Kumar Kanjibhai and Vinodchandra Keshavlal. The trial Judge acquitted them of all the charges and aggrieved thereby the State of Gujarat preferred an appeal. The High Court admitted the appeal against seven out of the fifteen acquitted and dismissed it summarily as regards",
+  "citations": [
+    "AIR 1972 SC 2020",
+    "AIR 1983 SC 753",
+    "AIR 1988 SC 1998",
+    "AIR 1988 SC 696"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "149"
+    },
+    {
+      "act": "Ipc Applies Not Only To Offence Act",
+      "section": "149"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "24 August 1995",
+  "outcome": "Unknown",
+  "facts": [
+    "In December, 1980 there was an election of Bavla Nagar Panchayat which was mainly contested by two groups, one consisting of the members of the Bharwad community and the other of Patels.",
+    "Since then the relations between the two communities, who reside in two separate localities, in the town of Bavla were strained.",
+    "On June 2, 1981 at or about 6 P.M. about 40 to 50 members of the Bharwad community, including the accused persons, came out of their locality armed with deadly weapons like sticks, dharias and farsis and proceeded towards the market shouting that they would beat and kill the members of the Patel community.",
+    "The first attack was on Govindbhai who, owing to the injuries inflicted upon him, expired on the following day, that is, on June 3, 1981.",
+    "The second attack was on Arvind who saved his life by entering into the shop of one Bipinbhai.",
+    "Lastly the mob went to the shop of Vinod, dragged him out and assaulted him."
+  ],
+  "issues": [
+    "Whether the High Court was justified in setting aside the judgment of the trial Judge and convicting the accused-appellants under Sections 326 IPC simpliciter or with the aid of Section 149 IPC.",
+    "Whether the convictions of the accused-appellants were liable to be altered and having regard to the fact that since the offences were allegedly committed more than fourteen years had elapsed and each of the accused appellants had already served about 10 months of imprisonment the substantive sentence imposed upon them might be reduced to the period already undergone."
+  ],
+  "petitioner_arguments": [
+    "The learned counsel appearing for the accused-appellants criticised the judgment of the High Court on the ground that it ought not have set aside the judgment of the trial Judge merely because a different view of the evidence could be taken, more so, when the latter was based on a detailed and proper discussion and appreciation of the evidence.",
+    "The other contention of Mr. Ramaswamy was that even if it was assumed that the High Court was justified in setting aside the acquittal it was not at all justified to convict the accused-appellants under Sections 326 IPC simpliciter or with the aid of Section 149 IPC as from the evidence of the eye-witnesses and the doctors the only conclusion that could be drawn was that the accused persons shared the common object of committing the offence of simple hurt punishable either under Section 323 IPC or, at best, under Section 324 IPC."
+  ],
+  "respondent_arguments": [
+    "According to Mr. Lalit the facts and circumstances leading to the death of Govindbhai unmistakably proved that the common object of the unlawful assembly was to commit his murder and consequently, as members of the unlawful assembly, each of the accused persons was liable to be convicted under Section 302 read with Section 149 IPC.",
+    "Mr. Lalit next urged that even if it was held that the common object of the unlawful assembly was to cause grievous hurt to Govindbhai, at least, the accused-appellant Nos. 1 and 2 namely, Bharwad Jakshibhai Nagjibhai and Bharwad Bhikhabhai Nathabhai must be held to be guilty of the offences under Section 302 read with Section 34 IPC as the injuries caused by them with an iron ringed stick and dhariya respectively resulted in his death."
+  ],
+  "court_reasoning": [
+    "The High Court was fully conscious, and did not transgress the bounds of its appellate powers while dealing and reversing the order of acquittal.",
+    "As already noticed the prosecution case was that the successive assaults on Govindbhai, Arvind and Vinod were parts of the same transaction and outcome of one and the same common object and not isolated incidents.",
+    "The High Court posed the basic question as to whether the prosecution succeeded in proving that 40-50 members of Bharwad community formed an unlawful assembly and considering the evidence of the eye witnesses answered it in the affirmative."
+  ],
+  "holding": [
+    "The appeal was ultimately allowed and all the seven accused were convicted under Sections 148 and 326 read with section 149 IPC for causing grievous hurt to Govindbhai.",
+    "For the injuries caused to Arvind and Vinod some of them were convicted under sections 324 and 326 IPC (mimoliciter) respectively and the rest with the aid of Section 149 IPC.",
+    "Rigorous imprisonment ranging from 1 to 3 years and fines were imposed with a direction that the substantive sentences shall run concurrently."
+  ],
+  "cases_cited": [
+    "Sohrab vs. State of M"
+  ]
+}

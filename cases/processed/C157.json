@@ -1,0 +1,120 @@
+{
+  "case_id": "C157",
+  "case_name": "State of West Bengal and Others v Committee For Protection of Democratic Rights, West Bengal and Others",
+  "court": "Supreme Court of India",
+  "year": 2010,
+  "judges": [
+    "K. G. Balakrishnan"
+  ],
+  "bench": [],
+  "petitioner": "State of West Bengal and Others",
+  "respondent": "Committee For Protection of Democratic Rights, West Bengal",
+  "citations": [
+    "AIR 1950 SC 27",
+    "AIR 1962 SC 305"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "6249"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Arms Act, 1959"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "142"
+    },
+    {
+      "section": "6"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "246"
+    },
+    {
+      "section": "3"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "21"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "31"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "17 February 2010",
+  "outcome": "Unknown",
+  "facts": [
+    "One Abdul Rahaman Mondal (hereinafter referred to as, \"the complainant\") along with a large number of workers of a political party had been staying in several camps of that party at Garbeta, District Midnapore, in the State of West Bengal.",
+    "On 4th January, 2001, the complainant and few others decided to return to their homes from one such camp.",
+    "When they reached the complainant's house, some miscreants, numbering 50-60, attacked them with firearms and other explosives, which resulted in a number of casualties.",
+    "The complainant managed to escape from the place of occurrence, hid himself and witnessed the carnage.",
+    "He lodged a written complaint with the Garbeta Police Station on 4th January, 2001 itself but the First Information Report (\"the FIR\" for short) for offences under Sections 148/149/448/436/364/302/201 of the Indian Penal Code, 1860 (for short \"the IPC\") read with Sections 25/27 of the Arms Act, 1959 and S. 9 (B) of the Explosives Act, 1884 was registered only on 5th January, 2001.",
+    "On 8th January, 2001, Director General of Police, West Bengal directed the C.I.D. to take over the investigations in the case."
+  ],
+  "issues": [
+    "Whether the High Court, in exercise of its jurisdiction u/art. 226 of the Constitution of India, can direct the Central Bureau of Investigation (for short \"the CBI\"), established under the Delhi Special Police Establishment Act, 1946 (for short \"the Special Police Act\"), to investigate a cognizable offence, which is alleged to have taken place within the territorial jurisdiction of a State, without the consent of the State Government."
+  ],
+  "petitioner_arguments": [
+    "From the said Constitutional and Statutory provisions it is evident that there is a complete restriction on Parliament's legislative power in enacting any law permitting the police of one State to investigate an offence committed in another State, without the consent of that State.",
+    "The separation of powers between the three organs of the State, i.e. the Legislature, the Executive and the Judiciary would require each one of these organs to confine itself within the field entrusted to it by the Constitution and not to act in contravention or contrary to the letter and spirit of the Constitution.",
+    "If the Parliament were to pass a law which authorises the police of one State to investigate in another State without the consent of that State, such a law would be pro tanto invalid and, therefore, the rule of law would require the courts, which are subservient to the Constitution, to ensure that the federal structure embodied in the Constitution as a basic principle, is not disturbed by permitting/directing the police force of a State to investigate an offence committed in another State without the consent of that State."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The thrust of argument of the learned counsel was that both, the federal structure as well as the principles of separation of powers, being a part of the basic structure of the Constitution, it is neither permissible for the Central Government to encroach upon the legislative powers of a State in respect of the matters specified in List II of the Seventh Schedule nor can the superior courts of the land adjure such a jurisdiction which is otherwise prohibited under the Constitution.",
+    "When even Art. 142 of the Constitution cannot be used by this Court to act contrary to the express provisions of law, the High Court cannot issue any direction ignoring the Statutory and Constitutional provisions."
+  ],
+  "holding": [
+    "The Court deemed it appropriate to hand over the investigation into the said incident to the CBI."
+  ],
+  "cases_cited": [
+    "Bench of nine Judges of this Court in I.R. Coelho (D) By LRs. v. State of Tamil Nadu",
+    "Central Government in this context, in Vineet Narain & Ors. v. Union of India &",
+    "Fertilizer Corporation Kamgar Union (Regd.), Sindri & Ors. v. Union of India &",
+    "In M. Nagaraj & Ors. v. Union of India &",
+    "In Tirupati Balaji Developers (P) Ltd. & Ors. v. State of Bihar &",
+    "Kharak Singh v. State of U",
+    "L. Chandra Kumar v. Union of India &",
+    "Later, similar view was echoed in Smt. Indira Nehru Gandhi v. Shri Raj Narain &",
+    "Minerva Mills Ltd. & Ors. v. Union of India &",
+    "Minor Irrigation & Rural Engineering Services, U.P. & Ors. v. Sahngoo Ram Arya &",
+    "Nilabati Behera v. State of Orissa &",
+    "Recently in State of U.P. & Ors. v. Jeet S",
+    "S.R. Bommai & Ors. v. Union of India &",
+    "State of West Bengal and Others v Committee For Protection of Democratic Rights",
+    "and Kazi Lhendup Dorji v. Central Bureau of Investigation &",
+    "and Kuldip Nayar & Ors. v. Union of India &",
+    "and L. Chandra Kumar v. Union of India &",
+    "and held in its landmark judgment in Maneka Gandhi v. Union of India",
+    "and the needs of time and polity. In Kehar Singh & Anr. v. Union of India &",
+    "by this Court in The Management of Advance Insurance Co. Ltd. v. Shri Gurudasmal &",
+    "case of His Holiness Kesavananda Bharati Sripadagalvaru v. State of Kerala &",
+    "decision of this Court in Dwarkanath, Hindu Undivided Family v. Income-Tax Officer",
+    "generous and purposive construction. In Sakal Papers (P) Ltd. v. Union of India",
+    "is the early decision of the Supreme Court in A.K. Gopalan v. State of Madras",
+    "of the Constitution Bench in Supreme Court Bar Association v. Union of India &",
+    "of the Supreme Court of Canada in Lawson A.W. Hunter & Ors. v. Southam Inc",
+    "on the decisions of this Court in State of Rajasthan & Ors. v. Union of India &",
+    "redress. (per P.N. Bhagwati, J. in Bandhua Mukti Morcha v. Union of India &",
+    "which is supreme and sovereign. As observed in Raja Ram Pal v. Hon'ble Speaker"
+  ]
+}

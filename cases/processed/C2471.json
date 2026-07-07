@@ -1,0 +1,57 @@
+{
+  "case_id": "C2471",
+  "case_name": "Union of India and Another v Ashok Kumar Mitra",
+  "court": "Supreme Court of India",
+  "year": 1995,
+  "judges": [
+    "Dr. A. S. Anand"
+  ],
+  "bench": [],
+  "petitioner": "Union of India and Another",
+  "respondent": "Ashok Kumar Mitra\nSupreme Court of India\n\n24 February 1995\nAppeal (crl.) 311-12 of 1995\nThe Judgment was delivered by : Dr. A. S. Anand, J.\nLeave granted.\n1. The only question that we are called upon to consider in these appeals is whether the employees of a nationalised Bank can be held to be 'public servants' within the meaning of Section 21 of Indian Penal Code and triable by Special Courts for the offences triable by these courts. The question arises in the following circumstances.\n2. The respondent was the Branch Manager of Bank of India at the relevant time. A case was registered against him and another person for offences under sections 120 B, 420, 409, 467, 468, and 477A IPC and Section 5(2) read with Section 5(1)(c)(d) of the Prevention of Corruption Act, 1947. After completion of investigation by the CBI, charge-sheet was filed in the Court of the Special Judge at Alipur, Calcutta on 4 December 85. Cognizance was taken but before charges were fram",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "21"
+    },
+    {
+      "act": "Companies Act",
+      "section": "617"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "24 February 1995",
+  "outcome": "Unknown",
+  "facts": [
+    "The respondent was the Branch Manager of Bank of India at the relevant time.",
+    "A case was registered against him and another person for offences under sections 120 B, 420, 409, 467, 468, and 477A IPC and Section 5(2) read with Section 5(1)(c)(d) of the Prevention of Corruption Act, 1947.",
+    "After completion of investigation by the CBI, charge-sheet was filed in the Court of the Special Judge at Alipur, Calcutta on 4 December 85.",
+    "Cognizance was taken but before charges were framed, the respondent moved a petition for his discharge before the Special Judge stating that he is not a 'public servant' and therefore cannot be tried by the Special Court."
+  ],
+  "issues": [
+    "Whether the employees of a nationalised Bank can be held to be 'public servants' within the meaning of Section 21 of Indian Penal Code and triable by Special Courts for the offences triable by these courts."
+  ],
+  "petitioner_arguments": [
+    "A nationalised bank is a 'Corporation' and not a 'body corporate' as held in Oriental Bank's case (supra) and therefore, the respondent would be squarely covered by the definition of a 'public servant' as per section 21 Twelfth (b) of IPC.",
+    "The employees of Corporations which are owned and controlled by the Central Government and are established by a Central Act, 'Public Servants'?"
+  ],
+  "respondent_arguments": [
+    "The respondent could not be deemed to be a 'public servant' within the meaning of Section 21 of IPC and as such could not be tried by the Special Court."
+  ],
+  "court_reasoning": [
+    "Keeping in view the provisions of the Banks Nationalisation Act we are of the opinion that the nationalised bank is a corporation established by a Central Act and it is owned and controlled by the Central Government,"
+  ],
+  "holding": [
+    "The impugned judgment of the High Court is set aside.",
+    "The trial court shall proceed with the case and conclude it expeditiously."
+  ],
+  "cases_cited": [
+    "Bench of this Court in Ashoka Marketing Ltd, and Anr. v. Punjab National Bank",
+    "In R.C. Cooper v. Union of India",
+    "In State through CBI v. Of. Dogra &",
+    "upon the judgment in Oriental Bank of Commerce and Ors. v. Delhi Development Authority"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "case_id": "C872",
+  "case_name": "State of West Bengal v Haresh C. Banerjee and Others",
+  "court": "Supreme Court of India",
+  "year": 2006,
+  "judges": [
+    "Y. K. Sabharwal"
+  ],
+  "bench": [],
+  "petitioner": "State of West Bengal",
+  "respondent": "Haresh C. Banerjee",
+  "citations": [
+    "1971 2 SCC 330",
+    "1973 1 SCC 120",
+    "1987 2 SCC 179",
+    "1988 2 SCC 52"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "309"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "300A"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "19"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "30 August 2006",
+  "outcome": "Unknown",
+  "facts": [
+    "The validity of Rule 10(1) of the West Bengal Services (Death-cum-Retirement Benefit) Rules, 1971 is in question in this appeal.",
+    "While granting leave to examine the vires of Rule 10(1), it was directed that even if the appeal succeeds, the benefit available to respondent No. 1 as per the judgment of the High Court will not be recalled.",
+    "Pension is not a bounty payable on the sweet-will and the pleasure of the Government and to receive pension is a valuable right of a Government servant is a well-settled legal proposition.",
+    "The question in the present case, however, is not about the deprivation of the said right by the Government by an executive order but is about the Constitutional validity of Rule 10(1) providing for withholding of pension or part thereof in certain cases."
+  ],
+  "issues": [
+    "Whether Rule 10(1) of the West Bengal Services (Death-cum-Retirement Benefit) Rules, 1971 is ultra vires the provisions of Articles 19(1)(f) and 31(1) of the Constitution",
+    "Whether the right to receive pension was a fundamental right at the time of framing of the Rules in 1971"
+  ],
+  "petitioner_arguments": [
+    "The rule in question is not ultra vires as it provides for withholding of pension or part thereof in certain cases",
+    "Pension is not a bounty payable on the sweet-will and the pleasure of the Government and to receive pension is a valuable right of a Government servant",
+    "The authority, in the present case, is contained in the rules [Rule 10(1)], that were framed providing for withholding of the pension"
+  ],
+  "respondent_arguments": [
+    "The rule in question is ultra vires as it provides for withholding of pension or part thereof in certain cases",
+    "Pension was a property and its payment does not depend upon the discretion of the Government",
+    "The right to receive pension was wrongly withheld by an executive order"
+  ],
+  "court_reasoning": [
+    "The judgment in Deokinandan Prasad's case in fact lends support to the vires of the rule since it was held in that case that an employee can be deprived of the pension by an authority of law",
+    "If the Government incurs pecuniary loss on account of misconduct or negligence of a Government servant and if he retires from service before any departmental proceedings are taken against him, it is open to the State Government to initiate departmental proceedings",
+    "The State Government's power to reduce or withhold pension by taking proceedings against a Government servant, even after his retirement is expressly preserved by the rules"
+  ],
+  "holding": [
+    "The appeal is allowed accordingly.",
+    "The impugned judgment to the extent it declares Rule 10(1) ultra vires is set aside."
+  ],
+  "cases_cited": [
+    "In State of Punjab v. K.R",
+    "State of West Bengal v Haresh C",
+    "a reasonable opportunity of hearing. In State of Maharashtra v. M.H",
+    "reference to a decision of this Court in Deokinandan Prasad v. The",
+    "the rule ultra vires is another. In State of Uttar Pradesh v. Brahm Datt Sharma"
+  ]
+}

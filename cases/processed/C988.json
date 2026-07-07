@@ -1,0 +1,58 @@
+{
+  "case_id": "C988",
+  "case_name": "Abdul Aziz v State Of West Bengal And Anr.",
+  "court": "Supreme Court of India",
+  "year": 1995,
+  "judges": [
+    "G. N. Ray"
+  ],
+  "bench": [],
+  "petitioner": "Abdul Aziz",
+  "respondent": "State Of West Bengal",
+  "citations": [
+    "AIR 1952 SC 284"
+  ],
+  "statutes": [
+    {
+      "act": "Tada Act",
+      "section": "15"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 32",
+  "court_level": "Supreme Court",
+  "decision_date": "21 July 1995",
+  "outcome": "Unknown",
+  "facts": [
+    "The Constitutional validity of the provisions of the Terrorists and Disruptive Activities (Prevention) Act, 1987 (hereinafter to be referred to as the TADA Act), particularly the provisions of Section 1 (4) of the Act are sought to be challenged.",
+    "Mr. Ramaswamy, learned Senior Counsel appearing in support of the application, has submitted that in the Constitution Bench decision rendered in Kartar Singh V. State of Punjab (1994 (3) SCC 569), 1994 Indlaw SC 525 the Constitutional validity of Section 1 (4) has not been specifically gone into but consideration of such question has become important because the trial has been allowed to continue even after the lapse of the said Act.",
+    "We may only indicate that in Gopi Chand V. Delhi Administration (1959 Supp. (2) SCR 87) 1959 Indlaw SC 199 this Court specifically noted that in the absence of the saving clause in the Act the trial which may commence for the offences under the said Act, would not be held valid thereafter.",
+    "But in the instant case, Specific saving clause has been provided in the Act itself (TADA Act), As such, the decision in Gopi Chand's case does not apply in the facts of this case."
+  ],
+  "issues": [
+    "The Constitutional validity of the provisions of the Terrorists and Disruptive Activities (Prevention) Act, 1987",
+    "Whether Section 1 (4) of the TADA Act is violative of Articles 14 and 21 of the Constitution"
+  ],
+  "petitioner_arguments": [
+    "In the absence of the saving clause in the Act the trial which may commence for the offences under the said Act, would not be held valid thereafter.",
+    "The classification of 'offenders' and 'offences' so as to decide whether Section 15 is violative of Article 14",
+    "The accused in cases under TADA Act may be subjected to a different procedure for trial of their cases at the discretion of the State Government and such discretionary power is unconstitutional"
+  ],
+  "respondent_arguments": [
+    "The parliament has prescribed the procedure for deciding the cases under TADA Act.",
+    "No discretionary option is left to the State Government to choose the procedure for trial."
+  ],
+  "court_reasoning": [
+    "We may only indicate that in Gopi Chand's case this Court specifically noted that in the absence of the saving clause in the Act the trial which may commence for the offences under the said Act, would not be held valid thereafter.",
+    "As a distinction has been made in TADA Act, grouping the terrorists and disruptionists as a separate class of offenders from ordinary criminals under the normal laws and the classification of the offences under the TADA Act as aggravated form of crimes distinguishable from the ordinary crimes, it has to be tested and determined as to whether this distinction and classification are reasonable and valid within the term of Article 14.",
+    "We may also indicate here that although Section 1 (4) was not specially taken into consideration, the TADA Act was generally held intra vires in Kartar Singh's case."
+  ],
+  "holding": [
+    "In the circumstances, we do not find any merit in this petition and the same is dismissed.",
+    "Petition dismissed"
+  ],
+  "cases_cited": [
+    "Abdul Aziz v State Of West Bengal",
+    "for trial. Hence, the decision in the State of West Bengal Vs. Anwar Ali Sarkar"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "case_id": "C2426",
+  "case_name": "Burmah Shell Oil Storage and Distributing Company, of India Limited, and Another v Commercial Tax Officer and Others",
+  "court": "Supreme Court of India",
+  "year": 1960,
+  "judges": [
+    "Mohammad Hidayatullah"
+  ],
+  "bench": [],
+  "petitioner": "Burmah Shell Oil Storage and Distributing Company, of India Limited, and Another",
+  "respondent": "Commercial Tax Officer",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "286"
+    },
+    {
+      "section": "3"
+    },
+    {
+      "section": "22"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "27 September 1960",
+  "outcome": "Unknown",
+  "facts": [
+    "These two appeals on a certificate u/art. 132(1) of the Constitution have been filed respectively by the Burmah Shell Oil Storage and Distributing Co., of India Ltd., and the Standard Vacuum Oil Company against a common judgment of the High Court of Calcutta dated December 7, 1956.",
+    "The matter arises out of assessment to sales tax on sale of motor spirit for aviation purposes supplied by the appellant-companies to aircraft bound for countries abroad, under the Bengal Motor Spirit Taxation Act, 1941, as amended by s. 2(a)(i) of the Bengal Motor Spirit Sales Taxation (Second Amendment) Act, 1954.",
+    "The Commercial Tax Officer, the Commissioner of Commercial Taxes and the State of West Bengal have been joined as respondents in this Court, as they had previously been joined in the High Court.",
+    "The appellant-companies deal in petroleum and petroleum products, and carry on business at Calcutta. They maintain supply depots at Dum Dum Airport from which aviation spirit is sold and delivered to aircraft proceeding aboard and belonging to several companies.",
+    "It appears that such sales were treated by the Sales Tax Authorities in the State of Bombay as not falling within the taxing Acts in force in the Bombay State by reason of the provisions of Art. 286 of the Constitution.",
+    "The Sales Tax Authorities in West Bengal, however, took a different view of the matter, and after sundry procedure resulting in assessment of tax, presented a demand notice for the tax assessed which was paid under protest by the appellant-companies."
+  ],
+  "issues": [
+    "Whether such sales are made in the course of export of such aviation spirit out of the territory of India",
+    "Whether the power to tax does not exist unless the sale can be said to become 'Explanation sales'",
+    "Whether the sale of such aviation spirit takes place outside the State of West Bengal"
+  ],
+  "petitioner_arguments": [
+    "Such sales are made in the course of export of such aviation spirit out of the territory of India",
+    "The power to tax does not exist unless the sale can be said to become 'Explanation sales'",
+    "The sale of such aviation spirit takes place outside the State of West Bengal"
+  ],
+  "respondent_arguments": [
+    "Such sales are made within the State of West Bengal and the purchaser pays its price within the State of West Bengal",
+    "The refund of customs duty was an irrelevant fact for the purpose of assessment",
+    "At least some of the aviation spirit must be consumed in the State"
+  ],
+  "court_reasoning": [
+    "Either the whole of the sale is within the taxing power of the State or it is not, and the fact that aviation spirit is consumed in taking off or in flying over the territory of West Bengal before it leaves that territory would make no difference either way to the principles applicable.",
+    "The liability to sales tax, if any, is attracted when aviation sprit is sold, and immunity can only be claimed, if, as stated in Art. 286(1)(a) and the Explanation, the sale can be said to take place outside the State or can be regarded under Art. 286(1)(b) as having taken place 'in the course of ....... export of the goods out of, the territory of India'."
+  ],
+  "holding": [
+    "The sales are not taxable under the Bengal Motor Spirit Taxation Act, 1941, as amended by s. 2(a)(i) of the Bengal Motor Spirit Sales Taxation (Second Amendment) Act, 1954."
+  ],
+  "cases_cited": [
+    "Kailash Nath v. State of U",
+    "State of Mysore v. Mysore Spinning",
+    "and Distributing Company, of India Limited, and Another v Commercial Tax Officer",
+    "and Gordhandas Lalji v. B. Banerjee",
+    "case on the subject is State of Travancore-Cochin and Others v. The Bombay Co",
+    "further explained in State of Travancore-Cochin and Others v. Shanmugha Vilas Cashew-nut Factory",
+    "has been well-established. Indeed, in State of Mysore v. Mysore Spinning",
+    "of the sub-clause in The Bengal Immunity Company Limited v. The",
+    "of this Court in State of Travancore-Cochin and Others v. Shanmugha Vilas Cashew-nut Factory",
+    "rulings of this Court. In The State of Bombay and Another v. The United Motors (India",
+    "the decision of this Court in The Bengal Immunity Co., Ltd. v. State of Bihar",
+    "these two cases were accepted and applied in State of Madras v. Gurviah Naidu",
+    "view was expressed. Again, in Messrs Ramnarain Sons Ltd. v. Assistant Commissioner of Sales Tax"
+  ]
+}

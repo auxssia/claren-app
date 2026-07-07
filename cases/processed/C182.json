@@ -1,0 +1,112 @@
+{
+  "case_id": "C182",
+  "case_name": "Ajay Agarwal v Union Of India And Ors",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [
+    "K. Ramaswamy"
+  ],
+  "bench": [],
+  "petitioner": "Ajay Agarwal",
+  "respondent": "Union Of India",
+  "citations": [
+    "1960 2 SCR 89",
+    "1962 2 SCR 101",
+    "1962 2 SCR 116",
+    "1963 1 SCR 253",
+    "1970 2 SCR 760",
+    "1971 1 SCR 119",
+    "1981 3 SCR 68",
+    "AIR 1957 SC 857",
+    "AIR 1964 BOMBAY 133"
+  ],
+  "statutes": [
+    {
+      "section": "188"
+    },
+    {
+      "section": "3"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "120"
+    },
+    {
+      "section": "43"
+    },
+    {
+      "section": "120B"
+    },
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    },
+    {
+      "section": "120A"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "5 May 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant, accused No. 2 in p.Ch. (CBI) No. 40/2, dated February 18, 1985, F.I.R. No. RC No. 2 to 4/1983 dated March 4, 1983 and P.S. SPE/CBI/CTU (E) I/New Delhi, Dist. Delhi and four other namely, V.P. Anand, Baldev Raj Sharma, Bansi Lal and Ranjit Kumar Marwah are accused in the said case.",
+    "It is the prosecution case that the accused hatched a conspiracy at Chandigarh to cheat Punjab National Bank for short'PNB'.",
+    "The Bills of Lading were addressed to PNB at Chandigarh.The cable confirmation of P.N.B. was sent to M/ s Sales International by P.N.B., Chandigarh for confirmation of discrepancy.",
+    "V.P. Anand was present on September 16, 1981 at Dubai and at his instance the Emirats National Bank, Dubai informed the P.N.B., Chandigarh that the discrepancy in the document adeptable to V.P. Anand and claimed to have inspected the goods on board in vessel, M.V. Atefeh.",
+    "During investigation it was found that Vessel M.V. Atefeh was a nonexistent one and three Foreicn Letters of Credit were fabricated on the basis of false and forged shipping documents submitted by the appellant, Ajay Aggarwal to the Emirates National Bank, Dubai."
+  ],
+  "issues": [
+    "Whether the sanction of the Central Govt. as required under proviso to s. 188 of the Code is necessary.",
+    "Whether the conspiracy to cheat PNB was hatched at Chandigarh or elsewhere."
+  ],
+  "petitioner_arguments": [
+    "The appellant was not a privy to the conspiracy.",
+    "He was an N.I.R. businessman at Dubai.",
+    "He never visited Chandigarh.",
+    "Even assuming for the sake of argument that conspiracy had taken place and all act committed in furtherance thereof were also at Dubai, the transaction through bank is only bank to bank transaction.",
+    "Even assuming that some of the offences were committed in India since as per the prosecution case itself that part of the conspiracy and related offences were committed at Dubai, by operation of S. 188 read with the proviso thereto with a non-obstanti clause, absence of sanction by the Central Govt. knocks off the bottom of the jurisdiction of the courts in India to take cognisance of or to enquire into or try the accused."
+  ],
+  "respondent_arguments": [
+    "The conspiracy to cheat PNB was hatched at Chandigarh.",
+    "All the accused committed overt acts in furtherance on the conspiracy at Chandigarh and, therefore, the sanction of the Central Govt. is not necessary.",
+    "There is no need to obtain sanction under s. 188 of the Code."
+  ],
+  "court_reasoning": [
+    "The diverse contentions give rise to the primary question whether the sanction of the Central Govt. as required under proviso to s. 188 of the Code is necessary.",
+    "S. 188 was suitably amended pursuant to the recommendation made by the Law Commission.",
+    "Chapter VIII deals with jurisdiction of the courts in inquiries and trials.",
+    "S. 177 postulates that every offence shall ordinarily be inquired into and tried by a Court within whose local jurisdiction it was committed but exceptions have been engrafted in subsequent sections in the Chapter.",
+    "S. 179 provides venue for trial or enquiry at the place where the act is done or consequences ensued.",
+    "The general principle of international law is that every person, be it a citizen or foreigner who is found within a foreign State is subjected to, and is punishable by, its law."
+  ],
+  "holding": [
+    "The High Court had rightly recorded those findings. There is no need to obtain sanction under s. 188 of the Code."
+  ],
+  "cases_cited": [
+    "Ajay Agarwal v Union Of India",
+    "Commenting upon the ratio laid down in Board of Trade v. Owen",
+    "In Ford v. U. S",
+    "In K. Satwant Singh v. The",
+    "In Mohammed Usman. Mohammad Hussain Manivar & Anr. v. State of Maharashtra",
+    "In Yashpal v. State of Punjab",
+    "This Court in B. G. Barsay v. The",
+    "and Banwari Lal Jhunjhunwala and Ors. v. Union of India",
+    "and K. Satwant Singh v. State of Punjab",
+    "as another exception from the rule in Board of, Trade v. Owen (supra it seems from",
+    "have been committed outside the country. In Mobarik Ali Ahmed v. The",
+    "is a continuing offence. In Director of public Prosecutions v. Door",
+    "is obviated. In Purshottamdas Dalmia v. Stale of West Bengal",
+    "jurisdiction. This view was further reiterated in R.K. Dalmia v. Delhi Administration",
+    "kailash Sharma v. State",
+    "nor continue to remain in India. In lennart Schussler- & Anr. v. Director of Enforcement &",
+    "proved by necessary implication. In Noor Mohammed Yusuf Momin v. State of Maharashtra",
+    "though outside its territorial jurisdiction. In LN. Mukherjee v. The",
+    "while referring the question to the House of Lords in Mulcahy v. Reg"
+  ]
+}

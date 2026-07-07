@@ -1,0 +1,94 @@
+{
+  "case_id": "C2506",
+  "case_name": "A. Sowkath Ali v Union Of India & Ors.",
+  "court": "Supreme Court of India",
+  "year": 2000,
+  "judges": [
+    "A. P. Misra"
+  ],
+  "bench": [],
+  "petitioner": "A. Sowkath Ali",
+  "respondent": "Union Of India &",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "3(1)"
+    },
+    {
+      "section": "3(2)"
+    },
+    {
+      "section": "8"
+    },
+    {
+      "section": "5A"
+    },
+    {
+      "section": "108"
+    },
+    {
+      "section": "5"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "1 August 2000",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner-detenu challenges the detention order dated 23rd December, 1999 passed by the State of Tamil Nadu u/s. 3(1)(i) and (ii) of the Conservation of Foreign Exchange and Prevention of Smuggling Activities Act, 1974.",
+    "The Customs Officers of Directorate of Revenue Intelligence on the 2nd June, 1999 intercepted two passengers by name N. Prabhakaran and Mohd. Ibrahim Abbas at Anna International Air Port, Chennai as they were about to board a flight to Singapore.",
+    "On a search of both the persons foreign currencies and travelling cheques of large amount were recovered from both of them.",
+    "On 7th November, 1999 one Saravanan was apprehended and his statement was recorded.",
+    "This statement implicated the petitioner which describes how he has concealed the foreign currencies in chappals and condoms and attempted to send the same out of India through the aforesaid Prabhakaran and Mohd. Ibrahim Abbas.",
+    "On 26th November, 1999 detenu was summoned to appear before the Directorate of Revenue Intelligence where his statement was recorded.",
+    "He is said to have stated that he had started a travelling agency by name Kurunji Travels in Chennai when he came in contact with the said Saravanan.",
+    "There were two other persons belonging to Colombo and Singapore who have decided to export foreign currencies illegally out of India.",
+    "On the basis of this confessional statement detenu was arrested on 27th November, 1999 when he was already a remand prisoner."
+  ],
+  "issues": [
+    "Whether the detention order is liable to be set aside as there has been a suppression of vital and important document by the sponsoring authority (custom authority) from it being placed before the detaining authority.",
+    "Whether the non-placement of retracted statements of the two co-accused, before the detaining authority, vitiates the detention order."
+  ],
+  "petitioner_arguments": [
+    "The main and only ground pressed by Mr. B. Kumar, learned counsel for the petitioner is that the detention order is liable to be set aside as there has been a suppression of vital and important document by the sponsoring authority (custom authority) from it being placed before the detaining authority.",
+    "Submission is, it is an obligation of the sponsoring authority to place all relevant documents before the detaining authority for him to form his subjective satisfaction.",
+    "Non-placement of any of such relevant document vitiates the detention order."
+  ],
+  "respondent_arguments": [
+    "With regard to the contentions, it is submitted that there has not any suppression of material before the Detaining Authority as alleged.",
+    "The retractions made by Prabakaran and Mohammed Ibrahim Abbas in their bail applications were placed before the Detaining Authority and orders of detention were passed against them on 19.7.1999.",
+    "The bail petitions dated 27.11.1999 and retraction dated 30.11.1999 of the detenu were also placed before the Detaining Authority."
+  ],
+  "court_reasoning": [
+    "It is incumbent to place all the vital materials before the detaining authority to enable him to come to a subjective satisfaction as to the passing of the order of detention as mandatorily required under the Act.",
+    "Every conceivable material which is relevant and vital which may have a bearing on the issue should be placed before the detaining authority."
+  ],
+  "holding": [
+    "We have, therefore, no alternative but to hold that it amounted to denial of the detenus right to make an effective representation and that it resulted in violation of Art. 22(5) of the Constitution of India rendering the continued detention of the detenu illegal and entitling the detenu to be set at liberty in this case."
+  ],
+  "cases_cited": [
+    "A. Sowkath Ali v Union Of India &",
+    "In M. Ahamedkutty Vs. Union of India",
+    "Learned counsel for the petitioner relied on State of U.P. Vs. Kamal Kishore Saini",
+    "Next he relied on Abdul Sathar Ibrahim Manik Vs. Union of India",
+    "Next reliance is also placed in Ahamed Nassar Vs. State of Tamil Nadu",
+    "Next reliance is in the case of Rajappa Neelakantan Vs. State of T",
+    "Next reliance is on Madan Lal Anand Vs. Union of India &",
+    "Next reliance is on Mohd. Shakeel Wahid Ahmed Vs. State of Maharashtra",
+    "Prem Prakash Vs. Union of India &",
+    "Reliance is placed on Prakash Chandra Mehta Vs. Commissioner",
+    "as a narration of fact. He relies on Mst. L.M.S. Ummu Saleema Vs. Shri B",
+    "other hand places reliance on Hosbhiarpur Improvement Trust Vs. President",
+    "reliance on decision of this Court in Prakash Chandra Mehta v. Commissioner",
+    "relying on K. Satyanarayan Subudhi Vs. Union of India &",
+    "with the decisions of this Court in the case of Asha Devi v. K. Shivraj"
+  ]
+}

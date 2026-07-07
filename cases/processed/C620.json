@@ -1,0 +1,88 @@
+{
+  "case_id": "C620",
+  "case_name": "Capt.M. Paul Anthony .. v Bharat Gold Mines Ltd. & Anr.",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [
+    "S. Saghir Ahmad"
+  ],
+  "bench": [],
+  "petitioner": "Capt.M. Paul Anthony ",
+  "respondent": "Bharat Gold Mines Ltd. &",
+  "citations": [
+    "1973 1 SCC 656",
+    "1977 2 SCC 288",
+    "1986 3 SCC 131",
+    "1987 4 SCC 328",
+    "1992 4 SCC 711",
+    "1996 6 SCC 417",
+    "1997 2 SCC 699",
+    "AIR 1960 SC 806",
+    "AIR 1965 SC 155",
+    "AIR 1969 SC 30",
+    "AIR 1973 SC 1183",
+    "AIR 1977 SC 1466",
+    "AIR 1983 SC 803",
+    "AIR 1986 SC 1168",
+    "AIR 1988 SC 2118",
+    "AIR 1992 SC 1981",
+    "AIR 1997 SC 13",
+    "AIR 1997 SC 2232"
+  ],
+  "statutes": [
+    {
+      "section": "15"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "30 March 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant was appointed as a Security Officer on 31.10.1983 at Kolar Gold Fields in Karnataka.",
+    "A raid was conducted by the Superintendent of Police at the house of the appellant from where a mining sponge gold ball weighing 4.5 grams and 1276 grams of 'gold bearing sand' were recovered.",
+    "The next day, namely, on 4th of June, 1985, a charge-sheet was issued proposing a regular departmental inquiry with regard to the recovery of the above articles from his house.",
+    "On 11th of June, 1985, the appellant made a representation to the Disciplinary Authority denying the allegations made against him in the charge sheet and pleaded that the entire episode was a concoction.",
+    "The respondents did not defer the departmental proceedings and continued the proceedings which the appellant could not attend on account of his ill-health and financial difficulties which compelled him to shift to his home-town in Kerala.",
+    "On 3rd of February, 1987, judgment in the criminal case was pronounced and the appellant was acquitted with the categorical findings that the prosecution had failed to establish its case.",
+    "This judgment was communicated by the appellant to the respondents on 12.2.1987 with a request that he may be reinstated, but respondents, by their letter dated 3.3.1987, rejected the request on the ground that the appellant had already been dismissed from service on the completion of the departmental inquiry which was conducted independently of the criminal case and, therefore, the judgment passed by the Magistrate was of no consequence.",
+    "The order of dismissal passed by the respondents was challenged in a departmental appeal which was rejected by the Appellate Authority on 22.7.1987.",
+    "It was, at this stage, that the appellant approached the High Court through a Writ Petition u/art. 226 of the Constitution challenging the validity of the order of dismissal on various grounds, including that the departmental proceedings based on the same set of facts on which the criminal case was launched against him, ought to have been stayed awaiting the result of the criminal case.",
+    "The Writ Petition was allowed by a Single Judge of the High Court on 26.9.1995 with the finding that the departmental proceedings and the criminal case being based on the same set of facts, departmental proceedings should have been stayed till the result of the criminal case and since in the criminal case the appellant had already been acquitted and the prosecution case was not found established, the respondents could not legally refuse reinstatement or the consequent back-wages to the appellant.",
+    "This judgment was, however, set aside by the Division Bench on 17th September, 1997 in a letters patent appeal filed by the respondents."
+  ],
+  "issues": [
+    "Whether departmental proceedings and proceedings in a criminal case launched on the same set of facts can be continued simultaneously",
+    "The question whether the acquittal coupled with other circumstances, specially ex-parte proceedings, will have the effect of vitiating the departmental proccedings or the order of dismissal passed against the appellant"
+  ],
+  "petitioner_arguments": [
+    "The respondents having themselves launched the criminal case were not justified in proceeding with the departmental inquiry which was based on the same set of facts and ought to have stayed those proceedings till the conclusion of the criminal case.",
+    "Since the basis of action in both the cases, namely, the departmental proceedings and the criminal case, was the raid conducted by the Superintendent of Police at the residence of the appellant from where a recovery was also allegedly made, the departmental proceedings were liable to be stayed as the facts and the evidence in both the proceedings were common.",
+    "The appellant was ill and for that reason also the departmental proceedings ought to have been stayed till he had completely recovered.",
+    "The appellant who had been placed under suspension was not being paid the Subsistence Allowance with the result that he fell into serious financial difficulties and could not undertake any journey from his home-town in Kerala to Kolar Gold Fields in Karnataka for participating in the departmental proceedings."
+  ],
+  "respondent_arguments": [
+    "There was no legal bar in holding the departmental proceedings simultaneously with the proceedings in the criminal case, particularly as the level of proof in both the proceedings is different and the purpose with which the departmental proceedings are conducted is also not identical with the purpose with which the criminal case is prosecuted for an offence committed by the employee.",
+    "The standard of proof required in the departmental proceedings is one of preponderance of the probabilities, whereas in a criminal case, the charge has to be proved by the prosecution beyond reasonable doubts."
+  ],
+  "court_reasoning": [
+    "There is a consensus of judicial opinion amongst the High Courts whose decisions we do not intend to refer in this case, and the various pronouncements of this Court, which shall be copiously referred to, on the basic principle that proceedings in a criminal case and the departmental proceedings can proceed simultaneously with a little exception.",
+    "The basis for this proposition is that proceedings in a criminal case and the departmental proceedings operate in distinct and different jurisdictional areas.",
+    "While in the departmental proceedings the standard of proof is one of preponderance of the probabilities, in a criminal case, the charge has to be proved by the prosecution beyond reasonable doubts."
+  ],
+  "holding": [
+    "The Division Bench, it is contended, was not justified in interfering with the judgment passed by the Single Judge who had found it as a positive fact that the departmental proceedings and the criminal case were based on the same set of facts and the evidence in both the cases was common.",
+    "It is this judgment which is under appeal before us."
+  ],
+  "cases_cited": [
+    "Capt.M. Paul Anthony .. v Bharat Gold Mines Ltd",
+    "Manager, Andhra Pradesh State Road Transport Corporation vs. Mohd",
+    "State of M.P. vs. State of Maharashtra",
+    "The case law was reviewed by this Court in Kusheshwar Dubey vs. M/s Bharat Coking Coal Ltd",
+    "Then came the decision in Nelson Motis vs. Union of India &",
+    "This decision was followed in Fakirbhai Fulabhai Solanki vs. Presiding Officer &",
+    "the employee may sustain himself. This Court, in O.P. Gupta vs. Union of India &",
+    "was reviewed once again by this Court in State of Rajasthan vs. B.K"
+  ]
+}

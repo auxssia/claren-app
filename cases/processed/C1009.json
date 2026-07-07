@@ -1,0 +1,81 @@
+{
+  "case_id": "C1009",
+  "case_name": "Supreme Court Legal and Committee Representing v Union Of India",
+  "court": "Supreme Court of India",
+  "year": 1994,
+  "judges": [
+    "AHMADI, J."
+  ],
+  "bench": [],
+  "petitioner": "Supreme Court Legal and Committee Representing",
+  "respondent": "Union Of India\nSupreme Court of India\n\n7 October 1994\nW.P. (Cr.) No. 307 of 1993 (Under Article 32 of the Constitution of India)\nThe Judgment was delivered by: AHMADI, J.\n1. The Narcotic Drugs and Psychotropic Substances Act, 1985 (61 of 1985), hereinafter alluded to as \"the Act\", was enacted inter alia to make stringent provisions for the control and regulation of operations relating to narcotic drugs and psychotropic substances and for matters connected therewith. The enactment received the President's assent on 16-9-1985. The dictionary of the Act is to be found in S. 2 thereof. S. 2(xxix) says that words and expressions used in the Act and not defined but defined in the Code of Criminal Procedure, 1973, hereinafter called \"the Code\", shall have the meanings assigned to them in the Code. The Act is divided into six chapters comprising 83 sections.\nSince in the instant case we are concerned with only a few provisions we need not examin",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "31"
+    },
+    {
+      "section": "36"
+    },
+    {
+      "act": "Narcotic Drugs and Psychotropic Substances Act, 1985"
+    },
+    {
+      "section": "395(1)"
+    },
+    {
+      "section": "36(1)"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "21"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "7 October 1994",
+  "outcome": "Unknown",
+  "facts": [
+    "The Narcotic Drugs and Psychotropic Substances Act, 1985 was enacted to make stringent provisions for the control and regulation of operations relating to narcotic drugs and psychotropic substances.",
+    "A large number of cases in relation to offences under the Act were detected in Bombay and prosecutions were launched against the offenders.",
+    "Until 28-5-1989, these cases were being dealt with by courts having jurisdiction under the Code.",
+    "The Sessions Judge, Bombay, distributed such cases amongst his colleagues who were Additional Sessions Judges.",
+    "After the insertion of Sections 36, 36-A and 36-D by the Amending Act No. 2 of 1989, the State Government published on 4-1-1991, a notification constituting two Special Courts for Greater Bombay.",
+    "By a subsequent notification dated 6-4-1991 published in the Official Gazette Shri Pathan was appointed a Judge of one of the Special Courts constituted by the notification of 4-1-1991.",
+    "On the retirement of Shri Pathan, Shri Ghare succeeded him with effect from 25-2-1992."
+  ],
+  "issues": [
+    "The constitutionality of Section 36-D of the Narcotic Drugs and Psychotropic Substances Act, 1985",
+    "The jurisdiction of Special Courts under Section 36-A of the Act"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The legislature was aware that there may be a time-gap between the coming into force of the provisions contained in Ss. 36 and 36-A and the constitution of the Special Court for the area concerned.",
+    "It has, therefore, provided that offence committed under the Act on or after 29-5-1989 shall be tried by a Court of Session until a Special Court for the area is constituted under Section 36, notwithstanding anything contained in the Code.",
+    "Sub-s. (2) of Section 36-D clarifies that nothing in sub-s. (1) shall be construed to require the transfer of any proceedings to a Special Court if the Court of Session has taken cognizance of the offence under sub-s. (1).",
+    "The provision made in Section 36-D assumes considerable importance in deciding the principle question which arises in this case."
+  ],
+  "holding": [
+    "All offences committed under the Act on or after 29-5-1989 would have to be tried by a Court of Session until a Special Court for the area is constituted under Section 36, notwithstanding anything contained in the Code.",
+    "Offences committed before 29-5-1989 would continue to be tried by courts constituted under the Code."
+  ],
+  "cases_cited": [
+    "held by a Constitution Bench of this Court in A. R. Antulay v. R. S",
+    "which promotes speedy trial. Hussainara Khatoon (IV) v. Home Secy"
+  ]
+}

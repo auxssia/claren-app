@@ -1,0 +1,75 @@
+{
+  "case_id": "C518",
+  "case_name": "Tata Tea Limited And Anr. Etc. v State Of West Bengal And Ors. Etc.",
+  "court": "Supreme Court of India",
+  "year": 1988,
+  "judges": [
+    "Kania, J."
+  ],
+  "bench": [],
+  "petitioner": "Tata Tea Limited And Anr. Etc",
+  "respondent": "State Of West Bengal",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "25"
+    },
+    {
+      "section": "10"
+    },
+    {
+      "section": "8"
+    },
+    {
+      "section": "7A"
+    },
+    {
+      "section": "295"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "5 May 1988",
+  "outcome": "Unknown",
+  "facts": [
+    "These writ petitions are filed by Public Limited Companies growing and manufacturing tea in the States of West Bengal and Kerala respectively.",
+    "The Petitioners in Civil Writ Petitions Nos. 5409-10 of 1980 are the Tata Tea Limited and a shareholder of the said Company.",
+    "The Petitioners in other writ petitions are Tea Companies and shareholders thereof and the Respondents are ranged on similar lines as above.",
+    "As a result of this process, the moisture in the tea is reduced to 4 per cent and it becomes black in colour.",
+    "It is averred that the carrying out of the aforesaid processes is a specialized operation involving the application of modern methods of bio-chemical engineering."
+  ],
+  "issues": [
+    "The challenge therein is to the Constitutional validity of Ss. 3 & 5 of the Bengal Agricultural Income-tax (Amendment) Act, 1980.",
+    "Whether the State Legislature has sought to assume the power, competence and jurisdiction to impose agricultural income-tax on the entire income derived from the sale of tea grown and manufactured by a seller."
+  ],
+  "petitioner_arguments": [
+    "The income derived from the sale of tea grown and manufactured as aforesaid is derived partly from agriculture and partly from manufacture.",
+    "Under the Indian Income-tax Act, 1922 (referred to hereinafter as 'the Act of 1922') and the Rules framed thereunder the income derived from the sale of tea grown and manufactured by a seller has to be computed in the manner laid down in Rule 24 of the Income-tax Rules, 1922."
+  ],
+  "respondent_arguments": [
+    "The State Legislature could only legislate in respect of taxes regarding that part of the income computed by the Income-tax Officer concerned as aforesaid which is treated as agricultural income, namely, 60 per cent of it.",
+    "By the said Amendment Act, sub-section (2A) was added after sub-s. (2) in S. 8 of the Income-tax Bengal Agricultural Act, 1944."
+  ],
+  "court_reasoning": [
+    "The position remained the same even after the Act of 1961 and the Income-tax Rules, 1962 came into force.",
+    "As a result of this, a State Legislature could only legislate in respect of taxes regarding that part of the income computed by the Income-tax Officer concerned as aforesaid which is treated as agricultural income, namely, 60 per cent of it."
+  ],
+  "holding": [
+    "The challenge to the validity of Ss. 3 and 5 of the Amendment Act whereby the said sub-ss. (2) and (2A) of S. 8 were omitted with retrospective effect and S. 25(4) was omitted is upheld."
+  ],
+  "cases_cited": [
+    "Authorities as aforesaid. In the case of State of Tamil Nadu v. Kannan Devan Hills Produce Co",
+    "Bench of this Court in Commissioner of Income-tax, Madras v. R.M",
+    "Court in Anglo- American Direct Tea Trading Co. Ltd. etc. v. Commissioner of Agricultural Income-tax",
+    "In Karimtharuvi Tea Estates Ltd. & Anr. v. State of Kerala &",
+    "In the case of Tea Estate India P. Ltd. v. Commissioner of Income-tax",
+    "Kerala High Court in High Land Produces Co. Ltd. & Anr. etc. v. Inspecting Asstt",
+    "Tata Tea Limited And Anr. Etc. v State Of West Bengal",
+    "decision in the case of Karimtharuvi Tea Estates Ltd. & Anr. v. State of Kerala &",
+    "this Court in the case of Commissioner of Sales Tax, Lucknow v. D.S"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "case_id": "S36",
+  "case_name": "Punishable for using arms, etc.",
+  "court": "",
+  "year": 1988,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "And Such Use Or Act",
+      "section": "7"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "27 05 1988",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "punishable for using arms",
+    "contravention of section 5",
+    "contravention of section 7"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "imprisonment for a term which shall not be less than three years but which may extend to seven years and shall also be liable to fine",
+    "imprisonment for a term which shall not be less than seven years but which may extend to imprisonment for life and shall also be liable to fine",
+    "punishable with death"
+  ],
+  "cases_cited": []
+}

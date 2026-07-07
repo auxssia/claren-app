@@ -1,0 +1,50 @@
+{
+  "case_id": "C2246",
+  "case_name": "Ashok Kumar v Delhi Administration And Ors.",
+  "court": "Supreme Court of India",
+  "year": 1982,
+  "judges": [
+    "Hon'ble Justice A. P. Sen"
+  ],
+  "bench": [],
+  "petitioner": "Ashok Kumar",
+  "respondent": "Delhi Administration",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "5 May 1982",
+  "outcome": "Unknown",
+  "facts": [
+    "The main issue is as to whether the Activities of the petitioner fall within the realm of 'public order' or 'law and order'.",
+    "One Ashok Kumar seeks issuance of a writ of habeas corpus challenging the validity of the order of detention dated August 11, 1981, passed by the Commissioner of Police, Delhi under sub-s. (2) of s. 3 of the National Security Act, 1980.",
+    "The case of the petitioner was placed before the Advisory Board who was of the opinion that there was sufficient cause for the detention of the petitioner and accordingly the Administrator by his order dated September 15, 1981 confirmed the aforesaid detention order under sub-s. (1) of s. 12",
+    "It appears that on August 12, 1981 while the detenu was held at the Central Jail, Tihar in connection with some of the offences committed by him, he was served with the aforesaid order of detention passed a day earlier i.e. on August 11, 1981."
+  ],
+  "issues": [
+    "The main issue is as to whether the Activities of the petitioner fall within the realm of 'public order' or 'law and order'."
+  ],
+  "petitioner_arguments": [
+    "There was denial of the Constitutional imperatives of Art. 22(5) read with s. 8 of the Act which cast a duty on the detaining authority to afford the detenu "
+  ],
+  "respondent_arguments": [
+    "No substance in the contention that there was denial of the Constitutional imperatives of Art. 22(5) read with s. 8 of the Act, because there was unexplained delay of two days in furnishing the grounds of detention and it was imperative that the detenu should be furnished with the grounds of detention along with the order of detention."
+  ],
+  "court_reasoning": [
+    "The normal rule therefore is that the grounds of detention must be communicated to the detenu without avoidable delay.",
+    "It is only in order to meet the practical exigencies of administrative affairs that the detaining authority is permitted to communicate the grounds of detention not later than five days ordinarily and not later than 10 days if there are exceptional circumstances.",
+    "The law is that the detaining authority must, as soon as may be, i.e. as soon as practicable, communicate to the detenu the grounds on which the order of detention has been made."
+  ],
+  "holding": [
+    "The impugned order of detention is not rendered invalid merely because the grounds of detention were furnished two days later.",
+    "There is no substance in the contention that there was denial of the Constitutional imperatives of Art. 22(5) read with s. 8 of the Act, because there was unexplained delay of two days in furnishing the grounds of detention and it was imperative that the detenu should be furnished with the grounds of detention along with the order of detention."
+  ],
+  "cases_cited": [
+    "Ashok Kumar v Delhi Administration"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "case_id": "C2759",
+  "case_name": "Pagoti Sreeramulu and Another v State of Andhra Pradesh",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [
+    "K. Jayachandra Reddy"
+  ],
+  "bench": [],
+  "petitioner": "Pagoti Sreeramulu and Another",
+  "respondent": "State of Andhra Pradesh\nSupreme Court of India\n\n25 November 1993\nThe Judgment was delivered by : K. Jayachandra Reddy, J.\nA gruesome rioting took place on August 18, 1979 at about 6 a.m. in Narasinguballi Village of Srikakulam District. One Panga Sreeramuly, deceased 1 was killed in a cruel manner on the main street of the village and his younger brother Panga Bairagi, deceased 2, was chased, killed and beheaded and the head was thrown away somewhere and the trunk was found in a canal. In respect of this occurrence, 15 accused persons were tried for offences punishable under Sections 147, 148, 302, 302/149, 341 and 201 IPC. The learned trial Judge convicted A- 1 and A-2 under Section 302 IPC simpliciter and sentenced each of them to undergo imprisonment for life and acquitted them of all other charges. The remaining 13 accused were acquitted. The convicted accused preferred an appeal challenging their sentence and the State also filed an appeal challengi",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "149"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "25 November 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "A gruesome rioting took place on August 18, 1979 at about 6 a.m. in Narasinguballi Village of Srikakulam District.",
+    "One Panga Sreeramuly, deceased 1 was killed in a cruel manner on the main street of the village and his younger brother Panga Bairagi, deceased 2, was chased, killed and beheaded and the head was thrown away somewhere and the trunk was found in a canal.",
+    "In respect of this occurrence, 15 accused persons were tried for offences punishable under Sections 147, 148, 302, 302/149, 341 and 201 IPC.",
+    "The learned trial Judge convicted A-1 and A-2 under Section 302 IPC simpliciter and sentenced each of them to undergo imprisonment for life and acquitted them of all other charges.",
+    "The remaining 13 accused were acquitted.",
+    "The convicted accused preferred an appeal challenging their sentence and the State also filed an appeal challenging the acquittal of the 13 remaining accused in the High Court."
+  ],
+  "issues": [
+    "Whether A-1 and A-2 can be convicted under Section 302 read with Section 149 IPC?",
+    "Whether the trial court was correct in convicting only A-1 and A-2 under Section 302 simpliciter?",
+    "Whether the acquittal of other accused is justified?"
+  ],
+  "petitioner_arguments": [
+    "The appellants were acquitted of the charges under Sections 147 and 302/149 IPC even by the trial court.",
+    "The acquittal under those charges has not been challenged before the High Court by the State.",
+    "A-1 and A-2 again could not have been convicted under Sections 302/149 by the High Court.",
+    "The two appellants cannot also be convicted under Section 302 simpliciter in view of the medical evidence that the fatal injury which resulted in the death was attributed to A-10 who was acquitted.",
+    "A-1 and A-2 can only be convicted at the most under Sections 324 or 326 IPC."
+  ],
+  "respondent_arguments": [
+    "The prosecution mainly relied on the evidence of the eyewitnesses PWs 1, 2, 4, 5 and 7.",
+    "PWs 3 and 8 were also examined mainly to speak about the chasing of deceased 2.",
+    "The trial court was not prepared to rely on the evidence of PWs 3 and 8 but relying on the evidence of PWs 1, 2, 4, 5 and 7 convicted only A-1 and A-2."
+  ],
+  "court_reasoning": [
+    "The High Court held that there was an unlawful assembly consisting of 15 persons and the common object of the unlawful assembly was only to kill the two deceased.",
+    "The membership of A-1 and A-2 of the said assembly alone has been established and therefore they could be convicted under Sections 302/149 IPC.",
+    "The medical evidence also corroborates that A-1 armed with a knife, inflicted the injury on the neck of deceased 1 and A-2 dealt a blow with the battle axe on his mouth."
+  ],
+  "holding": [
+    "The conviction of A-1 and A-2 under Section 302 read with Section 149 IPC is upheld.",
+    "The acquittal of other accused is justified.",
+    "A-1 and A-2 can be convicted at the most under Sections 324 or 326 IPC."
+  ],
+  "cases_cited": []
+}

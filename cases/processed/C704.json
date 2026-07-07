@@ -1,0 +1,145 @@
+{
+  "case_id": "C704",
+  "case_name": "Union of India and Another v Pushpa Rani and Others",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "G. S. Singhvi, J."
+  ],
+  "bench": [],
+  "petitioner": "Union of India and Another",
+  "respondent": "Pushpa Rani",
+  "citations": [
+    "AIR 1962 SC 36"
+  ],
+  "statutes": [
+    {
+      "section": "6934"
+    },
+    {
+      "section": "19"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "1400"
+    },
+    {
+      "section": "425"
+    },
+    {
+      "section": "550"
+    },
+    {
+      "section": "260"
+    },
+    {
+      "section": "330"
+    },
+    {
+      "section": "380"
+    },
+    {
+      "section": "5000"
+    },
+    {
+      "section": "55009000"
+    },
+    {
+      "section": "5500"
+    },
+    {
+      "section": "50008000"
+    },
+    {
+      "section": "6500"
+    },
+    {
+      "section": "2750"
+    },
+    {
+      "section": "4500"
+    },
+    {
+      "section": "100"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "309"
+    },
+    {
+      "section": "650010500"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "29 July 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "Respondents Pushpa Rani and six others joined service as Clerks in Ambala and Ferozepur Divisions of the Northern Railway.",
+    "They were promoted as Senior Clerks and then as Head Clerks.",
+    "They filed applications u/s.19 of the Administrative Tribunals Act, 1985 for quashing the instructions issued by the Railway Board vide letter No.PC-III/2003/CRC/6 dated 9.10.2003 for giving effect to the policy of reservation of posts for Scheduled Castes and Scheduled Tribes at the stage of restructuring of Group C and D cadres.",
+    "They pleaded that the exercise of restructuring undertaken by the government resulted in upgradation of the existing posts and in view of the law laid down by the Supreme Court, the policy of reservation cannot be applied while making appointment against the upgraded posts."
+  ],
+  "issues": [
+    "Whether the policy of reservation of posts for Scheduled Castes/ Scheduled Tribes can be applied at the stage of giving effect to cadre restructuring exercise undertaken pursuant to letter No.PC-III/2003/CRC/6 dated 9.10.2003 issued by the Railway Board"
+  ],
+  "petitioner_arguments": [
+    "The policy of reservation was rightly made applicable in relation to the additional posts.",
+    "Restructuring of cadres undertaken for enhancing organizational efficiency and functional, operational and administrative requirements cannot be treated as a simple exercise for upgradation of existing posts",
+    "The Railway Board did not commit illegality by issuing direction for implementation of the policy of reservation qua those posts"
+  ],
+  "respondent_arguments": [
+    "The directions given by the Tribunal are liable to be set aside because its interpretation of the policy of restructuring is also contrary to the law laid down by the Constitution Bench",
+    "Restructuring of Group C and D cadres is nothing but an exercise for upgradation of the existing posts",
+    "If the policy of reservation is applied at the stage of restructuring of Group C and D cadres then the same would amount to giving double benefit to the members of Scheduled Castes and Scheduled Tribes, who had already been given out-of turn promotions"
+  ],
+  "court_reasoning": [
+    "The Railway Establishment Code (hereinafter referred to as 'the Code') was first published in September 1940.",
+    "Paragraphs 103(7), 119, 120, 123 and 124 of the Code which have bearing on the decision of these cases are as under:",
+    "The policy of reservation should be made applicable only qua posts which become available after 9.10.2003",
+    "If restructuring exercise is intended to remove stagnation and improve the quality of services then implementation thereof cannot be made subject to the policy of reservation"
+  ],
+  "holding": [
+    "The direction given for making appointments de hors the policy of reservation cannot be termed as erroneous.",
+    "The Tribunal did not have the jurisdiction to nullify the instructions issued by the Railway Board or issue directions for making appointment by ignoring the policy of reservation."
+  ],
+  "cases_cited": [
+    "Bench judgment of this Court in Indra Sawhney and Others vs. Union of India",
+    "Govind Sahai and Ors. vs. N.K",
+    "He distinguished the orders passed in Union of India vs. V.K",
+    "In A.K. Subraman and Others vs. Union of India",
+    "In Akhil Bharatiya Soshit Karamchari Sangh (Railway) vs. Union of India",
+    "In Dr. Chakradhar Paswan vs. State of Bihar",
+    "In Ram Prasad and Others vs. D.K",
+    "In State of Maharashtra vs. Purshottam",
+    "N.K. Saini and Others vs. The Director General",
+    "P.S. Rajput and two others v. Union of India",
+    "SC/ST Employees Association (Railway), Bikaner and Another vs. Union of India",
+    "State of Rajasthan vs. Fateh Chand Soni",
+    "Union of India and Another v Pushpa Rani",
+    "Union of India vs. V.K",
+    "V.K. Sirothia v. Union of India has held in",
+    "V.K. Sirothia vs. Union of India",
+    "a Full Bench of Kerala High Court in N.G. Prabhu v. Chief Justice",
+    "and Ajit Singh II vs. State of Punjab",
+    "and All India Non-SC/ST Employees' Association (Railway) vs. V.K",
+    "and Union of India vs. S.S",
+    "and of the Constitution Bench in M. Nagaraj and Others vs. Union of India",
+    "as well as Union of India vs. J.C",
+    "at Jabalpur Bench in Ashok Kumar Shrivastava and Ors. v. Union of India",
+    "by the Constitution Bench of this Court in B.S. Vadera vs. Union of India",
+    "down by the Constitution Bench in R.K. Sabharwal and Others vs. State of Punjab",
+    "entries or who may have suffered punishment D.P. Upadhyay vs. G.M",
+    "in the case of Indra Sawhney vs. Union of India",
+    "inconsistent with the latter judgments in Ajit Singh Januja vs. State of Punjab",
+    "of the Full bench of Kerala High Court in N.G. Prabhu v. Chief Justice",
+    "ratio of Rangachari's case was reiterated in State of Punjab vs. Hira Lal",
+    "reconsideration in view of the judgments in Union of India vs. S.S",
+    "then considered two earlier judgments in Lalit Mohan Deb vs. Union of India",
+    "this argument he strongly relied on the case of K. Manickaraj vs. Union of India",
+    "under the State. In General Manager, Southern Railway vs. Rangachari"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "case_id": "S173",
+  "case_name": "Power to order Court",
+  "court": "Any Court",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "340"
+    },
+    {
+      "section": "341"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "Power of the court to order costs"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Any Court dealing with an application made to it for filing a complaint under section 340 or an appeal under section 341, shall have power to make such order as to costs as may be just."
+  ],
+  "holding": [
+    "Power to make such order as to costs as may be just"
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,112 @@
+{
+  "case_id": "C2700",
+  "case_name": "Manubhai Ratilal Patel Tr. Ushaben v State Of Gujarat & Ors.",
+  "court": "Supreme Court of India",
+  "year": 2012,
+  "judges": [
+    "Dipak Misra"
+  ],
+  "bench": [],
+  "petitioner": "Manubhai Ratilal Patel Tr. Ushaben",
+  "respondent": "State Of Gujarat &",
+  "citations": [
+    "1970 1 SCC 653",
+    "1980 1 SCC 554",
+    "1994 5 SCC 410",
+    "2011 10 SCC 781",
+    "2012 TILL 02",
+    "AIR 1952 SC 106",
+    "AIR 1953 SC 277",
+    "AIR 1955 SC 196",
+    "AIR 1957 SC 142",
+    "AIR 1959 SC 843",
+    "AIR 1966 SC 816",
+    "AIR 1969 SC 1014",
+    "AIR 1971 SC 2197",
+    "AIR 1971 SC 62",
+    "AIR 1973 SC 2684",
+    "AIR 1974 SC 510",
+    "AIR 1992 SC 1768",
+    "AIR 2005 SC 1057"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "482"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "439"
+    },
+    {
+      "section": "167(2)"
+    },
+    {
+      "section": "437"
+    },
+    {
+      "section": "167"
+    },
+    {
+      "section": "173"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "28 September 2012",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant was an accused in FIR No. I-CR No. 56/12 registered at Pethapur Police Station on 20th of June, 2012 for offences punishable under Sections 467, 468, 471, 409 and 114 of the Indian Penal Code (for short 'the IPC').",
+    "Challenging the registration of the FIR and the investigation, the accused-appellant (hereinafter referred to as \"the accused\") preferred Criminal Miscellaneous Application No. 10303 of 2012 on 11.7.2012 u/s. 482 of the Code of Criminal Procedure (for brevity \"the Code\") in the High Court of Gujarat at Ahmedabad for quashing of the FIR.",
+    "A prayer was also made for stay of further proceedings in respect of the investigation of I-CR No. 56/12.",
+    "The exposition of facts reveals that the accused was arrested on 16.7.2012 and produced before the learned Judicial Magistrate First Class, Gandhinagar at 4.00 p.m. on 17.7.2012.",
+    "It is pertinent to note that an application for regular bail u/s. 439 of the Code was filed on 19.7.2012 before the learned Magistrate.",
+    "Apart from other grounds, it was highlighted that when a petition was pending before the High Court for quashment of the First Information Report and a stay order had been passed pertaining to further investigation, the detention was illegal and hence, the accused was entitled to be admitted to bail."
+  ],
+  "issues": [
+    "Whether the custody of the accused could be said to be illegal.",
+    "Whether the order of remand of the accused to custody could not be said to be a part of the investigation.",
+    "Whether the learned Magistrate's order was flawed in law."
+  ],
+  "petitioner_arguments": [
+    "The stand put forth by the learned counsel was combated by the State contending, inter alia, that it could not be said that there had been no investigation as arrest had already taken place and hence, stay of further investigation would not nullify the order of remand, be it a remand to police custody or judicial custody.",
+    "It was propounded that the order of remand could not be treated as impermissible warranting interference by the High Court in exercise of jurisdiction of writ of habeas corpus."
+  ],
+  "respondent_arguments": [
+    "The State contended, inter alia, that it could not be said that there had been no investigation as arrest had already taken place and hence, stay of further investigation would not nullify the order of remand, be it a remand to police custody or judicial custody.",
+    "It was propounded that the order of remand could not be treated as impermissible warranting interference by the High Court in exercise of jurisdiction of writ of habeas corpus."
+  ],
+  "court_reasoning": [
+    "The High Court adverted to the chronology of events and held thus:",
+    "From the chronology of events as emerging from the petition as well as affidavit-in-reply, it is not in dispute that the arrest of the petitioner was effected on 16/07/2012.",
+    "Whereas the quashing petition came to be filed on 17/07/2012 and the stay order was granted on 17/07/2012 at about 04.30 p.m. and the remand of the accused - petitioner to police custody was granted on 17/07/2012 till 02.00 p.m. of 19/07/2012.",
+    "It is also required to be noted that order passed by learned JMFC has not been challenged anywhere and has attained finality.",
+    "The High Court further observed that solely because the investigation was stayed, it would not be apposite to say that there was no investigation and the order passed by the learned Magistrate was flawed."
+  ],
+  "holding": [
+    "It could not be held that when the order was passed by the learned JMFC, there was no investigation and, therefore, there was no force in the argument that the learned JMFC could not have remanded the accused in such a situation in exercise of powers u/s. 167 of the Code.",
+    "The custody of the petitioner being in pursuance of a judicial act, it could not be termed as illegal."
+  ],
+  "cases_cited": [
+    "In Col. Dr. B. Ramachandra Rao v. The",
+    "In Kanu Sanyal v. Dist",
+    "In Kanu Sanyal v. District Magistrate",
+    "In Ranjit Singh v. The",
+    "In Secretary of State for Home Affairs v. O'Brien",
+    "In State of Bihar v. J.A",
+    "Manubhai Ratilal Patel Tr. Ushaben v State Of Gujarat &",
+    "Supra) and Talib Hussain v. State of Jammu",
+    "after referring to Greene v. Secretary of States for Home Affairs",
+    "and Ram Narain Singh v. State of Delhi",
+    "decisions of this Court, however, namely, Naranjan Singh v. State of Punjab",
+    "of Investigation, Special Investigation Cell-I, New Delhi v. Anupam J",
+    "refer to the Constitution Bench decision in Sanjay Dutt v. State through C",
+    "through Wanchoo, J. (as he then was) said in A.K. Gopalan v. Government of India",
+    "writ of habeas corpus, a two- Judge Bench, in Ummu Sabeena v. State of Kerala"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "case_id": "S109",
+  "case_name": "Conditions of service, etc., to remain unchanged under certain circumstances during pendency of proceedings",
+  "court": "",
+  "year": 0,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "21"
+    },
+    {
+      "section": "33"
+    },
+    {
+      "section": "18"
+    },
+    {
+      "section": "5"
+    },
+    {
+      "section": "17"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The Indian government has passed a law that states that during the pendency of any conciliation proceeding before a conciliation officer or a Board or of any proceeding before an arbitrator or a Labour Court or Tribunal or National Tribunal in respect of an industrial dispute, no employer shall alter the conditions of service applicable to workmen concerned in such dispute.",
+    "The law also states that the employer may not discharge or punish any workman concerned in such dispute for any misconduct connected with the dispute without the express permission in writing of the authority before which the proceeding is pending.",
+    "The law further provides that during the pendency of any such proceeding, the employer may alter the conditions of service applicable to a workman concerned in such dispute for any matter not connected with the dispute or discharge or punish that workman for any misconduct not connected with the dispute."
+  ],
+  "issues": [
+    "What are the conditions under which an employer can alter the conditions of service applicable to workmen during the pendency of industrial disputes?",
+    "Can an employer discharge or punish a workman for any misconduct connected with an industrial dispute without permission from the relevant authority?"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "No employer shall, during the pendency of any conciliation proceeding before a conciliation officer or a Board or of any proceeding before an arbitrator or a Labour Court or Tribunal or National Tribunal in respect of an industrial dispute, alter the conditions of service applicable to workmen concerned in such dispute.",
+    "The employer may not discharge or punish any workman concerned in such dispute for any misconduct connected with the dispute without the express permission in writing of the authority before which the proceeding is pending."
+  ],
+  "cases_cited": []
+}

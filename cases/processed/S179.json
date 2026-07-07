@@ -1,0 +1,33 @@
+{
+  "case_id": "S179",
+  "case_name": "Prosecution of Judges and public servants",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "19"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "When any person who is a Judge within the meaning of section 19 of the Indian Penal Code, or when any Magistrate, or when any public servant who is not removable from his office save by or with the sanction of a State Government or the Central Government, is accused of any offence alleged to have been committed by him while acting or purporting to act in the discharge of his official duty,"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "No Court shall take cognizance of any offence against a Judge or public servant accused of an offence allegedly committed while acting in the discharge of his official duty without the previous sanction of the Central Government (in case of a person employed in connection with the affairs of the Union) or State Government (in case of a person employed in connection with the affairs of a State)."
+  ],
+  "cases_cited": []
+}

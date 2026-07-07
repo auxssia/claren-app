@@ -1,0 +1,71 @@
+{
+  "case_id": "C452",
+  "case_name": "State of Karnataka v David Rozario and Another",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [
+    "Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "State of Karnataka",
+  "respondent": "David Rozario and Another\nSupreme Court of India\n\n17 September 2002\nAppeal (Crl.) 844 of 1995\nThe Judgment was delivered by : Arijit Pasayat, J.\n1. An octogenarian old lady was the victim of robbery and murder allegedly committed by the respondents-David Rozario and Christopher David (hereinafter referred to as A1 and A2 respectively for convenience).\nProsecution version sans unnecessary details is as follows:\n2. The deceased who had three children residing abroad, was staying alone in her house at No.47, Stephen's Road, Frazer Town, Bangalore City. A maid- servant Tayarmma (PW5) was working in her house and also in the house of Mrs. Joyce wife of Holmes (PW10). In the evening of 20 December 1986 the fateful day, PW5 as usual served coffee to the deceased in her house and went to the house of PW10 to work there, and was there till about 8.00 p.m. Thereafter, she left the place to go to her house, which was situated on the back side of deceased's house. When she was",
+  "citations": [
+    "AIR 1947 PC 67",
+    "AIR 1972 SC 3",
+    "AIR 1976 SC 483"
+  ],
+  "statutes": [
+    {
+      "act": "Read With Section 34 And Section 392 Read With Section 34 Of The Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Indian Evidence Act",
+      "section": "27"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "27"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "114"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "17 September 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "An octogenarian old lady was the victim of robbery and murder allegedly committed by the respondents-David Rozario and Christopher David.",
+    "The deceased who had three children residing abroad, was staying alone in her house at No.47, Stephen's Road, Frazer Town, Bangalore City.",
+    "A maid-servant Tayarmma (PW5) was working in her house and also in the house of Mrs. Joyce wife of Holmes (PW10).",
+    "The deceased had sustained head injury, which was bleeding."
+  ],
+  "issues": [
+    "Whether the evidence relating to recovery is sufficient to fasten guilt on the accused.",
+    "What is admissible being the information, the same has to be proved and not the opinion formed on it by the police officer."
+  ],
+  "petitioner_arguments": [
+    "The High Court by a sketchy and practically non-reasoned order has set aside the conviction.",
+    "Section 27 of the Indian Evidence Act, 1872 (in short 'Evidence Act') was applied by the trial court to record conviction when the same cannot be the only foundation for conviction."
+  ],
+  "respondent_arguments": [
+    "The High Court has rightly stressed upon the fact that the tape recorder was of very small value and two persons could not have taken the life of an elder lady.",
+    "Section 27 of the Evidence Act is by way of proviso to Sections 25 to 26 and a statement even by way of confession made in police custody which distinctly relates to the fact discovered is admissible in evidence against the accused."
+  ],
+  "court_reasoning": [
+    "The doctrine of confirmation by subsequent events.",
+    "The information might be confessional or non-inculpatory in nature but if it results in discovery of a fact, it becomes a reliable information.",
+    "Recovery of an object is not discovery of fact envisaged in the section."
+  ],
+  "holding": [
+    "The Division Bench of the Karnataka High Court set aside the conviction.",
+    "The State of Karnataka is in appeal before this Court."
+  ],
+  "cases_cited": [
+    "State of Karnataka v David Rozario",
+    "see State of Maharashtra v. Danu Gopinath Shirde"
+  ]
+}

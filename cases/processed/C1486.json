@@ -1,0 +1,92 @@
+{
+  "case_id": "C1486",
+  "case_name": "Kulja Industries Limited v Chief Gen. Manager W.T. Proj. BSNL and others",
+  "court": "Supreme Court of India",
+  "year": 2013,
+  "judges": [
+    "T. S. Thakur, J."
+  ],
+  "bench": [],
+  "petitioner": "Kulja Industries Limited",
+  "respondent": "Chief Gen. Manager W.T. Proj. BSNL",
+  "citations": [
+    "1974 4 SCC 3",
+    "1975 1 SCC 70",
+    "1977 3 SCC 457",
+    "1977 3 SCR 249",
+    "1978 1 SCC 248",
+    "1978 3 SCC 36",
+    "1979 3 SCC 489",
+    "1981 1 SCC 722",
+    "1989 3 SCC 751",
+    "1990 3 SCC 752",
+    "2006 11 SCC 548",
+    "2012 11 SCC 257",
+    "AIR 1994 SC 1277"
+  ],
+  "statutes": [
+    {
+      "section": "7"
+    },
+    {
+      "section": "120B"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Theft",
+  "court_level": "Supreme Court",
+  "decision_date": "4 October 2013",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant company emerged successful in regard to both the tender notices.",
+    "Several orders for supply of the material were placed with the appellant-company during the years 2004-2006 and that goods were supplied to various consignee units of BSNL pursuant to the same.",
+    "A single account to receive 95% of the payment due from BSNL was maintained by it and since the amounts received from the respondent-BSNL by cheques did not carry any particulars of the consignment for which such payment was being made it could, in no way, discover excess payment, if any, released by BSNL against the bills sent by the appellant.",
+    "The respondent-BSNL on the other hand has a different story to tell. According to it four of its officers had abused their official position and fraudulently generated 'voucher numbers' on the duplicate and triplicate copies of the bills submitted by the appellant to facilitate payments as if the said bills were genuine thereby causing wrongful loss to the respondent-BSNL and a corresponding gain to the appellant.",
+    "The BSNL lodged an FIR with CBI ACB Mumbai against one of its Senior Accounts Officers and a Director of the appellant-company alleging commission of offences punishable under Section 120B read with S.420 Indian Penal Code and S.13(2) read with S.13(1)(d) of Prevention of Corruption Act, 1988.",
+    "The High Court allowed the petition on the short ground that the appellant had not been afforded any opportunity of being heard before the blacklisting order was issued by the respondent.",
+    "A show cause notice was accordingly issued by BSNL on 4th November, 2010 to which the appellant filed a reply.",
+    "By an order dated 15th January, 2011 BSNL once again directed the blacklisting of the appellant, inter alia, holding that the appellant had defrauded BSNL by using duplicate and triplicate copies of the bills that stood already cleared for payment."
+  ],
+  "issues": [
+    "Whether the respondent-Bharat Sanchar Nigam Limited (for short 'BSNL') could have blacklisted the appellant for allotment of future contracts for all times to come."
+  ],
+  "petitioner_arguments": [
+    "Debarring the appellant permanently and for all times to come was wholly arbitrary and unjustified.",
+    "The blacklisting order had serious civil consequences for the person blacklisted making it obligatory for the Authority passing the order to act fairly and reasonably.",
+    "Paras 31 and 32 of the bid document also, according to the learned counsel, provides for blacklisting only for a 'suitable period'.",
+    "Since the products manufactured by the appellant were mostly, if not entirely, supplied for consumption to the respondent-BSNL, any order permanently blacklisting the appellant from entering into contracts making supplies was tantamount to rendering the appellant jobless and economically defunct."
+  ],
+  "respondent_arguments": [
+    "The fraudulent act on the part of supplier got completed by not only claiming such bogus payments but also by receiving the same from BSNL.",
+    "If the accounts would not have reconciled, the supplier would have caused huge losses to the public exchequer.",
+    "Hence, there is every apprehension that if the supplier is allowed to deal in any manner with the BSNL in future, the supplier will venture into committing same and/or similar fraud (s) on the public exchequer."
+  ],
+  "court_reasoning": [
+    "The High Court was of the opinion that reconciliation of the account had proved that the appellant had received payment twice over for the supplies made by it and that merely because the excess payment received had been subsequently refunded by the appellant did not obliterate the act of misconduct and fraud.",
+    "In our opinion, in view of this finding, no interference is called for in the order impugned."
+  ],
+  "holding": [
+    "Hereby M/s. Kulja Industries Ltd., Solan (Himachal Pradesh) is permanently banned and is consequently prevented from having any business dealing with entire BSNL through the country."
+  ],
+  "cases_cited": [
+    "Ajay Hasia and Ors. v. Khalid Mujib Sehravardi",
+    "B.S.N. Joshi & Sons Ltd. v. Nair Coal Services Ltd",
+    "E.P. Royappa v. State of Tamil Nadu",
+    "Joseph Vilangandan v. The Executive Engineer",
+    "Kulja Industries Limited v Chief Gen",
+    "Maneka Gandhi v. Union of India",
+    "R.D. Shetty v. International Airport Authority of India",
+    "Subsequent decisions of this Court in M/s Southern Painters v. Fertilizers & Chemicals Travancore Ltd",
+    "The decisions of this Court in Radha krishna Agarwal and Ors. v. State of Bihar &",
+    "and Dwarkadas Marfatia and sons v. Board of Trustees of",
+    "of this Court in Miss Radha Krishna Agarwal and Ors. v. State of Bihar",
+    "the decision of this Court in M/s Mahabir Auto Stores & Ors. v. Indian Oil Corporation Ltd",
+    "this Court starting with Erusian Equipment & Chemicals Ltd. v. State of West Bengal"
+  ]
+}

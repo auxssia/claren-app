@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     template: "%s — Claren",
   },
   description:
-    "Claren helps lawyers and law students understand cases, evidence, timelines, and legal procedures visually. Open source litigation intelligence.",
+    "Claren helps lawyers and law students understand cases, evidence, timelines, and legal procedures visually. Deterministic litigation intelligence.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
@@ -25,8 +25,8 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Claren — Visual intelligence for litigation",
     description:
-      "Understand law visually. Open source litigation intelligence platform.",
-    url: "https://claren.legal",
+      "Understand law visually. Deterministic litigation intelligence platform.",
+    url: "https://claren.app",
     siteName: "Claren",
     locale: "en_US",
     type: "website",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Claren — Visual intelligence for litigation",
     description:
-      "Understand law visually. Open source litigation intelligence platform.",
+      "Understand law visually. Deterministic litigation intelligence platform.",
   },
   robots: {
     index: true,

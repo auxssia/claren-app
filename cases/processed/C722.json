@@ -1,0 +1,46 @@
+{
+  "case_id": "C722",
+  "case_name": "Sakhi Mandalani v State of Bihar and Others",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Sakhi Mandalani",
+  "respondent": "State of Bihar",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Dowry Prohibition Act",
+      "section": "2"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "29 April 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "The Order of the Court was as follows: Leave granted.",
+    "The appellant, who was the sister-in-law of the deceased Manju Mandalani, was convicted under Sections 304-B/34, 498-A IPC and under Sections 3 and 4 of the Dowry Prohibition Act, 1961.",
+    "She was sentenced to 10 years' rigorous imprisonment under Section 304-B IPC; 3 years' RI under Section 498-A IPC; and 6 months' RI under Sections 3 and 4 of the Dowry Prohibition Act, read with Section 34 IPC, by the IVth Additional Sessions Judge, Dhanbad.",
+    "On appeal, the High Court acquitted her of the charges under Sections 304-B/34 IPC giving her the benefit of doubt. However, her conviction under Sections 3 and 4 of the Dowry Prohibition Act was maintained."
+  ],
+  "issues": [
+    "What is the legal basis for maintaining the convictions under Sections 3 and 4 of the Dowry Prohibition Act when the main part of the charge under Section 304-B was not found established?"
+  ],
+  "petitioner_arguments": [
+    "It is contended by learned counsel on behalf of the appellant that the judgment passed by the High Court is wholly inconsistent inasmuch as having recorded her acquittal from the charges under Section 304-B IPC, it was not possible to maintain the convictions under Sections 3 and 4 of the Dowry Prohibition Act."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The above section indicates that demand for dowry and harassment for that reason are the essential ingredients of the offence under Section 304-B.",
+    "These sections make out independent offences, but in the instant case it was the demand for dowry coupled with harassment which constitutes the basis of the prosecution case.",
+    "Once the main part of the charge under Section 304-B was not found established, it was not possible to record conviction under Sections 3 and 4 of the Dowry Prohibition Act."
+  ],
+  "holding": [
+    "The appeal is allowed. The judgment of the High Court, so far as the appellant is concerned, is set aside and she is acquitted of the charges under Sections 3 and 4 of the Dowry Prohibition Act."
+  ],
+  "cases_cited": [
+    "Sakhi Mandalani v State of Bihar"
+  ]
+}

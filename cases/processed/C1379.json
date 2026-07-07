@@ -1,0 +1,63 @@
+{
+  "case_id": "C1379",
+  "case_name": "Union of India and Another v V. Ramadass and Others",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [
+    "K. Jayachandra Reddy"
+  ],
+  "bench": [],
+  "petitioner": "Union of India and Another",
+  "respondent": "V. Ramadass",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "379"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "325"
+    },
+    {
+      "section": "300"
+    },
+    {
+      "section": "304"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "CrPC",
+  "court_level": "Supreme Court",
+  "decision_date": "2 February 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "This is an appeal under Section 379 CrPC read with Section 2 of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act.",
+    "All the accused except Chuttan, the deceased and the material witnesses belong to Village Senderwada within the limits of Babai Police Station in Hoshangabad District.",
+    "On September 30, 1979 the deceased and his son PW 11 were going from their house to cut and bring the grass from Khaliyan.",
+    "The trial court acquitted all of them holding that there was delay in lodging the report and there were contradictions in the evidence of PW 11 and the conduct of the eyewitnesses was unnatural in not taking care of the injured deceased on that night and that the defence version cannot be brushed aside.",
+    "The High Court having examined the evidence of PWs 1, 2, 5 and 11 out of whom PW 11 was an injured witness, held that the incident during which the accused received injuries was not part of the same incident and that the discrepancies pointed out in the evidence of the eyewitnesses are not material and that delay, if any, in giving the FIR by itself is not fatal to the prosecution case.",
+    "The trial court rejected the prosecution version mainly on the ground that the injuries on the accused have not been explained.",
+    "The Doctor, who conducted the autopsy found one lacerated wound on the right forearm 2"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The conviction of the appellants under Section 302 IPC and the sentence of imprisonment for life awarded thereunder are set aside. Instead they are convicted under Section 304, Part II, IPC and sentenced to undergo R.I. for five years."
+  ],
+  "cases_cited": [
+    "Union of India and Another v V. Ramadass"
+  ]
+}

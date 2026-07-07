@@ -1,0 +1,81 @@
+{
+  "case_id": "C996",
+  "case_name": "Food Corporation Of India & Anr v Seil Ltd. & Ors",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "Food Corporation Of India & Anr",
+  "respondent": "Seil Ltd. &",
+  "citations": [
+    "AIR 1962 SC 1320"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "15"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    },
+    {
+      "section": "1"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "11 January 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "Parliament of India enacted Essential Commodities Act, 1955 (The Act).",
+    "In terms of S.3(2)(f) thereof, the Central Government is empowered to direct any manufacturer of sugar to sell the said commodity to the Central Government or a State Government or to a body owned or controlled by them for the purpose of making it available to the public at a fair price.",
+    "It is commonly known as 'levy sugar'.",
+    "Price of such levy sugar is fixed by the Central Government in exercise of its power under S.3(3C) of The Act on yearly basis.",
+    "Sugar year' commences from the month October of the year.",
+    "Price of levy sugar although is required to be notified at that time, admittedly, there exists a practice to notify the previous year's price as a levy sugar on an adhoc basis price in October and final price therefor is notified later on.",
+    "Pursuant to or in furtherance of a notification issued by the Central Government under The Act and the directions issued by the competent authority from time to time, levy sugar was supplied by the respondents to the agencies of Central Government as also the appellant.",
+    "Respondents herein received allotment letters for supply of sugar both to FCI as also UPPCF.",
+    "Claims were lodged for the price of levy sugar both with the FCI as also the Directorate of Sugar, Ministry of Food.",
+    "The Central Government sanctioned the claim of the respondent in respect of the sugar supplied to UPPCF.",
+    "It made similar claim in respect of the sugar supplied to the appellant.",
+    "Appellant, however, demanded for a no dues certificate.",
+    "It raised other objections including weight and quality of the sugar in relation to the supplies made to the Central Government.",
+    "Respondents contended that no complaint having been made by the Central Government in this connection, The Action of the appellant was totally unjustified."
+  ],
+  "issues": [
+    "Whether the writ petitions were maintainable?",
+    "Whether the High Court committed a serious error in determining the question of fact in a writ proceeding?"
+  ],
+  "petitioner_arguments": [
+    "Transactions between the parties being contractual in nature, no writ petition was maintainable.",
+    "Respondents, having alleged breach of contract on the part of the appellant, the writ petition should not have been entertained.",
+    "Several disputed questions of fact including the quality and quantity of sugar having been raised, the High Court committed a serious error in determining the said question in a writ proceeding.",
+    "In any event, direction to pay interest in the review proceeding was wholly impermissible in law."
+  ],
+  "respondent_arguments": [
+    "Supply of sugar having been made in terms of a statutory order, the writ petition was maintainable.",
+    "Food Corporation of India could not have withheld payment in respect whereof there was no dispute.",
+    "Lawful payment cannot be withheld on the purported plea of non-supply of entire quantity of sugar in the earlier years."
+  ],
+  "court_reasoning": [
+    "Admittedly, supplies were made to FCI and UPPCF in terms of the allotment orders received by the respondents.",
+    "The Central Government verified the bills in terms of the circular letters issued by it from time to time.",
+    "Appellant could not have withheld payment on the basis of the purported shortages in supply of sugar under the contracts made by the respondents many many years back, save and except under the terms of binding contract.",
+    "We do not see any reason as to why the writ petitions would not be maintainable."
+  ],
+  "holding": [
+    "The High Court referred to several letters issued by the Central Government to arrive at the conclusion that where sugar had been lifted by a third party without any complaint, protest or demur of shortages, there was no reason as to why payment therefor could not be made.",
+    "Appellant could not have withheld payment on the basis of the purported shortages in supply of sugar under the contracts made by the respondents many many years back, save and except under the terms of binding contract."
+  ],
+  "cases_cited": [
+    "Food Corporation Of India & Anr v Seil Ltd",
+    "by a Bench of this Court in ABL International Ltd. & Anr. v. Export Credit Guarantee Corporation of India Ltd",
+    "placed by Mr. Sharan on M/s. Burmah Construction Company v. The"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "case_id": "C35",
+  "case_name": "State of Andhra Pradesh v Rayavarapu Punnayya and Another",
+  "court": "Supreme Court of India",
+  "year": 1976,
+  "judges": [
+    "Ranjit Singh Sarkaria"
+  ],
+  "bench": [],
+  "petitioner": "State of Andhra Pradesh",
+  "respondent": "Rayavarapu Punnayya and Another\nSupreme Court of India\n\n15 September 1976\nCriminal Appeal No. 214 of 1971. (Appeal by Special Leave from the judgment and Order dated 27-7. 1970 of the Andhra Pradesh High. Court in Criminal Appeals Nos. 26 and 27/69).\nThe Judgment was delivered by : Ranjit Singh Sarkaria, J.\n1.  This appeal by special leave is directed against a judgment of the High Court of Andhra Pradesh. It arises out of these facts.\n2.  In Rompicherla village, there were factions belonging to three major communities viz., Reddys, Kammas and Bhatrajus. Rayavarapu (Respondent No. 1 herein) was the leader of Kamma faction, while Chopparapu Subbareddi was the leader of the Reddys. In politics, the Reddys were supporting the Congress Party, while Kammas were supporters of Swatantra Party. There was bad blood between the two factions which. were proceeded against under s. 107, Cr. P.C. In the Panchyat elections of 1954, a clash took place between the two parties",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "15 September 1976",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal by special leave is directed against a judgment of the High Court of Andhra Pradesh.",
+    "Rayavarapu (Respondent No. 1 herein) was the leader of Kamma faction, while Chopparapu Subbareddi was the leader of the Reddys.",
+    "A member of the Kamma faction was murdered.",
+    "Consequently, nine persons belonging to the Reddy faction were prosecuted for that murder.",
+    "Sarikonda Kotamraju, the deceased person in the instant case, was the leader of Bhatrajus.",
+    "The Sub-Inspector went away directing both the parties to come to the Police Station on the following morning so that a compromise might be effected.",
+    "On July 22, 1968, the Sub-Inspector of Police came to the village and inspected the disputed wail in the presence of the parties.",
+    "The deceased took PW 1 to Police Station Nekarikal and got a report lodged there.",
+    "PWs 1, 2 and the deceased boarded Bus No. AP 22607 at Rompicherla for going to Nekarikal.",
+    "Some minutes later, Accused 1 to 5 (hereinafter referred to as A1, A2, A3, A4 and A5) also got into the same bus.",
+    "The five accused also got down.",
+    "A1 and A2 went towards the Coffee Hotel situate near the Choultry.",
+    "From there, they picked up heavy sticks and went after the deceased into the Choultry.",
+    "On seeing the accused. P W 1 ran away towards a hut nearby.",
+    "The deceased stood up.",
+    "He was an old man of 55 years.",
+    "He was not allowed to run.",
+    "Despite the entreaties made by the deceased with folded hands, A-1 and A-2 indiscriminately pounded the legs and arms of the deceased."
+  ],
+  "issues": [
+    "Whether the offence disclosed by the facts and circumstances established by the prosecution against the respondent is 'murder' or 'culpable homicide not amounting to murder'.",
+    "What are the key words used in the various clauses of ss. 299 and 300?",
+    "How does the distinction between 'murder' and 'culpable homicide not amounting to murder' affect the interpretation and application of these provisions?"
+  ],
+  "petitioner_arguments": [
+    "The principal question that falls to be considered in this appeal is, whether the offence disclosed by the facts and circumstances established by the prosecution against the respondent is 'murder' or 'culpable homicide not amounting to murder'.",
+    "In the scheme of the Penal Code, 'culpable homicide' is genus and 'murder' its specie.",
+    "All 'murder' is 'culpable homicide' but not vice-versa.",
+    "Speaking generally, 'culpable homicide' sans 'special characteristics of murder', is 'culpable homicide not amounting to murder'.",
+    "For the purpose of fixing punishment, proportionate to the gravity of this generic offence, the Code practically recognises three degrees of culpable homicide."
+  ],
+  "respondent_arguments": [
+    "The academic distinction between 'murder' and 'culpable homicide not amounting to murder' has vexed the courts for more than a century.",
+    "The confusion is caused, if courts losing sight of the true scope and meaning of the terms used by the legislature in these sections, allow themselves to be drawn into minutiae abstractions."
+  ],
+  "court_reasoning": [
+    "The safest way of approach to the interpretation and application of these provisions seems to be to keep in focus the key words used in the various clauses of ss. 299 and 300.",
+    "The following comparative table will be helpful in appreciating the points of distinction between the two offences.",
+    "Cl. (b) of s. 299 corresponds with cls. (2) and (3) of s. 300.",
+    "It is noteworthy that the 'intention to cause death' is not an essential requirement of el. (2).",
+    "Only the intention of causing the bodily injury coupled with the offender's knowledge of the likelihood of such injury causing the death of the particular victim, is sufficient to bring the killing within the ambit of this clause.",
+    "This aspect of cl. (2) is borne out by illustration (b) appended to s. 300."
+  ],
+  "holding": [
+    "The appeal against A-2 (Respondent 2), however, survives for decision.",
+    "The principal question that falls to be considered in this appeal is, whether the offence disclosed by the facts and circumstances established by the prosecution against the respondent is 'murder' or 'culpable homicide not amounting to murder'.",
+    "For cases to fall within cl. (3), it is not necessary that the offender intended to cause death.",
+    "So long as death ensues from the intentional bodily injury or injuries sufficient to cause death in the ordinary course of nature."
+  ],
+  "cases_cited": [
+    "In Virsa Singh v. The",
+    "State of Andhra Pradesh v Rayavarapu Punnayya",
+    "and Rajwant Singh v. State of Kerala (supra",
+    "death in the ordinary course of nature. Rajwant and anr. v. State of Kerala",
+    "support of this contention reference has been made to Andhra v. State of Rajasthan"
+  ]
+}

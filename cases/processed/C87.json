@@ -1,0 +1,54 @@
+{
+  "case_id": "C87",
+  "case_name": "K. P. Poulose v State Of Kerala & Anr",
+  "court": "Supreme Court of India",
+  "year": 1975,
+  "judges": [
+    "P. K. Goswami"
+  ],
+  "bench": [],
+  "petitioner": "K. P. Poulose",
+  "respondent": "State Of Kerala &",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "30(A)"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "21 April 1975",
+  "outcome": "Unknown",
+  "facts": [
+    "This is an appeal by special leave against the judgment of the Kerala High Court setting aside the judgment of the Subordinate Judge, Ernakulum and restoring the award of the Arbitrator who had earlier refused the claim of the appellant.",
+    "The appellant (briefly the contractor) was a successful tenderer for construction of three zonal R.C.C. Overhead Reservoirs, two in Matencherry and one in Cochin, in connection with the Ernakulum Mattencherry Water Supply Scheme.",
+    "In the schedule annexed to the notification inviting tenders under the heading 'Site', it was stated that 'the soil at the site for Reservoir No. 1 and Reservoir No. 2 is loose clay and for Reservoir No. 3, sandy'.",
+    "The tenderer was to execute an agreement on a stamped paper before commencing work.",
+    "It appears later on the Kerala Engineering Research Institute, Poochi. Soil Mechanics and Foundation Division (briefly the Research Institute) submit- ted a report (Ext. P. 10 dated September 14, 1965) that the sub-soil at the three places chosen as sites for the reservoirs up to 16 in showed that the top soil was sand, the middle layer clay, and the bottom layer, silty sand or sand.",
+    "It was stated that the clay found at the three places was of a highly compressible nature and hence pile foundation was preferable and that as the top strata was sandy, jetting had to be resorted to for driving the piles through this strata.",
+    "After receipt of the opinion of the Research Institute, respondent No. 2 (hereinafter to be described as the Department) gave instructions to the contractor to adopt the process of jetting for driving piles for the tank at Thoppumpady which is alone in dispute in this case."
+  ],
+  "issues": [
+    "Whether the Arbitrator was guilty of legal misconduct in conducting the proceedings.",
+    "Whether the contractor was entitled to claim additional amount for the work of jetting."
+  ],
+  "petitioner_arguments": [
+    "The Arbitrator was guilty of legal misconduct in conducting the proceedings.",
+    "The contractor assumed the site condition to be as represented in the schedule to the notification inviting tenders and submitted his original design on that basis and since, however, the site condition was found to be different and on the advice of the Research Institute jetting had to be resorted to involving extra expenditure he was entitled to claim additional amount for the work of jetting."
+  ],
+  "respondent_arguments": [
+    "The Arbitrator did not ignore any material documents.",
+    "The contractor was asked to ascertain the nature of the soil; but this does not imply that he was to conduct exploratory borings to confirm the classification given by the department in the tender within the short span of time available for submitting tenders."
+  ],
+  "court_reasoning": [
+    "Although the Arbitrator has held that 'jetting, however, is not an authorised extra covered by the agreement', he has made the following significant observation which is inconsistent with his conclusion that the contractor has no right for extra payment for the jetting.",
+    "The award, therefore, suffers from a manifest error apparent ex facie."
+  ],
+  "holding": [
+    "We have, therefore, no hesitation in setting aside such an award. In the result the judgment of the High Court is set aside and that of the Subordinate Judge is restored. The award of the Arbitrator thus stands quashed. The Arbitrator will complete the proceedings after considering all the relevant documents including Ext. P. 11 and Ext. P. 16 after giving opportunity to the parties. The appeal is allowed with costs."
+  ],
+  "cases_cited": [
+    "K. P. Poulose v State Of Kerala &"
+  ]
+}

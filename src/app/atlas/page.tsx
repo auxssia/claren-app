@@ -4,7 +4,6 @@ import { WhatAtlasDoes } from "@/components/sections/atlas/what-atlas-does";
 import { ExampleSection } from "@/components/sections/atlas/example-section";
 import { WhyAtlasMatters } from "@/components/sections/atlas/why-atlas-matters";
 import { DesignedFor } from "@/components/sections/atlas/designed-for";
-import { AtlasOpenSource } from "@/components/sections/atlas/atlas-open-source";
 
 export const metadata: Metadata = {
   title: "Atlas — Procedural intelligence for law",
@@ -25,7 +24,6 @@ export default function AtlasPage() {
       <ExampleSection />
       <WhyAtlasMatters />
       <DesignedFor />
-      <AtlasOpenSource />
     </>
   );
 }

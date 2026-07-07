@@ -1,0 +1,83 @@
+{
+  "case_id": "C330",
+  "case_name": "Arunachal Pradesh Public Service Commission and another v Tage Habung and others",
+  "court": "Supreme Court of India",
+  "year": 2013,
+  "judges": [
+    "M. Y. Eqbal"
+  ],
+  "bench": [],
+  "petitioner": "Arunachal Pradesh Public Service Commission and another",
+  "respondent": "Tage Habung",
+  "citations": [
+    "1984 2 SCC 141",
+    "1985 3 SCC 721",
+    "1985 4 SCC 417",
+    "1987 4 SCC 646",
+    "2003 11 SCC 559",
+    "2006 1 SCC 779",
+    "2006 6 SCC 395",
+    "2007 8 SCC 100",
+    "2008 3 SCC 512",
+    "2008 7 SCC 11",
+    "AIR 1983 SC 1143"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "16"
+    },
+    {
+      "section": "124"
+    },
+    {
+      "section": "133"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "1 May 2013",
+  "outcome": "Unknown",
+  "facts": [
+    "The facts of the case are that the Arunchal Pradesh Public Service Commission (in short, \"the Commission\") issued an advertisement dated 25th July, 2006 inviting applications for admission to the Arunachal Pradesh Public Service Combined Competitive Examination (Preliminary) 2006-07 for recruitment to Group-A and Group-B posts under the Government of Arunachal Pradesh.",
+    "A decision was taken by the Commission on 13th June, 2007 fixing a minimum cut-off marks at 40% in English as qualifying marks or as would be decided by the Commission in every written examination for recruitment to the posts and a notification to that effect was issued on 2nd July, 2007.",
+    "The Main Examination commenced on 26th December, 2007 and the Commission vide its Notification dated 11th July, 2008 published a list of candidates who had qualified in General English by securing 40% marks.",
+    "However, prior to the completion of the Main Examination, an Office Memorandum dated 7th January, 2008 (in short, \"the O.M.\") had been issued by the State Government declaring the cut-off marks as 33% or more for all subjects in each written examination."
+  ],
+  "issues": [
+    "The power for fixing the minimum qualifying marks both in Preliminary Examination and Main Examination is in respect of all the subjects/papers and no power has been given under the provision of Rule 11 of Arunachal Pradesh Public Service Combined Civil Service Examination Rules, 2001 to the Commission to fix a minimum qualifying marks in respect of a particular subject/paper.",
+    "Whether the Office Memorandum dated 7th January, 2008 issued by the Government of Arunachal Pradesh and adopted by the Public Service Commission on 16th April, 2008 prescribing the cut-off marks of 33% or more to be secured in each written examination paper in the Arunachal Pradesh Service Combined Competitive Examination (Main) 2006-07 conducted by the Commission for recruitment into various posts in Grade-A and Grade-B under the Government of Arunachal Pradesh, is permissible after commencement of the recruitment process and applicable to the candidates who already took the Main Examination initiated in pursuance of the advertisement dated 25th July, 2006 for such recruitment."
+  ],
+  "petitioner_arguments": [
+    "The petitioners relied upon the decision of this Court in A.A. Calton vs. The Director of Education & Anr., AIR 1983 SC 1143 1983 Indlaw SC 20.",
+    "The main contention of the petitioners' counsel was that the selection criteria cannot be made applicable with retrospective effect."
+  ],
+  "respondent_arguments": [
+    "It is immaterial whether or not the petitioners appeared in the main examination are fully aware of about the decision of the commission requiring the candidates to secure minimum 40% marks in General English paper, the principle of estoppel sought to be applied by the commission to the petitioners is not tenable under the law as the commission sought to implement the decision which is not authorized under the Rules."
+  ],
+  "court_reasoning": [
+    "The power for fixing the minimum qualifying marks both in Preliminary Examination and Main Examination is in respect of all the subject/papers.",
+    "No power has been given under the provision of the aforesaid rule to the commission to fix a minimum qualifying mark in respect of a particular subject/paper.",
+    "This rule contemplates that the commission is required to fix the minimum qualifying marks before it holds the preliminary examination.",
+    "In my considered view, the commission is not authorized to take the impugned decision after the preliminary examination was conducted i.e. long after the recruitment process had already been set in motion."
+  ],
+  "holding": [
+    "The Writ Petition stands allowed.",
+    "The Respondents more particularly, Respondent No.2, Secretary, APPSC is directed to declare the result of the Writ Petitioners taking into consideration the criteria of selection that was applicable on or before 19.12.2006 and if they fulfill the criteria, they should be called for viva voce test."
+  ],
+  "cases_cited": [
+    "Arunachal Pradesh Public Service Commission and another v Tage Habung",
+    "Durgacharan Misra v. State of Orissa",
+    "In the case of Hemani Malhotra Etc. vs. High Court of Delhi",
+    "In the case of Inder Parkash Gupta vs. State of J & K &",
+    "In the case of K.H. Siraj vs. High Court of Kerala &",
+    "In the case of Union of India & Ors. vs. S. Vinodh Kumar &",
+    "P.K. Ramachandra Iyer v. Union of India",
+    "cannot fix any kind of cut-off marks. (See State of Punjab v. Manjit Singh",
+    "relied upon the decision of this Court in A.A. Calton vs. The Director of Education &",
+    "supra) and its own decision in Sushil Kumar Ghosh vs. State of Assam &"
+  ]
+}

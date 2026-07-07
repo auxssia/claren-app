@@ -1,0 +1,66 @@
+{
+  "case_id": "C1666",
+  "case_name": "M/S. Govind Impex Private Limited And Others v Appropriate Authority, Income Tax Department",
+  "court": "Supreme Court of India",
+  "year": 2010,
+  "judges": [
+    "Chandramauli Kr. Prasad"
+  ],
+  "bench": [],
+  "petitioner": "M/S. Govind Impex Private Limited And Others",
+  "respondent": "Appropriate Authority, Income Tax Department\nSupreme Court of India\n\n7 December 2010\nCriminal Appeal No.41 of 2006\nThe Judgment was delivered by : Chandramauli Kr. Prasad, J.\n1.   Appellants are the owners of property bearing No.B-68, Greater Kailash, Part-I, New Delhi and they let out the same at a monthly rental of Rs.2,50,000/- with effect from Ist June, 1991 for a period of nine years renewable for a further period of nine years. The appropriate authority of the Income-tax Department, respondent herein issued show cause notice to the appellant dated 4th December, 1995, inter alia, alleging that since the lease is for a period of nine years extendable for a further period of nine years, it was a lease for a period of more than 12 years and hence the provision of Chapter XXC of the Income-tax Act (hereinafter referred to as the \"Act\") would be attracted and the lessor and the lessee were obliged to submit Form 37-1 within 15 days of the",
+  "citations": [
+    "2004 1 SCC 1",
+    "2007 5 SCC 614"
+  ],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "269UC"
+    },
+    {
+      "act": "Read With Section 278B Of The Act",
+      "section": "267AB"
+    },
+    {
+      "act": "Code Of Criminal Procedure Code",
+      "section": "482"
+    },
+    {
+      "act": "Transfer Of Property Act",
+      "section": "53A"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "7 December 2010",
+  "outcome": "Unknown",
+  "facts": [
+    "Appellants are the owners of property bearing No.B-68, Greater Kailash, Part-I, New Delhi and they let out the same at a monthly rental of Rs.2,50,000/- with effect from Ist June, 1991 for a period of nine years renewable for a further period of nine years.",
+    "The appropriate authority of the Income-tax Department, respondent herein issued show cause notice to the appellant dated 4th December, 1995, inter alia, alleging that since the lease is for a period of nine years extendable for a further period of nine years, it was a lease for a period of more than 12 years and hence the provision of Chapter XXC of the Income-tax Act (hereinafter referred to as the "
+  ],
+  "issues": [
+    "Whether the total period of lease comes to more than 12 years"
+  ],
+  "petitioner_arguments": [
+    "Renewal of lease and extension of lease are not one and the same thing",
+    "A lease which provides for renewal of the lease cannot be fictionally taken into account for calculating the period of lease.",
+    "The term of lease was for a period of nine years with contemplation of renewal for nine years and it did not provide for extension of the term of the lease; hence the total period is for less than 12 years."
+  ],
+  "respondent_arguments": [
+    "From a bare perusal of the lease deed it is evident that the term of lease was extendable for a period of nine years more and, therefore, in view of the explanation to Section 269UA(f) of the Act, the total period of lease comes to more than 12 years"
+  ],
+  "court_reasoning": [
+    "A lease which provides for the extension of the term thereof by a further term or terms shall be deemed to be a lease for a term of not less than twelve years, if the aggregate of the term for which such lease is to be granted and the further term or terms for which it can be so extended is not less than twelve years;"
+  ],
+  "holding": [
+    "The total period of lease comes to more than 12 years"
+  ],
+  "cases_cited": [
+    "M/S. Govind Impex Private Limited And Others v Appropriate Authority",
+    "State of U.P. and others v. Lalji Tandon (Dead",
+    "and Hardesh Ores (P) Ltd. v. Hede",
+    "of this Court viz. Provash Chandra Dalui and another v. Biswanath Banerjee"
+  ]
+}

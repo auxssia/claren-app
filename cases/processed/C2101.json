@@ -1,0 +1,63 @@
+{
+  "case_id": "C2101",
+  "case_name": "Suraj Mal v State (Delhi Administration)",
+  "court": "Supreme Court of India",
+  "year": 1979,
+  "judges": [
+    "FAZAL ALI"
+  ],
+  "bench": [],
+  "petitioner": "Suraj Mal",
+  "respondent": "State (Delhi Administration)\nSupreme Court of India\n\n13 February 1979\nCr.A. No. 202 of 1974.\nThe Judgment was delivered by: FAZAL ALI, J.\n1.  This appeal by special leave is directed against the judgment of the Delhi High Court dated February 11, 1974 upholding the conviction and the sentence imposed on the appellant. The appellant was convicted u/s. 5(2) of the Prevention of Corruption Act and S. 161 IPC, read with S. 34 and was sentenced to two years' RI under each of the sections and a fine of Rs. 200 in default two months' RI. The sentences were to run concurrently. The facts of the case have been detailed in the judgment of the High Court and that of the Special Judge and it is not necessary for us to repeat them over again.\n2. It appears that a FIR was registered at P. S. Panipat against Prem Nath Sharma and his companions under Sections 363, 366, 342 and 376 IPC on the statement given by Meena Kumari aged about 19 years. The case was investigated by Davender Singh S",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "5(2)"
+    },
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "342"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "13 February 1979",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal by special leave is directed against the judgment of the Delhi High Court dated February 11, 1974 upholding the conviction and the sentence imposed on the appellant.",
+    "The appellant was convicted u/s. 5(2) of the Prevention of Corruption Act and S. 161 IPC, read with S. 34 and was sentenced to two years' RI under each of the sections and a fine of Rs. 200 in default two months' RI.",
+    "A FIR was registered at P.S. Panipat against Prem Nath Sharma and his companions under Sections 363, 366, 342 and 376 IPC on the statement given by Meena Kumari aged about 19 years.",
+    "The case was investigated by Davender Singh S.I. alongwith P.I. Ram Narain and Suraj Mal who were attached to Police Station, Panipat."
+  ],
+  "issues": [
+    "Whether the evidence of witnesses against Ram Narain and the appellant was inseparable and indivisible?",
+    "Whether the recovery of money by itself is sufficient to convict the accused when the substantive evidence in the case is not reliable?"
+  ],
+  "petitioner_arguments": [
+    "The defence of the appellant was that he was falsely implicated and nothing was recovered from him nor did he make any demand for bribe.",
+    "The Special Judge on the basis of the evidence led before the Court held that the evidence was extremely shaky and unconvincing and was not sufficient to convict Ram Narain but nevertheless the trial Court convicted the appellant on that very evidence."
+  ],
+  "respondent_arguments": [
+    "Mr. Lalit appearing for the State vehemently submitted that whatever be the nature of the evidence in the case, it is an established fact that money had been recovered from the bushshirt of the appellant and that by itself is sufficient for the conviction of the accused."
+  ],
+  "court_reasoning": [
+    "The position was that while PWs 6, 8 and 9 were disbelieved both in regard to the factum of payment of the bribe and the recovery of the money, regarding Ram Narain, the very same witnesses were believed so far as the appellant was concerned.",
+    "If the witnesses draw no distinction in the examination-in-chief regarding acceptance of bribe by Ram Narain and by the appellant and the witnesses were to be disbelieved with respect to one, they could not be believed with respect to the other."
+  ],
+  "holding": [
+    "We are satisfied that the prosecution has not been able to prove the case against the appellant beyond reasonable doubt.",
+    "We, therefore, allow the appeal, set aside the conviction and sentences passed against the appellant. The appellant will now be discharged from his bail bonds."
+  ],
+  "cases_cited": [
+    "Suraj Mal v State (Delhi Administration"
+  ]
+}

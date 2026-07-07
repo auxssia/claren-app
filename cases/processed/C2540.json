@@ -1,0 +1,52 @@
+{
+  "case_id": "C2540",
+  "case_name": "Joydeep Neogi @ Bubai v State of West Bengal",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Joydeep Neogi @ Bubai",
+  "respondent": "State of West Bengal\nSupreme Court of India\n\n8  May  2009\nCriminal Appeal No. 1285 of 2006\nThe Judgment was delivered by : Dr. Arijit Pasayat, J.\n1.  These two appeals are inter linked and are therefore disposed of by a common judgment. Challenge in these appeals is to the judgment of the Division Bench of the Calcutta High Court upholding the conviction of the appellants except that the order of conviction was modified and the appellants were convicted for offences punishable under Sections 364,302,201 read with Section 34 of the Indian Penal Code, 1860 (in short the 'IPC'). Seven persons faced trial before learned Additional Sessions Judge Alipurduar. Six of them i.e. present appellants were convicted and one of them i.e. accused No. 4 was acquitted. While accused No. 2 Joydeep Neogi is the appellant in Criminal Appeal No. 1285 of 2006, Debasish Das- accused no. 1 is the appellant in Criminal Appeal No. 122 of 2007. Accused nos. 3 and 6 are proforma respondent",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "34"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "27"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "8 May 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "Two appeals are inter linked and are therefore disposed of by a common judgment.",
+    "The challenge in these appeals is to the judgment of the Division Bench of the Calcutta High Court upholding the conviction of the appellants except that the order of conviction was modified and the appellants were convicted for offences punishable under Sections 364,302,201 read with Section 34 of the Indian Penal Code, 1860.",
+    "Seven persons faced trial before learned Additional Sessions Judge Alipurduar. Six of them i.e. present appellants were convicted and one of them i.e. accused No. 4 was acquitted.",
+    "The prosecution version as unfolded during trial is as follows: On 6 November, 2001 Ranadip (hereinafter referred to as 'deceased') son of Kr. Mallick Gupta was playing on a nearby playground of his house and as he did not return even after the usual hour, his mother and other relatives started searching for him, but without any result.",
+    "At about 1.30 P.M., an anonymous telephone call was received by a neighbour wherefrom information was gathered about wrongful detention of Ranadip."
+  ],
+  "issues": [
+    "Whether the judgments of the trial court and the High Court are correct?"
+  ],
+  "petitioner_arguments": [
+    "The circumstances highlighted do not present a complete chain of circumstances and therefore the judgments of the trial court and the High Court are not correct."
+  ],
+  "respondent_arguments": [
+    "The judgment of the trial court as upheld by the High Court is supported."
+  ],
+  "court_reasoning": [
+    "When a case rests purely on circumstantial evidence, the circumstances from which the inference of guilt is sought to be proved must be cogent and firmly established, and that should unerringly point towards the guilt of the accused, and that must make a chain complete to form a view that the crime was committed by the accused alone and none else.",
+    "The conduct which destroys the presumption of innocence can be considered as relevant and material."
+  ],
+  "holding": [
+    "The judgments of the trial court and the High Court are upheld except for the modification of the conviction."
+  ],
+  "cases_cited": []
+}

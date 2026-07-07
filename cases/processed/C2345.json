@@ -1,0 +1,76 @@
+{
+  "case_id": "C2345",
+  "case_name": "Siddanna Apparao Patil v State Of Maharashtra",
+  "court": "Supreme Court of India",
+  "year": 1970,
+  "judges": [
+    "A. N. Ray, J."
+  ],
+  "bench": [],
+  "petitioner": "Siddanna Apparao Patil",
+  "respondent": "State Of Maharashtra\nSupreme Court of India\n\n6 March 1970\nCriminal Appeal No. 180 of 1967. Appeal by special leave, from the order dated December 5, 1966 of the Bombay High Court in Criminal Appeal No. 1444 of 1966\nThe Judgment was delivered by : A. N. Ray, J.\n1. This is an appeal by special leave against the judg ment of the High Court of Bombay dated 5 December, 1966 dismissing in limine the appeal preferred against the judgment and order dated 16 August, 1966 passed by the Sessions Judge, Sholapur. The High Court by an order dated 3 April, 1967 also refused leave to appeal to this Court.\n2. The appellant was accused, No. 1. He was convicted under section 302 read with section 34 of the Indian Penal Code and sentenced to imprisonment for life.\n3. Broadly stated, the charge against the appellant was that he in conspiracy with his brother, accused No. 2 committed murder of Revansidhappa Shivappa Patil and Mahadeo Sidran Patil. The defence of both the appellant",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Read With Section 34 Of The Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Criminal Procedure Code",
+      "section": "410"
+    },
+    {
+      "act": "Criminal Procedure Code",
+      "section": "479A"
+    },
+    {
+      "act": "Indian Penal Code",
+      "section": "409"
+    },
+    {
+      "act": "Criminal Procedure Code",
+      "section": "162"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "6 March 1970",
+  "outcome": "Unknown",
+  "facts": [
+    "This is an appeal by special leave against the judgment of the High Court of Bombay dated 5 December, 1966 dismissing in limine the appeal preferred against the judgment and order dated 16 August, 1966 passed by the Sessions Judge, Sholapur.",
+    "The appellant was accused, No. 1. He was convicted under section 302 read with section 34 of the Indian Penal Code and sentenced to imprisonment for life.",
+    "Broadly stated, the charge against the appellant was that he in conspiracy with his brother, accused No. 2 committed murder of Revansidhappa Shivappa Patil and Mahadeo Sidran Patil.",
+    "The defence of both the appellant and his brother was one of total denial."
+  ],
+  "issues": [
+    "Whether the appeal raises arguable and substantial points",
+    "Whether the High Court should give reasons for rejection of appeal"
+  ],
+  "petitioner_arguments": [
+    "That a gross illegality was committed in relying upon the evidence given by a co-accused in a dacoity case",
+    "Denial of an opportunity to an appellant in a dacoity case of being heard as required under section 479A of the Criminal Procedure Code"
+  ],
+  "respondent_arguments": [
+    "That there were serious infirmities in the evidence and the manner in which the keys were recovered was open to objection"
+  ],
+  "court_reasoning": [
+    "The Appellate Court undoubtedly has power of summary dismissal",
+    "If the appeal raises arguable and substantial points, the High Court should give reasons for rejection of appeal",
+    "Rejection of an appeal by using only one word of dismissal causes difficulties and embarrassment in finding out the reasons which weighed with the High Court in dismissal of the appeal in limine"
+  ],
+  "holding": [
+    "The appeal is allowed. The order of dismissal of the appeal is set aside. The matter is sent back to the High Court for fresh consideration on hearing the parties."
+  ],
+  "cases_cited": [
+    "In an unreported decision of this Court in Bhanwar Singh v. State of Rajasthan",
+    "and Krishna G.Patil v. State of Maharshtra",
+    "and the recent decision in Govinda Kadtuji Kadam & Ors. v. State of Maharashtra",
+    "earlier decision of this Court in Bashir Husain Peshimani v. The",
+    "fourthly this Court in Chittaranian Das v. State of West Bengal",
+    "of this Court in Vishwanath Shankar Beldar v. State of Maharashtra",
+    "one of the earlier decisions of this Court in Mushtak Hussain v. The",
+    "was placed on the decisions of this Court in Prabhakar Navale v. State to Bombay",
+    "with reference to a few decisions. In Narayan Swami v. State of Maharashtra"
+  ]
+}

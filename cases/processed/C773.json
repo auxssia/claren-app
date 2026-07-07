@@ -1,0 +1,60 @@
+{
+  "case_id": "C773",
+  "case_name": "Rishi Nandan Pandit v State of Bihar",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [
+    "K. T. Thomas, J."
+  ],
+  "bench": [],
+  "petitioner": "Rishi Nandan Pandit",
+  "respondent": "State of Bihar\nSupreme Court of India\n\n15 October 1999\nAppeal (crl.) 1092 of 1999\nThe Judgment was delivered by : K. T. Thomas, J.\nLeave granted.\n1.  Twelve persons stand convicted by a Sessions Court under Section 395 of the Indian Penal Code and all of them were sentenced to undergo rigorous imprisonment for 10 years. All of them jointly filed an appeal before the High Court of Patna in August 1986. It appears that the High Court had suspended the sentence passed on the appellants pending disposal of the appeal. On 3.8.1998, the appeal stood listed before a Single Judge of the High Court. But the counsel engaged by the appellants did not turn up and hence learned Single Judge proceeded to hear the counsel for the State alone and then dismissed the appeal on merits. Appellants have therefore come up to this Court aggrieved by the aforesaid judgment of the High Court.\n2.  Shri P.S. Misra, learned Senior Counsel who argued for the appellants did not endeavour to ju",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "395"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "162"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "15 October 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "Twelve persons stand convicted by a Sessions Court under Section 395 of the Indian Penal Code and all of them were sentenced to undergo rigorous imprisonment for 10 years.",
+    "All of them jointly filed an appeal before the High Court of Patna in August 1986.",
+    "It appears that the High Court had suspended the sentence passed on the appellants pending disposal of the appeal.",
+    "On 3.8.1998, the appeal stood listed before a Single Judge of the High Court.",
+    "But the counsel engaged by the appellants did not turn up and hence learned Single Judge proceeded to hear the counsel for the State alone and then dismissed the appeal on merits."
+  ],
+  "issues": [
+    "Whether there was miscarriage of justice in this case",
+    "Whether the court should appoint a counsel at State expense to argue for the accused"
+  ],
+  "petitioner_arguments": [
+    "The appellants should have engaged a responsible counsel to argue their appeal in the High Court, as they now put the blame on the Advocate whom they engaged there.",
+    "When the counsel engaged by the appellants in a criminal appeal does not turn up, there is no obligation for the court of appeal to wait for him or even to adjourn the case awaiting his presence."
+  ],
+  "respondent_arguments": [
+    "The prosecution witnesses have proved the manner of occurrence whereas P.Ws. 6, 8 and 14 have identified the dacoits by face.",
+    "After scrutiny of evidence, it appears to me that the prosecution has proved the charges against the appellants beyond all reasonable doubt."
+  ],
+  "court_reasoning": [
+    "The law clearly expects the appellate court to dispose of the appeal on merits, not merely by perusing the reasoning of the trial court in the judgment, but by cross-checking the reasoning with the evidence on record with a view to satisfying itself that the reasoning and findings recorded by the trial court are consistent with the material on record.",
+    "The law does not envisage the dismissal of the appeal for default or non-prosecution but only contemplates disposal on merits after perusal of the record."
+  ],
+  "holding": [
+    "The appeal filed by the appellants before the High Court will stand restored for fresh disposal according to law and in accordance with the observations made above.",
+    "If no counsel for the accused turns up, we request the High Court, on the peculiar facts of this case, to appoint an advocate at State cost to argue for the accused."
+  ],
+  "cases_cited": [
+    "a two Judge Bench of this Court in Ram Naresh Yadav and Ors, v. State of Bihar",
+    "by a three Judge Bench of this Court in Bant Singh and Ors, v. Slate of U",
+    "the three Judge Bench of this Court indicated in Bam Singh v. State of Uttar Pradesh"
+  ]
+}

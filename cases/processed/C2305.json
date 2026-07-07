@@ -1,0 +1,83 @@
+{
+  "case_id": "C2305",
+  "case_name": "GAIL (India) Limited v Gujarat State Petroleum Corporation Limited",
+  "court": "Supreme Court of India",
+  "year": 2013,
+  "judges": [
+    "G. S. Singhvi, J."
+  ],
+  "bench": [],
+  "petitioner": "GAIL (India) Limited",
+  "respondent": "Gujarat State Petroleum Corporation Limited\nSupreme Court of India\n\n17 September 2013\nC.A. No. 8263 of 2013 (Arising out of S.L.P. (C) No. 21932 of 2013)\n(Non-Reportable)\nThe Judgment was delivered by : G. S. Singhvi, J.\n1. Leave granted.\n2. Whether the Division Bench of the Gujarat High Court was justified in entertaining the writ petition filed by the respondent u/art. 226 of the Constitution in the matter of fixation of price of the gas supplied by the appellant and whether a mandamus could be issued requiring the appellant to engage itself with the respondent to arrive at the price of gas effective from 1.1.2014 are the questions which arise for consideration in this appeal.\n3. The Government of India constituted Petronet LNG Limited (PLL) for marketing liquefied natural gas (LNG) imported from Qatar and other countries. The Petronet LNG Limited consists of GAIL (India) Limited (the appellant), Indian Oil Corporation Limited (IOC), Bharat Petroleum Corporatio",
+  "citations": [
+    "1986 1 SCC 264",
+    "1989 2 SCC 116",
+    "1989 3 SCC 293",
+    "1990 3 SCC 752",
+    "1991 1 SCC 212",
+    "2000 6 SCC 293",
+    "2003 2 SCC 107",
+    "2004 3 SCC 553",
+    "2011 TILL 21",
+    "2013 7 SCC 1"
+  ],
+  "statutes": [
+    {
+      "section": "46"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "11"
+    },
+    {
+      "act": "Constitution of India"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "17 September 2013",
+  "outcome": "Unknown",
+  "facts": [
+    "The Government of India constituted Petronet LNG Limited (PLL) for marketing liquefied natural gas (LNG) imported from Qatar and other countries.",
+    "On 31.7.1999, PLL entered into Sale Purchase Agreement (SPA) with Ras Gas, Qatar for supply of 5 MMTPA of LNG for a period of 25 years.",
+    "In February 2004, the appellant signed Gas Sale Agreement (GSA) with the respondent for supply of re-gasified liquefied natural gas (RLNG) from out of LNG sourced by PLL.",
+    "The terms and conditions of supply were incorporated in GSA dated 7.2.2004, paragraphs 3.1, 3.2, 11.3, 11.6, 15.1, 15.5, 15.6 and 20.9 of which read as under:",
+    "On the same day, the appellant and the respondent executed First Price Side Letter (FPSL) which was to form an integral part of the GSA.",
+    "After about three years, the Government of India, Ministry of Petroleum and Natural Gas sent communication dated 6.3.2007 to the Managing Director and CEO, PLL with copies to Chairman, IOC; C & MD, GAIL; and C & MD, BPCL incorporating therein the policy decision on pooling of RLNG prices.",
+    "The respondent and other buyers of gas challenged the aforesaid policy decision in Special Civil Application No.18868/2007 and batch matters.",
+    "On 2.12.2008, the appellant sent e-mail to the respondent along with draft RLNG contract for discussion indicating that the contract could be effective from 1.1.2009."
+  ],
+  "issues": [
+    "Whether the Division Bench of the Gujarat High Court was justified in entertaining the writ petition filed by the respondent u/art. 226 of the Constitution",
+    "Whether a mandamus could be issued requiring the appellant to engage itself with the respondent to arrive at the price of gas effective from 1.1.2014"
+  ],
+  "petitioner_arguments": [
+    "The Parties shall use their respective reasonable endeavors to settle any Dispute amicably through negotiations.",
+    "If a Dispute is not resolved within thirty (30) days after written notice of a Dispute by one Party to the other Party then the provisions of Art. 15.5 shall apply unless such Dispute is required to be referred to a Sole Expert under Art. 15.2."
+  ],
+  "respondent_arguments": [
+    "The question of prices to be charged for RLNG from different customers has been under consideration of the Government.",
+    "After considering existing practices and to avoid loading high cost of additional RLNG being made available to the prospective customers, it has been decided after examination of all aspects, in public interest, that the gas prices being charged on supply of RLNG procured under long term contracts should be on a non-discriminatory basis and uniform pooled prices should be charged from all the existing and new consumers."
+  ],
+  "court_reasoning": [
+    "The relevant portion of that letter is reproduced below:",
+    "The question of prices to be charged for RLNG from different customers has been under consideration of the Government.",
+    "After considering existing practices and to avoid loading high cost of additional RLNG being made available to the prospective customers, it has been decided after examination of all aspects, in public interest, that the gas prices being charged on supply of RLNG procured under long term contracts should be on a non-discriminatory basis and uniform pooled prices should be charged from all the existing and new consumers."
+  ],
+  "holding": [
+    "The Division Bench of the Gujarat High Court was justified in entertaining the writ petition filed by the respondent u/art. 226 of the Constitution",
+    "A mandamus could not be issued requiring the appellant to engage itself with the respondent to arrive at the price of gas effective from 1.1.2014"
+  ],
+  "cases_cited": [
+    "ABL International Ltd. and another v. Export Credit Guarantee Corporation of India Ltd",
+    "GAIL (India) Limited v Gujarat",
+    "In Arun Kumar Agrawal v. Union of India",
+    "Kumari Shrilekha Vidyartha and others v. State of U",
+    "Mahabir Auto Stores and others v. Indian Oil Corporation",
+    "and Harbanslal Sahnia and another v. Indian Oil Corporation Ltd",
+    "and Kerala State Electricity Board v. Kurien E",
+    "relied upon the judgments in Dwarkadas Marfatia and sons v. Board of Trustees of",
+    "upon the judgments in Life Insurance Corporation of India v. Escorts Ltd"
+  ]
+}

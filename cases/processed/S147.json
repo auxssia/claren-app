@@ -1,0 +1,55 @@
+{
+  "case_id": "S147",
+  "case_name": "None",
+  "court": "Supreme Court",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "139A"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "134"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "317"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "143"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "132"
+    },
+    {
+      "section": "26"
+    },
+    {
+      "section": "6"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "No judgment shall be delivered by the Supreme Court save in open Court",
+    "No report shall be made under Article 143 save in accordance with an opinion also delivered in open Court",
+    "No judgment and no such opinion shall be delivered by the Supreme Court save with the concurrence of a majority of the Judges present at the hearing of the case"
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,53 @@
+{
+  "case_id": "C2481",
+  "case_name": "State of Chhattisgarh v Lekhram",
+  "court": "Supreme Court of India",
+  "year": 2006,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "State of Chhattisgarh",
+  "respondent": "Lekhram\nSupreme Court of India\n\n5 April 2006\nAppeal (Crl.) 326 of 1999\nThe Judgment was delivered by : S. B. Sinha, J\n1. The Respondent herein was working in the house of the father of Sushila Bai (PW-1). She is said to have been born on 25.12.1970. She was admitted in a village school in 1977. She was married in the year 1985. She came back to her parent's place from her in-laws house after the 'gauna' ceremeony was celebrated. The Respondent herein is said to have induced her to leave the village along with him in the night intervening between 25th and 26th February, 1986. A First Information Report was lodged on 26.2.1986 by Jeewan Ram Chandel (PW-6) who happened to be the brother-in-law of the prosecutrix Sushila Bai. In the said report, the Respondent herein was said to have been abducted her. The father of the prosecutrix, however, was asked by the officer-in- charge of the police station to produce proof of her age whereupon certificate as per the school",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "376"
+    },
+    {
+      "act": "Indian Evidence Act",
+      "section": "35"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "5 April 2006",
+  "outcome": "Unknown",
+  "facts": [
+    "The Respondent herein was working in the house of the father of Sushila Bai (PW-1).",
+    "She is said to have been born on 25.12.1970.",
+    "She was admitted in a village school in 1977.",
+    "She was married in the year 1985.",
+    "She came back to her parent's place from her in-laws house after the 'gauna' ceremeony was celebrated.",
+    "The Respondent herein is said to have induced her to leave the village along with him in the night intervening between 25th and 26th February, 1986.",
+    "A First Information Report was lodged on 26.2.1986 by Jeewan Ram Chandel (PW-6) who happened to be the brother-in-law of the prosecutrix Sushila Bai.",
+    "In the said report, the Respondent herein was said to have been abducted her."
+  ],
+  "issues": [
+    "Whether the State has brought enough materials on record to prove that PW-1 was a minor as on the date of occurrence."
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "A register maintained in a school is admissible in evidence to prove date of birth of the person concerned in terms of Section 35 of the Indian Evidence Act.",
+    "Such dates of births are recorded in the school register by the authorities in discharge of their public duty.",
+    "Only because PW-3 the father of the prosecutrix could not state about the date of birth of his other children, the same, by itself, would not mean that he had been deposing falsely."
+  ],
+  "holding": [
+    "The appeal is allowed with the aforementioned directions.",
+    "The Respondent is directed to be sentenced to the period already undergone by him."
+  ],
+  "cases_cited": []
+}

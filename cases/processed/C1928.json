@@ -1,0 +1,63 @@
+{
+  "case_id": "C1928",
+  "case_name": "Suresh Chandra v State of Uttar Pradesh",
+  "court": "Supreme Court of India",
+  "year": 2005,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Suresh Chandra",
+  "respondent": "State of Uttar Pradesh\nSupreme Court of India\n\n21 July 2005\nAppeal (crl.) 746 of 2003\nThe Order of the Court was as follows :\n1.  The facts of this case reveal that an auspicious occasion of marriage had turned out to be a funeral ceremony, following a quarrel that ensued between the invitees on a flimsy ground. The three appellants therein along with two other, who have been acquitted by the High Court, were charged for murdering two persons, namely, Ravindra Singh and Mahendra Singh in the night of 20th February, 1977 in the village Tikari, Aligarh District. On trial, the appellants were convicted under Section 302 read with 34 IPC and Section 307 read with 34 IPC and sentenced to life imprisonment. The other two accused were convicted under Section 302 read with 109 IPC.\n2.  On appeals filed by the accused before the High Court, the conviction and sentence of the appellants was upheld by the High Court. The conviction of the other two accused was set aside by the Hi",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "307"
+    },
+    {
+      "section": "304"
+    },
+    {
+      "section": "300"
+    },
+    {
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "21 July 2005",
+  "outcome": "Unknown",
+  "facts": [
+    "The facts of this case reveal that an auspicious occasion of marriage had turned out to be a funeral ceremony, following a quarrel that ensued between the invitees on a flimsy ground.",
+    "The three appellants therein along with two other, who have been acquitted by the High Court, were charged for murdering two persons, namely, Ravindra Singh and Mahendra Singh in the night of 20th February, 1977 in the village Tikari, Aligarh District.",
+    "On trial, the appellants were convicted under Section 302 read with 34 IPC and Section 307 read with 34 IPC and sentenced to life imprisonment.",
+    "The postmortem report reveals that two fire arm injuries were found on the chest and on the left side of the back of Ravindra Singh.",
+    "A wound 13 cm. below left nipple and 10cm. above umbilicus was also found."
+  ],
+  "issues": [
+    "Whether the conviction could be converted into one for the offence punishable under Section 304 IPC instead of Section 302 IPC"
+  ],
+  "petitioner_arguments": [
+    "The incident had happened without any premeditation or prior concert, upon a sudden quarrel and the resultant attack on the victims was unintentional and, therefore, the offence would appropriately fall under Exception 4 punishable under Section 304 Part I or II."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Though there was absence of premeditation and it was a case of sudden fight that is not sufficient to bring the offence committed by the accused within the purview of Exception 4.",
+    "The further requirement of Exception 4 that the offender should not have taken undue advantage or acted in a cruel or unusual manner should be satisfied.",
+    "Shooting with fire-arms from a close range and that too on the vital parts of the body makes all the difference in the instant case."
+  ],
+  "holding": [
+    "On the facts of this case, it is only Section 302 IPC that is attracted."
+  ],
+  "cases_cited": [
+    "Senior counsel then cited the decision in Sunder Singh v. State of Rajasthan",
+    "and Surinder Kumar v. Union Territory",
+    "of this Court. In the first two decision viz., Sukhbir Singh v. State of Haryana"
+  ]
+}

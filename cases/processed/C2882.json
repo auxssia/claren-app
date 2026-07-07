@@ -1,0 +1,88 @@
+{
+  "case_id": "C2882",
+  "case_name": "Gurdev Kaur and Others v Kaki and Others",
+  "court": "Supreme Court of India",
+  "year": 2006,
+  "judges": [
+    "Dalveer Bhandari"
+  ],
+  "bench": [],
+  "petitioner": "Gurdev Kaur and Others",
+  "respondent": "Kaki",
+  "citations": [
+    "1981 2 SCC 414",
+    "1997 4 SCC 713",
+    "1997 5 SCC 438",
+    "1998 6 SCC 683",
+    "1999 2 SCC 471",
+    "1999 6 SCC 35",
+    "2001 3 SCC 179",
+    "2001 5 SCC 311",
+    "2001 6 SCC 279",
+    "2004 5 SCC 762",
+    "2005 10 SCC 139",
+    "2005 10 SCC 553",
+    "2005 12 SCC 270",
+    "2005 9 SCC 232",
+    "2006 2 SCC 496",
+    "AIR 1959 SC 57"
+  ],
+  "statutes": [
+    {
+      "section": "100"
+    },
+    {
+      "section": "5"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "18 April 2006",
+  "outcome": "Unknown",
+  "facts": [
+    "Judges must administer law according to the provisions of law.",
+    "The case relates to the validity of the Will of the deceased, Chanan Singh.",
+    "The relationship between the parties is as follows.",
+    "Chanan Singh died on 06 February 1969 in Barnala and the defendant Bhagwan Kaur got the mutation of inheritance of Chanan Singh sanctioned from the concerned authority on the basis of the alleged Will dated 18 January 1969.",
+    "According to the plaintiffs, the defendants are in illegal possession of the suit land and that the defendants had threatened to alienate the suit land on 06 March 1980.",
+    "The Trial Court, on the basis of the pleadings of the parties and documents on record, framed eleven issues.",
+    "The plaintiffs produced five witnesses and the defendants produced three witnesses in support of their respective stands before the Trial Court."
+  ],
+  "issues": [
+    "Whether the deceased had in fact executed the Will out of his free will or not?"
+  ],
+  "petitioner_arguments": [
+    "According to the plaintiffs, the deceased Chanan Singh did not execute any Will out of his free will because he was not in a position to protect his own welfare and in fact he was not in a position to execute any Will at all.",
+    "The plaintiffs argued before the Trial Court that the deceased Chanan Singh was under the influence of the defendant Bhagwan Kaur, but according to the Trial Court it was not the pleaded case of the plaintiffs in the plaint."
+  ],
+  "respondent_arguments": [
+    "It is an admitted case of the parties that the deceased Chanan Singh had no son and all his daughters were married long ago.",
+    "In order to protect the interest of his wife Bhagwan Kaur and to ensure that she does not have to depend on anyone for her maintenance and welfare the deceased Chanan Singh had executed the Will in favour of his wife Bhagwan Kaur."
+  ],
+  "court_reasoning": [
+    "The requirement of law is that the testator should put his mark on the Will in the presence of the attesting witnesses and the attesting witnesses should attest the Will in the presence of the testator, has been fulfilled in the present case, as is evident from the statement of Amar Singh D.W.1.",
+    "The requirement of law is that for the purpose of proving the attesting document, at least one attesting witness is required to be examined by the party."
+  ],
+  "holding": [
+    "This Court on 03 November 2003, while issuing notice on the Special Leave Petition, directed the status-quo be maintained in the meantime.",
+    "Now this appeal has been placed before us for final adjudication."
+  ],
+  "cases_cited": [
+    "Again in Santosh Hazari v. Purushottam Tiwari (deceased",
+    "Again, in the case of Harjeet Singh v. Amrik Singh",
+    "Again, in the case of Madhavan Nair v. Bhaskar Pillai",
+    "Again, this Court in the case of State of Kerala v. Mohd",
+    "C.P.C.. In Deity Pattabhiramaswamy v. S. Hanymayya",
+    "Gurdev Kaur and Others v Kaki",
+    "In Kshitish Chandra Purkait v. Santosh Kumar Purkait",
+    "In M. Ramappa v. M. Bojjappa",
+    "In Thiagarajan v. Sri Venugopalaswamy B",
+    "In the case of H. P. Pyarejan v. Dasappa",
+    "In the case of Ram Gopal v. Shakshaton",
+    "The Privy Council, in Luchman v. Puna",
+    "The Privy Council, in another case Pratap Chunder v. Mohandranath",
+    "The same principle has been reiterated in Rudr Prasad v. Baij Nath",
+    "in Commissioner, Hindu Religious & Charitable Endowments v. P. Shanmugama"
+  ]
+}

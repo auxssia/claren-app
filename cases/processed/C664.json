@@ -1,0 +1,87 @@
+{
+  "case_id": "C664",
+  "case_name": "State of Rajasthan v Ramanand",
+  "court": "Supreme Court of India",
+  "year": 2017,
+  "judges": [
+    "Uday Umesh Lalit"
+  ],
+  "bench": [],
+  "petitioner": "State of Rajasthan",
+  "respondent": "Ramanand\nSupreme Court of India\n\n11 April 2017\nCriminal Appeal No. 357 of 2008\nThe Judgment was delivered by : Uday Umesh Lalit, J.\n1. The respondent was convicted by the Trial Court under Sections 302 and 201 IPC for having committed murder of his wife Anita and daughter Ekta and was sentenced to undergo life imprisonment for the offence under Section 302 and 3 years RI for that under Section 201 IPC in Sessions Case No.62 of 2000. In DB Criminal Appeal No.20 of 2002 preferred by the respondent, the High Court of Judicature for Rajasthan at Jaipur by its judgment and order dated 07.03.2006 acquitted him of the charges under Sections 302 and 201 IPC but convicted him under Section 306 IPC and sentenced him to undergo 5 years RI, which judgment is under challenge in this appeal by Special Leave.\n2. On 21.09.2000 at about 9:11 p.m. a report Ext. D-1 was lodged by the respondent to the following effect:-\n\"To\nThe S.H.O.\nP.S. Patan Sir,\nMost respectfully I submit that m",
+  "citations": [
+    "1979 2 SCC 297",
+    "1991 4 SCC 406",
+    "1998 3 SCC 38",
+    "2014 7 SCC 323",
+    "AIR 1954 SC 520"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "201"
+    },
+    {
+      "section": "306"
+    },
+    {
+      "section": "174"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "section": "498A"
+    },
+    {
+      "section": "162"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "136"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "142"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "11 April 2017",
+  "outcome": "Unknown",
+  "facts": [
+    "The respondent was convicted by the Trial Court under Sections 302 and 201 IPC for having committed murder of his wife Anita and daughter Ekta.",
+    "A report was lodged by the respondent to the police stating that his wife had burnt to death.",
+    "The investigation was undertaken, and charge-sheet was filed against six persons including the present respondent.",
+    "The trial court found that both Anita and Ekta were killed by strangulation and that the case was of culpable homicide."
+  ],
+  "issues": [
+    "Whether the respondent was guilty of the offence under Section 302 IPC read with Section 201 IPC?",
+    "Whether the High Court's decision to convict the respondent under Section 306 IPC was correct?"
+  ],
+  "petitioner_arguments": [
+    "The respondent ought to be acquitted of all the charges.",
+    "Ext.D-1 could not be relied upon and read against the respondent."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The medical evidence on record is very clear and precise that deaths were as a result of strangulation.",
+    "It is impossible to assume how Anita could have strangulated herself and then attempted to set herself afire.",
+    "The absence of any evidence as regards dowry or related harassment also nullifies the element of presence of any motive on part of the respondent."
+  ],
+  "holding": [
+    "The Supreme Court allowed the appeal, setting aside the High Court's decision to convict the respondent under Section 306 IPC and acquitting him of all charges."
+  ],
+  "cases_cited": [
+    "and later followed in a series of decisions (vide Arunachalam v. P.S"
+  ]
+}

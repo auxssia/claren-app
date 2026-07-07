@@ -1,0 +1,74 @@
+{
+  "case_id": "C205",
+  "case_name": "Dhanna v State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "year": 1996,
+  "judges": [
+    "K. T. Thomas, J."
+  ],
+  "bench": [],
+  "petitioner": "Dhanna",
+  "respondent": "State of Madhya Pradesh\nSupreme Court of India\n\n25 July 1996\nCriminal Appeal No. 170A of 1984\nThe Judgment was delivered by : K. T. Thomas, J.\n1.  A young man, by name Nanji, was murdered on 23.8.1980, near Government Degree College Dhar. The police arraigned five persons for the said murder and the Sessions Judge, after trial, convicted the first two among them (kannaiyalal-first accused and Maniram- second accused) of the offence under Section 302 IPC, and acquitted the remaining three persons. State filed an appeal challenging the acquittaland the convicted persons filed another appeal. High Court of Madhya Pradesh while confirming the conviction and sentence reversed the order of acquittal of 5th accused (Dhannal and convicted him also of the offence under Section 302 IPC. Sentence of imprisonment for life was awarded to all the convicts. We have before us two appeals by special leave, one jointly filed by Kannaiyalal and Maniram and the other separately filed by Dhanna.\n2",
+  "citations": [
+    "AIR 1956 SC 116",
+    "AIR 1966 SC 1775",
+    "AIR 1973 SC 2221",
+    "AIR 1974 SC 1256",
+    "AIR 1977 SC 135",
+    "AIR 1987 SC 1083",
+    "AIR 1988 SC 1158",
+    "AIR 1990 SC 2134"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "149"
+    },
+    {
+      "act": "Code Of Criminal Procedure For",
+      "section": "161"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "25 July 1996",
+  "outcome": "Unknown",
+  "facts": [
+    "A young man, by name Nanji, was murdered on 23.8.1980, near Government Degree College Dhar.",
+    "The police arraigned five persons for the said murder and the Sessions Judge, after trial, convicted the first two among them (kannaiyalal-first accused and Maniram-second accused) of the offence under Section 302 IPC, and acquitted the remaining three persons.",
+    "State filed an appeal challenging the acquittal and the convicted persons filed another appeal.",
+    "High Court of Madhya Pradesh while confirming the conviction and sentence reversed the order of acquittal of 5th accused (Dhannal) and convicted him also of the offence under Section 302 IPC."
+  ],
+  "issues": [
+    "Whether the High Court was justified in using Section 34 IPC for convicting the appellants",
+    "Whether the trial court's finding that there was no unlawful assembly is correct"
+  ],
+  "petitioner_arguments": [
+    "The High Court committed a basic error in seeking the aid of Section 34 IPC for confirming the conviction of the appellants for the offence under Section 302 IPC.",
+    "The absence of a charge under one or other of the various heads of criminal liability for the offence cannot be said to be fatal by itself, and before a conviction for the substantive offence, without a charge, can be set aside."
+  ],
+  "respondent_arguments": [
+    "There was no unlawful assembly as the strength of the assembly was insufficient to constitute it into 'unlawful assembly'.",
+    "The evidence of PW-6 (Naruram) as corroborated by PW-1 and PW-2 supports the testimony that Dhanna was also a participant in the crime."
+  ],
+  "court_reasoning": [
+    "Sections 34, 114 and 149 of the Indian Penal Code provide for criminal liability viewed from different angles as regards actual participants, accessories and men actuated by a common object or a common intention.",
+    "The absence of a charge under one or other of the various heads of criminal liability for the offence cannot be said to be fatal by itself, and before a conviction for the substantive offence, without a charge, can be set aside."
+  ],
+  "holding": [
+    "We dismiss Criminal Appeal No. 252/84 filed by Kanhaiyalal and Maniram, but we allow Criminal Appeal No. 170A/84, filed by Dhanna."
+  ],
+  "cases_cited": [
+    "Ashok Kumar v. State of Rajasthan",
+    "Awadhesh and Anr. v. State of M",
+    "Bhoor Singh and Anr. v. State or Punjab",
+    "Caetand Piedade Fernandes & Anr. v. Union Terriroty of Goa",
+    "Tota Singh and Anr. v. State of Punjab",
+    "a time after this court rendered a decision in Nanak Chand v. The",
+    "and are to some extent overlapping (Barendra Kumar Ghosh vs. Emperor",
+    "by a constitution bench of this court in Willie Slaney v. State of M",
+    "following by this court in later decisions also, (Amar Singh v. State of Haryana",
+    "the interfered with or disturbed. (Durgacharan Naik and ors. v. State of Orissa"
+  ]
+}

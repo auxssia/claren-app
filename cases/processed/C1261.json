@@ -1,0 +1,81 @@
+{
+  "case_id": "C1261",
+  "case_name": "State of Madhya Pradesh v Sangram and Others",
+  "court": "Supreme Court of India",
+  "year": 2005,
+  "judges": [
+    "G. P. Mathur"
+  ],
+  "bench": [],
+  "petitioner": "State of Madhya Pradesh",
+  "respondent": "Sangram",
+  "citations": [
+    "AIR 1981 SC 1442",
+    "AIR 1987 SC 1155"
+  ],
+  "statutes": [
+    {
+      "section": "307"
+    },
+    {
+      "section": "34"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "500"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "384"
+    },
+    {
+      "section": "385"
+    },
+    {
+      "section": "386"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "136"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "20 October 2005",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal has been preferred by the State of M.P. against the judgment and order dated 25.7.2003 of Justice N.S. Azad of M.P. High Court in Crl. Appeal No.758 of 1997.",
+    "The trial Court convicted the accused under Section 307 read with Section 34 IPC and each of them was awarded a sentence of 7 years R.I. and a fine of Rs.500/- and in default to undergo R.I. for a further period 3 months.",
+    "Learned counsel for the appellant has submitted that the sentence imposed by the High Court is wholly inadequate looking to the nature of the offence.",
+    "The High Court has not assigned any satisfactory reason for reducing the sentence to less than one year.",
+    "That apart, the High Court has written a very short and cryptic judgment. To say the least, the appeal has been disposed of in a most unsatisfactory manner exhibiting complete non-application of mind."
+  ],
+  "issues": [
+    "The duty of the appellate Court while hearing a criminal appeal",
+    "The procedure for hearing appeals not dismissed summarily"
+  ],
+  "petitioner_arguments": [
+    "The sentence imposed by the High Court is wholly inadequate looking to the nature of the offence.",
+    "The High Court has not assigned any satisfactory reason for reducing the sentence to less than one year."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "It is, therefore, mandatory for the Appellate Court to peruse the record which will necessarily mean the statement of the witnesses.",
+    "In a case based upon direct eye-witness account, the testimony of the eyewitnesses is of paramount importance and if the Appellate Court reverses the finding recorded by the Trial Court and acquits the accused without considering or examining the testimony of the eye-witnesses, it will be a clear infraction of Section 386 Cr.P.C.",
+    "Since the judgment of the High Court is not in accordance with law, we have no option but to set aside the same and to remit the matter back to the High Court for a fresh consideration of the appeal."
+  ],
+  "holding": [
+    "The appeal preferred by the State of M.P. is accordingly allowed",
+    "The judgment and order of the High Court is set aside and the appeal is remanded back to the High Court for a fresh hearing after issuing notice to the accused respondent."
+  ],
+  "cases_cited": [
+    "Cr.P.C. In Biswanath Ghosh v. State of West Bengal &",
+    "State of Madhya Pradesh v Sangram",
+    "to warrant the conviction of the accused. In State of UP v. Sahai &"
+  ]
+}

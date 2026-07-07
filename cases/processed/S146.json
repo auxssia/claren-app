@@ -1,0 +1,44 @@
+{
+  "case_id": "S146",
+  "case_name": "",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "158"
+    },
+    {
+      "section": "154"
+    },
+    {
+      "section": "164"
+    },
+    {
+      "section": "161"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The report is about police investigations and reporting.",
+    "Every investigation under this Chapter shall be completed without unnecessary delay,"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The officer in charge of the police-station shall forward a report to a Magistrate empowered to take cognizance of the offence, and communicate the action taken by him to the person who gave the information relating to the commission of the offence.",
+    "After forwarding a report under this section, the officer in charge of the police-station shall furnish or cause to be furnished to the accused, free of cost, a copy of the report forwarded under sub-section (1) and of the first information report recorded under section 154 and of all other documents or relevant extracts thereof.",
+    "The Magistrate shall make such order for the discharge of the bond as he thinks fit if the accused has been released on his bond."
+  ],
+  "cases_cited": []
+}

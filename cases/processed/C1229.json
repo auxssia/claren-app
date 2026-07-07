@@ -1,0 +1,64 @@
+{
+  "case_id": "C1229",
+  "case_name": "Daffadar Bhagat Singh and Sons v Income Tax Officer, A-Ward, Ferozepure",
+  "court": "Supreme Court of India",
+  "year": 1968,
+  "judges": [
+    "GROVER J."
+  ],
+  "bench": [],
+  "petitioner": "Daffadar Bhagat Singh and Sons",
+  "respondent": "Income Tax Officer, A-Ward, Ferozepure\nSupreme Court of India\n\n22 August 1968\nThe Judgment was delivered by: GROVER J.\n1.  This is an appeal by special leave against the judgment of the Punjab High Court dismissing the writ petition of the appellants herein u/arts. 226 and 227 of the Constitution by which it was prayed that a writ of prohibition directing the income-tax authorities not to proceed with the assessment for the year 1952-53 be issued. A prayer was also made for the issue of a writ of certiorari for quashing the notices u/ss. 23(2) and 22(4) of the Income-tax Act, 1922, hereinafter called \"the Act\", which had been issued by the Income-tax Officer in that connection. The appellant firm filed a return for the assessment year 1952-53 on March 31, 1953. It also applied that it may be registered as a firm under section 26A of the Act, the partners being Bhagat Singh and his two sons, Kartar Singh and Dhian Singh, their shares being in the proport",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "26A"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "22 August 1968",
+  "outcome": "Unknown",
+  "facts": [
+    "This is an appeal by special leave against the judgment of the Punjab High Court dismissing the writ petition of the appellants herein u/arts.",
+    "The appellant firm filed a return for the assessment year 1952-53 on March 31, 1953.",
+    "It also applied that it may be registered as a firm under section 26A of the Act, the partners being Bhagat Singh and his two sons, Kartar Singh and Dhian Singh, their shares being in the proportion of 4/16, 6/16 and 6/16 respectively.",
+    "The Income-tax Officer passed an order on March 26, 1957, holding that the assessee constituted a Hindu undivided family and not a firm.",
+    "The registration under section 26A was also refused.",
+    "The appellants approached the Appellate Assistant Commissioner in appeal who made an order on August 11, 1959, allowing registration of the partnership firm under section 26A.",
+    "He further held that the business belonged to the firm and, therefore, its income must be excluded from that of the family.",
+    "The Income-tax Officer was directed to assess the income of the business in the hands of the firm.",
+    "The Income-tax Officer issued fresh notice to the appellants u/ss. 22(4) and 23(2) of the Act.",
+    "The appellant refused to comply with these notices and moved the Inspecting Assistant Commissioner of Income-tax for giving a direction that the assessment should not be proceeded with owing to the statutory bar created by s. 34(3) of the Act.",
+    "As the income-tax authorities did not accede to the request of the appellants, a petition u/arts. 226 and 227 was filed in the High Court."
+  ],
+  "issues": [
+    "Whether the second proviso to s. 34(3) of the Income-tax Act, 1922, is applicable in this case.",
+    "Whether the finding or direction given by the Appellate Assistant Commissioner was necessary for the disposal of the appeal."
+  ],
+  "petitioner_arguments": [
+    "The crux of the matter was that the Appellate Assistant Commissioner gave a decision that the income was to be excluded from the assessment of the Hindu undivided family thereby reversing the decision of the Income-tax Officer that it was assessable in the hands of the family.",
+    "The direction to the Income-tax Officer that he should assess the income in the hands of the firm was neither necessary nor called for and, therefore, the law laid down in Murlidhar Bhagwan Das's case was clearly applicable."
+  ],
+  "respondent_arguments": [
+    "The substantial issue before the Appellate Assistant Commissioner was one of status of the assessee and he held that it was a partnership firm and not a Hindu undivided family.",
+    "A finding within the second proviso to s. 34(3) must be necessary for giving relief in respect of the assessment of the year in question."
+  ],
+  "court_reasoning": [
+    "The expression 'any person' in the setting in which it appears must be confined to a person intimately connected in the aforesaid sense with the assessments of the year under appeal.",
+    "A finding is only incidental if it is not necessary for the disposal of the appeal and is only an ancillary matter."
+  ],
+  "holding": [
+    "The second proviso to s. 34(3) of the Income-tax Act, 1922, would be attracted and the bar of limitation would be lifted."
+  ],
+  "cases_cited": [
+    "Daffadar Bhagat Singh and Sons v Income Tax Officer",
+    "In N. Kt. Sivalingam Chettiar v. Commissioner of Income-tax this court",
+    "In S. C. Pyashar v. Vasantsen Dwarkadas this court",
+    "consideration again in Income-tax Officer, A-Ward, Sitapur v. Murlidhar Bhagwan Das",
+    "decision of this court in Income-tax Officer, A-Ward, Sitapur v. Murlidhar Bhagwan Das",
+    "observations of the Allahabad High Court in Pt. Hazari Lal v. Income-tax Officer"
+  ]
+}

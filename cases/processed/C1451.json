@@ -1,0 +1,110 @@
+{
+  "case_id": "C1451",
+  "case_name": "Inacio Martins Deceased Through Lrs v Narayan Hari Naik and Others",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [
+    "A. M. Ahmadi, J."
+  ],
+  "bench": [],
+  "petitioner": "Inacio Martins Deceased Through Lrs",
+  "respondent": "Narayan Hari Naik",
+  "citations": [
+    "1962 2 SCR 159",
+    "1966 1 SCR 1965",
+    "AIR 1954 BOM 100"
+  ],
+  "statutes": [
+    {
+      "act": "Code Of Civil Procedure Provides",
+      "section": "11"
+    },
+    {
+      "act": "Posits That If Any Question Arises Whether Any Person Is A Tenant Or Should Be Deemed To Be A Tenant Under The Act",
+      "section": "7"
+    },
+    {
+      "act": "Says That Any Tenant In Possession Of Any Land Or Dwelling House Who Apprehends That He May Be Dispossessed Contrary To The Provisions Of This Act",
+      "section": "8A"
+    },
+    {
+      "act": "The Act",
+      "section": "18"
+    },
+    {
+      "act": "Code Of Civil Procedure To",
+      "section": "9"
+    },
+    {
+      "act": "The Act",
+      "section": "7"
+    },
+    {
+      "act": "In Part 11 Of The Rent Act",
+      "section": "12"
+    },
+    {
+      "act": "Rent Act",
+      "section": "12"
+    },
+    {
+      "act": "In Terms States That If Any Question Arises Whether Any Person Is A Tenant Or Should Be Deemed To Be A Tenant Under The Act",
+      "section": "7"
+    },
+    {
+      "act": "The Act",
+      "section": "9"
+    },
+    {
+      "act": "The Act",
+      "section": "4"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "7 April 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "Inacio Martins Deceased Through LRs v Narayan Hari Naik and Others",
+    "The appellants are the legal representatives of the deceased plaintiff Inacio Martins who died pendente lite.",
+    "He had on October 26, 1968 instituted a suit No. 157 of 1968 for a declaration and an injunction to restrain the defendants from dispossessing him from the property known as 'Palmar Oiteral do Predio Aivao' comprising seven lots of coconut grove situated at Caranzalem belonging to defendant No. 2.",
+    "The said suit was dismissed on March 28, 1974 on the ground that the plaintiff was no more in possession of the suit property and, therefore, a suit for a mere declaration simpliciter could not lie.",
+    "On the dismissal of the said suit the original plaintiff filed another suit No. 114/74 on May 6, 1974 for restoration of possession on the ground that he was the lawful tenant of the said property and since he had not been dispossessed, in accordance with law the defendants who were mere trespassers were liable to be evicted.",
+    "The plaintiffs case in the plaint was that he was the lessee in respect of seven lots on an annual rent of Rs. 3600 payable in advance in three instalments; that he had paid the rent up to the end of December, 1967 and the first installment of 1968 but the owner, defendant No. 2, in collusion with defendant No. 1 executed a deed of lease in favour of the latter effective from January 1, 1968 on the strength whereof defendant No. 1 claimed to have assumed possession of the property sometime in the second week of June, 1968 without his tenancy having been lawfully terminated.",
+    "The plaintiff, therefore, contended that defendant No. 1 was a trespasser in the property and was liable to be evicted there from.",
+    "He, therefore, sought possession of the property in respect of which he claimed to be a lessee.",
+    "The defendants, besides contending that the suit was barred on the principle of res judicata and/or constructive res judicata as found in Order 2 Rule 2(3) of the Code of Civil Procedure, averred that on the expiry of the lease at the end of December, 1967 the lease stood terminated by efflux of time and defendant No. 2 was, therefore, entitled to let out the property to defendant No. 1 and hence the latter was in lawful possession of the said property The plaintiffs allegation that he was forcibly dispossessed was denied.",
+    "The defendants, therefore, contended that the suit was not maintainable and deserved to be dismissed."
+  ],
+  "issues": [
+    "Whether the subject matter of the second suit was directly and substantially in issue in the previous suit",
+    "Whether the principle of res judicata applies to bar the second suit",
+    "Whether the suit is barred by constructive res judicata as found in Order 2 Rule 2(3) of the Code of Civil Procedure"
+  ],
+  "petitioner_arguments": [
+    "The plaintiff was the lawful tenant of the property and since he had not been dispossessed, in accordance with law the defendants who were mere trespassers were liable to be evicted.",
+    "The lease stood terminated by efflux of time and defendant No. 2 was entitled to let out the property to defendant No. 1",
+    "The plaintiff was wrongly dispossessed by defendant No. 1 in collusion with defendant No. 2"
+  ],
+  "respondent_arguments": [
+    "The suit was barred on the principle of res judicata and/or constructive res judicata as found in Order 2 Rule 2(3) of the Code of Civil Procedure",
+    "On the expiry of the lease at the end of December, 1967 the lease stood terminated by efflux of time and defendant No. 2 was entitled to let out the property to defendant No. 1",
+    "The defendants were in lawful possession of the said property"
+  ],
+  "court_reasoning": [
+    "The High Court came to the conclusion that the subject matter of the second suit was directly and substantially in issue in the previous suit between the same parties.",
+    "The court held that the principle of res judicata applies to bar the second suit",
+    "The court concluded that the suit is barred by constructive res judicata as found in Order 2 Rule 2(3) of the Code of Civil Procedure"
+  ],
+  "holding": [
+    "The High Court allowed the appeals and reversed the decree of the Trial Court with no order as to costs",
+    "The court held that the subject matter of the second suit was directly and substantially in issue in the previous suit between the same parties",
+    "The court concluded that the principle of res judicata applies to bar the second suit"
+  ],
+  "cases_cited": [
+    "Inacio Martins Deceased Through Lrs v Narayan Hari Naik",
+    "followed by the Bombay High Court in Bhimaji Shankar Kulkami v. Dundappa Vithappa Udapudi &",
+    "statute. In Shah Yograj Kuverji Oil Mills and Ginning Factory v. Subhash Chandra Yograj Sinha"
+  ]
+}

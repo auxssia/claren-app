@@ -1,0 +1,109 @@
+{
+  "case_id": "C66",
+  "case_name": "State of Uttar Pradesh v Banne @ Baijnath and Others",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [],
+  "bench": [],
+  "petitioner": "State of Uttar Pradesh",
+  "respondent": "Banne @ Baijnath",
+  "citations": [
+    "1973 2 SCC 424",
+    "1974 3 SCC 288",
+    "1978 1 SCC 228",
+    "1979 1 SCC 361",
+    "1987 2 SCC 529",
+    "1997 7 SCC 677",
+    "1998 5 SCC 412",
+    "2002 4 SCC 85",
+    "2002 6 SCC 470",
+    "2003 1 SCC 1",
+    "2003 8 SCC 180",
+    "2005 9 SCC 291",
+    "2007 3 SCC 755",
+    "2007 4 SCC 415",
+    "2008 10 SCC 450",
+    "AIR 1954 SC 1"
+  ],
+  "statutes": [
+    {
+      "section": "147"
+    },
+    {
+      "section": "307"
+    },
+    {
+      "section": "323"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "49"
+    },
+    {
+      "section": "109"
+    },
+    {
+      "section": "138"
+    },
+    {
+      "section": "308"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "161"
+    },
+    {
+      "section": "417"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "378"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "CrPC",
+  "court_level": "Supreme Court",
+  "decision_date": "10 February 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "Members of the accused and complainant party are close relatives.",
+    "On 13.11.1977 a violent incident is alleged to have taken place between the accused and members of the complainant party, namely, Moti, Gharroo and his sons over share in plot No.165/2 measuring 1.88 decimals situated in Village Shivpurwa, P.S. Manduadih, District Varanasi.",
+    "The dispute about the share between Lalloo on the one hand and Gharroo and Moti on the other started in the year 1965.",
+    "Lalloo took the lead in asserting his claim by executing a sale deed in respect of 5 decimals of plot No.251/2 area 10 decimals in favour of Shivlal on 21.1.1965.",
+    "Moti deposited ten times land revenue of his one-third share in the disputed joint Khata comprising of plots Nos.109, 165/2, 182/2, 205/2 and 251/2 and filed a suit for division of holdings u/s. 138 of the Zamindari Abolition and Land Reforms Act for 1/3rd share on 6.1.66.",
+    "The case of the accused persons is that the members of the complainant party tried to forcibly dispossess them and in their right of private defence some injuries were caused to the members of the complainant party."
+  ],
+  "issues": [
+    "Whether the prosecution has explained the injuries received by the accused persons?"
+  ],
+  "petitioner_arguments": [
+    "The absence of any explanation by the prosecution about the injuries received by the accused persons creates serious doubt about the credibility of the entire prosecution version.",
+    "It was the bounden duty and obligation of the prosecution to have given explanation about the injuries of the accused persons."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The trial court, on appraisal of evidence, came to the findings that at the time of incident the prosecution party was in peaceful possession of the land in question and with the dismissal of suit the accused persons came there forming an unlawful assembly to extend their possession over half share and interfered in the peaceful possession of Gharroo and Moti in the southern portion of the plot.",
+    "The High Court re-examined the entire evidence and came to a different conclusion."
+  ],
+  "holding": [
+    "The High Court acquitted all the five accused who were convicted and sentenced by the trial court."
+  ],
+  "cases_cited": [
+    "High Courts should interfere with an acquittal. In Madan Lal v. State of J & K",
+    "In B.N. Mutto & Another v. Dr. T",
+    "In Bhagwan Singh & Others v. State of M",
+    "In Bishan Singh & Others v. The",
+    "In C. Antony v. K.G",
+    "In Harijana Thirupala & Others v. Public Prosecutor",
+    "In State of Karnataka v. K. Gopalkrishna",
+    "In The State of Goa v. Sanjay Thakran",
+    "In Tulsiram Kanu v. The",
+    "In Umedbhai Jadavbhai v. The"
+  ]
+}

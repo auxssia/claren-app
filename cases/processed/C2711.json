@@ -1,0 +1,72 @@
+{
+  "case_id": "C2711",
+  "case_name": "Dhan Kumar v Municipal Corporation of Delhi",
+  "court": "Supreme Court of India",
+  "year": 1979,
+  "judges": [
+    "SARKARIA, J."
+  ],
+  "bench": [],
+  "petitioner": "Dhan Kumar",
+  "respondent": "Municipal Corporation of Delhi\nSupreme Court of India\n\n20 February 1979\nCr.A. No. 276 of 1974.\nThe Judgment was delivered by: SARKARIA, J.\n1.  The appellant was tried and convicted under Section 7/16 of the Prevention of Food Adulteration Act, for selling adulterated rocksalt, by the Judicial Magistrate, First Class, Delhi, and sentenced to six months' rigorous imprisonment and a fine of Rs. 1000 on March 17, 1971. The Additional Sessions Judge on September 6, 1971, accepted his appeal and set aside his conviction and sentence. Against that acquittal an appeal was field in the High Court of Delhi which reversed the acquittal and convicted the appellant, restoring the sentence awarded by the Judicial Magistrate.\n2.  Dhan Kumar has now come in appeal after obtaining special leave u/art. 136 of the Constitution, to this Court.\nThe prosecution case was as follows :\n3.  On May 30, 1970, at about 11.30 a.m., Shri R. P. Singh, Food Inspector, found five bags of white (rock) salt",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "7"
+    },
+    {
+      "section": "342"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "20 February 1979",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant was tried and convicted under Section 7/16 of the Prevention of Food Adulteration Act, for selling adulterated rocksalt, by the Judicial Magistrate, First Class, Delhi, and sentenced to six months' rigorous imprisonment and a fine of Rs. 1000 on March 17, 1971.",
+    "The Additional Sessions Judge on September 6, 1971, accepted his appeal and set aside his conviction and sentence.",
+    "Dhan Kumar has now come in appeal after obtaining special leave u/art. 136 of the Constitution, to this Court.",
+    "On May 30, 1970, at about 11.30 a.m., Shri R. P. Singh, Food Inspector, found five bags of white (rock) salt belonging to the appellant lying on the footpath near the entrance to Munshi Ram Flour Mills.",
+    "The sample was divided into three parts which were put into three separate bottles and sealed.",
+    "One of the samples was sent to the Public Analyst, together with memo (Ex. P-D), for examination.",
+    "At the close of the prosecution case, the accused was examined u/s. 342 of the Code of Criminal Procedure.",
+    "The Judicial Magistrate rejected the defence plea.",
+    "The Additional Sessions Judge, in appeal, accepted it with these findings : (a) That the salt was not lying stored for sale, but had been brought there to the Mill for the purpose of having the same grinded after cleaning.",
+    "In arriving at the finding (a) Additional Sessions Judge did not accept the ipse dixit of Shri R. P. Singh (PW 1), to the effect, that the appellant was actually selling the salt from the bags, there, for the reason that there was no evidence, whatever, that the appellant had, apart from the lifting of the sample by the Food Inspector, sold salt at that place to any one.",
+    "The first of such circumstances, appearing in the evidence of the other Food Inspector (PW 3) was that no scale or balance was found lying at the spot.",
+    "The second admitted circumstance which, according to the Sessions Judge, was a pointer to the same conclusion was that the shop and the residential house of the appellant were situated at a distance from the Mill near which the bags of salt were lying.",
+    "His shop is in Subhash Nagar, while his house is suited in Regarpura No. 2.",
+    "In support of finding (a) the Additional Sessions Judge further relied upon the non-denial by Shri O. P. Sehgal, Food Inspector (PW 3) of the defence plea when it was put to that witness in cross-examination.",
+    "For its findings (a) and (b), the Additional Sessions Judge further relied on the evidence of Constable Jungpal Singh (DW 4).",
+    "This Constable is an attesting witness of the documents which were prepared by the Food Inspector at the time of lifting the sample.",
+    "He was cited as a prosecution witness, but was not examined.",
+    "He was therefore examined by the accused.",
+    "The learned Judges of the High Court did not deal with all the reasons given and all the evidence relied upon by the Sessions Judge in support of the order of acquittal.",
+    "They did not at all touch the circumstantial evidence which, according to the Additional Sessions Judge, was a clear pointer to the conclusion that the salt in bags had been brought to the mill for grinding and was not lying there for sale.",
+    "Nor did they consider the effect of the failure of the Food Inspector (PW 3) to refute the defence plea when it was specifically put to him in cross-examination."
+  ],
+  "issues": [
+    "Whether the Additional Sessions Judge's findings were reasonable?",
+    "Whether the High Court erred in reversing the order of acquittal?"
+  ],
+  "petitioner_arguments": [
+    "The salt was not lying stored for sale, but had been brought there to the Mill for the purpose of having the same grinded after cleaning.",
+    "The sample was obtained under coercion and threat."
+  ],
+  "respondent_arguments": [
+    "There was no evidence that the appellant had sold salt at that place to any one.",
+    "The Food Inspector did not refute the defence plea when it was specifically put to him in cross-examination."
+  ],
+  "court_reasoning": [
+    "If two views of the evidence are reasonably possible, one favouring acquittal and the other conviction, the High Court should not reverse the order of acquittal.",
+    "There has been a non-observance of this salutary rule of practice."
+  ],
+  "holding": [
+    "Appeal allowed."
+  ],
+  "cases_cited": []
+}

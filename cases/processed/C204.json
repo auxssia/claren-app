@@ -1,0 +1,70 @@
+{
+  "case_id": "C204",
+  "case_name": "Glaxo Laboratories v Presiding Officer, Labour Court Meerut and Others",
+  "court": "Supreme Court of India",
+  "year": 1983,
+  "judges": [
+    "D. A. Desai"
+  ],
+  "bench": [],
+  "petitioner": "Glaxo Laboratories",
+  "respondent": "Presiding Officer, Labour Court Meerut",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "9"
+    },
+    {
+      "act": "Excludes Oral Evidence Having The Effect Of Adding To Or Otherwise Varying Or Contradicting Standing Orders As Finally Certified Under The Act",
+      "section": "12"
+    },
+    {
+      "act": "Industrial Disputes Act",
+      "section": "33"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "6 October 1983",
+  "outcome": "Unknown",
+  "facts": [
+    "Appellant, a multinational company, has set up a factory at Aligarh in the State of Uttar Pradesh in the year 1958.",
+    "It is alleged that on the very day during the second shift, some of the workmen again resorted to an illegal strike, gathered together near the gate of the factory and intimidated and obstructed other workmen desiring to report for duty.",
+    "On May 27, 1977 around 5.35 p.m., some of the workmen who had not joined the strike and who have been referred to in the discussion as 'loyal workmen' boarded bus No. UPB-6209 chartered by the appellant company exclusively for the use of the 'loyal workmen' commuting between the city and the factory.",
+    "Accordingly, a charge-sheet dated June 6, 1977 was served upon the second respondent who in turn approached the Labour Court under sec. 11-C of the U.P. Industrial Disputes Act, 1947 inviting the Labour Court to hold that on a correct interpretation of the relevant standing order, the alleged acts of misconduct would not be covered by clauses 10, 16 and 30 of S.O. 22.",
+    "The Labour Court framed as many as 8 issues out of which Issue Nos. 4, 5 and 8 engaged the attention of the High Court held that the construction put by the Labour Court on the relevant clauses of the standing order is a reasonable one and accordingly dismissed the writ petition."
+  ],
+  "issues": [
+    "Can the opposite party take disciplinary action against the applicant for acts of misconduct, said to have been committed at the places, referred to in the chargesheet issued to him ?",
+    "Whether the Point, where the bus in question is said to have started is part of the premises of the opposite party or is situated in the vicinity of the aforesaid premises ?",
+    "Is the place, where the bus is said to have started, situated on the public road ?"
+  ],
+  "petitioner_arguments": [
+    "The submission which found favour with the High Court is that all these various acts of misconduct collocated in clause 10 in order to be a misconduct punishable under S.O. 23 must be committed within the premises of the establishment or in the vicinity thereof, and that the situs of misconduct as set out in the chargesheet will show that alleged acts of misconduct occurred far away from the establishment of the appellant company and therefore, clause 10 of S.O. 22 would not be attracted."
+  ],
+  "respondent_arguments": [
+    "The Labour Court held that upon a true construction of clauses 10, 16 and 30 of S.O. 22, the appellant company is not entitled to charge-sheet the second respondent and his co-workers for alleged acts of misconduct said to have been committed by them outside the premises of the establishment and not in the vicinity thereof."
+  ],
+  "court_reasoning": [
+    "The High Court found some difficulty in holding that the expression 'committed within the premises of the establishment, or in the vicinity thereof' would only qualify the expression 'any act subversive of discipline and efficiency and any act involving moral turpitude' but not the earlier portion of clause 10 which sets out various acts of misconduct such as drunkenness, fighting, indecent or disorderly behaviour etc."
+  ],
+  "holding": [
+    "The Labour Court held that upon a true construction of clauses 10, 16 and 30 of S.O. 22, the appellant company is not entitled to charge-sheet the second respondent and his co-workers for alleged acts of misconduct said to have been committed by them outside the premises of the establishment and not in the vicinity thereof."
+  ],
+  "cases_cited": [
+    "Bhushan also relied upon Saurashtra Salt Manufacturing Co. v. Bai Valu Raja",
+    "Court in Rohtak Hissar District Electricity Supply Co. Ltd. v. State of Uttar Pradesh &",
+    "Glaxo Laboratories v Presiding Officer",
+    "In British India Corporation Ltd v. Bhakshi Sher Singh",
+    "Lastly we may refer to Workmen of Lakheri Cement Works Ltd. v. Associated Cement Companies Ltd",
+    "Reference next was made to Lalla Ram v. Management of D",
+    "Reference was also made to Tata Oil Mills Co. Ltd. v. Its Workmen",
+    "Reference was next made to Bharat Iron Works v. Bhagubhai Balubhai Patel &",
+    "Shanti Bhushan drew our attention to Mahendra Singh Dhantwal v. Hindustan Motors Ltd",
+    "and General Manager, B.E.S.T. Undertaking, Bombay v. Mrs",
+    "far because in Salem Erode Electricity Distribution Co. Ltd. v. Salem Erode Electricity Distribution Co",
+    "upon the decision of this Court in D.B. Gupta & Co. & Ors. v. Delhi Stock Exchange Association Ltd"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_id": "S17",
+  "case_name": "Appellate jurisdiction of Supreme Court in appeals from High Courts in regard to civil matters",
+  "court": "Supreme Court",
+  "year": 1973,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "134A"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "132"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "section": "18"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The Supreme Court has jurisdiction to hear appeals from High Courts in civil matters.",
+    "A certificate is required from the High Court under Article 134A before an appeal can be filed with the Supreme Court."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Notwithstanding anything in this Article, no appeal shall, unless Parliament by law otherwise provides, lie to the Supreme Court from the judgment, decree or final order of one Judge of a High Court."
+  ],
+  "holding": [
+    "No appeal shall lie to the Supreme Court from the judgment, decree or final order of one Judge of a High Court, unless Parliament by law otherwise provides."
+  ],
+  "cases_cited": []
+}

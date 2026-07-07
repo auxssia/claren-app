@@ -1,0 +1,83 @@
+{
+  "case_id": "C2856",
+  "case_name": "Assam Urban Water Supply and Sewerage Board v Subash Projects and Marketing Limited",
+  "court": "Supreme Court of India",
+  "year": 2012,
+  "judges": [
+    "R. M. Lodha"
+  ],
+  "bench": [],
+  "petitioner": "Assam Urban Water Supply and Sewerage Board",
+  "respondent": "Subash Projects and Marketing Limited\nSupreme Court of India\n\n19 January 2012\nC.A. No(s). 2014 of 2006\nThe Judgment was delivered by : R. M. Lodha, J.\n1. Two contracts were entered into between the appellants and the respondents - (i) for construction of Tezpur Town Water Supply Scheme and (ii) for construction of Tinsukia Town Water Supply Scheme. Certain disputes arose between the parties concerning these contracts and to resolve such disputes, sole arbitrator was appointed by the Chief Justice of Gauhati High Court on March 26, 2002 u/s. 11 of the Arbitration and Conciliation Act, 1996 (for short, '1996 Act'). On May 10, 2002 the appellants filed application u/s. 16 of the 1996 Act questioning the jurisdiction of the sole arbitrator as according to the appellants there was no arbitration clause in the agreement. This application came to be rejected by the sole arbitrator.\n2. Thereafter, the sole arbitrator proceeded with the arbitration",
+  "citations": [
+    "2001 8 SCC 470",
+    "2010 4 SCC 518"
+  ],
+  "statutes": [
+    {
+      "section": "11"
+    },
+    {
+      "section": "16"
+    },
+    {
+      "section": "34"
+    },
+    {
+      "section": "34(3)"
+    },
+    {
+      "act": "Limitation Act, 1963"
+    },
+    {
+      "section": "4"
+    },
+    {
+      "section": "34(1)"
+    }
+  ],
+  "legal_domain": "Company",
+  "legal_subdomain": "Board",
+  "court_level": "Supreme Court",
+  "decision_date": "19 January 2012",
+  "outcome": "Unknown",
+  "facts": [
+    "The two contracts were entered into between the appellants and the respondents - (i) for construction of Tezpur Town Water Supply Scheme and (ii) for construction of Tinsukia Town Water Supply Scheme.",
+    "Certain disputes arose between the parties concerning these contracts and to resolve such disputes, sole arbitrator was appointed by the Chief Justice of Gauhati High Court on March 26, 2002 u/s. 11 of the Arbitration and Conciliation Act, 1996 (for short, '1996 Act').",
+    "The appellants filed application u/s. 16 of the 1996 Act questioning the jurisdiction of the sole arbitrator as according to the appellants there was no arbitration clause in the agreement.",
+    "Thereafter, the sole arbitrator proceeded with the arbitration and passed two awards in relation to the above contracts in favour of the respondents on August 22, 2003.",
+    "The awards were received by the appellants on August 26, 2003.",
+    "On January 2, 2004, the appellants made two applications for setting aside the awards dated August 22, 2003 u/s. 34 of the 1996 Act.",
+    "The District Judge, Kamrup, Guwahati, dismissed the appellants' applications u/s. 34 of the 1996 Act on June 1, 2004 and June 5, 2004 on the ground of limitation.",
+    "The appellants challenged the above orders of the Districted Judge, Kamrup, Guwahati, in the Gauhati High Court in two separate Arbitration Appeals, being Arbitration Appeal Nos. 6 of 2004 and 7 of 2004."
+  ],
+  "issues": [
+    "What is the meaning of 'prescribed period'?",
+    "Is S. 4 of the 1963 Act applicable to the facts of the present case?"
+  ],
+  "petitioner_arguments": [
+    "The Division Bench gravely erred in applying the decision of this Court in Union of India Vs. Popular Construction Co. (2001) 8 SCC 470 2001 Indlaw SC 26 to the facts of the present case.",
+    "The judgment of this Court in Popular Construction Co. 2001 Indlaw SC 26 (supra) was rendered on the question of applicability of S. 5 of the Limitation Act, 1963 and has no application to the peculiar facts of the present case where extension was sought by the appellants u/s. 4 of the 1963 Act.",
+    "The High Court did not commit any error in upholding the view of the District Judge, Kamarup, Guwahati."
+  ],
+  "respondent_arguments": [
+    "The High Court's view is consistent with S. 34(3) of the 1996 Act, particularly proviso (3) thereof.",
+    "The court may entertain the application for setting aside the award after the period of three months and within a further period of 30 days but not thereafter."
+  ],
+  "court_reasoning": [
+    "The crucial words in S. 4 of the 1963 Act are 'prescribed period'.",
+    "What is the meaning of these words?",
+    "S. 2(j) of the 1963 Act defines 'period of limitation' which means the period of limitation prescribed for any suit, appeal or application by the Schedule, and 'prescribed period' means the period of limitation computed in accordance with the provisions of this Act.",
+    "The period of 30 days mentioned in proviso that follows sub-s. (3) of S. 34 of the 1996 Act is not the 'period of limitation' and, therefore, not 'prescribed period' for the purposes of making the application for setting aside the arbitral award.",
+    "The period of 30 days beyond three months which the court may extend on sufficient cause being shown under the proviso appended to sub-s. (3) of S. 34 of the 1996 Act being not the 'period of limitation' or, in other words, 'prescribed period', in our opinion, S. 4 of the 1963 Act is not, at all, attracted to the facts of the present case.",
+    "The applications made by the appellants on January 2, 2004, for setting aside the arbitral award dated August 26, 2003 were liable to be dismissed and have rightly been dismissed by the District Judge, Kamrup, Guwahati, as time barred."
+  ],
+  "holding": [
+    "The Appeal has no force and is dismissed with no order as to costs.",
+    "The dismissal of the Arbitration Appeals (6 of 2004 and 7 of 2004) by the High Court, thus, cannot be legally flawed for the reasons we have indicated above."
+  ],
+  "cases_cited": [
+    "Assam Urban Water Supply and Sewerage Board v Subash Projects",
+    "in applying the decision of this Court in Union of India Vs. Popular Construction Co"
+  ]
+}

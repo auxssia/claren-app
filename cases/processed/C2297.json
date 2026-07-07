@@ -1,0 +1,77 @@
+{
+  "case_id": "C2297",
+  "case_name": "State of Uttar Pradesh v K. K. Gupta",
+  "court": "Supreme Court of India",
+  "year": 1970,
+  "judges": [
+    "RAY"
+  ],
+  "bench": [],
+  "petitioner": "State of Uttar Pradesh",
+  "respondent": "K. K. Gupta\nSupreme Court of India\n\n10 March 1970\nCr.A. No. 221 of 1967\nThe Judgment was delivered by: RAY, J.\n1.  This is an appeal by special leave from the order dated 18th April, 1967, passed by the High Court at Allahabad.\n2.  The High Court quashed the proceedings in case No. 24 of 1961.\n3.  The order was made on the petition of the respondent under Sec. 561-A of the Criminal Procedure Code. The respondent made an application on 20th March, 1967, to the High Court at Allahabad. The respondent was charged with an offence u/s. 161 of the Indian Penal Code read with S. 5 (2) of the Prevention of Corruption Act.\n4. The incident in question was alleged to have taken place on 6th August, 1960. The respondent alleged that charge-sheet was submitted in the month of March 1961, and during six years only 4 witnesses were examined and the examination of 16 more witnesses would therefore take 20 years. It was also alleged that 40 dates had been fixed for hearing of t",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "561"
+    },
+    {
+      "section": "161"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    },
+    {
+      "section": "124"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "10 March 1970",
+  "outcome": "Unknown",
+  "facts": [
+    "This is an appeal by special leave from the order dated 18th April, 1967, passed by the High Court at Allahabad.",
+    "The respondent made an application on 20th March, 1967, to the High Court at Allahabad.",
+    "The incident in question was alleged to have taken place on 6th August, 1960.",
+    "The charge-sheet after investigation was filed on 29th April, 1961.",
+    "The case was fixed for hearing on 31st July, 1963.",
+    "Three prosecution witnesses were examined on that day.",
+    "The respondent raised an objection as regards the validity of the investigation but the same was disallowed.",
+    "The examination of the prosecution witnesses commenced on 9th March, 1964.",
+    "Cross-examination of the witnesses was deferred at the request of the defence counsel.",
+    "A witness was produced on that date.",
+    "The respondent asked for the report from the prosecution.",
+    "The State Government filed a revision application against the order of the Trial Judge dated 10th December, 1964, and the proceedings were stayed.",
+    "The respondent moved an application for transfer of the case to the Lucknow Bench of the Allahabad High Court.",
+    "The respondent then moved an application in the High Court under Section 561-A of the Criminal Procedure Code for quashing the proceedings."
+  ],
+  "issues": [
+    "Whether the High Court was correct in quashing the proceedings without giving any reason therefor.",
+    "Whether the delay caused by the various applications made by the parties is a valid ground for quashing the proceedings."
+  ],
+  "petitioner_arguments": [
+    "The respondent alleged that charge-sheet was submitted in the month of March 1961, and during six years only 4 witnesses were examined and the examination of 16 more witnesses would therefore take 20 years.",
+    "It is true that there has been delay but that is caused mainly by applications made by the parties mostly by the respondent and once by the State at different stages for transfer of the case, stay of proceedings, revision of orders and quashing of proceedings."
+  ],
+  "respondent_arguments": [
+    "The respondent alleged that only 4 witnesses were examined and it would take 20 years to examine the 16 witnesses.",
+    "The respondent did not disclose all the facts relating to the various applications made by the respondent."
+  ],
+  "court_reasoning": [
+    "It is apparent that the respondent, from time to time, made applications for staying the proceedings, preventing the case from being proceeded with.",
+    "Though the said application is still pending in spite of an order of the High Court to hear the application with expedition after arrival of the record, the High Court passed an order quashing the proceedings without consideration of these features."
+  ],
+  "holding": [
+    "The order of the High Court is set aside.",
+    "The High Court will dispose of the revision application, which is pending, and then send the records to the trial Court as quickly as possible for expeditious trial of the case."
+  ],
+  "cases_cited": [
+    "State of Uttar Pradesh v K. K"
+  ]
+}

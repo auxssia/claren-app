@@ -1,0 +1,67 @@
+{
+  "case_id": "C283",
+  "case_name": "Jose Alias Kolli Jose v State of Kerala",
+  "court": "Supreme Court of India",
+  "year": 1973,
+  "judges": [
+    "VAIDIALINGAM, J."
+  ],
+  "bench": [],
+  "petitioner": "Jose Alias Kolli Jose",
+  "respondent": "State of Kerala\nSupreme Court of India\n\n10 January 1973\nCr.A. No. 99 of 1972.\nThe Judgment was delivered by : VAIDIALINGAM, J.\n1. The first accused, in this appeal, by special leave, challenges the judgment and order, dated August 19, 1971 of the High Court of Kerala confirming his conviction for an offence under Section 302, I.P.C. as well as the sentence of death imposed upon him for the said offence. The appellant, along with four",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "143"
+    },
+    {
+      "section": "33"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "10 January 1973",
+  "outcome": "Unknown",
+  "facts": [
+    "The first accused, in this appeal, by special leave, challenges the judgment and order, dated August 19, 1971 of the High Court of Kerala confirming his conviction for an offence under Section 302, I.P.C.",
+    "The charges against the accused were that on April 13, 1970, at about 11.00 p.m., they formed themselves into an unlawful assembly with the common object of committing the murder of one Divakaran Nair and to cause disappearance of evidence punishable u/s. 143 and that on the same day all of them with the intention of committing the murder of the said Divakaran Nair, beat and fisted him and threw him in the courtyard of the house of the appellant and thereby caused his death.",
+    "The prosecution case was that the appellant with the help of the other accused and P.W. 4 was running a brothel in his house situated on the Trichur-Shoranur road.",
+    "The deceased was left in the house of the appellant at about 9.00 p.m. on April 13, 1970, as clearly borne out by the evidence of P.W. 5, the taxi driver."
+  ],
+  "issues": [
+    "Whether the conviction is based only on the testimony of a single witness?",
+    "Whether the courts have committed an error in law in treating the evidence given by Vasu and Krishnan in the committal court as substantive evidence at the trial?",
+    "Whether the medical evidence does not establish that death in this case was caused by poison?"
+  ],
+  "petitioner_arguments": [
+    "The conviction has been rested substantially on the evidence of P.W. 3.",
+    "Some of the witnesses have turned hostile, but it is clear that those witnesses have deliberately gone behind the statements made to the police with a view to help the accused.",
+    "The medical evidence does not establish that death in this case was caused by poison."
+  ],
+  "respondent_arguments": [
+    "The courts have taken into account other items of evidence also.",
+    "The evidence given by Vasu and Krishnan in the committal court as substantive evidence at the trial is correct.",
+    "The medical evidence shows that death in this case was caused by poisoning."
+  ],
+  "court_reasoning": [
+    "There is no impediment in law in a conviction being based upon the testimony of a single witness provided the courts come to the conclusion that his evidence is honest and trustworthy.",
+    "Even without these two statements, as pointed out by us earlier, there are various other items of evidence implicating the appellant.",
+    "The doctor at that stage was not in a position to categorically give an opinion that the death was due to poison also."
+  ],
+  "holding": [
+    "The finding of the two courts holding that the appellant, along with the other three accused beat the deceased and threw him into the courtyard and that the appellant also poured poison into his mouth is correct.",
+    "The participation of the appellant in the incident is amply established.",
+    "The conviction cannot be said to be bad provided that evidence was considered to be truthful, honest and acceptable."
+  ],
+  "cases_cited": []
+}

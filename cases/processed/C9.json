@@ -1,0 +1,65 @@
+{
+  "case_id": "C9",
+  "case_name": "West Bengal State Electricity Board and Others v Desh Bandhu Ghosh and Others",
+  "court": "Supreme Court of India",
+  "year": 1985,
+  "judges": [
+    "O. Chinnappa Reddy, J."
+  ],
+  "bench": [],
+  "petitioner": "West Bengal State Electricity Board and Others",
+  "respondent": "Desh Bandhu Ghosh",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "And 19 Of The Electricity Supply Act",
+      "section": "18A"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "26 February 1985",
+  "outcome": "Unknown",
+  "facts": [
+    "The West Bengal State Electricity Board is the principal appellant in this appeal by special leave which we have just now granted.",
+    "The first respondent, a permanent employee of the West Bengal State Electricity Board, filed the writ petition out of which the appeal arises in the Calcutta High Court to quash an order dated march 22, 1984 of the Secretary, West Bengal State Electricity Board terminating his services as Deputy Secretary with immediate effect on payment of three month's salary in lieu of three month's notice.",
+    "The order gave no reasons for terminating the services of the respondent and there was nothing in the order which could possibly be said to attach any stigma to the respondent.",
+    "Apparently the order was made under Regulation 34 of the Board's regulations which enables the Board to terminate the services of any permanent employee 'by serving three months' notice or on payment of salary for the corresponding period in lieu thereof'.",
+    "For the sake of convenience we extract below Regulation 33 and the first paragraph (which alone is relevant) of Regulation 34:",
+    "Contrasting Regulations 33 and 34 the High Court came to the conclusion that Regulation 34 was arbitrary in nature and suffered from the vice of enabling discrimination.",
+    "The learned counsel for the West Bengal State Electricity Board submitted that Regulation 34 did not offend Art. 14 of the Constitution, that sec. 18A and 19 of the Electricity Supply Act laid down sufficient guidelines for the exercise of the power under Regulation 34 and in any case the power to terminate the services of a permanent employee was vested in higher ranking officials and might be expected to be exercised in a reasonable way.",
+    "We are not impressed with the submission of the learned counsel for the Board.",
+    "On the face of it, the regulation is totally arbitrary and confers on the Board a power which is capable of vicious discrimination- It is a naked 'hire and fire' rule, the time for banishing which altogether from employer-employee relationship is fast approaching."
+  ],
+  "issues": [
+    "Whether Regulation 34 of the West Bengal State Electricity Board's regulations was arbitrary in nature and suffered from the vice of enabling discrimination.",
+    "Whether the power to terminate the services of a permanent employee under Regulation 34 offended Art. 14 of the Constitution."
+  ],
+  "petitioner_arguments": [
+    "The regulation is totally arbitrary and confers on the Board a power which is capable of vicious discrimination- It is a naked 'hire and fire' rule, the time for banishing which altogether from employer-employee relationship is fast approaching.",
+    "The power to terminate the services of a permanent employee was vested in higher ranking officials and might be expected to be exercised in a reasonable way."
+  ],
+  "respondent_arguments": [
+    "Regulation 34 did not offend Art. 14 of the Constitution, that sec. 18A and 19 of the Electricity Supply Act laid down sufficient guidelines for the exercise of the power under Regulation 34.",
+    "The power to terminate the services of a permanent employee was vested in higher ranking officials and might be expected to be exercised in a reasonable way."
+  ],
+  "court_reasoning": [
+    "On the face of it, the regulation is totally arbitrary and confers on the Board a power which is capable of vicious discrimination- It is a naked 'hire and fire' rule, the time for banishing which altogether from employer-employee relationship is fast approaching.",
+    "The challenge was upheld though no opinion was expressed on the question whether the rule offended art 14 of the Constitution.",
+    "In S. S. Muley v. J.R. D. Tata and Ors., [1979] 2 S.L.R. 438 1979 Indlaw MUM 3781 P. B. Sawant, J. of the Bombay High Court considered at great length Regulation 48 (a) of the Air India Employee's Service Regulations which conferred similar power on the Corporation as Regulation 34 confers on the Board in the present case.",
+    "The learned judge struck down Regulation 48 (a) and we agree with his reasoning and conclusion.",
+    "In Workman, Hindustan Steel Ltd. v. Hindustan Steel Ltd., A.I.R. 1985 S.C. 251 1984 Indlaw SC 249 this Court had occasioned to hold that a Standing Order which conferred such arbitrary, uncanalised and drastic power to enable the employer to dispense with an inquiry and to dismiss an employee, without assigning any reason, by merely stating that it was expedient and against the interest of the security to continue to employ the workman was violative of the basic requirement of natural justice.",
+    "We prefer the reasoning of Sawant, J. Of the Bombay High Court and that of the Calcutta High Court in the judgment under appeal to the reasoning of the Delhi High Court."
+  ],
+  "holding": [
+    "The appeal is dismissed with costs."
+  ],
+  "cases_cited": [
+    "In S. S. Muley v. J.R",
+    "West Bengal State Electricity Board and Others v Desh Bandhu Ghosh",
+    "class so familiar to administrative lawyers In Moti Ram Deka v. North East frontier Railway",
+    "counsel for the appellant relied upon Manohar P. Kharkhar v. Raghuraj",
+    "reasoning and conclusion. In Workman, Hindustan Steel Ltd. v. Hindustan Steel Ltd"
+  ]
+}

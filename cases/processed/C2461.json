@@ -1,0 +1,61 @@
+{
+  "case_id": "C2461",
+  "case_name": "Narayan Singh And Ors. v State Of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "year": 1985,
+  "judges": [
+    "Syed Murtaza Fazalali"
+  ],
+  "bench": [],
+  "petitioner": "Narayan Singh And Ors",
+  "respondent": "State Of Madhya Pradesh\nSupreme Court of India\n\n19 July 1985\nCriminal Appeal Nos. 308 and 420 of 1976. From the Judgment and Order dated 24.2.1976 of the Madhya Pradesh High Court in Criminal Appeal No. 300 of 1972.\nThe Judgment was delivered by : Syed Murtaza Fazalali, J.\n1. These appeals are directed against a judgment of the Madhya Pradesh High Court convicting the appellants under ss. 148 and 302 read with s. 149 of the Indian Penal Code and sentencing them to imprisonment for life.\n2. By our Order dated 12th July 1985, we had dismissed the appeals. We now proceed to give reasons for our Order.\n3. The facts of the case have been detailed in the Judgments of the Sessions Judge and the High Court and it is not necessary for us to repeat the same all over again. It appears that there was a chronic land dispute between Bhojraj (deceased) and the appellants so much so that Bhojraj had to enlist the services of one Abbas (PW 11) to accompany him wherever he went",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "149"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "19 July 1985",
+  "outcome": "Unknown",
+  "facts": [
+    "These appeals are directed against a judgment of the Madhya Pradesh High Court convicting the appellants under ss.148 and 302 read with s.149 of the Indian Penal Code and sentencing them to imprisonment for life.",
+    "The facts of the case have been detailed in the Judgments of the Sessions Judge and the High Court and it is not necessary for us to repeat the same all over again.",
+    "It appears that there was a chronic land dispute between Bhojraj (deceased) and the appellants so much so that Bhojraj had to enlist the services of one Abbas (PW 11) to accompany him wherever he went so as to guard him against assault.",
+    "On October 5, 1971 at about 2.30 p.m. While Bhojraj was proceeding towards his village, accompanied by PW 11, the appellants reached the place of occurrence alongwith 5-6 persons and assaulted Bhojraj with swords and farsis as a result of which Bhojraj succumbed to his injuries.",
+    "PW 1, who was not an eye-witness, on hearing of the incident reached the police station at 4.30 p.m. and lodged a FIR."
+  ],
+  "issues": [
+    "The question of concocting the case cannot possibly arise.",
+    "Whether the Sessions Judge was correct in rejecting the prosecution case for paucity of evidence.",
+    "Whether the extra-judicial confession is a weak type of evidence."
+  ],
+  "petitioner_arguments": [
+    "It was not the case that PW 11 never disclosed the details of the incident to the members of the family of the deceased but when he went to the house he immediately did not name the accused and the explanation given by PW 11 was that as he was completely perplexed he could not disclose the details immediately.",
+    "The evidence of PW 11 shows that within 15 minutes he disclosed the names of the accused and gave full details of the occurrence."
+  ],
+  "respondent_arguments": [
+    "It is not open to any court to start with a presumption that extra judicial confession is a weak type of evidence.",
+    "It would depend on the nature of the circumstances, the time when the confession was made and the credibility of the witnesses who speak to such a confession."
+  ],
+  "court_reasoning": [
+    "The learned Sessions Judge seems to have taken a most unrealistic view of the evidence of PW 11 by ignoring the fact that he (PW 11) being a guard of the deceased must have been shocked and stunned after seeing the whole incident and, therefore, he may not have been in a position to mention the names of the accused immediately but after composing himself within 10-15 minutes he mentioned the names and also gave all the details.",
+    "It is not uncommon for persons when they see a ghastly and dastardly murder being committed in their presence that they almost lose their sense of balance and remain dumb-founded until they are able to compose themselves."
+  ],
+  "holding": [
+    "We uphold the conviction and sentence imposed by the High Court and dismiss the appeals.",
+    "In case the appellants are on bail, they shall surrender to their bail bonds which are hereby cancelled and they should be taken into custody and sent to jail to serve out the remaining portion of the sentence."
+  ],
+  "cases_cited": []
+}

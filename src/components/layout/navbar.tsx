@@ -6,12 +6,12 @@ import { useState, useEffect } from "react";
 import { cn } from "@/lib/utils";
 import { Logo } from "@/components/common/logo";
 import { ThemeToggle } from "@/components/common/theme-toggle";
-import { Menu, X, Github } from "lucide-react";
+import { Menu, X } from "lucide-react";
 
 const navLinks = [
-  { href: "/", label: "Home" },
-  { href: "/arch", label: "Arch" },
-  { href: "/atlas", label: "Atlas" },
+  { href: "/atlas", label: "Litigate Engine" },
+  { href: "/philosophy", label: "Philosophy" },
+  { href: "/blog", label: "Build Log" },
   { href: "/pricing", label: "Pricing" },
 ];
 
@@ -21,10 +21,20 @@ export function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
 
   useEffect(() => {
-    const onScroll = () => setScrolled(window.scrollY > 20);
+    let rafId = 0;
+    const onScroll = () => {
+      if (rafId) return;
+      rafId = requestAnimationFrame(() => {
+        setScrolled(window.scrollY > 20);
+        rafId = 0;
+      });
+    };
     window.addEventListener("scroll", onScroll, { passive: true });
     onScroll();
-    return () => window.removeEventListener("scroll", onScroll);
+    return () => {
+      window.removeEventListener("scroll", onScroll);
+      if (rafId) cancelAnimationFrame(rafId);
+    };
   }, []);
 
   useEffect(() => {
@@ -65,19 +75,11 @@ export function Navbar() {
             </Link>
           ))}
           <ThemeToggle />
-          <a
-            href="https://github.com/auxssia"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-muted hover:text-foreground transition-colors"
-          >
-            <Github className="h-4 w-4" />
-          </a>
           <Link
-            href="/arch"
+            href="/atlas"
             className="inline-flex items-center justify-center rounded-lg bg-foreground text-background px-4 py-2 text-sm font-medium transition-all hover:opacity-90"
           >
-            Join waitlist
+            Launch Engine
           </Link>
         </div>
 
@@ -109,19 +111,11 @@ export function Navbar() {
             ))}
             <div className="flex items-center gap-4 pt-2 border-t border-border/30">
               <ThemeToggle />
-              <a
-                href="https://github.com/auxssia"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-muted hover:text-foreground transition-colors"
-              >
-                <Github className="h-4 w-4" />
-              </a>
               <Link
-                href="/arch"
+                href="/atlas"
                 className="inline-flex items-center justify-center rounded-lg bg-foreground text-background px-4 py-2 text-sm font-medium"
               >
-                Join waitlist
+                Launch Engine
               </Link>
             </div>
           </div>

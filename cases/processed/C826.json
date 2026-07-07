@@ -1,0 +1,52 @@
+{
+  "case_id": "C826",
+  "case_name": "Joginder Singh and Another v State of Haryana",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Joginder Singh and Another",
+  "respondent": "State of Haryana\nSupreme Court of India\n\n9 October 2002\nCr.A. No. 799 of 1995\nThe Order of the Court was as follows:\n1.  Four accused persons, namely, Joginder Singh - A-1, Ranjit Singh - A-2, Mohan Singh - A-3 and Baldev Singh - A-4 were charged for the offences under section 302 read with section 34 and section 120-B of the Indian Penal Code, 1860. Accused Ranjit Singh was found guilty under section 302 of the Indian Penal Code, 1860 for committing the murder of Daljit Singh and Bhajan Singh on 15.10.1989 and was sentenced to undergo imprisonment for life and to pay a fine of Rs. 5, 000/- together with a default clause by the learned sessions judge, Narnaul.\n2. Incidentally, the co-accused of Ranjit Singh, viz., Baldev Singh, Joginder Singh and Mohan Singh were acquitted of the charges levelled against them by giving benefit of doubt by the learned sessions judge.\n3.  Against his conviction, Ranjit Singh moved the High Court and the state also moved the H",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "9 October 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "Four accused persons, namely, Joginder Singh - A-1, Ranjit Singh - A-2, Mohan Singh - A-3 and Baldev Singh - A-4 were charged for the offences under section 302 read with section 34 and section 120-B of the Indian Penal Code, 1860.",
+    "Accused Ranjit Singh was found guilty under section 302 of the Indian Penal Code, 1860 for committing the murder of Daljit Singh and Bhajan Singh on 15.10.1989 and was sentenced to undergo imprisonment for life and to pay a fine of Rs. 5, 000/- together with a default clause by the learned sessions judge, Narnaul.",
+    "Incidentally, the co-accused of Ranjit Singh, viz., Baldev Singh, Joginder Singh and Mohan Singh were acquitted of the charges levelled against them by giving benefit of doubt by the learned sessions judge.",
+    "Against his conviction, Ranjit Singh moved the High Court and the state also moved the High Court against the order of acquittal.",
+    "The High Court, in its turn, however, maintained the conviction of Ranjit Singh but reversed the order of acquittal as against accused Joginder Singh and Mohan Singh being A-1 and A-3, respectively.",
+    "However, acquittal of Baldev Singh - A-4 by the learned sessions judge was affirmed by the High Court."
+  ],
+  "issues": [
+    "The parameters for reversal of an acquittal order passed by the High Court, as laid down by this Court in a catena of cases, do not seem to have been complied with and by reason therefore, the High Court's order of reversal cannot be sustained.",
+    "Whether the findings of the trial court are palpably wrong, manifestly erroneous or demonstrably unsustainable."
+  ],
+  "petitioner_arguments": [
+    "The mere fact that a view other than the one taken by the trial court can be legitimately arrived at by the appellate court on reappraisal of the evidence cannot constitute a valid and sufficient ground to interfere with an order of acquittal unless it comes to the conclusion that the entire approach of the trial court in dealing with the evidence was patently illegal or the conclusions arrived at by it were wholly untenable."
+  ],
+  "respondent_arguments": [
+    "The principal contention advanced by Mr. Dhanda rests on two different aspects: The first being the evidence of two independent witnesses and the second happens to be dying declaration as certified by the doctor.",
+    "The statement was given by the injured on his own. However, when he got stuck up, he was asked by the inspector to proceed further and tell them to what had happened further."
+  ],
+  "court_reasoning": [
+    "The jurisdiction of the appellate court in dealing with an appeal against an order of acquittal is circumscribed by the limitation that no interference is to be made with the order of acquittal unless the approach made by the lower court to the consideration of the evidence in the case is vitiated by some manifest illegality or the conclusion recorded by the court below is such which could not have been possibly arrived at by any court acting reasonably and judiciously and is, therefore, liable to be characterised as perverse.",
+    "The law thus seems to be clearly settled to the effect that if there are two possible versions and the court of sessions adopted one such version, question of recording reversal of an order of acquittal by reason of the fact that if there was any independent appraisal by the High Court, the High Court could have come to a different conclusion, could not arise."
+  ],
+  "holding": [
+    "The appeal is allowed and the conviction of Ranjit Singh is set aside. The acquittal of Joginder Singh and Mohan Singh is also set aside."
+  ],
+  "cases_cited": [
+    "This Court in Tota Singh and Anr. v. State of Punjab",
+    "same view this Court in Ramesh Babulal (Ramesh Babulal Doshi v. State of Gujarat"
+  ]
+}

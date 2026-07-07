@@ -1,0 +1,38 @@
+{
+  "case_id": "S74",
+  "case_name": "Conditions precedent to retrenchment of workmen",
+  "court": "",
+  "year": 1964,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "32"
+    },
+    {
+      "section": "14"
+    }
+  ],
+  "legal_domain": "Labour",
+  "legal_subdomain": "Workmen",
+  "court_level": "Supreme Court",
+  "decision_date": "15 12 1964",
+  "outcome": "Unknown",
+  "facts": [
+    "No workman employed in any industry who has been in continuous service for not less than one year under an employer shall be retrenched by that employer",
+    "The workman has been given one month's notice in writing indicating the reasons for retrenchment and the period of notice has expired, or the workman has been paid in lieu of such notice, wages for the period of the notice;",
+    "The workman has been paid, at the time of retrenchment, compensation which shall be equivalent to fifteen days' average pay for every completed year of continuous service or any part thereof in excess of six months;"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "No workman employed in any industry who has been in continuous service for not less than one year under an employer shall be retrenched by that employer until (a) the workman has been given one month's notice in writing indicating the reasons for retrenchment and the period of notice has expired, or the workman has been paid in lieu of such notice, wages for the period of the notice;",
+    "The workman has been paid, at the time of retrenchment, compensation which shall be equivalent to fifteen days' average pay 2 [for every completed year of continuous service] or any part thereof in excess of six months; and (c) notice in the prescribed manner is served on the appropriate Government"
+  ],
+  "cases_cited": []
+}

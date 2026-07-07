@@ -1,0 +1,71 @@
+{
+  "case_id": "C491",
+  "case_name": "Haryana State Industrial Development v Shakuntla and Others",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [
+    "Tarun Chatterjee"
+  ],
+  "bench": [],
+  "petitioner": "(1) Haryana State Industrial Development",
+  "respondent": "(1) Shakuntla",
+  "citations": [
+    "2003 5 SCC 437",
+    "2005 11 SCC 222",
+    "2005 9 SCC 164"
+  ],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "4"
+    },
+    {
+      "act": "The Act",
+      "section": "5"
+    },
+    {
+      "act": "The Act",
+      "section": "6"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "22 October 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "A notification under Section 4 of the Land Acquisition Act, 1894 was issued by the State Government of Haryana for the purpose of acquisition of lands situated in Village Khandsa, Tehsil and District Gurgaon.",
+    "The respondent no.1, being one of the owners of the notified acquired lands, filed objections under Section 5 of the Act, for exclusion of their lands.",
+    "A High Powered Committee was constituted to look into whether the lands of the owners concerned could be released from acquisition.",
+    "The Committee recommended the acquisition of the lands of respondent no.1 on the basis of the parameters of evaluation formulated for the same purpose.",
+    "Aggrieved by the recommendations of the High Powered Committee, respondent no.1 filed a writ petition before the High Court of Punjab and Haryana contending that the said report was liable to be quashed as the policy of pick and choose was adopted in the matter of releasing lands and that the acquisition of lands was discriminatory.",
+    "The High Court concluded that the case of respondent no.1 was on a better footing than that of M/s Orient Crafts since a perusal of the site plan shows that the land of M/s Orient Crafts which is similarly placed with the land of the respondent no.1, does not contain any structure unlike that of the land of the respondent no.1 containing a pucca structure.",
+    "The High Court ordered the release of the land belonging to respondent no.1 on the following grounds: i) That they will maintain the green belt as desired by the Department which is essentially required to lay the infrastructure; ii) That they would pay the proportionate internal and external charges to the Haryana State Industrial Development Corporation (in short the 'HSIDC') as and when it is required by the authorities."
+  ],
+  "issues": [
+    "Whether the decision of the High Court to quash the particular acquisition was fallacious.",
+    "Whether the land belonging to respondent no.1 was rightly recommended for acquisition.",
+    "Whether the release of the land belonging to M/s Orient Craft was in accordance with the guidelines and parameters approved by the Government."
+  ],
+  "petitioner_arguments": [
+    "The decision of the High Court to quash the particular acquisition was fallacious since a High Powered Committee having been appointed to examine the cases of land acquisition had recommended the acquisition of the lands of the respondents.",
+    "The land belonging to respondent no.1 was rightly recommended for acquisition as it did not meet the criteria laid down in the parameters approved by the Government."
+  ],
+  "respondent_arguments": [
+    "The policy of pick and choose was adopted in the matter of releasing lands and that the acquisition of lands was discriminatory.",
+    "The land belonging to M/s Orient Craft was wrongly released from acquisition amounting to discrimination against respondent no.1."
+  ],
+  "court_reasoning": [
+    "The authority, who has to carry out the planned development of the industrial estate, is in the best position to judge as to which land can be exempted from the acquisition without jeopardizing the development scheme.",
+    "It is not possible for the court to sit in appeal over the exercise of such satisfaction by the authority vested with the task of implementing the development plan."
+  ],
+  "holding": [
+    "The decision of the High Court to quash the particular acquisition was fallacious and the land belonging to respondent no.1 was rightly recommended for acquisition.",
+    "The release of the land belonging to M/s Orient Craft was not in accordance with the guidelines and parameters approved by the Government."
+  ],
+  "cases_cited": [
+    "Constitution of India. As held in the case of Union of India v. International Trading Co",
+    "on a judgment of this Court in the case of Raju S. Jethmalani v. State of Maharastra",
+    "to a judgment of this Court in the case of Anand Buttons v. State of Haryana"
+  ]
+}

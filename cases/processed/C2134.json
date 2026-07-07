@@ -1,0 +1,86 @@
+{
+  "case_id": "C2134",
+  "case_name": "CBI, ACB, Mumbai v Narendra Lal Jain and another",
+  "court": "Supreme Court of India",
+  "year": 2014,
+  "judges": [
+    "Ranjan Gogoi"
+  ],
+  "bench": [],
+  "petitioner": "CBI, ACB, Mumbai",
+  "respondent": "Narendra Lal Jain and another\nSupreme Court of India\n\n28 February 2014\nCr.A. No. 517 of 2014 (Arising out of S.L.P. (Cr.) No. 6138 of 2006)\nThe Judgment was delivered by : Ranjan Gogoi, J.\n1. Leave granted.\n2. The appellant, Central Bureau of Investigation (CBI) ACB, Mumbai seeks to challenge an order dated 28.10.2005 passed by the High Court of Bombay quashing the criminal proceedings against the respondents Narendra Lal Jain, Jayantilal L. Shah and Ramanlal Lalchand Jain. The aforesaid respondents had moved the High Court u/s. 482 Code of Criminal Procedure, 1973 (for short \"Cr.P.C.\") challenging the orders passed by the learned Trial Court refusing to discharge them and also questioning the continuance of the criminal proceedings registered against them. Of the three accused, Jayantilal L. Shah, the court is informed, has died during the pendency of the present appeal truncating the scope thereof to an adjudication of the correctness of the decision of the High Co",
+  "citations": [
+    "1996 5 SCC 591",
+    "2008 9 SCC 677",
+    "2012 10 SCC 303",
+    "AIR 2003 SC 1387"
+  ],
+  "statutes": [
+    {
+      "section": "482"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    },
+    {
+      "section": "120"
+    },
+    {
+      "section": "320"
+    },
+    {
+      "section": "420"
+    },
+    {
+      "section": "468"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "28 February 2014",
+  "outcome": "Unknown",
+  "facts": [
+    "The Central Bureau of Investigation (CBI), ACB, Mumbai seeks to challenge an order dated 28.10.2005 passed by the High Court of Bombay quashing the criminal proceedings against the respondents Narendra Lal Jain, Jayantilal L. Shah and Ramanlal Lalchand Jain.",
+    "Two FIRs were registered against the accused-respondents and several officers of the Bank of Maharashtra on the basis of which Special Case No. 15 of 1995 and Special Case No. 20 of 1995 were registered in the Court of the Special Judge, Mumbai.",
+    "The offences alleged were investigated and separate chargesheets were filed on the basis whereof charges were framed against the accused-respondents under Sections 120-B/420 IPC and Ss. 5(2) read with S. 5(1)(d) of the Prevention of Corruption Act, 1947 corresponding to Ss. 13(2) read with S. 13(1)(d) of the Prevention of Corruption Act, 1988 (for short 'PC Act').",
+    "The gravamen of the charge is that they had conspired with the bank officials and had projected inflated figures of the creditworthiness of the companies represented by them and in this manner had secured more advances/loans from the bank than they were entitled to.",
+    "While the criminal cases were being investigated, the bank had instituted suits for recovery of the amounts claimed to be due from the respondents. The said suits were disposed of in terms of consent decrees dated 23.04.2001."
+  ],
+  "issues": [
+    "The power of the High Court under Section 482 Cr.P.C. to quash a criminal proceeding",
+    "The distinction between the power vested in the High Court under Section 482 Cr.P.C. and the power vested in a criminal court by Section 320 Cr.P.C. to compound an offence"
+  ],
+  "petitioner_arguments": [
+    "When a criminal offence is plainly disclosed, settlement of the civil liability, though arising from the same facts, cannot be a sufficient justification for the premature termination of the criminal case.",
+    "The High Court must have due regard to the nature and gravity of the offences alleged before proceeding to exercise the power under Section 482 Cr.P.C.",
+    "Any compromise between the victim and the offender in relation to the offences under special statutes like the Prevention of Corruption Act cannot provide for any basis for quashing criminal proceedings involving such offences."
+  ],
+  "respondent_arguments": [
+    "The disposal of the civil suit for recovery, on compromise upon receipt of payments by the claimants, would amount to compounding of offence of cheating.",
+    "The power under Section 482 Cr.P.C. is not limited by the provisions of Section 320 Cr.P.C., and even if an offence is not compoundable under Section 320 Cr.P.C., the same would not act as a bar for the exercise of power under Section 482 Cr.P.C.",
+    "The charges framed against the accused-respondents are under Section 120-B/420 of the Indian Penal Code, and the respondents not being public servants, no substantive offence under the PC Act can be alleged against them."
+  ],
+  "court_reasoning": [
+    "The High Court must have due regard to the nature and gravity of the offences alleged before proceeding to exercise the power under Section 482 Cr.P.C.",
+    "The ratio laid down in B.S. Joshi and Others vs. State of Haryana and Another, AIR 2003 SC 1387 (supra) and Nikhil Merchant vs. Central Bureau of Investigation and Another, (2008) 9 SCC 677 (supra) would apply if the facts of the given case would so justify.",
+    "The observation in Gian Singh vs. State of Punjab and Another, (2012) 10 SCC 303 (supra) will not be attracted in the present case in view of the offences alleged i.e. under Sections 420/120B IPC."
+  ],
+  "holding": [
+    "The High Court was not justified in quashing the criminal proceedings against the accused-respondents.",
+    "The appeal is allowed and the order dated 28.10.2005 passed by the High Court is set aside."
+  ],
+  "cases_cited": [
+    "CBI, ACB, Mumbai v Narendra Lal Jain",
+    "and B.S.Joshi and Others vs. State of Haryana",
+    "decision of a three Judges Bench of this Court in Gian Singh vs. State of Punjab",
+    "in Central Bureau of Investigation, SPE, SIU(X), New Delhi vs. Duncans Agro Industries Ltd",
+    "the Constitution. In the decision reported in Nikhil Merchant vs. Central Bureau of Investigation"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "case_id": "C2340",
+  "case_name": "Ramesh v State Through Inspector of Police",
+  "court": "Supreme Court of India",
+  "year": 2014,
+  "judges": [
+    "V. Gopala Gowda"
+  ],
+  "bench": [],
+  "petitioner": "Ramesh",
+  "respondent": "State Through Inspector of Police\nSupreme Court of India\n\n1 August 2014\nCr.A. No. 592 of 2010\nThe Judgment was delivered by : V. Gopala Gowda, J.\n1. This appeal is filed by the appellant being aggrieved by the judgment and order dated 19.02.2008 passed by the Madurai Bench of High Court of Madras in Criminal Appeal (MD) No. 3 of 2007 urging various grounds and legal contentions and prayed to set aside the conviction and sentence awarded against him and acquit him from the charges framed against him.\n2. The brief facts in nutshell are stated hereunder with a view to appreciate rival legal contentions urged on behalf of the parties:-\nThe prosecution charged the appellant under Sections 376, 302 and 201 of Indian Penal Code. The appellant pleaded not guilty. The trial was conducted on behalf of the respondent-prosecution and in order to substantiate the charges, it examined 22 witnesses and relied on 27 exhibits and 4 material objects. The trial court on the basis of evidence add",
+  "citations": [
+    "2003 1 SCC 398",
+    "2003 11 SCC 488",
+    "2008 13 SCC 257",
+    "2008 14 SCC 768",
+    "2012 11 SCC 588",
+    "2012 4 SCC 257",
+    "2012 6 SCC 204",
+    "2013 12 SCC 796",
+    "2013 5 SCC 722",
+    "AIR 1960 SC 29"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "313"
+    },
+    {
+      "section": "5000"
+    },
+    {
+      "section": "376"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "1000"
+    },
+    {
+      "section": "201"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "section": "174"
+    },
+    {
+      "section": "174(1)"
+    },
+    {
+      "section": "461"
+    },
+    {
+      "section": "27"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "1 August 2014",
+  "outcome": "Unknown",
+  "facts": [
+    "The prosecution charged the appellant under Sections 376, 302 and 201 of Indian Penal Code.",
+    "The trial was conducted on behalf of the respondent-prosecution and in order to substantiate the charges, it examined 22 witnesses and relied on 27 exhibits and 4 material objects.",
+    "The case of the prosecution is that on 3.11.2005 at about 11.00 am, deceased-Seeni Nabra, aged 8 years along with her grandmother (PW-3) went to the rice mill of the appellant to get the grains for grinding.",
+    "The dead body was taken out from the well.",
+    "Following the same, the accused took the investigation officer to the Mill and produced the M.O.2 (Shawl) which was worn by the deceased-child at the time of the occurrence and the same was recovered under a cover of mahazar."
+  ],
+  "issues": [
+    "The correctness of the findings recorded by the trial court against the appellant and holding that he was guilty of the same.",
+    "Whether the prosecution has failed to comply with mandatory procedures as required u/s. 174(1) and (2) of Cr.PC?",
+    "Whether the benefit of doubt is available to the accused which should have been adopted and the courts below should have passed the order of acquittal."
+  ],
+  "petitioner_arguments": [
+    "The prosecution has failed to comply with mandatory procedures as required u/s. 174(1) and (2) of Cr.PC i.e. non sending of the intimation recorded u/s. 174(1) and the report u/s. 174 (2) of Cr.PC (reasonable suspicion on death) to the nearest Executive Magistrate or Sub-Divisional Magistrate who is empowered to hold preliminary inquest enquiry.",
+    "This case is based on the circumstantial evidence on which the trial court as well as the first appellate court while considering the said evidence on record have relied upon and convicted and sentenced the appellant for offences charged against him.",
+    "The benefit of doubt is available to the accused which should have been adopted and the courts below should have passed the order of acquittal."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The High Court on re- appreciation of the evidence on record did not find any infirmity in either factual or legal aspect in the judgment of the trial court and sustained the same by passing the impugned judgment.",
+    "The correctness of the same is challenged in this appeal framing certain substantial questions of law urging the following grounds."
+  ],
+  "holding": [
+    "The final decision, order, or outcome: The appeal was dismissed and the conviction and sentence awarded against the appellant were upheld."
+  ],
+  "cases_cited": [
+    "It has been held by this Court in the case of Jitender Kumar v. State of Haryana",
+    "and Ramnaresh & Ors. v. State of Chhattisgarh",
+    "and Ranjit Singh v. State of M",
+    "and he placed reliance upon the judgment in Mritunjoy Biswas v. Pranab Alias Kuti Biswas",
+    "appellant by placing reliance upon the judgment in Budhuram v. State of Chhattisgarh",
+    "emphasis laid by this Court) In Ramreddy Rajesh Khanna Reddy v. State of A",
+    "has been held by this Court in the case of Kusuma Ankama Rao v. State of Andhra Pradesh",
+    "has been stated by this Court in Hanumant Govind Nargundkar v. State of Madhya Pradesh",
+    "judge bench of this Court in the case of Govinda Reddy & Anr. v. State of Mysore",
+    "reliance upon the judgment of this Court in Raj Kumar Singh v. State of Rajasthan",
+    "strong reliance was placed on the judgment in Raghunath v. State of Haryana",
+    "upon judgment of this Court in the case of Baldev Singh v. State of Haryana",
+    "upon the judgment of this Court in Devinder Singh & Ors. v. State of Himachal Pradesh"
+  ]
+}

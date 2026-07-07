@@ -1,0 +1,67 @@
+{
+  "case_id": "C2712",
+  "case_name": "Abdul Razak Dawood Dhanani v Union of India and others",
+  "court": "Supreme Court of India",
+  "year": 2003,
+  "judges": [
+    "Hon'ble Justice B. P. Singh"
+  ],
+  "bench": [],
+  "petitioner": "Abdul Razak Dawood Dhanani",
+  "respondent": "Union of India",
+  "citations": [
+    "1975 4 SCC 47",
+    "1982 1 SCC 12",
+    "1984 3 SCC 505",
+    "1988 1 SCC 296",
+    "1991 2 SCC 1",
+    "1999 9 SCC 504",
+    "AIR 1991 SC 1983"
+  ],
+  "statutes": [
+    {
+      "section": "3"
+    },
+    {
+      "section": "11"
+    },
+    {
+      "section": "8"
+    },
+    {
+      "section": "8(F)"
+    },
+    {
+      "section": "12"
+    },
+    {
+      "section": "8(A)"
+    },
+    {
+      "section": "14"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "17 April 2003",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The Central Government was not bound to consider the second representation and pass a separate order disposing of the same since it did not contain any new or fresh grounds justifying a fresh consideration."
+  ],
+  "cases_cited": [
+    "Abdul Razak Dawood Dhanani v Union of India",
+    "a constitution bench of this Court in Makhan lal Gokul Chand V. Administrator",
+    "and Smt. Gracy V. State of Kerala",
+    "and this Court after referring to the judgment in Sat Pal V. State of Punjab",
+    "on the judgment of this Court in State of Uttar Pradesh V. Zavad Zama Khan",
+    "refers to the decis ion of this Court in Ram Bali Rajbhar V. The",
+    "upon the judgment of this Court in Smt. K. Aruna Kumari Vs. Government of Andhra Pradesh",
+    "upon the judgments of this Court in Amir Shad Khan and Anr. V. L. Hmingliana"
+  ]
+}

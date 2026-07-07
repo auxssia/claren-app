@@ -1,0 +1,61 @@
+{
+  "case_id": "C338",
+  "case_name": "M. K. Gopalan and Another v State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "year": 1954,
+  "judges": [
+    "B. Jagannadhadas"
+  ],
+  "bench": [],
+  "petitioner": "M. K. Gopalan and Another",
+  "respondent": "State of Madhya Pradesh\nSupreme Court of India\n\n5 April 1954\nPetition No. 55 of 1954.\nThe Judgment was delivered by : B. Jagannadhadas, J.\n1.  This is a petition under article 32 of the Constitution and is presented to this Court under the following circumstances. Petitioner No. I before us was an Agricultural Demonstrator of the Government of Madras and was employed as an Assistant Marketing Officer in Central Provinces and Berar for the purchase and movement of blackgram and other grains on behalf of the Madras Government. He, as well as the second petitioner and 44",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Criminal Procedure Code",
+      "section": "14"
+    },
+    {
+      "act": "Criminal Procedure Code",
+      "section": "197"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "5 April 1954",
+  "outcome": "Unknown",
+  "facts": [
+    "The petition was presented to the Supreme Court under article 32 of the Constitution.",
+    "The petitioner was an Agricultural Demonstrator of the Government of Madras and was employed as an Assistant Marketing Officer in Central Provinces and Berar for the purchase and movement of blackgram and other grains on behalf of the Madras Government.",
+    "He, as well as the second petitioner and 44 others, are under prosecution before Shri K. E. Pandey, a Special Magistrate of Nagpur, Madhya Pradesh, in Case No. I of 1949 pending before him on charges of cheating, attempt to commit cheating, criminal breach of trust and criminal conspiracy.",
+    "The validity of the prosecution is challenged on various grounds, and the present petition is for quashing the proceedings on the ground of their invalidity."
+  ],
+  "issues": [
+    "Section 14 of the Criminal Procedure Code, in so far as it authorises the Provincial Government to confer upon any person all or any of the powers conferred or conferrable by or under the Code on a Magistrate of the first, second or third class in respect of particular cases and thereby to constitute a Special Magistrate for the trial of an individual case, violates the guarantee under article 14 of the Constitution;",
+    "The sanction given under section 197(1) of the Criminal Procedure Code for the prosecution as against the first petitioner is invalid, inasmuch as the order of the Madras Government granting the sanction does not disclose that all the facts constituting the offences to be charged were placed before the sanctioning authority nor does the sanction state the time or place of the occurrence or the transactions involved in it, or the persons with whom the offences were committed.",
+    "Even if the sanction under section 197(1) of the Criminal Procedure Code is valid, it is for the very Government which accords the sanction to specify also the Court before which the trial is to be held under section 197 and in the absence of any such specification by the said Government, the power under section 14 of the Criminal Procedure Code of appointing a Special Magistrate for the trial of the case cannot be exercised by the Madhya Pradesh Government."
+  ],
+  "petitioner_arguments": [
+    "Section 14 of the Criminal Procedure Code, in so far as it authorises the Provincial Government to confer upon any person all or any of the powers conferred or conferrable by or under the Code on a Magistrate of the first, second or third class in respect of particular cases and thereby to constitute a Special Magistrate for the trial of an individual case, violates the guarantee under article 14 of the Constitution;",
+    "The sanction given under section 197(1) of the Criminal Procedure Code for the prosecution as against the first petitioner is invalid, inasmuch as the order of the Madras Government granting the sanction does not disclose that all the facts constituting the offences to be charged were placed before the sanctioning authority nor does the sanction state the time or place of the occurrence or the transactions involved in it, or the persons with whom the offences were committed.",
+    "Even if the sanction under section 197(1) of the Criminal Procedure Code is valid, it is for the very Government which accords the sanction to specify also the Court before which the trial is to be held under section 197 and in the absence of any such specification by the said Government, the power under section 14 of the Criminal Procedure Code of appointing a Special Magistrate for the trial of the case cannot be exercised by the Madhya Pradesh Government."
+  ],
+  "respondent_arguments": [
+    "The Privy Council itself in the case mentioned above has recognised that the lacunas, if any, in the sanction of the kind contemplated by that decision can be remedied in the course of the trial by the specific evidence in that behalf.",
+    "It is unnecessary to decide the point whether or not the sanction, as it is, and without such evidence is invalid.",
+    "The power under section 197(2) appears to be vested in the appropriate Government for being exercised, on grounds of convenience, or the complexity or gravity of the case or other relevant considerations."
+  ],
+  "court_reasoning": [
+    "A law vesting discretion in an authority under such circumstances cannot be said to be discriminatory as such, and is therefore not hit by article 14 of the Constitution.",
+    "The power to specify a Court for trial in such cases is a permissive power, and there can be no such implication, as is contended for, arising from the non-exercise of the power.",
+    "There is accordingly no substance in this contention."
+  ],
+  "holding": [
+    "In the result, all the points raised on behalf of the petitioners fail, and this petition must be dismissed."
+  ],
+  "cases_cited": [
+    "of the Privy Council case of Gokulchand Dwarkadas Morarka v. The King A",
+    "on the Privy Council case in Gokulchand Dwarkadas Morarka v. The King A"
+  ]
+}

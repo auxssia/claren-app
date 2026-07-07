@@ -1,0 +1,77 @@
+{
+  "case_id": "C2483",
+  "case_name": "Suchand Bouri v State of West Bengal",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [
+    "R. M. Lodha"
+  ],
+  "bench": [],
+  "petitioner": "Suchand Bouri",
+  "respondent": "State of West Bengal\nSupreme Court of India\n\n9 April 2009\nCriminal Appeal No. 460 of 2008\nThe Judgment was delivered by : R. M. Lodha, J.\n1.  We are confronted, in this appeal by special leave, with a question: whether, on the facts of the case, the offence is \"murder\" or \"culpable homicide not amounting to murder\".\n2.  Facts are these, briefly put: Jorehira-Namopara is a small village in the district of Bankura (W.B.) having about 40/50 houses. On June 21, 1986, there was a quarrel between Suchand (appellant) and Sanatan (PW-11) in respect of boundary of land. Suchand blamed that Sarbeswar (deceased) being a village Chowkidar was instigating Sanatan against him. Suchand threatened Sarbeswar that he would behead him and his son. The following day, on June 22, 1986 in the afternoon, three brothers, viz., Bisweswar, Sarbeswar and Rishi(PW-1) alongwith their family members were chit-chatting on the pathway near their house. Suchand, Fulchand, Nepal and 14 other persons arm",
+  "citations": [
+    "2001 3 SCC 439",
+    "2002 3 SCC 327",
+    "AIR 1958 SC 465",
+    "AIR 1981 SC 1552"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "323"
+    },
+    {
+      "section": "304"
+    },
+    {
+      "section": "300"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "9 April 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "Jorehira-Namopara is a small village in the district of Bankura (W.B.) having about 40/50 houses.",
+    "On June 21, 1986, there was a quarrel between Suchand (appellant) and Sanatan (PW-11) in respect of boundary of land.",
+    "Suchand blamed that Sarbeswar (deceased) being a village Chowkidar was instigating Sanatan against him.",
+    "Suchand threatened Sarbeswar that he would behead him and his son.",
+    "The following day, on June 22, 1986 in the afternoon, three brothers, viz., Bisweswar, Sarbeswar and Rishi(PW-1) alongwith their family members were chit-chatting on the pathway near their house.",
+    "Suchand, Fulchand, Nepal and 14 other persons armed with deadly weapons like lathi, tangi, katari, ballam, kural, etc. came there.",
+    "Fulchand and Nepal started assaulting Bisweswar with lathi, tangi, etc..",
+    "As a result of which Bisweswar fell down.",
+    "Sarbeswar intervened to rescue Bisweswar and at that time Suchand gave a knife blow on the chest of Sarbeswar.",
+    "Few other members of the family also got injured.",
+    "Sarbeswar died the next morning."
+  ],
+  "issues": [
+    "whether, on the facts of the case, the offence is 'murder' or 'culpable homicide not amounting to murder'"
+  ],
+  "petitioner_arguments": [
+    "the offence committed by the appellant would not come within the definition of 'murder', but only 'culpable homicide not amounting to murder' under Section 304.",
+    "there was no premeditation nor any intention to cause Sarbeswar's death; Sarbeswar was given solitary knife-blow by the appellant when he intervened while Bisweswar was being assaulted."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The High Court has also found that the occurrence had taken place upon a sudden quarrel but as the appellant was found to have acted in a cruel and unusual manner, he was not given the benefit of such exception.",
+    "For holding him to have acted in a cruel or unusual manner, the High Court relied upon the number of injuries and their location on the body of the deceased.",
+    "In the absence of the existence of common object, the appellant cannot be held responsible for the other injuries caused to the person of the deceased.",
+    "He is proved to have inflicted two blows on the person of the deceased which were sufficient in the ordinary course of nature to cause his death.",
+    "The infliction of the injuries and their nature proves the intention of the appellant but causing of such two injuries cannot be termed to be either in a cruel or unusual manner."
+  ],
+  "holding": [
+    "Once these four elements are established by the prosecution (and, of course, the burden is on the prosecution throughout) the offence is murder under Section 300 'thirdly'.",
+    "It does not matter that there was no intention to cause death.",
+    "It does not even matter that there is no knowledge that an act of that kind will be likely to cause death.",
+    "Once the intention to cause the bodily injury actually found to be present is proved, the rest of the enquiry is purely objective and the only question is whether, as a matter of purely objective inference, the injury is sufficient in the ordinary course of nature to cause death."
+  ],
+  "cases_cited": [
+    "and Ramashraya and Anr. V. State of M"
+  ]
+}

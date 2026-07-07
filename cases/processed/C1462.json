@@ -1,0 +1,51 @@
+{
+  "case_id": "C1462",
+  "case_name": "State of Punjab v Charan Singh",
+  "court": "Supreme Court of India",
+  "year": 1981,
+  "judges": [
+    "O. Chinnappa Reddy, J."
+  ],
+  "bench": [],
+  "petitioner": "State of Punjab",
+  "respondent": "Charan Singh\nSupreme Court of India\n\n20 February 1981\nCr.A. No. 23 of 1976\nThe Judgment was delivered by : O. Chinnappa Reddy, J.\n1. The respondent was convicted by the learned Special Judge, Ludhiana, of an offence under Sec. 5(1)(d) read with Sec. 5(2) of the Prevention of Corruption Act and sentenced to suffer rigorous imprisonment for a period of one year and to pay fine of Rs. One hundred. On appeal, a learned Single Judge of the High Court acquitted the respondent on the ground that there was noncompliance with the provisions of Rule 16.38 of the Punjab Police Rules, 1934. An application for the grant of a Certificate under Art. 134 (1) (c) of the Constitution was moved before the learned Single Judge and was granted. The learned Single Judge observed that when the case was argued before him, an earlier judgment of a Division Bench of the Punjab High Court in Hoshiar Singh v. The State (LXVII-1965 Punjab Law Reporter 438 @ 442) was not brought to his notice and",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "5(1)"
+    },
+    {
+      "section": "5(2)"
+    },
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "20 February 1981",
+  "outcome": "Unknown",
+  "facts": [
+    "The respondent was convicted by the learned Special Judge, Ludhiana, of an offence under Sec. 5(1)(d) read with Sec. 5(2) of the Prevention of Corruption Act and sentenced to suffer rigorous imprisonment for a period of one year and to pay fine of Rs. One hundred.",
+    "On appeal, a learned Single Judge of the High Court acquitted the respondent on the ground that there was noncompliance with the provisions of Rule 16.38 of the Punjab Police Rules, 1934.",
+    "An application for the grant of a Certificate under Art. 134 (1) (c) of the Constitution was moved before the learned Single Judge and was granted."
+  ],
+  "issues": [
+    "Whether the High Court was correct in acquitting the respondent on the ground that there was noncompliance with the provisions of Rule 16.38"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Rule 16.38 is not designed to be a condition precedent to the launching of a prosecution in a Criminal Court; it is in the nature of instructions to the Department and is not meant to be of the nature of a sanction or permission for a prosecution.",
+    "The language appears to me to be confined only to departmental enquiries."
+  ],
+  "holding": [
+    "We have, therefore, no option but to set aside the order of acquittal passed by the High Court and remand the matter to the High Court for fresh disposal in accordance with law.",
+    "Appeal allowed."
+  ],
+  "cases_cited": [
+    "of a Division Bench of the Punjab High Court in Hoshiar Singh v. The",
+    "with the observations of Dua and Mahajan JJ. in Hoshiar Singh v. The"
+  ]
+}

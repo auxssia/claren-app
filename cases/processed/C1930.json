@@ -1,0 +1,64 @@
+{
+  "case_id": "C1930",
+  "case_name": "State of Maharashtra v Keshav Ramchandra Pangare and Another",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [
+    "Shah, J."
+  ],
+  "bench": [],
+  "petitioner": "State of Maharashtra",
+  "respondent": "Keshav Ramchandra Pangare and Another\nSupreme Court of India\n\n1 November 1999\nAppeal (Cr.) 1169 of 1999\nThe Judgment was delivered by: Shah, J.\nLeave granted.\n1.  Respondent No. 1 was serving as Deputy Engineer, P.W.D. in the State of Maharashtra. On 13 October 1990, a charge sheet No. 247 of 1990 was filed against the respondent and several other officers of the Department before the Special Court, Satara, and the case was numbered as Special Case No. 5 of 1990. Respondent retired on 31 December 1987 as Deputy Engineer. Necessary sanction for prosecuting the respondent for the offences punishable under sections 120-B,406,420,465,466,467,468,471,477 and 109of the I.P.C. and S. 5(1)(c)(d) read with S. 5(2) of the Prevention of Corruption Act, 1947 was obtained. The judge of the special court took cognizance of the offences and issued process against the respondent.\n2.  Thereafter the respondent filed Criminal Writ Petition No. 484 of 1991 before the High Court of",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "309"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "1 November 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "Respondent No. 1 was serving as Deputy Engineer, P.W.D. in the State of Maharashtra.",
+    "On 13 October 1990, a charge sheet No. 247 of 1990 was filed against the respondent and several other officers of the Department before the Special Court, Satara, and the case was numbered as Special Case No. 5 of 1990.",
+    "Respondent retired on 31 December 1987 as Deputy Engineer.",
+    "Necessary sanction for prosecuting the respondent for the offences punishable under sections 120-B,406,420,465,466,467,468,471,477 and 109 of the I.P.C. and S. 5(1)(c)(d) read with S. 5(2) of the Prevention of Corruption Act, 1947 was obtained.",
+    "The judge of the special court took cognizance of the offences and issued process against the respondent."
+  ],
+  "issues": [
+    "Whether Rule 27 of the Pension Rules can be invoked to bar prosecution",
+    "Whether the period of limitation prescribed under S. 468 Cr. P.C. is applicable in this case"
+  ],
+  "petitioner_arguments": [
+    "The contention raised by the learned counsel for the appellant requires consideration.",
+    "S. 4 of the Code specifically provides that all offences under the Indian Penal Code shall be investigated, inquired into, tried and otherwise dealt with according to the provisions contained therein.",
+    "Admittedly, against Respondent no. 1 charge-sheet is filed for the offences punishable under the Indian Penal Code and Prevention of Corruption Act and he is to be tried as per the procedure prescribed under the Cr. P.C."
+  ],
+  "respondent_arguments": [
+    "The High Court accepted the plea and held that Rule 27 of the Pension Rules was directly applicable and it is mandatory that prosecution should be launched within four years from the date of commission of offence.",
+    "Hence, the court allowed the writ petition and quashed the proceedings in Special Case No. 5 of 1990 against the respondent."
+  ],
+  "court_reasoning": [
+    "The period of three years is provided for an offence punishable with imprisonment for a term exceeding one year but not exceeding three years.",
+    "If the offence is punishable with imprisonment for a term exceeding three years then there is no period of limitation prescribed under the Criminal Procedure Code.",
+    "Sub-s. (3) of S. 470 excludes the time required for obtaining sanction where the previous sanction of the Government or any other authority is required for the institution of any prosecution for an offence."
+  ],
+  "holding": [
+    "The court allowed the appeal and held that Rule 27 of the Pension Rules cannot be invoked to bar prosecution.",
+    "The period of limitation prescribed under S. 468 Cr. P.C. is not applicable in this case."
+  ],
+  "cases_cited": [
+    "Judge of the Bombay High Court in Prabhakar Govind Sawant v. State of Maharashtra",
+    "State of Maharashtra v Keshav Ramchandra Pangare",
+    "contention was dealt with by this Court in State of Punjab v. Kailash Nath"
+  ]
+}

@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { Github } from "lucide-react";
 
 export function Footer() {
   return (
@@ -10,17 +9,14 @@ export function Footer() {
             Claren
           </Link>
           <span className="hidden sm:inline text-border/50">/</span>
-          <a
-            href="https://github.com/auxssia"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:text-foreground transition-colors flex items-center gap-1.5"
-          >
-            <Github className="h-3.5 w-3.5" />
-            GitHub
-          </a>
-          <Link href="/pricing" className="hover:text-foreground transition-colors">
-            Open Source
+          <Link href="/atlas" className="hover:text-foreground transition-colors">
+            Litigate Engine
+          </Link>
+          <Link href="/philosophy" className="hover:text-foreground transition-colors">
+            Philosophy
+          </Link>
+          <Link href="/blog" className="hover:text-foreground transition-colors">
+            Build Log
           </Link>
           <a
             href="https://wa.me/917032659891"
@@ -32,7 +28,7 @@ export function Footer() {
           </a>
         </div>
         <p className="text-xs text-muted/60">
-          &copy; {new Date().getFullYear()} Claren. Open source.
+          &copy; {new Date().getFullYear()} Claren.
         </p>
       </div>
     </footer>

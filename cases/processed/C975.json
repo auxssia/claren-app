@@ -1,0 +1,69 @@
+{
+  "case_id": "C975",
+  "case_name": "State of Punjab v Phola Singh and Another",
+  "court": "Supreme Court of India",
+  "year": 2003,
+  "judges": [
+    "Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "State of Punjab",
+  "respondent": "Phola Singh and Another\nSupreme Court of India\n\n22 September 2003\nAppeal (Crl.) 907 of 1996\nThe Judgment was delivered by : Arijit Pasayat, J.\n1.  Questioning correctness of judgment directing acquittal of the respondents as passed by the Punjab and Haryana High Court, the State of Punjab has filed this appeal. Respondents were charged for commission of offence punishable under Section 302 read with Section 34 of the India Penal Code, 1860 (in short the 'IPC'). Originally, there were four accused persons. The learned Sessions Judge, Bathinda vide his judgment dated 29.9.1994 held that the present two respondents Phola Singh and Balkaur Singh were guilty of offences punishable under Section 302 read with Section 34 IPC and were sentenced for imprisonment for life and to pay a fine of Rs. 2,000 each with default stipulation. Other two accused i.e. Raja Singh and Goga Singh were given the benefit of doubt. While the convicted accused questioned the legality of their conv",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Read With Section 34 Of The India Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "22 September 2003",
+  "outcome": "Unknown",
+  "facts": [
+    "Mandip Singh suffered homicidal death on June 11, 1991.",
+    "The incident took place at about 5:30 a.m. on the aforesaid date.",
+    "Gurmail Singh (PW2) and Pal Singh (PW3) raised alarm when they saw the two accused-respondents and acquitted accused Goga Singh armed with a 'Ghop' near deceased, Accused-Pohla Singh then shouted to teach lesson to deceased for having developed illicit relations with Amar Kaur who is sister of accused- Pohla Singh.",
+    "Deceased succumbed to his injuries at the spot itself.",
+    "Gurmail Singh (PW2) initially proceeded to the village in order to inform his brother Baldev Singh. Thereafter, he proceeded towards police station.",
+    "On way, he happened to meet the police patrolling party at Jalal bus stand. His report was recorded at about 10:00 a.m. The said report was duly registered at the police station, Dialpura at 10:45 a.m.",
+    "The distance between the villages where the incident took place and the police station is 9 K.M. only."
+  ],
+  "issues": [
+    "[]"
+  ],
+  "petitioner_arguments": [
+    "There being no delay in lodging the FIR, considering the short span of time between the time of incident and lodging of the FIR, it cannot be said that the delay was so unusual as to attract any suspicion.",
+    "There was also no delay in sending report to the Magistrate.",
+    "The evidence of the witnesses have not been discussed and nothing has been pointed out to show how the evidence is tainted."
+  ],
+  "respondent_arguments": [
+    "The trial Court had erred in attaching undue importance to certain factors which have been rightly ignored by the High Court.",
+    "The relevant aspects have been taken note of by the High Court and it would be unfair to interfere with the order of acquittal considering the limited scope for interference with such an order."
+  ],
+  "court_reasoning": [
+    "There is no embargo on the appellate Court reviewing the evidence upon which an order of acquittal is based.",
+    "A miscarriage of justice which may arise from acquittal of the guilty is no less than from the conviction of an innocent.",
+    "The principle to be followed by appellate Court considering the appeal against the judgment of acquittal is to interfere only when there are compelling and substantial reasons for doing so."
+  ],
+  "holding": [
+    "The High Court accepted the stand of the accused. It was held that there was delay in lodging the FIR and additionally it was highly improbable that accused would choose a day time for committing the murder, if that was their intention.",
+    "The order of acquittal shall not be interfered with because the presumption of innocence of the accused is further strengthened by acquittal."
+  ],
+  "cases_cited": [
+    "Bench of this Court endeavoured to dispel in 'Rameshwar v. State of Rajasthan'",
+    "Jaswant Singh v. State of Haryana",
+    "Ramesh Babulal Doshi v. State of Gujarat",
+    "State of Punjab v Phola Singh",
+    "and State of Punjab v. Karnail Singh",
+    "committed any offence or not. (See Bhagwan Singh and Ors. v. State of Madhya Pradesh",
+    "course of justice, as was observed by Lord Denning in Miller v. Minister of Pension",
+    "highlighted by this Court in Shivaji Sahabrao Bobade and Anr. v. State of Maharashtra",
+    "repelled by this Court as early as in Dalip Singh and Ors. v. The"
+  ]
+}

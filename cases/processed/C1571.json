@@ -1,0 +1,60 @@
+{
+  "case_id": "C1571",
+  "case_name": "Sukhbir Singh v Kirtan Singh and others",
+  "court": "Supreme Court of India",
+  "year": 2004,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Sukhbir Singh",
+  "respondent": "Kirtan Singh",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "section": "34"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "307"
+    },
+    {
+      "section": "324"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "20 July 2004",
+  "outcome": "Unknown",
+  "facts": [
+    "Three accused persons were tried by the Sessions Judge, Ghaziabad alleging that they caused the death of one Ran Veer Singh and caused injury to his brother Sukh Veer Singh.",
+    "There was another accused also in the company of these accused persons and as he was a juvenile he was tried separately by the Juvenile Court.",
+    "All the three accused persons - Lakshman Singh, Kirtan Singh and Surendra alias Bablu were convicted by the Sessions Court for the offence under Section 302 read with Section 34 IPC.",
+    "There was a dispute between the parties and it was alleged that the deceased had lowered the ground level of his field and the accused persons were annoyed by this conduct of the deceased.",
+    "According to the prosecution, all the accused came armed with weapons and attacked deceased Ran Veer and PW 2 Sukh Veer."
+  ],
+  "issues": [
+    "Whether the prosecution was successful in proving that there was any common intention on the part of all the accused",
+    "Whether the accused could be made liable only for their individual acts"
+  ],
+  "petitioner_arguments": [
+    "Reference of the cases of this Court in Raju Ram v. State of Bihar 2001 Indlaw SC 21415, Joginder Singh v. State of Haryana 1992 Indlaw SC 133, State of U.P. v. Iftikhar Khan 1973 Indlaw SC 506, State of U.P. v. Harban Sahai1998 Indlaw SC 692 and Nathuni Yadav v. State of Bihar 1996 Indlaw SC 1562."
+  ],
+  "respondent_arguments": [
+    "The High Court considered that question in detail and held that in the background of the facts proved in the case, it was difficult to hold that all the accused shared common intention to cause the death of Ran Veer"
+  ],
+  "court_reasoning": [
+    "To convict a person for offence applying Section 34 IPC, it is necessary to establish that the criminal act was done in concert, pursuant to a pre-arranged plan",
+    "Courts, in most cases, have to infer the intention from the act or the actual conduct of a particular person or from the other relevant circumstances of the case"
+  ],
+  "holding": [
+    "The appeal fails and the same is dismissed."
+  ],
+  "cases_cited": [
+    "Sukhbir Singh v Kirtan Singh"
+  ]
+}

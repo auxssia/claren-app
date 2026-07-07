@@ -1,0 +1,58 @@
+{
+  "case_id": "C839",
+  "case_name": "Ranjit Singh v State of Haryana",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Ranjit Singh",
+  "respondent": "State of Haryana\nSupreme Court of India\n\n11 September 2008\nCriminal Appeal No. 1458 of 2008 (Arising out of SLP (Crl.) No. 349 of 2008)\nThe Judgment was delivered by : Arijit Pasayat, J.\nLeave granted.\n1.   The only point urged in support of the appeal was that the appellant was a juvenile at the time of commission of the offence and, therefore, the provisions of the Juvenile Justice (Care and Protection of Children) Act, 2000 (in short \"the Act\") had application to the facts of this case.\n2.   It is not necessary to go into the factual aspects in detail in view of the limited controversy raised. The appellant along with three co-accused persons faced trial for alleged commission of offences punishable under Sections 452/302 and 323 read with Section 34 of the Indian Penal Code, 1860 (in short 'IPC') for the murder of one Wazir Singh (hereinafter referred to as 'deceased') on 1.8.1993.\n3.  Learned Additional Sessions Judge, Rohtak, Haryana, convicted accused Ranjit Singh",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "34"
+    },
+    {
+      "act": "The Act",
+      "section": "20"
+    },
+    {
+      "act": "Provides Is That The Proceedings Shall Continue As If The Act",
+      "section": "20"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "11 September 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant along with three co-accused persons faced trial for alleged commission of offences punishable under Sections 452/302 and 323 read with Section 34 of the Indian Penal Code, 1860 (in short 'IPC') for the murder of one Wazir Singh (hereinafter referred to as 'deceased') on 1.8.1993.",
+    "All the accused persons, namely, Ranjit Singh, Jai Singh and Sher Singh filed appeal before the High Court being Criminal Appeal No.682-DB of 1997.",
+    "During the pendency of the appeal before the High Court, accused Jai Singh died.",
+    "The Trial Court and the High Court noted the submissions made by the appellant as regards his contention that he is a juvenile."
+  ],
+  "issues": [
+    "Whether the provisions of the Juvenile Justice (Care and Protection of Children) Act, 2000 had application to the facts of this case."
+  ],
+  "petitioner_arguments": [
+    "The present appellant took the stand that he being a juvenile in terms of the Act, the trial should be held as provided under the Act and in any event, the Juvenile Justice Act, 1986 (in short \"1986 Act\") had application.",
+    "Though material was placed before the Trial Court and the High Court to show that the accused appellant was a juvenile, that aspect was not substantially dealt with by the Trial Court and the High Court."
+  ],
+  "respondent_arguments": [
+    "Even, according to the case of the accused-appellant, he was about 17 years of age at the time of occurrence and, therefore, 1986 Act had no application to him.",
+    "Admittedly, the age of the accused-appellant was more than 16 years at the time of occurrence."
+  ],
+  "court_reasoning": [
+    "Section 20 of the Act does not in any way help the appellant. It deals with cases where proceedings related to a period when 1986 Act was in force.",
+    "What Section 20 provides is that the proceedings shall continue as if the Act (i.e. Act of 2000) is not in existence.",
+    "The determination of juvenility of such a juvenile shall be in terms of clause (1) of Section 2, even if the juvenile ceases to be so on or before the date of commencement of this Act and the provisions of this Act shall apply as if the said provisions had been in force, for all purposes and at all material times when the alleged offence was committed."
+  ],
+  "holding": [
+    "Appeal is without merit and is dismissed."
+  ],
+  "cases_cited": []
+}

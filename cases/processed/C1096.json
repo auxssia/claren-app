@@ -1,0 +1,128 @@
+{
+  "case_id": "C1096",
+  "case_name": "State Of U.P. v Kishanpal & Ors.",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "P. Sathasivam, J."
+  ],
+  "bench": [],
+  "petitioner": "State Of U.P",
+  "respondent": "Kishanpal &",
+  "citations": [
+    "1974 3 SCC 277",
+    "1981 2 SCC 752",
+    "1998 4 SCC 145",
+    "1999 3 SCC 97",
+    "2002 3 SCC 76",
+    "2002 4 SCC 85",
+    "2002 6 SCC 686",
+    "2002 6 SCC 81",
+    "2003 1 SCC 425",
+    "2003 11 SCC 681",
+    "2003 5 SCC 537",
+    "2004 10 SCC 682",
+    "2004 5 SCC 679",
+    "2005 11 SCC 142",
+    "2005 9 SCC 788",
+    "2007 1 SCC 699",
+    "2007 8 SCC 578",
+    "AIR 1952 SC 54",
+    "AIR 1953 SC 364",
+    "AIR 1958 SC 465",
+    "AIR 1965 SC 202",
+    "AIR 2008 SC 505",
+    "AIR 2008 SC 533"
+  ],
+  "statutes": [
+    {
+      "section": "120"
+    },
+    {
+      "section": "148"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "307"
+    },
+    {
+      "section": "235"
+    },
+    {
+      "section": "161"
+    },
+    {
+      "section": "149"
+    },
+    {
+      "section": "1"
+    },
+    {
+      "section": "392"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "304"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "8 August 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "On 21.6.1978 at 3:30 p.m., the sixteen accused persons gathered at the door of Gyan Singh and made a criminal conspiracy for killing Kaptan Singh and Raj Mahesh as they were harassing them unnecessarily.",
+    "At about 4:00 P.M., Onkar Singh, Kishanpal Singh, Vijaipal Singh, Suresh Singh, Naresh Singh, Daulat Singh, Mahendra Singh @ Neksey Singh, Jaivir Singh, Sheodan Singh and Bahar Singh (Accused Nos. 1 to 10) reached at the place of occurrence with firearms.",
+    "The case was registered and the injured persons were sent for medical examination.",
+    "Dr. S. P. Dikshit, PW-11, examined the injured persons and prepared their injury reports.",
+    "Mr. K.P. Sharma, S.I., PW-12, took up the investigation and completed most of the investigation."
+  ],
+  "issues": [
+    "Whether the evidence of close relatives P.Ws.1,5,7, and 9 are acceptable and reliable in respect of all the respondents/accused",
+    "Whether the High Court is right in discarding their evidence in the light of the corroborative evidence of C.W.1 and medical evidence"
+  ],
+  "petitioner_arguments": [
+    "The plea 'interested witness' 'related witness' has been succinctly explained by this Court in State of Rajasthan vs. Smt. Kalki & Anr., (1981) 2 SCC 752 1981 Indlaw SC 296.",
+    "A witness may be called 'interested' only when he or she derives some benefit from the result of a litigation; in the decree in a civil case, or in seeing an accused person punished."
+  ],
+  "respondent_arguments": [
+    "The plea of defence that it would not be safe to accept the evidence of the eye witnesses who are the close relatives of the deceased, has not been accepted by this Court.",
+    "There is no such universal rule as to warrant rejection of the evidence of a witness merely because he/she was related to or interested in the parties to either side."
+  ],
+  "court_reasoning": [
+    "The High Court though relied on the eye-witnesses P.W.1 - Surajpal Singh, P.W.5 - Jagdish Singh, P.W.7 - Ranbir Singh, P.W.9 - Resham Devi (injured witness) and C.W.1 Ujagar Singh and other materials confirmed the conviction only in respect of Onkar Singh and acquitted other accused.",
+    "The main reason for acquitting the other accused is that even those related eye-witnesses did not speak about the specific overt act in respect of each accused in the commission of offence."
+  ],
+  "holding": [
+    "We have to consider (i) whether the evidence of close relatives P.Ws.1,5,7, and 9 are acceptable and reliable in respect of all the respondents/accused",
+    "The plea 'related' is not equivalent to 'interested'."
+  ],
+  "cases_cited": [
+    "Again in Masalti v. State of U",
+    "D. Sailu vs. State of A",
+    "Following the above principle, in Jaishree Yadav vs. State of U",
+    "Harijana Narayana & Ors. vs. State of A",
+    "In Bhagwan Singh and Others vs. State of M",
+    "In Kulesh Mondal vs. State of West Bengal",
+    "In Rachamreddi Chenna Reddy and Others vs. State of A",
+    "Kapildeo Mandal and Ors. vs. State of Bihar",
+    "Kariya vs. State of M",
+    "Lehna v. State of Haryana",
+    "Salim Sahab vs. State of M",
+    "State Of U.P. v Kishanpal &",
+    "The same principle has been stated in State of A.P. vs. Veddula Veera Reddy",
+    "To the same effect is the decision in State of Punjab v. Jagir Singh",
+    "Veeranam vs. State",
+    "been succinctly explained by this Court in State of Rajasthan vs. Smt",
+    "from appreciation of evidence. In State of Rajasthan vs. Smt",
+    "out whether it is cogent and credible. Vide State of A.P. vs. Veddula Veera Reddy &",
+    "so. These aspects were highlighted recently in Krishna Mochi v. State of Bihar",
+    "supra) and Sahdeo and Others vs. State of U",
+    "theory was repelled by this Court as early as in Dalip Singh v. State of Punjab",
+    "three sustained firearm injuries. In State of Rajasthan vs. Nathu"
+  ]
+}

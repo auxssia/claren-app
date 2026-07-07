@@ -1,0 +1,53 @@
+{
+  "case_id": "C829",
+  "case_name": "Madan Mohan Lal v State of Punjab",
+  "court": "Supreme Court of India",
+  "year": 1970,
+  "judges": [
+    "SHELAT"
+  ],
+  "bench": [],
+  "petitioner": "Madan Mohan Lal",
+  "respondent": "State of Punjab\nSupreme Court of India\n\n1 April 1970\nCr.A. No. 205 of 1969.\nThe Judgment was delivered by: SHELAT, J.\n1.  In July-August, 1963, the appellant, one Kamal Dev and Danesh Kumar, the two other original accused before the additional Sessions Judge, Ferozepur, were working in different capacities in the Treasury in Ferozepur Cantonment. The appellant was the dealing clerk and amongst his other duties he had to scrutinise and pass contingent pay bills of the Central Jail at Ferozepur presented at the Treasury.\n2.  On July 18, 1963 Roshanlal (P.W. 19), the accountant in the said jail, prepared a contingent bill (Ex. PB), for Rs. 8, 273.19. The drawing authority being the Superintended of the Jail, the bills as placed before the Superintendent, Teja Singh (P.W. 18), for his signatures. The bill required an endorsement in the nature of a certificate by him, but as similar bills had in the past been objected to by the Treasury on the ground that the certificates",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "342"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "1 April 1970",
+  "outcome": "Unknown",
+  "facts": [
+    "In July-August, 1963, the appellant, one Kamal Dev and Danesh Kumar, the two other original accused before the additional Sessions Judge, Ferozepur, were working in different capacities in the Treasury in Ferozepur Cantonment.",
+    "The bill required an endorsement in the nature of a certificate by Teja Singh, but as similar bills had in the past been objected to by the Treasury on the ground that the certificates therein were not properly worded.",
+    "Naunit Rai, therefore, handed over the bill to Darbara Singh and obtained a token in acknowledgment of his having handed over the bill in the Treasury.",
+    "According to the procedure followed in the jail, it would be the person receiving the money under the bill who would pass such receipt in the bill and affix his signatures thereto.",
+    "On July 20, 1963 Makhu Ram went to the Treasury to collect the bill in exchange for the token and cash it in the bank.",
+    "The Jail authorities sent Makhu Ram on several successive days but on each day he was told in the Treasury that the bill had not yet been found."
+  ],
+  "issues": [
+    "Whether the approver's evidence was reliable",
+    "Whether the Trial Judge erred in disallowing a question to bring out an omission in the police statement"
+  ],
+  "petitioner_arguments": [
+    "The Trial Judge was in error in disallowing the omission to be brought on record, which if allowed, would have rendered the approver's evidence unreliable."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Taking all the facts and circumstances of the case proved before the Trial Court, we think that despite the said omission, the approver's version was credible.",
+    "There is sufficient material on record, by way of circumstantial evidence, to justify the conviction of the appellant."
+  ],
+  "holding": [
+    "The appeal must be dismissed and we accordingly order it to be so dismissed.",
+    "The appellant was rightly convicted and we find no reason, therefore, to interfere with the order of conviction and sentence passed against him."
+  ],
+  "cases_cited": [
+    "question presumably relying on the decision in Tahsildar Sigh v. State of Uttar Pradesh"
+  ]
+}

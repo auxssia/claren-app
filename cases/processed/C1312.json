@@ -1,0 +1,83 @@
+{
+  "case_id": "C1312",
+  "case_name": "State Of Himachal Pradesh & Anr. v M/S Himachal Techno Engineers & Anr.",
+  "court": "Supreme Court of India",
+  "year": 2010,
+  "judges": [
+    "R. V. Raveendran, J."
+  ],
+  "bench": [],
+  "petitioner": "State Of Himachal Pradesh & Anr",
+  "respondent": "M/S Himachal Techno Engineers &",
+  "citations": [
+    "2001 7 SCC 197"
+  ],
+  "statutes": [
+    {
+      "act": "Arbitration And Conciliation Act",
+      "section": "34"
+    },
+    {
+      "act": "The Act",
+      "section": "34"
+    },
+    {
+      "act": "Limitation Act",
+      "section": "5"
+    },
+    {
+      "act": "The Act",
+      "section": "31"
+    },
+    {
+      "act": "Limitation Act",
+      "section": "12"
+    },
+    {
+      "act": "Act Is Not Excluded By The Provisions Of The Act",
+      "section": "34"
+    },
+    {
+      "act": "General Clauses Act",
+      "section": "9"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "26 July 2010",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant (State of Himachal Pradesh represented by the Executive Engineer, I & PH Division, Hamirpur) entered into a contract with the respondent on 15.7.2002, for the construction of a water purification plant.",
+    "The respondent raised a dispute in regard to the payment for extra work, which was referred to arbitration.",
+    "The arbitrator made an award dated 5.11.2007 in favour of the respondent and sent it to the parties by speed post.",
+    "The postal cover containing the award was received by a peon/beldar in the office of the Executive Engineer on 10.11.2007 (a government holiday).",
+    "11th November, 2007 being a Sunday was also a holiday.",
+    "It was received by the Executive Engineer on 12.11.2007.",
+    "A petition under section 34 of the Arbitration and Conciliation Act, 1996 ('the Act' for short) was filed by the appellant on 11.3.2008, challenging the arbitral award.",
+    "The petition was accompanied by an application under sub-section (3) of section 34 of the Act, for condonation of delay of 28 days in filing the petition."
+  ],
+  "issues": [
+    "What is the date of commencement of limitation?",
+    "Whether the period of three months can be counted as 90 days?",
+    "Whether only three months plus twenty eight days had expired when the petition was filed as contended by the appellant, or whether petition was filed beyond three months plus thirty days, as contended by the respondent?"
+  ],
+  "petitioner_arguments": [
+    "There is no dispute that if the petition had been filed within a period of three months plus thirty days, the delay has to be condoned as sufficient cause was shown by the appellant for condonation of the delay."
+  ],
+  "respondent_arguments": [
+    "The High Court has accepted the contention of the respondent that the period of three months plus thirty days expired on 10.3.2008 and therefore the petition filed on 11.3.2008 was barred."
+  ],
+  "court_reasoning": [
+    "When the award is delivered or deposited or left in the office of a party on a non working day, the date of such physical delivery is not the date of 'receipt' of the award by that party.",
+    "The fact that the beldar or a watchman was present on a holiday or non-working day and had received the copy of the award cannot be considered as 'receipt of the award' by the party concerned, for the purposes of section 31(5) of the Act."
+  ],
+  "holding": [
+    "We hold that the date of delivery of the award on a holiday (10.11.2007) could not be construed as 'receipt' of the award by the appellant.",
+    "The date of receipt therefore should be taken as 12.11.2007 and not 10.11.2007."
+  ],
+  "cases_cited": [
+    "In Union of India v. Tecco Trichy Engineers & Contractors",
+    "State Of Himachal Pradesh & Anr. v M/S Himachal Techno Engineers &"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "case_id": "C1768",
+  "case_name": "Sukhar v State of Uttar Pradesh",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [
+    "G.B.Pattanaik"
+  ],
+  "bench": [],
+  "petitioner": "Sukhar",
+  "respondent": "State of Uttar Pradesh\nSupreme Court of India\n\n1 October 1999\nCr.A. No. 1985 of 1996\nThe Judgment was delivered by: G.B.Pattanaik, J.\n1. The appellant stood charged for the offence u/s. 307 IPC for causing injury to Nakkal on 17.4.78 at 7.30 a.m. near the Chak in village Tejalhera in the district of Mjuzaffarnagar. On the basis of materials available on record through the prosecution witnesses, the learned Additional Sessions Judge convicted him for the offence u/s. 307 and sentenced him to rigorous imprisonment of five years. On an appeal being carried, the High Court of Allahabad upheld the conviction and sentence of the appellant and dismissed the appeal. This Court having granted leave, the present appeal is before us. Prosecution case in nutshell is that Nakkal appeared at the police station on the date of occurrence at 9.40 a.m. and narrated the incident as to how he was injured by the accused. The police then treated the said statement as First Information Report and st",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "307"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "161"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "33"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    },
+    {
+      "section": "32"
+    },
+    {
+      "section": "6"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "1 October 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant stood charged for the offence u/s. 307 IPC for causing injury to Nakkal on 17.4.78 at 7.30 a.m.",
+    "On the basis of materials available on record through the prosecution witnesses, the learned Additional Sessions Judge convicted him for the offence u/s. 307 and sentenced him to rigorous imprisonment of five years.",
+    "The informant was then taken to the hospital for medical examination.",
+    "As per the FIR, the accused Sukhar is the nephew of Nakkal and had cultivated the land of Nakkal forcibly.",
+    "When Nakkal demanded batai, Sukhar abused Nakhal and refused to give any batai.",
+    "Thus, there was enmity between Nakkal and Sukhar.",
+    "On the fateful day during the morning hours, while Nakkal was going on the road, Sukhar caught hold of his back and fired a pistol shot towards him.",
+    "Nakkal raised an alarm on account of which Ram Kala and Pitam reached the scene of occurrence and at that point of time, Nakkal fell down and the accused made his escape."
+  ],
+  "issues": [
+    "Whether the evidence of PW 2 indicating what he heard from the injured can at all be held admissible u/s. 6 of the Evidence Act?",
+    "Whether the statement of the injured u/s. 161 of the Code of Criminal Procedure could not be held admissible in evidence u/s. 33 of the Evidence Act?"
+  ],
+  "petitioner_arguments": [
+    "The evidence of PW 2 cannot be held to be admissible u/s. 6 of the Evidence Act in as much as what the injured told the witness when the witness reached the scene of occurrence and the factum of alleged shooting by the accused at the injured cannot be said to have formed part of the same transaction.",
+    "The evidence should be admissible but the same cannot be held to be reliable and, therefore, on such unreliable testimony the conviction cannot be sustained for the charge u/s. 307 IPC."
+  ],
+  "respondent_arguments": [
+    "A plain reading of the evidence of PW 2 would clearly establish that the firing of shot by the appellant and rushing down of PW 2 to the scene of occurrence and the statement of the injured to said PW 2 must be held to be part of the same transaction and, therefore, the High Court was fully justified in coming to the conclusion that the evidence is admissible u/s. 6 of the Evidence Act as a part of res gestae.",
+    "Nothing has been elicited in the cross-examination of PW 2 to dub him unreliable and as such Courts below rightly relied upon his evidence."
+  ],
+  "court_reasoning": [
+    "The statements sought to be admitted, therefore, as forming part of res gestae, must have been made contemporaneously with the acts or immediately thereafter.",
+    "The rationale in making certain statement or fact admissible u/s. 6 of the Evidence Act is on account of the spontaneity and immediacy of such statement or fact in relation to the fact in issue."
+  ],
+  "holding": [
+    "The appeal of the accused/appellant was dismissed."
+  ],
+  "cases_cited": [
+    "In another recent judgment of this Court in Rattan Singh V. State of H",
+    "This Court in Gentela Vijayavardhan Rao and Another V. State of A"
+  ]
+}

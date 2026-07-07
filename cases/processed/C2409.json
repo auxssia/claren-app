@@ -1,0 +1,66 @@
+{
+  "case_id": "C2409",
+  "case_name": "State of Punjab v Sanjiv Kumar @ Sanju and Others",
+  "court": "Supreme Court of India",
+  "year": 2007,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "State of Punjab",
+  "respondent": "Sanjiv Kumar @ Sanju",
+  "citations": [
+    "AIR 1956 SC 731",
+    "AIR 1965 SC 202"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "324"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "14 June 2007",
+  "outcome": "Unknown",
+  "facts": [
+    "The accused persons had gone for a pleasure trip to Manali in the year 1994.",
+    "They had some joint photographs.",
+    "These photographs were in possession of accused Anil Kumar alias Babba.",
+    "There was some dispute regarding the delivery of these photographs.",
+    "On 16.6.1995, around 9/8.OO P.M., the accused persons, namely, Sanjiv Kumar alias Sanju, Satnam Singh alias Satta, Parminder Singh alias Khalsa, Ganga Dhar, Vishal Sharma, Gurpreet Singh Bedi, Sanjiv Kumar and Anil Kumar alias Babba and Amit Kumar assembled near the S.T.D. booth of Satnam Singh alias Satta in the area of Krishna Nagar, Hoshiarpur, Harbans Lal questioned as to what was the problem in returning the photographs.",
+    "Due to that an altercation took place in Gali No. 14, Kamlapur and as a result of that Sanjiv Kumar alias Sanju and Satnam Singh alias Satta raised a lalkara that Harbans Lal and his companions should be caught hold of and the matter should be finished once for all.",
+    "Anil Kumar alias Babba gave a Kirpan blow on the flank of Harbans Lal and Vishal Sharma gave a Kirpan blow on the chest of Rakesh Kumar alias Gori.",
+    "Both of them fell down on the ground.",
+    "Rajinder Kumar PW.5 and Raj Kumar alias Raju PW.6 raised an alarm.",
+    "Still Ganga Dhar gave two Kirpan blows on the left side of the forehead and right thigh of Rajinder Kumar; Gurpreet Singh Bedi gave a hockey blow on the left side of the ear of Rajinder Kumar.",
+    "Parminder Singh alias Khalsa and the owner of Judge S.T.D. and others boys surrounded them and then Raju and Rajinder Kumar raised alarm again.",
+    "Injured Harbans Lal succumbed to the injuries at the spot and Rakesh Kumar in the hospital, the same day.",
+    "On the basis of information lodged, investigation was undertaken and on completion thereof charge-sheet was filed."
+  ],
+  "issues": [
+    "The applicability of Section 149 IPC",
+    "What constitutes a common object",
+    "When is an assembly considered unlawful"
+  ],
+  "petitioner_arguments": [
+    "The presence of acquitted respondents has been accepted both by the Trial Court and the High Court.",
+    "Their conviction under Section 149 was clearly in order and the High Court should not have interfered with the same."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The emphasis is on the common object and not on common intention.",
+    "Mere presence in an unlawful assembly cannot render a person liable unless there was a common object and he was actuated by that common object.",
+    "The crucial question to determine is whether the assembly consisted of five or more persons and whether the said persons entertained one or more of the common objects, as specified in Section 141.",
+    "Common object is different from a common intention as it does not require a prior concert and a common meeting of minds before the attack.",
+    "It is enough if each has the same object in view and their number is five or more and that they act as an assembly to achieve that object."
+  ],
+  "holding": [
+    "The High Court's direction for acquittal of the respondents was set aside, and their conviction under Section 149 IPC was upheld."
+  ],
+  "cases_cited": [
+    "Judge s Bench of this Court in Masalti and Ors. v. State of U",
+    "To similar effect is the observation in Lalji v. State of U"
+  ]
+}

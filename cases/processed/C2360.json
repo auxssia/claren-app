@@ -1,0 +1,50 @@
+{
+  "case_id": "C2360",
+  "case_name": "Technical Employees' Association of Railways and another v Ministry of Railways and others",
+  "court": "Supreme Court of India",
+  "year": 2000,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Technical Employees' Association of Railways and another",
+  "respondent": "Ministry of Railways",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "31 March 2000",
+  "outcome": "Unknown",
+  "facts": [
+    "The Technical Employees' Association of Railways through its President is the petitioner here assailing the validity of circular dated 28-9-1998 issued by the Railway Board.",
+    "Employees of the Railways are from different parts of the country. The circular in question which is being assailed provides that for promotion from the post of Khalasi the higher qualification of matriculation and ITI pass should be achieved.",
+    "Khalasi who are already in service, did not possess the aforesaid qualification and if such a circular is allowed to operate, there will be stagnation",
+    "The impugned circular be quashed being hit by Arts. 14 and 16 of the Constitution of India."
+  ],
+  "issues": [
+    "Whether prescribing higher qualification for the purpose of promotion is permissible under law"
+  ],
+  "petitioner_arguments": [
+    "Khalasi who are already in service, did not possess the aforesaid qualification and if such a circular is allowed to operate, there will be stagnation",
+    "The impugned circular be quashed being hit by Arts. 14 and 16 of the Constitution of India"
+  ],
+  "respondent_arguments": [
+    "It would be open for the employer to prescribe qualifications both for direct recruitment as well as for promotion",
+    "Prescribing such qualifications cannot be held to be arbitrary or irrational"
+  ],
+  "court_reasoning": [
+    "For maintaining efficiency of service, the higher qualification is required for discharge of the duties in the higher positions",
+    "The Board has issued circular in consonance with the recommendation of the Pay Commission"
+  ],
+  "holding": [
+    "The writ petition is accordingly dismissed."
+  ],
+  "cases_cited": [
+    "As early as in the case of Union of India v. S.B",
+    "Technical Employees' Association of Railways and another v Ministry of Railways",
+    "and the decision of this Court in T.R. Kothandaraman v. T.N"
+  ]
+}

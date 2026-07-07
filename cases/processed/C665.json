@@ -1,0 +1,40 @@
+{
+  "case_id": "C665",
+  "case_name": "Sanjay and Anr v State of Maharashtra",
+  "court": "Supreme Court of India",
+  "year": 2001,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Sanjay and Anr",
+  "respondent": "State of Maharashtra\nSupreme Court of India\n\n29 October 2001\nPetition(s) for Special Leave to Appeal (Cr.) No. 3478/2001\nThe Order of the Court was as follows:\nLeave granted.\n1.  Conviction is under Sections 304B, 306 and 498A of the Indian Penal Code, 1860 and appellants have been sentenced to rigorous imprisonment for a maximum period of seven years.\n2.  They filed the appeal before the High Court. The appeal is pending but their application for suspension of sentence has been dismissed. In view of the decision of this Court in Bhagwan Rama Shinde Gosai",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "29 October 2001",
+  "outcome": "Unknown",
+  "facts": [
+    "Petition(s) for Special Leave to Appeal (Cr.) No. 3478/2001",
+    "The appellants have been sentenced to rigorous imprisonment for a maximum period of seven years.",
+    "Their application for suspension of sentence has been dismissed."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "In view of the decision of this Court in Bhagwan Rama Shinde Gosai and others vs. State of Gujarat, the normal course to be adopted in such cases is to suspend the sentence if it is not possible for the High Court to hear the appeal and dispose it of.",
+    "No particular reason is given why a special treatment should be adopted in the case of the appellants as for getting the sentence suspended."
+  ],
+  "holding": [
+    "Leave granted.",
+    "The sentence passed on the appellants by the trial court will stand suspended on each of the appellants executing a bond for such amount as the trial judge may fix with two solvent sureties to the satisfaction of the trial judge."
+  ],
+  "cases_cited": [
+    "of this Court in Bhagwan Rama Shinde Gosai and others vs. State of Gujarat"
+  ]
+}

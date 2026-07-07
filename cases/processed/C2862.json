@@ -1,0 +1,64 @@
+{
+  "case_id": "C2862",
+  "case_name": "Ramesh and others v State of Tamil Nadu",
+  "court": "Supreme Court of India",
+  "year": 2005,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Ramesh and others",
+  "respondent": "State of Tamil Nadu\nSupreme Court of India\n\n3 March 2005\nAppeal (Crl.) 372 of 2005\nThe Order of the Court was as follows :\nLeave granted.\n1.  The two appeals filed by five accused (three in one case and two in another) arise out of two identical orders passed by the Madras High Court on 7.8.2003 and 21.8.2003 dismissing the petitions filed by them under Section 482 of the Criminal Procedure Code (Cr.P.C.', for short) by which a prayer was made to quash the chargre-sheet and the consequential proceedings in C.C. No. 72/2002 on the file of the Judicial Magistrate III, Tiruchirapalli ('Trichy' for short), Tamil Nadu Sate. The wife of the 1st appellant in the appeal arising out of SLP(Crl.) No. 5735/2003, filed a complaint on 23.6.1999 with the All Women Police Station, Trichy alleging the commission of offences under Sections 498-A and 406 of the Indian Penal Code and Sections 3 and 4 of the Dowry Prohibition Act. Allegations were made in the said complaint against the",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Criminal Procedure Code",
+      "section": "482"
+    },
+    {
+      "act": "Dowry Prohibition Act",
+      "section": "4"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "3 March 2005",
+  "outcome": "Unknown",
+  "facts": [
+    "The two appeals filed by five accused (three in one case and two in another) arise out of two identical orders passed by the Madras High Court on 7.8.2003 and 21.8.2003 dismissing the petitions filed by them under Section 482 of the Criminal Procedure Code (Cr.P.C.), for short, by which a prayer was made to quash the charge-sheet and the consequential proceedings in C.C. No. 72/2002 on the file of the Judicial Magistrate III, Tiruchirapalli ('Trichy' for short), Tamil Nadu State.",
+    "The wife of the 1st appellant in the appeal arising out of SLP(Crl.) No. 5735/2003, filed a complaint on 23.6.1999 with the All Women Police Station, Trichy alleging the commission of offences under Sections 498-A and 406 of the Indian Penal Code and Sections 3 and 4 of the Dowry Prohibition Act.",
+    "After registration of the F.I.R. and investigation, the charge-sheet was filed by the Inspector of Police, All Women Police Station, Trichy on 28.12.2001 in the Court of the Judicial Magistrate-III, Trichy.",
+    "The appellants then filed Criminal Writ Petition No. 593/2002 in the Bombay High Court for quashing the F.I.R. or in the alternative to transfer the F.I.R. to Mumbai.",
+    "The proceedings were stayed by the High Court. On 2.6.2003, the writ petition was dismissed as withdrawn while giving liberty to approach the High Court of Madras at Chennai for appropriate relief.",
+    "Thereafter, the appellants filed the petition under Section 482 Cr.P.C. before the Madras High Court for quashing the proceedings in C.C. No. 72/2002 on the file of the Judicial Magistrate-III, Trichy."
+  ],
+  "issues": [
+    "What are the grounds raised by the petitioners?",
+    "Is the taking of cognizance by the learned Magistrate barred under Section 468(1) Cr.P.C. as it was beyond the period of limitation prescribed under Section 468(2)?",
+    "Does the territorial jurisdiction of the Court at Trichy extend to the alleged acts of cruelty committed outside its jurisdiction?"
+  ],
+  "petitioner_arguments": [
+    "The allegations are frivolous and without any basis.",
+    "No incriminating acts were done within the jurisdiction of Trichy Police Station and the Court at Trichy, therefore, the learned Magistrate lacked territorial jurisdiction to take cognizance of the offence.",
+    "Taking cognizance of the alleged offences at this stage is barred under Section 468(1) Cr.P.C. as it was beyond the period of limitation prescribed under Section 468(2)."
+  ],
+  "respondent_arguments": [
+    "The complaint was lodged on 23.6.1999, that is to say, much before the expiry of the period of limitation and the F.I.R. was registered by the All Women Police Station, Tiruchirapalli on that day.",
+    "A copy of the F.I.R. was sent to the Magistrate's Court on the next day, i.e., on 24.6.1999.",
+    "The process of investigation and filling of charge-sheet took its own time.",
+    "The process of taking cognizance was consequentially delayed."
+  ],
+  "court_reasoning": [
+    "The bald allegations made against her sister-in-law seem to suggest the anxiety of the informant to rope in as many of the husband's relations as possible.",
+    "Neither the F.I.R. nor the charge-sheet furnished the legal basis to the Magistrate to take cognizance of the offences alleged against the appellant Gowri Ramaswamy.",
+    "The last act of cruelty would be the starting point of limitation.",
+    "The interest of justice demands that the court should protect the oppressed and punish the oppressor/offender."
+  ],
+  "holding": [
+    "The proceedings against the appellant Gowri Ramaswamy are hereby quashed and her appeal stands allowed.",
+    "The order of the Magistrate taking cognizance is hereby set aside and the matter is remitted to the trial court for considering the question of limitation under Section 473 Cr.P.C."
+  ],
+  "cases_cited": [
+    "As pointed out by this Court in Arun Vyas v. Anita Vyas",
+    "a recent decision of this Court in Y. Abraham Ajit and Ors. v. Inspector of Police Chennai"
+  ]
+}

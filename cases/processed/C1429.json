@@ -1,0 +1,75 @@
+{
+  "case_id": "C1429",
+  "case_name": "Sukhdev v State of Punjab",
+  "court": "Supreme Court of India",
+  "year": 2007,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Sukhdev",
+  "respondent": "State of Punjab\nSupreme Court of India\n\n21 June 2007\nAppeal (crl.) 101 of 2002\nThe Judgment was delivered by : Dr. Arijit Pasayat, J.\n1.  Challenge in this appeal is to the judgment of a Division Bench of the Punjab and Haryana High Court dismissing the appeal filed by the appellant and upholding the conviction as recorded by learned Sessions Judge, Patiala. Accused was found guilty of offences punishable under Sections 302, 326 and 324 of the Indian Penal Code, 1860 (in short the 'IPC') and sentences of life imprisonment and two years and 1 year respectively for the aforesaid offences with default stipulations were imposed.\nBackground facts in a nutshell are as follows:\n2. Paramjit Singh, (P.W.3), President of village Sarala Kalan, was working at a petrol pump at Ghanaur. At about 9.30 P.M. on November 3, 1994, he heard a Raula that the heap of chaff of Amar Nath of Village Sarala Kalan had caught fire. Hearing this, he, his brother Kishan Singh (hereinafter referred to as t",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "326"
+    },
+    {
+      "section": "324"
+    },
+    {
+      "section": "300"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "21 June 2007",
+  "outcome": "Unknown",
+  "facts": [
+    "The background facts in a nutshell are as follows:",
+    "At about 9.30 P.M. on November 3, 1994, he heard a Raula that the heap of chaff of Amar Nath of Village Sarala Kalan had caught fire.",
+    "Sukhdev then ran inside his house situated closeby and brought a knife and caused blows with it to Kishan Singh.",
+    "Paramjit Singh tried to lift Kishan Singh, who was lying in the pool of blood but Sukhdev also gave him a knife blow.",
+    "The injured were there after removed to Rajendra Hospital, Patiala but shortly before they reached there, Kishan Singh succumbed to his injuries.",
+    "A message was sent from the hospital to the police station at about 1.20 A.M. on November 4, 1994, on which SI Gobinder Singh (P.W.6) reached the hospital and on inquiry was told by the doctor that Satpal was not fit to make a statement whereas Paramjit Singh was fit to do so.",
+    "Paramjit Singh's statement, (Ex.P.K.) was accordingly recorded at about 5 A.M. and on its basis, the formal F.I.R. was registered at Police Station, Ghanaur at 6.30 A.M.",
+    "The post mortem was conducted at 12.15 P.M. on November 4, 1994 after the police papers had been received by the doctor 15 minutes earlier."
+  ],
+  "issues": [
+    "What is the legal significance of the exception to Section 300 IPC?",
+    "Can the accused be convicted under Section 302 IPC?"
+  ],
+  "petitioner_arguments": [
+    "The trial court and the High Court should not have placed reliance on the interested version of PWs. 3 & 4.",
+    "The evidence of Sharda Devi (DW-1) was clear and cogent and completely ruled out acceptability of prosecution version.",
+    "Even accepting the prosecution version, the injuries were inflicted in course of sudden quarrel and, therefore, Section 302 has no application."
+  ],
+  "respondent_arguments": [
+    "The trial court and the High Court found the evidence of the injured eye witnesses to be credible.",
+    "The testimony of an injured witness has significant relevance.",
+    "If she had been injured in the incident, it was not explained as to why she did not report the matter to the police immediately and the medical examination was done after about two days."
+  ],
+  "court_reasoning": [
+    "The Fourth Exception of Section 300, IPC covers acts done in a sudden fight.",
+    "There is provocation in Exception 4 as in Exception 1; but the injury done is not the direct consequence of that provocation.",
+    "A 'sudden fight' implies mutual provocation and blows on each side.",
+    "It may be that one of them starts it, but if the other had not aggravated it by his own conduct it would not have taken the serious turn it did."
+  ],
+  "holding": [
+    "The appeal is sans merit and is dismissed.",
+    "The accused shall surrender to custody to serve remainder of sentence.",
+    "The appellant has been rightly convicted under Section 302 IPC."
+  ],
+  "cases_cited": [
+    "Prakash Chand v. State of H",
+    "Sandhya Jadhav v. State of Maharashtra",
+    "and Lachman Singh v. State of Haryana"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "case_id": "C1849",
+  "case_name": "Balu @ Bala Subramaniam and another v State (U.T. of Pondicherry)",
+  "court": "Supreme Court of India",
+  "year": 2015,
+  "judges": [
+    "R. Banumathi"
+  ],
+  "bench": [],
+  "petitioner": "Balu @ Bala Subramaniam and another",
+  "respondent": "State (U.T. of Pondicherry)\nSupreme Court of India\n\n16 October 2015\nCriminal Appeal No. 502 of 2007\nThe Judgment was delivered by : R. Banumathi, J.\n1. This criminal appeal is filed against the judgment dated 15.07.2005 passed by the High Court of Judicature at Madras in Criminal Appeal No.113 of 1999, whereby the High Court, while maintaining the sentence, modified the conviction recorded by the trial court qua the accused namely Giri-accused No.1, Seenu @ Srinivasan-accused No.2, Balu @ Bala Subramaniam (Appellant No.1-Accused No.4) and Raja @ Kotti Raja (Appellant No.2-Accused No.5) as conviction under Section 302 read with Section 34 IPC, Section 326 read with Section 34 IPC and Section 324 read with Section 34 IPC. The High Court acquitted Partheeban-accused No.3 of all the charges.\n2. Briefly stated case of the prosecution is that one Natarajan had a quarrel with Seenu @ Srinivasan-accused No.2 in respect of a chit transaction and Kannan-PW2",
+  "citations": [
+    "1970 1 SCC 696",
+    "2004 11 SCC 305",
+    "AIR 1945 PC 118",
+    "AIR 1965 SC 1260"
+  ],
+  "statutes": [
+    {
+      "act": "Read With Section 34 Ipc For The Act",
+      "section": "302"
+    },
+    {
+      "act": "Ipc Is Simultaneous Conscious Mind Of Persons Participating In The Criminal Act",
+      "section": "34"
+    },
+    {
+      "act": "Lays Down A Principle Of Joint Liability In The Doing Of A Criminal Act",
+      "section": "34"
+    },
+    {
+      "act": "Ipc Is The Result Of The Concerted Act",
+      "section": "34"
+    },
+    {
+      "act": "In The Penal Code",
+      "section": "34"
+    },
+    {
+      "act": "Ipc Embodies The Principle Of Joint Liability In Doing The Criminal Act",
+      "section": "34"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "16 October 2015",
+  "outcome": "Unknown",
+  "facts": [
+    "The case involves a dispute between two groups over a chit transaction.",
+    "Natarajan had a quarrel with Seenu @ Srinivasan-accused No.2 in respect of a chit transaction and Kannan-PW2 supported Natarajan and fight ensued between Seenu-accused No.2 and Kannan-PW2 about a week prior to the date of incident i.e. 18.05.1997.",
+    "On the evening at about 6.30 P.M., Kannan-PW2, Saravanan-PW3, Suresh-PW5 and Arumugam-PW6 accompanied by Nagarajan went to Sakthi Nagar at Uruliyanpet and were having the settlement talks with the accused.",
+    "The witnesses ran away from the place and came back only after some time and they were informed that injured Ramesh was removed from the scene of occurrence by a police constable.",
+    "Ramesh succumbed to injuries on 21.05.1997, and the case was altered to Section 302 IPC."
+  ],
+  "issues": [
+    "Whether the High Court was right in finding that the appellants acted in furtherance of common intention in committing murder of Ramesh?",
+    "Whether the High Court was right in attributing constructive liability to the appellants while convicting them under Section 302 read with Section 34 IPC?"
+  ],
+  "petitioner_arguments": [
+    "The testimony of PW-2 who is an injured witness is not believable as firstly all the injured witnesses were examined soon after the incident in Government Hospital and they deposed that they were assaulted by unknown persons.",
+    "Even as per the prosecution case, the occurrence was due to a sudden fight and that when peace talks were going on between the complainant and the accused party and on being informed that one Anand belonging to accused party was cut by the complainant party, fight ensued between two groups and as the act was not committed in furtherance of the common intention, the High Court erred in convicting the appellants under Section 302 read with Section 34 IPC."
+  ],
+  "respondent_arguments": [
+    "On exhortation by Giri-accused No.1, the appellants and other accused attacked deceased-Ramesh and injuries were caused in furtherance of common intention of all the accused would be liable under Section 302 read with Section 34 IPC for the act of committing murder of Ramesh and the appellants have been rightly convicted by the courts below."
+  ],
+  "court_reasoning": [
+    "The essence of liability under Section 34 IPC is simultaneous conscious mind of persons participating in the criminal action to bring about a particular result.",
+    "Common intention implies pre-arranged plan and acting in concert pursuant to the pre-arranged plan.",
+    "To invoke the aid of Section 34 successfully, it must be shown that the criminal act complained against was done by one of the accused persons in the furtherance of the common intention of all; if this is shown, then liability for the crime may be imposed on any one of the persons in the same manner as if the act were done by him alone."
+  ],
+  "holding": [
+    "The appellants attacked Ramesh with sticks and were rightly convicted under Section 302 read with Section 34 IPC."
+  ],
+  "cases_cited": [
+    "Bala Subramaniam and another v State (U",
+    "In Ramesh Singh alias photti v. State of A",
+    "case, in Shankerlal Kacharabhai and Others vs. State of Gujarat",
+    "on behalf of the respondent, learned Senior Counsel Mr. V. Kanagaraj submitted that on exhortation by Giri-accused No",
+    "subject is the judgment of the Privy Council in Mahbub Shah v. Emperor",
+    "they could be convicted. (See Noor Mohammad Mohd. Yusuf Momin v. State of Maharashtra"
+  ]
+}

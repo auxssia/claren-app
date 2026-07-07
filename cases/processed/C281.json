@@ -1,0 +1,103 @@
+{
+  "case_id": "C281",
+  "case_name": "P.V. George & Ors v State Of Kerala & Ors",
+  "court": "Supreme Court of India",
+  "year": 2007,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "P.V. George & Ors",
+  "respondent": "State Of Kerala &",
+  "citations": [
+    "1990 4 SCC 55",
+    "1993 4 SCC 727",
+    "1995 2 SCC 745",
+    "1995 6 SCC 684",
+    "1997 5 SCC 201",
+    "1999 3 SCC 362",
+    "1999 7 SCC 209",
+    "2003 7 SCC 517",
+    "2004 9 SCC 165",
+    "AIR 1967 SC 1643",
+    "AIR 1974 SC 1631",
+    "AIR 1989 SC 307"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "142"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    },
+    {
+      "section": "57(5)"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 32",
+  "court_level": "Supreme Court",
+  "decision_date": "23 January 2007",
+  "outcome": "Unknown",
+  "facts": [
+    "The Government of Kerala framed rules for the employees of Kerala Government Presses Subordinate Services to which cadre the appellants belonged.",
+    "Appellants were working in the Government Presses, Kerala.",
+    "A further proviso was appended thereto by a Government order dated 30.08.1984 in term of SRO No. 1044 of 1984.",
+    "Constitutionality of the said provision was challenged before the Kerala High Court, whereupon a Division Bench thereof in Daniel v. State of Kerala [1985 KLT 1057], declared the same to be ultra vires.",
+    "The correctness of the said decision was questioned before another Division Bench of the said Court in Writ Appeal No. 149 of 1990."
+  ],
+  "issues": [
+    "Application of the doctrine of prospective overruling in service matters",
+    "Constitutionality of the provision"
+  ],
+  "petitioner_arguments": [
+    "The High Court committed a manifest error insofar as it failed to take into consideration that in service matters ordinarily doctrine of prospective overruling would apply.",
+    "Reliance has been placed on Managing Director ECIL, Hyderabad v. B. Karunakar [(1993) 4 SCC 727 1993 Indlaw SC 430], R.K. Sabharwal v. State of Punjab [(1995) 2 SCC 745 1995 Indlaw SC 1756], Union of India and Others v. Virpal Singh Chauhan and Others [(1995) 6 SCC 684 1995 Indlaw SC 1803], Ashok Kumar Gupta v. State of U.P. [(1997) 5 SCC 201 1997 Indlaw SC 1096], Ajit Singh-II v. State of Punjab [(1999) 7 SCC 209 1999 Indlaw SC 725], Baburam v. C.C. Jacob [(1999) 3 SCC 362 1999 Indlaw SC 274], E.A. Sathyanesan v. V.K. Agnihotri and Others [(2004) 9 SCC 165 2003 Indlaw SC 1426], M. Nagaraj & Others v. Union of India & Others [(2006)10 SCALE 301 2006 Indlaw SC 722]."
+  ],
+  "respondent_arguments": [
+    "The judgment was supported by Mr. Uday U. Lalit, learned Senior Counsel appearing for the respondents."
+  ],
+  "court_reasoning": [
+    "This Court in exercise of its jurisdiction under Article 32 or Article 142 of the Constitution of India may declare a law to have a prospective effect.",
+    "The Division Bench of the High Court may be correct in opining that having regard to the decision of this Court in L.C. Golak Nath and Others v. State of Punjab and Another [AIR 1967 SC 1643 1967 Indlaw SC 1493) the power of overruling is vested only in this Court and that too in constitutional matters, but the High Courts in exercise of their jurisdiction under Article 226 of the Constitution of India, even without applying the doctrine of prospective overruling, indisputably may grant a limited relief in exercise of their equity jurisdiction."
+  ],
+  "holding": [
+    "The judgments appealed against are confirmed. The writ appeals are dismissed. There shall be no order as to costs."
+  ],
+  "cases_cited": [
+    "Ajit Singh-II v. State of Punjab",
+    "Ashok Kumar Gupta v. State of U",
+    "Baburam v. C.C",
+    "By the time of Regina v Governor of Brockhill Prison",
+    "E.A. Sathyanesan v. V.K",
+    "High Court, whereupon a Division Bench thereof in Daniel v. State of Kerala",
+    "In Queen (on the Application of Ernest Leslie Wright) v. Secretary of",
+    "M. Nagaraj & Others v. Union of India &",
+    "P.V. George & Ors v State Of Kerala &",
+    "R.K. Sabharwal v. State of Punjab",
+    "Rao, J. (as the His Lordship then was) in Ravindran v. State of Kerala",
+    "Union of India and Others v. Virpal Singh Chauhan",
+    "We are not oblivious that in Union of India v. Madras Telephone SC & ST Social Welfare Association",
+    "and Anr. In Managing Director, ECIL, Hyderabad and Ors., v. B. Karunakar",
+    "and Baburam v. C.C",
+    "and Lord Goff of Chieveley in Kleinwort Benson Ltd v Lincoln City Council",
+    "as declared applies to future cases. (See Ashok Kumar Gupta v. State of U",
+    "behalf has been placed on Managing Director ECIL, Hyderabad v. B. Karunakar",
+    "by the House of Lords in National Westminster Bank plc v. Spectrum Plus Limited",
+    "by us hereafter in Dr. Suresh Chandra Verma and Others v. The Chancellor",
+    "on interpretation of a Full Bench decision in Subaida Beevi v. State of Kerala",
+    "rulings seemed anathema to Lord Wilberforce in Launchbury v Morgans",
+    "to follow the decision of the Division Bench in Daniel v. State of Kerala",
+    "to the decision of this Court in L.C. Golak Nath and Others v. State of Punjab",
+    "was stated by a Division Bench of this Court in M.A. Murthy v. State of Karnataka &"
+  ]
+}

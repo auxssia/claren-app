@@ -1,5 +1,3 @@
-"use client";
-
 import { SectionWrapper, SectionHeader } from "@/components/common/section-wrapper";
 import { AnimatedStagger } from "@/components/common/animated-section";
 import { GraduationCap, Scale, Users, Search } from "lucide-react";

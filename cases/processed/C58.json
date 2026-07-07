@@ -1,0 +1,75 @@
+{
+  "case_id": "C58",
+  "case_name": "Angnoo and Others v State of Uttar Pradesh",
+  "court": "Supreme Court of India",
+  "year": 1970,
+  "judges": [
+    "BHARGAVA"
+  ],
+  "bench": [],
+  "petitioner": "Angnoo and Others",
+  "respondent": "State of Uttar Pradesh\nSupreme Court of India\n\n11 September 1970\nCr.A. No. 209 of 1967.\nThe Judgment was delivered by: BHARGAVA, J.\n1.  The ten appellants in this appeal were convicted for offences punishable u/s. 148 of the Indian Penal Code and Section 302, read with S. 149 of the Indian Penal Code, and each one of them was awarded concurrent sentences of two years rigorous imprisonment for the first offence and imprisonment for life for the second offence. The conviction was recorded in respect of the murder of one Mahadeo on the 12th November, 1964.\n2.  The prosecution case was that Mahadeo had appeared as a witness in an enquiry u/s. 202 of the Code of Criminal Procedure which was being held on a complaint filed by one Chotai for an offence under Section 500, IPC, against Angnoo appellant. That complaint was filed by Chotai on the ground that Angnoo had earlier lodged a false report with the police against Chotai and his brother Sumer for an offence under Secti",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "148"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "202"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "500"
+    },
+    {
+      "section": "454"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "11 September 1970",
+  "outcome": "Unknown",
+  "facts": [
+    "The ten appellants in this appeal were convicted for offences punishable u/s. 148 of the Indian Penal Code and Section 302, read with S. 149 of the Indian Penal Code, and each one of them was awarded concurrent sentences of two years rigorous imprisonment for the first offence and imprisonment for life for the second offence.",
+    "The prosecution case was that Mahadeo had appeared as a witness in an enquiry u/s. 202 of the Code of Criminal Procedure which was being held on a complaint filed by one Chotai for an offence under Section 500, IPC, against Angnoo appellant.",
+    "On that day, at about noon, Mahadeo had gone form his village Banyan Khera to another village Rampur, one mile away.",
+    "A number of witnesses had arrived near the place of occurrence and saw part of the attack on Mahadeo.",
+    "The report was lodged at Police Station Qasimpur, five miles away at 8.30 p.m.",
+    "It is true that, according to the prosecution witnesses, the incident took place at about 4.30 p.m."
+  ],
+  "issues": [
+    "Whether the evidence of the eye-witnesses should be accepted despite delay in lodging the First Information Report?",
+    "Whether there was conflict between the medical evidence and the evidence of the eye-witnesses?",
+    "Whether it is probable that the witnesses could have arrived sufficiently close to the scene of occurrence in time to see the actual assault on Mahadeo?",
+    "Whether all the eye-witnesses are partisan witnesses and should not have been relied upon?"
+  ],
+  "petitioner_arguments": [
+    "There was delay in lodging the First Information Report.",
+    "There was conflict between the medical evidence and the evidence of the eye-witnesses.",
+    "It was not probable that these witnesses could have arrived sufficiently close to the scene of occurrence in time to see the actual assault on Mahadeo.",
+    "All the eye-witnesses are partisan witnesses and should not have been relied upon."
+  ],
+  "respondent_arguments": [
+    "The delay in lodging the First Information Report is explained by the circumstance that some time must have been taken in looking after Mahadeo before his brother Puttu Lal could gather his wits to dictate the report, and then time must have been taken in actual dictation while the report was being recorded by P.W. 4 Raja Ram.",
+    "The medical evidence does not fully explain all the injuries received by Mahadeo.",
+    "It is possible that some of the assailants were carrying Lathis or, more probably, some of the assailants used their spears like Lathis."
+  ],
+  "court_reasoning": [
+    "Most of these witnesses arrived at the scene of occurrence after the attack had already started and were able to see only part of the incident.",
+    "It may be that they failed to notice that some of the assailants were carrying Lathis or, more probably, some of the assailants used their spears like Lathis.",
+    "The use of a spear in such a manner will not be very unnatural if a large number of persons surround one single man and try to beat him."
+  ],
+  "holding": [
+    "The conviction was upheld by the court, and the appeal filed by the appellants was dismissed."
+  ],
+  "cases_cited": []
+}

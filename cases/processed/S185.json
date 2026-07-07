@@ -1,0 +1,38 @@
+{
+  "case_id": "S185",
+  "case_name": "",
+  "court": "",
+  "year": 1929,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "16"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The court deals with the issue of transfer of immovable property.",
+    "Where any person contracts to transfer for consideration any immoveable property",
+    "...and the transferee has, in part performance of the contract, taken possession of the property or any part thereof..."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Notwithstanding that where there is an instrument of transfer, that the transfer has not been completed in the manner prescribed therefor by the law for the time being in force",
+    "The transferor or any person claiming under him shall be debarred from enforcing against the transferee and persons claiming under him any right in respect of the property..."
+  ],
+  "holding": [
+    "Notwithstanding that where there is an instrument of transfer, that the transfer has not been completed in the manner prescribed therefor by the law for the time being in force",
+    "The transferor or any person claiming under him shall be debarred from enforcing against the transferee and persons claiming under him any right in respect of the property..."
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,62 @@
+{
+  "case_id": "C1658",
+  "case_name": "Ayya Alias Ayub v State Of U.P. And Anr.",
+  "court": "Supreme Court of India",
+  "year": 1988,
+  "judges": [
+    "M. N. Venkatachalliah"
+  ],
+  "bench": [],
+  "petitioner": "Ayya Alias Ayub",
+  "respondent": "State Of U.P.",
+  "citations": [
+    "AIR 1966 SC 740",
+    "AIR 1980 SC 1983",
+    "AIR 1984 SC 1334",
+    "AIR 1986 SC 315",
+    "AIR 1987 SC 762"
+  ],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "5A"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "25 November 1988",
+  "outcome": "Unknown",
+  "facts": [
+    "By this writ petition u/art. 32 of the Constitution, the detenu Ayya alias Ayub, son of Babu Khan, residence No. 100, Khernagar, P.S. Delhi Gate, Meerut--challenges the order of detention dated 28/2/1988 passed by the District Magistrate, Meerut, ordering the detention of the petitioner under Sec. 3(2) of the National Security Act, 1980.",
+    "The sub-section provides for detention on certain other grounds which are not germane to the present matter as the avowed object of the impugned detention is in relation to, and for the purposes of, the maintenance of public order.",
+    "Sec. 5A of the Act also provides that where a person has been detained on two or more grounds, such order shall be deemed to have been made separately on each of such grounds."
+  ],
+  "issues": [
+    "Whether the impugned detention is an instance of a demonstrable abuse of power and the grounds are wholly ultra vires of the power of detention",
+    "Whether the satisfaction reached by the detaining-authority for the need for the detention was reached in accordance with law"
+  ],
+  "petitioner_arguments": [
+    "The impugned detention is an instance of a demonstrable abuse of power and the grounds are wholly ultra vires of the power of detention",
+    "The satisfaction reached by the detaining-authority for the need for the detention was not reached in accordance with law",
+    "The detention is also vitiated by a non-application of mind by an omission to consider material capable of influencing the satisfaction"
+  ],
+  "respondent_arguments": [
+    "The three acts attributed to the detenu had serious adverse effect on the even tempo of life in the locality and produced a 'public-order' problem",
+    "The detention was satisfied all the procedural-safeguards"
+  ],
+  "court_reasoning": [
+    "The satisfaction to be reached by the detaining-authority, subjective though it be must rest on material which is capable in law of producing the satisfaction",
+    "The concept of 'public-order' is what law understands and recognises as such and not what the detaining-authority misunderstands it to be"
+  ],
+  "holding": [
+    "The order of detention dated 28/2/1988 passed by the District Magistrate, Meerut, ordering the detention of the petitioner under Sec. 3(2) of the National Security Act, 1980 is hereby set aside"
+  ],
+  "cases_cited": [
+    "Ayya Alias Ayub v State Of U",
+    "In Hem Lall Bhandari v. Sikkim",
+    "In Vijay Narain Singh v. State of Bihar",
+    "dealt with by Hidayatullah, J. in Ram Manohar Lohia v. State of Bihar",
+    "relied upon the pronouncement of this Court in Ramesh Yadav v. Distt Magistrate Etah"
+  ]
+}

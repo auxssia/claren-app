@@ -1,0 +1,59 @@
+{
+  "case_id": "C2612",
+  "case_name": "V. K. Sharma v Union of India and Others",
+  "court": "Supreme Court of India",
+  "year": 2000,
+  "judges": [],
+  "bench": [],
+  "petitioner": "V. K. Sharma",
+  "respondent": "Union of India",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "21"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    },
+    {
+      "act": "Constitution of India"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "28 March 2000",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner, V.K. Sharma, has been accused in numerous cases under various sections of the Indian Penal Code and remains in jail despite obtaining bail orders in his favor.",
+    "The reason for the petitioner's continued detention is that production warrants have reached the jail authorities from other courts, requiring them to keep him in detention until he can be produced before those courts.",
+    "The petitioner has filed a writ petition praying for relief, including the transfer of all FIRs registered against him and consolidation of cases pending before different courts."
+  ],
+  "issues": [
+    "What is the appropriate remedy for the petitioner's situation?"
+  ],
+  "petitioner_arguments": [
+    "The petitioner argued that his fundamental right under Article 21 of the Constitution is being violently violated due to the peculiar situation.",
+    "He contended that he has no grievance with the bail orders not being granted in his favor, but rather with the jail authorities' inability to release him due to production warrants.",
+    "He requested relief, including the transfer of all FIRs registered against him and consolidation of cases pending before different courts."
+  ],
+  "respondent_arguments": [
+    "No arguments mentioned in the text"
+  ],
+  "court_reasoning": [
+    "The court considered the peculiar situation and exercised its judicial discretion to grant relief to the petitioner.",
+    "It was not possible for the court to order the consolidation of all cases into one, as this would impose unwarranted hardships on witnesses and the investigating agency.",
+    "The court granted bail to the petitioner with certain conditions, including his surrendering his passport and being present in court when required."
+  ],
+  "holding": [
+    "The writ petition is disposed of accordingly. The court grants relief to the petitioner, including the release from jail forthwith, subject to certain conditions."
+  ],
+  "cases_cited": [
+    "V. K. Sharma v Union of India"
+  ]
+}

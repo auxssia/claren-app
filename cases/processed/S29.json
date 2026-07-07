@@ -1,0 +1,33 @@
+{
+  "case_id": "S29",
+  "case_name": "Power to examine the accused",
+  "court": "",
+  "year": 2009,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "31 12 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "The Power to examine the accused",
+    "In every inquiry or trial, for the purpose of enabling the accused personally to explain any circumstances appearing in the evidence against him,"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The answers given by the accused may be taken into consideration in such inquiry or trial, and put in evidence for or against him in any other inquiry into, or trial for, any other offence which such answers may tend to show he had committed."
+  ],
+  "cases_cited": []
+}

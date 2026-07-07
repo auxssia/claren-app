@@ -1,0 +1,84 @@
+{
+  "case_id": "C2821",
+  "case_name": "Bareilly Development Authority And Anr v Ajai Pal Singh And Ors.",
+  "court": "Supreme Court of India",
+  "year": 1989,
+  "judges": [
+    "S. Ratnavel Pandian, J."
+  ],
+  "bench": [],
+  "petitioner": "Bareilly Development Authority And Anr",
+  "respondent": "Ajai Pal Singh",
+  "citations": [
+    "1977 3 SCR 249",
+    "1980 2 SCR 704",
+    "1981 3 SCR 662",
+    "AIR 1979 SC 1628",
+    "AIR 1979 SUPREME COURT 1628"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "136"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "4"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    },
+    {
+      "section": "1031"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "12"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "17 February 1989",
+  "outcome": "Unknown",
+  "facts": [
+    "The Bareilly Development Authority (hereinafter referred as 'BDA'), the first appellant was constituted under Section 4 of the U.P. Urban Planning and Development Act, 1973 by the State Government for the purposes of development in the District of Bareilly.",
+    "With a view to casing the acute housing problem in the said District, the BDA has undertaken construction of dwelling units for people belonging to different income groups styled as 'Lower Income Group', 'Middle Income Group', 'High Income Group' and the 'Economically Weaker Sections' (hereinafter referred as LIG, MIG, HIG and EWS respectively).",
+    "The BDA issued an advertisement offering to register names of intending applicants desirous of purchasing dwelling houses/flats in any one of the different income groups intended to be constructed by the BDA.",
+    "In this appeal i.e. Civil Appeal No. 2809/86, the respondents 1 to 17 and 20 got themselves registered for allotment of flats in MIG scheme and respondents 18 and 19 in HIG scheme with the BDA in accordance with the terms and conditions contained in the brochure issued by the Authority.",
+    "The note under the 'General Information Table' given in the said brochure states that the cost shown therein is only estimated cost and it would increase or decrease according to the rise or fall in the price at the time of completion of the houses/flats."
+  ],
+  "issues": [
+    "Whether the BDA has failed to justify the demand of enhancement in the cost of houses/flats as well as the increase of the monthly instalments in disproportionate to their income.",
+    "Whether the High Court was correct in going into the question of computation of cost of the construction of houses/flats and the plea of clerical mistakes exercising its jurisdiction under Article 226 of the Constitution of India."
+  ],
+  "petitioner_arguments": [
+    "The petitioners strongly relying on certain conditions contained in the brochure especially of clauses 12 and 13 as per which the BDA has reserved its discretion to change, alter or modify any of the terms and/or conditions of the allotment given in the brochure;",
+    "That the increase in the cost and the interest demanded from the respondents is neither arbitrary nor unreasonable and the High Court is not the proper forum for examining in detail the terms regarding payment of instalments in the circumstances of the present case, and if the respondents were not agreeable to the changed terms and conditions, they could as well resile from their consent.",
+    "That the respondents are estopped from challenging the varied terms and conditions of the allotment after having consented."
+  ],
+  "respondent_arguments": [
+    "The respondents prayed in their respective petitions for issue of writ of mandamus directing the petitioners to maintain the allotment of the flats in their favour on the original terms and conditions, to hand over the possession of the same and further to restrain the petitioners from cancelling the original allotment.",
+    "That the fixation of monthly instalment to the tune of Rs.1031.50 from the petitioners of MIG group whose income is hardly Rs. 1500 per month appears to us smacking of arbitrariness and unreasonableness on the part of the contesting opposite party (petitioners herein)",
+    "That the authority should refix the cost of the petitioner's flats after hearing their grievance."
+  ],
+  "court_reasoning": [
+    "The High Court though repelled the contention of the respondents (allottees) based on the principle of promissory estoppel, made the following observations with regard to the case of the respondents in the MIG category:",
+    "In the circumstances of the present case the fixation of monthly instalment to the tune of Rs.1031.50 from the petitioners of MIG group whose income is hardly Rs. 1500 per month appears to us smacking of arbitrariness and unreasonableness on the part of the contesting opposite party (petitioners herein)",
+    "In the circumstances of the present case, we are not satisfied that the contesting opposite party has succeeded in establishing its demand of double the estimated cost by facts and figures.",
+    "The end of justice demands that the authority should refix the cost of the petitioner's flats after hearing their grievance."
+  ],
+  "holding": [
+    "The High Court directed the appellants herein in all the writ petitions 'to re-determine the cost of the petitioners' (respondents herein) flats and instalments payable by them after hearing their grievances.'"
+  ],
+  "cases_cited": [
+    "Bareilly Development Authority And Anr v Ajai Pal Singh",
+    "Premji Bhai Parmar & Ors. etc. v. Delhi Development Authority &",
+    "and D.F.O. v. Biswanath Tea Company Ltd",
+    "in importing the principle laid down in Ramana Dayaram Shetty v. The International Airport Authority of India &",
+    "of contract pure and simple Radhakrishna Agarwal & Ors. v. State of Bihar &"
+  ]
+}

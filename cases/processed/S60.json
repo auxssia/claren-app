@@ -1,0 +1,38 @@
+{
+  "case_id": "S60",
+  "case_name": "None",
+  "court": "None",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "29"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "Notwithstanding anything in clauses (2) and (3), Parliament has exclusive power to make laws with respect to any of the matters enumerated in List I in the Seventh Schedule (in this Constitution referred to as the \"Union List\")",
+    "Notwithstanding anything in clause (3), Parliament, and, subject to clause (1), the Legislature of any State 1 [...] also, have power to make laws with respect to any of the matters enumerated in List III in the Seventh Schedule (in this Constitution referred to as the \"Concurrent List\")",
+    "Subject to clauses (1) and (2), the Legislature of any State 2 [...] has exclusive power to make laws for such State or any part thereof with respect to any of the matters enumerated in List II in the Seventh Schedule (in this Constitution referred to as the \"State List\")",
+    "Parliament has power to make laws with respect to any matter for any part of the territory of India not included 3 in a State notwithstanding that such matter is a matter enumerated in the State List"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "Parliament has exclusive power to make laws with respect to any of the matters enumerated in List I in the Seventh Schedule.",
+    "Parliament, and, subject to clause (1), the Legislature of any State have power to make laws with respect to any of the matters enumerated in List III in the Seventh Schedule.",
+    "The Legislature of any State has exclusive power to make laws for such State or any part thereof with respect to any of the matters enumerated in List II in the Seventh Schedule.",
+    "Parliament has power to make laws with respect to any matter for any part of the territory of India not included in a State."
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,33 @@
+{
+  "case_id": "S161",
+  "case_name": "Power to examine the accused",
+  "court": "",
+  "year": 1955,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The Court may, at any stage of any inquiry or trial without previously warning the accused, put such questions to him as the Court considers necessary,"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "For the purpose aforesaid, question him generally on the case after the witnesses for the prosecution have been examined and before he is called on for his defence.",
+    "The accused shall not render himself liable to punishment by refusing to answer such questions, or by giving false answers to them;",
+    "The Court and the jury (if any) may draw such inference from such refusal or answers as it thinks just.",
+    "The answers given by the accused may be taken into consideration in such inquiry or trial, and put in evidence for or against him in any other inquiry into, or trial for. any other offence which such answers may tend to show he has committed."
+  ],
+  "holding": [
+    "No oath shall be administered to the accused when he is examined under sub-section (1)."
+  ],
+  "cases_cited": []
+}

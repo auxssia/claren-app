@@ -1,0 +1,46 @@
+{
+  "case_id": "S157",
+  "case_name": "",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Companies Act",
+      "section": "617"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The words 'public servant' denote a person falling under any of the descriptions hereinafter following;",
+    "Every Commissioned Officer in the Military, Naval or Air Forces of India;",
+    "Every Judge including any person empowered by law to discharge, whether by himself or as a member of any body of persons, any adjudicatory functions;",
+    "Every officer of a Court of Justice (including a liquidator, receiver or commissioner) whose duty it is, as such officer, to investigate or report on any matter of law or fact, or to make, authenticate, or keep any document, or to take charge or dispose of any property, or to execute any judicial process, or to administer any oath, or to interpret, or to preserve order in the Court;",
+    "Every juryman, assessor, or member of a panchayat assisting a Court of Justice or public servant;",
+    "Every arbitrator or other person to whom any cause or matter has been referred for decision or report by any Court of Justice, or by any other competent public authority;",
+    "Every person who holds any office by virtue of which he is empowered to place or keep any person in confinement;",
+    "Every officer of the Government whose duty it is, as such officer, to prevent offences, to give information of offences, to bring offenders to justice, or to protect the public health, safety or convenience;",
+    "Every officer whose duty it is, as such officer, to take, receive, keep or expend any property on behalf of the Government, or to make any survey, assessment or contract on behalf of the Government, or to execute any revenue process, or to investigate, or to report, on any matter affecting the pecuniary interests of the Government, or to make, authenticate or keep any document relating to the pecuniary interests of the Government, or to prevent the infraction of any law for the protection of the pecuniary interests of the Government;",
+    "Every officer whose duty it is, as such officer, to take, receive, keep or expend any property, to make any survey or assessment or to levy any rate or tax for any secular common purpose of any village, town or district, or to make, authenticate or keep any document for the ascertaining of the rights of the people of any village, town or district;",
+    "Every person who holds any office in virtue of which he is empowered to prepare, publish, maintain or revise an electoral roll or to conduct an election or part of an election;"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "Every person who holds any office by virtue of which he is empowered to place or keep any person in confinement",
+    "Every officer whose duty it is, as such officer, to take, receive, keep or expend any property on behalf of the Government",
+    "Every officer whose duty it is, as such officer, to investigate or report on any matter of law or fact",
+    "Every person specially authorized by a Court of Justice to perform any of such duties"
+  ],
+  "cases_cited": []
+}

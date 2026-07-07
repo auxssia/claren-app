@@ -1,0 +1,79 @@
+{
+  "case_id": "C960",
+  "case_name": "State of Haryana v Ram Kumar and Others",
+  "court": "Supreme Court of India",
+  "year": 2003,
+  "judges": [],
+  "bench": [],
+  "petitioner": "State of Haryana",
+  "respondent": "Ram Kumar",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "34"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "20 November 2003",
+  "outcome": "Unknown",
+  "facts": [
+    "The State of Haryana is in appeal against the judgment of acquittal rendered by a Division Bench of the Punjab and Haryana High Court.",
+    "The respondents faced trial for alleged commission of offences punishable under Section 302, 201, 304-B, 498-A read with Section 34 of the Indian Penal Code, 1860 (in short the `IPC').",
+    "Dharamwati (hereinafer referred to as `the deceased') was married to Ram Kumar, accused-respondent No.1.",
+    "Her dead body was found near the railway track on 22.09.1991.",
+    "When the dead body was discovered, it was noticed that she had been run over by a train.",
+    "While conducting post mortem, the Doctor noticed that there were strangulation marks on the neck of the deceased and the said injury was ante-mortem in nature.",
+    "Information was lodged at the police station and after investigation, charge-sheet was placed alleging commission of offences, as noted above.",
+    "The accused-persons faced trial.",
+    "They pleaded innocence.",
+    "In their statement recorded in terms of Section 313 of the Code of Criminal Procedure, 1973 (in short `the Code'), it was pleaded that the deceased had committed suicide and this was not a case of murder or a dowry death, as alleged by the prosecution.",
+    "Two witnesses, namely, PW-6 is stated to have seen the accused persons carrying the deceased on a cot towards the railway line, while PW-12 about the alleged extra-judicial confession relating to the killing.",
+    "Analysing the evidence of witnesses who spoke about the dowry demands, the Trial Court found that a case of dowry death, as provided in Section 304-B IPC was clearly made out and also a case of Section 498-A IPC.",
+    "The evidence of PWs.6 and 12 was also characterised to be unreliable and incredible.",
+    "The High Court found that this was basically a case of circumstantial evidence and held that the testimony of PWs.6 and 12 does not appear to be cogent.",
+    "Accordingly, it was held that the prosecution was unable to establish its case."
+  ],
+  "issues": [
+    "Circumstantial evidence",
+    "Dowry death",
+    "Murder",
+    "Suspicious circumstances"
+  ],
+  "petitioner_arguments": [
+    "The demand of dowry has been clearly established by the version of several witnesses.",
+    "Merely because the particulars of the demand of dowry in certain instances were not given, that does not corroborate credibility of the prosecution version.",
+    "There is no reason as to why he, an unrelated and independent person, would falsely implicate the accused persons.",
+    "So far as PW-12 is concerned, he was known to the accused-persons and was also a person on whom the accused persons could repose confidence and make a confession about the killing."
+  ],
+  "respondent_arguments": [
+    "In a case which is based on circumstantial evidence, the chain of circumstances should be a complete one with no missing links.",
+    "There must be evidence to show that dowry demand was the cause of the death.",
+    "The evidence of the relatives who have stated about the demand of dowry is full of exaggerations and the High Court has rightly discarded it."
+  ],
+  "court_reasoning": [
+    "The evidence of the witnesses who have stated about the demand of dowry at least on one count is consistent i.e. the demand of a Scooter as a dowry after birth of the child.",
+    "There may be an improvement but it is not an omission to warrant outright rejection of the evidence.",
+    "Respondent No.1, Ram Kumar has not explained as to how the deceased was not found in the house and why no effort was made to know her whereabouts.",
+    "That is an unnatural conduct.",
+    "The false explanation given about the suicide which falls flat in view of the medical evidence also strengthens the prosecution version.",
+    "The evidence of PW-6, who has seen the husband carrying the deceased has also a ring of truth."
+  ],
+  "holding": [
+    "The appeal succeed so far as respondent No.1 Ram Kumar is concerned.",
+    "He shall surrender to custody to suffer the sentence of imprisonment for life which was awarded by the Trial Court.",
+    "The conviction of Ram Kumar under Sections 498-A and 201 IPC is restored with the respective sentence that was imposed by the Trial Court.",
+    "Both the sentences to run concurrently.",
+    "The appeal fails so far as other respondents, i.e. respondent Nos.2 and 3 are concerned.",
+    "Their bail bonds be discharged."
+  ],
+  "cases_cited": [
+    "State of Haryana v Ram Kumar"
+  ]
+}

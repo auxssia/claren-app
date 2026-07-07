@@ -1,0 +1,106 @@
+{
+  "case_id": "C1431",
+  "case_name": "Subramaniam v State Of Tamil Nadu & Anr",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "Subramaniam",
+  "respondent": "State Of Tamil Nadu &",
+  "citations": [
+    "1973 2 SCC 793",
+    "1973 2 SCC 808",
+    "1984 4 SCC 116",
+    "1998 9 SCC 654",
+    "1999 4 SCC 370",
+    "2000 8 SCC 382",
+    "2006 10 SCC 681",
+    "2008 1 SCC 258",
+    "2008 3 SCC 100",
+    "2008 5 SCC 587",
+    "2008 5 SCC 597"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "4"
+    },
+    {
+      "act": "Dowry Prohibition Act, 1961"
+    },
+    {
+      "section": "1"
+    },
+    {
+      "section": "498A"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "364"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    },
+    {
+      "section": "313"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "13 May 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "Appellant got married with Baby alias Sokkayyal ('the deceased') in the year 1996 at village Thallakuttaipudur.",
+    "After the marriage, they were living at Village Ennamangalam.",
+    "The deceased was found dead in her matrimonial home on 26.5.1999 at about 11:00 p.m.",
+    "On the request of the appellant, Chinnaraj (P.W.3) went to the village Thallakuttaipudur, which is said to be situated at a distance of 18 miles from village Ennamangalam, to inform the parents of the deceased.",
+    "The First Information Report (for short, 'FIR') was lodged in regard to the aforementioned incident at about 11:00 a.m. in Vellithiruppur police station."
+  ],
+  "issues": [
+    "Cause of death of the deceased",
+    "Reliability of the FIR"
+  ],
+  "petitioner_arguments": [
+    "The cause of death of the deceased cannot be said to have been caused by smothering.",
+    "The circumstantial evidence whereupon reliance has been placed by the High Court cannot be said to have formed a complete link in the chain to arrive at the guilt of the appellant.",
+    "The police having already arrived at the Village Ennamangalam early in the morning had been admitted by P.W.2 and P.W.3, no reliance can be placed on the FIR which was lodged by P.W.1 at 11:00 a.m. in the police station."
+  ],
+  "respondent_arguments": [
+    "The fact that the deceased was a young woman and pregnant of seven months and suffered an unnatural death being not in dispute, the circumstances found favour with the High Court, namely, (1) they had been living together and last seen together, (2) it was for the appellant to give a reasonable explanation as to how she died, and (3) the plea of alibi taken by appellant having not been proved, no interference with the impugned judgment is warranted."
+  ],
+  "court_reasoning": [
+    "The post-mortem report was proved by Dr. Ranjini (P.W.10).",
+    "In her evidence apart from proving the post-mortem report, she stated: ...",
+    "However, she in her cross-examination admitted that if death was caused by asphyxia the eyes would be open and tongue would get protruded and it was likely that the right side of the heart would be full of blood and the left side of the heart would be empty.",
+    "It was furthermore stated that: ...",
+    "Both the learned counsel had strongly relied upon Modi's Medical Jurisprudence and Toxicology, 23rd Edition (for short, 'Modi') to support their respective cases as to whether in view of absence of some symptoms as accepted by the autopsy surgeon, death could be caused by asphyxia."
+  ],
+  "holding": [
+    "The death is due to Asphyxia. May be due to smothering."
+  ],
+  "cases_cited": [
+    "A similar question came up for consideration in Mohd. Zahid vs. State of T",
+    "In K. Prakashan vs. P.K",
+    "In Mohar Singh vs. State of Raiasthan &",
+    "In Sharad Birdhichand Sarda vs. State of Maharashtra",
+    "In State of Himachal Pradesh vs. Jeet Singh",
+    "Subramaniam v State Of Tamil Nadu &",
+    "This Court in K.T. Palanisamy vs. State of Tamil Nadu",
+    "Yet again in Ponnusamy vs. State of Tamil Nadu",
+    "Yet again in Vinay D. Nagar vs. State of Rajasthan",
+    "is undoubtedly entitled to the benefit of doubt. In Kali Ram v. State of Himachal Pradesh",
+    "knowledge of the accused was examined in State of West Bengal v. Mir Mohammad Omar",
+    "proved as was held by this Court in Shivaji Sahebrao Bobade v. State of Maharashtra",
+    "upon the decision of this Court in Trimukh Maroti Kirkan vs. State of Maharashtra"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "case_id": "C1915",
+  "case_name": "State Of Bihar And Others v Bihar State +2 Lecturers Associations And Others",
+  "court": "Supreme Court of India",
+  "year": 2007,
+  "judges": [
+    "C. K. Thakker, J."
+  ],
+  "bench": [],
+  "petitioner": "State Of Bihar And Others",
+  "respondent": "Bihar State +2 Lecturers Associations",
+  "citations": [
+    "1974 1 SCC 19",
+    "1989 1 SCC 392",
+    "1994 2 SCC 521",
+    "2000 3 SCC 250",
+    "2000 7 SCC 618",
+    "2006 8 SCC 399",
+    "2006 9 SCC 82",
+    "2007 1 SCC 732",
+    "AIR 1968 SC 3491967"
+  ],
+  "statutes": [
+    {
+      "section": "940"
+    },
+    {
+      "section": "1640"
+    },
+    {
+      "section": "5000"
+    },
+    {
+      "section": "6500"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "12"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "39"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "136"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "142"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "15 May 2007",
+  "outcome": "Unknown",
+  "facts": [
+    "Advertisement No. 1 of 1987 was issued by the appellants, inviting applications for appointment of +2 Lecturers in Secondary Schools in the pay scales of Rs.940-1660 in Government Schools as well as in Nationalized Schools.",
+    "The qualification prescribed in the Advertisement for the post was Post-Graduate Degree in II Class.",
+    "There was no requirement of having training for appointment to the said post.",
+    "In 1989, Members of the Respondent-Association who had Post-Graduate Degree in II Class but who were untrained, were selected and appointed as Lecturers in Nationalized Schools in the pay scales of Rs.940-1660.",
+    "After Vth Pay Commission, pay scales of Rs.940-1660 were revised to Rs.1640-2900 with effect from January 1, 1996.",
+    "It appears that initially, there was difference in pay scales of +2 Lecturers serving in Government Schools and serving in Nationalized Schools other than Government Schools.",
+    "After a decision of the High Court in Civil Writ Jurisdiction Case No. 2445 of 1994, all +2 Lecturers were granted uniform pay scales irrespective of their posting.",
+    "A Fitment Committee was appointed by the Government to consider the pay scales of trained and untrained lecturers.",
+    "The Fitment Committee considered the question and recommended different pay scales for trained and untrained lecturers.",
+    "The State Government accepted the recommendation of the Fitment Committee and fixed pay scales of Rs.5000-8000 for untrained lecturers and Rs.6500-10500 for trained lecturers."
+  ],
+  "issues": [
+    "Whether the classification made on the basis of training is arbitrary, irrational or otherwise objectionable.",
+    "Whether the State Government has violated Article 14 of the Constitution by fixing different pay scales for trained and untrained lecturers."
+  ],
+  "petitioner_arguments": [
+    "The classification sought to be made on the basis of training is totally artificial, irrational and arbitrary.",
+    "Untrained lecturers cannot be deprived of legitimate pay scales to which their counterparts (trained lecturers) were held entitled.",
+    "It was because of the legitimate grievance by untrained lecturers that a Fitment Appellate Committee presided over by a sitting Judge of the High Court was constituted by the State Government.",
+    "In terms of reference, it was expressly stated that the State Government will accept the recommendation of the Committee and when the said Committee recommended to grant uniform pay scales to trained and untrained lecturers, it was not open to the State Government not to accept and implement the said recommendation."
+  ],
+  "respondent_arguments": [
+    "The classification sought to be made on the basis of training is rational and reasonable.",
+    "Trained and untrained lecturers form different class and such classification is rational and reasonable.",
+    "Fixation of different pay scales, therefore, cannot be said to be arbitrary or irrational.",
+    "Regarding advertisement issued by the Authorities for making appointment of +2 Lecturers and non-mention about training, it was submitted that it related to eligibility for appointment and had nothing to do with pay scales."
+  ],
+  "court_reasoning": [
+    "It is well settled and cannot be disputed that Article 14 of the Constitution guarantees equality before the law and confers equal protection of laws.",
+    "Article 14 prohibits the State from denying persons or class of persons equal treatment; provided they are equals and are similarly situated.",
+    "What Article 14 prohibits is discrimination and not classification if otherwise such classification is legal, valid and reasonable.",
+    "The classification must not be arbitrary but must be rational, that is to say, it must not only be based on some qualities or characteristics which are to be found in all the persons grouped together and not in others who are left out but those qualities or characteristics must have a reasonable relation to the object of the legislation."
+  ],
+  "holding": [
+    "The Division Bench was not right in holding that distinction between trained lecturers and untrained lecturers is arbitrary, irrational or otherwise objectionable.",
+    "The classification made on the basis of training is rational and reasonable.",
+    "Fixation of different pay scales, therefore, cannot be said to be arbitrary or irrational."
+  ],
+  "cases_cited": [
+    "Again, in Arun Kumar & Ors. v. Union of India &",
+    "But as observed by this Court in State of Orissa & Ors. v. Balram Sahoo",
+    "Constitution in a celebrated decision in State of West Bengal v. Anwar Ali Sarkar",
+    "In Andhra Kesari Educational Society v. Director of School Education &",
+    "In L. Muthukumar & Anr. v. State of T",
+    "In Ram Sukh & Ors. v. State of Rajasthan &",
+    "In Shyam Babu Verma & Ors. v. Union of India &",
+    "In State of Jammu & Kashimir v. Triloki Nath Khosla &",
+    "In State of Mysore & Anr. v. P. Narsinga Rao",
+    "In U.P. State Sugar Corporation & Anr. v. Sant Raj Singh",
+    "Recently, in Confederation of Ex-Servicemen & Ors. v. Union of India &",
+    "State Of Bihar And Others v Bihar"
+  ]
+}

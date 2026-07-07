@@ -1,0 +1,93 @@
+{
+  "case_id": "C774",
+  "case_name": "State Of M.P. v Ramesh & Anr",
+  "court": "Supreme Court of India",
+  "year": 2011,
+  "judges": [
+    "Balbir Singh Chauhan"
+  ],
+  "bench": [],
+  "petitioner": "State Of M.P",
+  "respondent": "Ramesh &",
+  "citations": [
+    "1999 9 SCC 507",
+    "2006 13 SCC 516",
+    "2010 9 SCC 85",
+    "AIR 1952 SC 54",
+    "AIR 1968 SC 1050",
+    "AIR 1995 SC 959",
+    "AIR 1998 SC 2726",
+    "AIR 2008 SC 1460",
+    "AIR 2009 SC 2292",
+    "AIR 2010 SC 3071"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Indian Oaths Act",
+      "section": "5"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "118"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "6"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "313"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "18 March 2011",
+  "outcome": "Unknown",
+  "facts": [
+    "Respondent No.2 Bhaggo Bai filed an FIR dated 31.1.1995 in Police Station, Ashok Nagar, mentioning her name as Madhav Bai stating that her husband Chatra died after falling during a spell of giddiness at about 11.00 p.m.",
+    "After completing the investigation, a charge-sheet was filed against both the accused for committing the murder of Chatra.",
+    "A large number of witnesses were examined by the prosecution.",
+    "Both the respondents-accused examined themselves as defence witnesses alongwith some other witnesses."
+  ],
+  "issues": [
+    "The legal questions or points of law being debated"
+  ],
+  "petitioner_arguments": [
+    "The High Court has gravely erred in showing unwarranted sympathy towards the accused and dis-believed the prosecution case brushing aside the statement of Rannu Bai (PW.1), merely being a child witness and pointing out that there was contradiction in the medical and ocular evidence regarding the injuries found on the person of Chatra, deceased.",
+    "The High Court further erred in holding that there was enmity between the accused Bhaggo Bai and Ramesh.",
+    "Chatra died because of a fall when he went to urinate, as he was suffering from giddiness all the time because he used to take 'dhatura' and had become a Lunatic."
+  ],
+  "respondent_arguments": [
+    "The High Court being the first appellate court and the final court of facts had appreciated the entire evidence on record and came to the conclusion that it was not possible that Bhaggo Bai could have hatched a conspiracy with Ramesh accused for committing the murder of her husband Chatra during the pendency of the case filed by her against Ramesh under Section 376 IPC.",
+    "Munna Lal (PW.2), his wife and son had also assaulted the deceased Chatra and Bhaggo Bai, accused and wanted to grab their property and so many civil and criminal cases were pending between them, his evidence cannot be relied upon."
+  ],
+  "court_reasoning": [
+    "The Court further held as under: 'It is desirable that Judges and magistrates should always record their opinion that the child understands the duty of speaking the truth and state why they think that, otherwise the credibility of the witness may be seriously affected, so much so, that in some cases it may be necessary to reject the evidence altogether.'",
+    "The Court must determine as to whether the child has been tutored or not. It can be ascertained by examining the evidence and from the contents thereof as to whether there are any traces of tutoring."
+  ],
+  "holding": [
+    "The appeal lacks merit and is liable to be dismissed."
+  ],
+  "cases_cited": [
+    "Gagan Kanojia & Anr. v. State of Punjab",
+    "Himmat Sukhadeo Wahurwagh & Ors. v. State of Maharashtra",
+    "In Mangoo & Anr. v. State of Madhya Pradesh",
+    "In Nivrutti Pandurang Kokate & Ors. v. State of Maharashtra",
+    "In Panchhi & Ors. v. State of U",
+    "In Rameshwar S/o Kalyan Singh v. The",
+    "In State of U.P. v. Krishna Master &",
+    "In Sukhar v. State of U",
+    "State Of M.P. v Ramesh &",
+    "Tukaram G. Gaokar v. R.N",
+    "and Dehal Singh v. State of Himachal Pradesh"
+  ]
+}

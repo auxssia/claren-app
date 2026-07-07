@@ -1,0 +1,75 @@
+{
+  "case_id": "C1778",
+  "case_name": "Ram Dular Rai and Others v State of Bihar",
+  "court": "Supreme Court of India",
+  "year": 2003,
+  "judges": [
+    "Arijit Pasayat, J."
+  ],
+  "bench": [],
+  "petitioner": "Ram Dular Rai and Others",
+  "respondent": "State of Bihar\nSupreme Court of India\n\n27 November 2003\nAppeal (crl.) 371-372 of 2003\nThe Judgment was delivered by : Arijit Pasayat, J.\n1.  The appellant No.1 (Ram Dular Rai) faced trial for the commission of offences punishable under Sections 302 and 307 of the Indian Penal Code, 1860 (for short the 'IPC'). The other appellants were tried for offences relatable to Section 302 read with Section 149 IPC and Section 307 read with Section 149 IPC. Each of the appellants was also tried for commission of offence punishable under Section 148 IPC and Section 27 of the Arms Act, 1959 (in short the 'Arms Act'). They were found guilty and sentenced to undergo imprisonment for life for the offence relatable to Section 302 or Section 302 read with Section 149 IPC, as the case may be. Appellant No.1 was further sentenced to undergo imprisonment for 10 years for the offence relatable to Section 307 IPC and other three appellants were sentenced to five years imprisonment f",
+  "citations": [
+    "AIR 1956 SC 731",
+    "AIR 1965 SC 202"
+  ],
+  "statutes": [
+    {
+      "act": "Ipc And Section 27 Of The Arms Act",
+      "section": "148"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "27 November 2003",
+  "outcome": "Unknown",
+  "facts": [
+    "The informant Baleshwar Nath Singh (PW-6) in his fardbayan recorded on 17.3.1988 at about 1.05 a.m. stated that he was sleeping in the night on the Dalan of the house where a lantern and a dhibri were burning giving sufficient light in the Dalan.",
+    "He was sleeping at the eastern extreme on a cot and near him his son Kamla Singh, daughter of Kamla Singh, Renu Devi (PW-2), were also sleeping.",
+    "Other members of the family were sleeping inside the rooms.",
+    "At about 12.30 a.m. the accused-appellants each armed with double barrel gun came to the Dalan along with ten to eleven other persons and standing outside the Dalan, were also armed with guns.",
+    "On being asked by the informant about their identity, appellant Lalu Rai scolded him and placed his gun on his chest.",
+    "Accused-appellant Ram Dular Rai fired three times on his son Kamla Singh (hereinafter referred to as the 'deceased') grievously injuring him, whereafter accused fired on Renu Devi, injuring her.",
+    "Thereafter all the assailants fled away."
+  ],
+  "issues": [
+    "Whether Section 149 IPC has application in the present case?",
+    "Whether the evidence of DW-1 rules out the presence of accused appellants Ram Dular Rai and Lal Mohar Rai?"
+  ],
+  "petitioner_arguments": [
+    "The admitted animosity does not inspire confidence.",
+    "There was nothing to bring in application of Section 149 IPC.",
+    "Accused-appellants 2 to 4 did not make any attempt to enter into the house and did not commit any overt act.",
+    "Only one witness (PW-6) has stated that all the persons came together.",
+    "The so-called eyewitnesses could not have identified the persons as claimed.",
+    "There was no scope for recognizing any of the accused.",
+    "A person lying on a bed immobilized could not have made any recognition.",
+    "As the other witnesses were beyond doors they could not have seen who was coming and who was going and, therefore, their evidence should be discarded."
+  ],
+  "respondent_arguments": [
+    "The High Court has analysed the evidence in detail as the evidence of eyewitnesses was categorized to be of partisan nature.",
+    "The High Court has held that the witnesses were natural witnesses.",
+    "The conviction and consequentially the sentences imposed are well merited and do not deserve any interference."
+  ],
+  "court_reasoning": [
+    "What is required to be established is the presence of five persons with a common intention of doing an act.",
+    "If that is established merely because the other persons present are not identified that does not in any way affect applicability of Section 149 IPC.",
+    "The crucial question to determine is whether the assembly consisted of five or more persons and whether the said persons entertained one or more of the common objects, as specified in Section 141.",
+    "It cannot be laid down as a general proposition of law that unless an overt act is proved against a person, who is alleged to be a member of unlawful assembly, it cannot be said that he is a member of an assembly.",
+    "The only thing required is that he should have understood that the assembly was unlawful and was likely to commit any of the acts which fall within the purview of Section 141."
+  ],
+  "holding": [
+    "The conviction and consequentially the sentences imposed are well merited and do not deserve any interference."
+  ],
+  "cases_cited": [
+    "In State of U.P. v. Dan Singh",
+    "Judge Bench of this Court in Masalti and Ors. v. State of U",
+    "To similar effect is the observation in Lalji v. State of U",
+    "of the common object. (See Chikkarange Gowda and others v. State of Mysore"
+  ]
+}

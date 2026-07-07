@@ -1,0 +1,80 @@
+{
+  "case_id": "C194",
+  "case_name": "Tekraj Vasandi v Union Of India And Others",
+  "court": "Supreme Court of India",
+  "year": 1987,
+  "judges": [
+    "Misra Rangnath"
+  ],
+  "bench": [],
+  "petitioner": "Tekraj Vasandi",
+  "respondent": "Union Of India",
+  "citations": [
+    "1963 1 SCR 77",
+    "1967 3 SCR 377",
+    "1969 3 SCR 773",
+    "1969 3 SCR 995",
+    "1970 3 SCR 363",
+    "1975 3 SCR 6",
+    "1975 3 SCR 616",
+    "1979 3 SCR 1014",
+    "1980 2 SCR 773",
+    "1981 2 SCR 111",
+    "1981 2 SCR 79",
+    "1984 1 SCR 395",
+    "1984 2 SCR 200"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "12"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "21"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "10 December 1987",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal by special leave calls in question the judgment of a Division Bench of the Delhi High Court in a Letters Patent Appeal upholding the decision of a learned Single Judge rejecting the writ petition of the appellant.",
+    "The appellant was an employee of the Institute of Constitutional and Parliamentary Studies (hereafter referred to as ICPS for short) and in a disciplinary action he was dismissed from service by order dated 17th November, 1982.",
+    "When he assailed the order in a writ petition before the High Court, the question whether lCPS was 'State' within the meaning of Art. 12 of the Constitution came for consideration as the major issue arising in the matter."
+  ],
+  "issues": [
+    "Whether ICPS is 'State' within the meaning of Art. 12 of the Constitution"
+  ],
+  "petitioner_arguments": [
+    "ICPS can become 'State' only if it is found to be an authority within the territory of India or under the control of the Government of India."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The main question for consideration now, therefore, is whether ICPS is 'State'.",
+    "For appropriate consideration of this question it is necessary to look into the Constitution of the body, the purpose for which it has been created, the manner of its functioning including the mode of its funding and the broad features which have been found by this Court in several decisions to be relevant in the matter of determining a dispute of this type.",
+    "The expression 'authority' in its etymological sense means a body invested with power to command or give an ultimate decision, or enforce obedience, or having a legal right to command and be obeyed."
+  ],
+  "holding": [
+    "ICPS is not 'State' within the meaning of Art. 12 of the Constitution"
+  ],
+  "cases_cited": [
+    "Director, Uttar Pradesh Warehousing Corporation & Anr. v. Vinay Narayan Vajpayee",
+    "Heavy Engineering Mazdoor Union v. The",
+    "In Smt. Ujjam Bai v. State of Uttar Pradesh",
+    "Tekraj Vasandi v Union Of India",
+    "Then comes the case of Ramana Dayaram Shetty v. The International Airport Authority of India &",
+    "Two cases, the First of Sabhajit Tewary v. Union of India &",
+    "and P.K. Ramachandra Iyer & Ors. v. Union of India &",
+    "and in S.L. Aggarwal v. General Manager",
+    "and the other of Sukhdev Singh & Ors v. Bhagatram Sardar Singh Raghuvanshi &",
+    "cases to which brief reference may now be made-B.S. Minhas v. Indian Statistical Institute &",
+    "in the case of Rajasthan State Electricity Board, Jaipur v. Mohan Lal &",
+    "manner. This Court has held in Praga Tools Corporation v. C.A",
+    "of a Constitution Bench and the other is Som Prakash Rekhi v. Union of India &",
+    "of this Court may be more useful. Those are Ajay Hasia etc. v. Khalid Mujib Sehravardi &"
+  ]
+}

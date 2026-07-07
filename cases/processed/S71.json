@@ -1,0 +1,38 @@
+{
+  "case_id": "S71",
+  "case_name": "Appellate jurisdiction of Supreme Court in appeals from High Courts in certain cases",
+  "court": "Supreme Court",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "134A"
+    },
+    {
+      "section": "17"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "An appeal shall lie to the Supreme Court from any judgment, decree or final order of a High Court in the territory of India,"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "For the purposes of this Article , the expression 'final order' includes an order deciding an issue which, if decided in favour of the appellant, would be sufficient for the final disposal of the case."
+  ],
+  "holding": [
+    "An appeal shall lie to the Supreme Court from any judgment, decree or final order of a High Court in the territory of India,"
+  ],
+  "cases_cited": []
+}

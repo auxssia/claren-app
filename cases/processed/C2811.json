@@ -1,0 +1,91 @@
+{
+  "case_id": "C2811",
+  "case_name": "Biswanath Bhattacharya v Union of India and others",
+  "court": "Supreme Court of India",
+  "year": 2014,
+  "judges": [
+    "J. Chelameswar"
+  ],
+  "bench": [],
+  "petitioner": "Biswanath Bhattacharya",
+  "respondent": "Union of India",
+  "citations": [
+    "1973 4 SCC 225",
+    "1976 1 SCC 1001",
+    "1977 4 SCC 98",
+    "1994 5 SCC 54",
+    "AIR 1963 SC 255",
+    "AIR 1964 SC 922",
+    "AIR 1967 SC 523"
+  ],
+  "statutes": [
+    {
+      "act": "Said Act",
+      "section": "12A"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "21 January 2014",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant was initially detained by order dated 19.12.1974 under the provisions of the Maintenance of Internal Security Act, 1971 (since repealed) and later under the provisions of the Conservation of Foreign Exchange and Prevention of Smuggling Activities Act, 1974 (hereinafter referred to as the \"COFEPOSA\") on the ground that he in collaboration with his brother, who was living in London at that point of time, was indulging in activities which are prejudicial to the conservation of foreign exchange.",
+    "The appellant unsuccessfully challenged the detention order.",
+    "He was eventually released in 1977.",
+    "While he was in custody, the second respondent issued a notice dated 4th March 1977 u/s.6(1) of the Smugglers and Foreign Exchange Manipulators (Forefeiture of Property) Act, 1976 (hereinafter referred to as \"the Act\") calling upon the appellant to explain the sources of his income out of which he had acquired the assets described in the schedule to the notice.",
+    "Some correspondence ensued between the second respondent on one hand and the wife of the appellant and the appellant on the other hand, the details of which may not be necessary for the time being.",
+    "Eventually on 27th November 1989, the second respondent passed an order u/s.7(1) of the Act forfeiting the properties mentioned in the schedule to the said order.",
+    "Aggrieved by the said order, an appeal was carried to the Appellate Tribunal constituted u/s.12 of the Act.",
+    "The appeal was partly allowed setting aside the forfeiture of two items of the properties.",
+    "Not satisfied with the Appellate Authority's conclusion, the appellant challenged the same in writ petition No.C.O.No.10543 (W) of 1991 before the High Court of Calcutta.",
+    "In the said writ petition, the appellant also prayed for two declarations - (1) that the Act is illegal and ultra vires the Constitution and (2) that the detention of the appellant under the COFEPOSA by the order dated 19th December 1974 was illegal and void - a collateral and second round of attack.",
+    "Learned Single Judge of the Calcutta High Court by an order dated 10th May 2002 partly allowed the writ petition holding that the forfeiture of the property by the second respondent as confirmed by the Appellate Tribunal was illegal on the ground that the notice u/s.6(1) of the Act dated 4th March 1977 was not in accordance with the law as the notice did not contain the reasons which constituted the basis for the belief of the competent authority that the appellant illegally acquired the scheduled properties.",
+    "Aggrieved by the order of the learned Single Judge, the respondents herein carried the matter in appeal to the Division Bench.",
+    "By the judgment under appeal, the appeal was allowed."
+  ],
+  "issues": [
+    "Whether the notice issued u/s.6(1) of the Act is defective and therefore illegal as the notice did not contain the reasons which made the competent authority believe that the scheduled properties are illegally acquired properties.",
+    "Whether the forfeiture, such as the one provided under the Act, is violative of Art.20 of the Constitution of India.",
+    "Whether the High Court failed to consider the question whether the decision of the competent authority as confirmed by the appellate authority is sustainable and therefore, the matter is required to be remitted to the High Court for an appropriate consideration of the legality of order of forfeiture."
+  ],
+  "petitioner_arguments": [
+    "The notice issued u/s.6(1) of the Act is defective and therefore illegal as the notice did not contain the reasons which made the competent authority believe that the scheduled properties are illegally acquired properties.",
+    "The forfeiture, such as the one provided under the Act, is violative of Art.20 of the Constitution of India.",
+    "The High Court failed to consider the question whether the decision of the competent authority as confirmed by the appellate authority is sustainable and therefore, the matter is required to be remitted to the High Court for an appropriate consideration of the legality of order of forfeiture."
+  ],
+  "respondent_arguments": [
+    "The notice issued u/s.6(1) of the Act was served in 1976.",
+    "It was not proceeded with till 1988 when reasons were supplied.",
+    "Order was passed by the competent authority upon affording adequate opportunity of hearing.",
+    "The respondent No.1 availed the remedy of appeal where his appeal was partly allowed."
+  ],
+  "court_reasoning": [
+    "Delayed supply of reasons, in our view, did not vitiate the subsequent orders of the competent authority as well as appellate authority.",
+    "We do not find any reason to hold that the fundamental right of the respondent No.1 was infringed.",
+    "The requirement of recording reasons u/s.127(1) is a mandatory direction under the law."
+  ],
+  "holding": [
+    "The appeal was partly allowed setting aside the forfeiture of two items of the properties.",
+    "The order of the learned Single Judge was set aside and the appeal was allowed."
+  ],
+  "cases_cited": [
+    "Bench decision of this Court in R. Abdul Quader & Co. v. STO",
+    "Bench of this Court in Attorney General for India & Others v. Amratlal Prajivandas",
+    "Biswanath Bhattacharya v Union of India",
+    "Holmes, J., in Towne v. Eisner",
+    "Lord Green in Bidie v. General Accident",
+    "Lord Green is not alone in this approach. In Bourne v. Norwich Crematorium",
+    "Sikri in His Holiness Kesavananda Bharati Sripadagalvaru v. State of Kerala",
+    "Solicitor General also relied upon The State of West Bengal v. S.K",
+    "This point was argued in the Irish High Court in Gilligan v The Criminal Assets Bureau",
+    "a judgment of this Court in Ajantha Industries and others v. Central Board of Direct Taxes",
+    "construction. Chief Justice Taney, in the State of Maryland v. Baltimore & Ohio RR Co",
+    "has also been explored in US jurisprudence. In United States v. Vanhorn a defendant convicted of fraud",
+    "have been expressed earlier in a dissenting opinion in Welch v United Kingdom",
+    "reliance on R.S. Joshi, Sales Tax Officer, Gujarat and Others v. Ajit Mills Ltd",
+    "the meaning into an article. Lord Green observed in Bidie v. General Accident",
+    "the money embezzled by the accused. The State of West Bengal v. S.K",
+    "which he had no right to possess. In United States v Dusenbery"
+  ]
+}

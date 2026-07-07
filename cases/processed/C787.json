@@ -1,0 +1,44 @@
+{
+  "case_id": "C787",
+  "case_name": "Nafe Singh v State of Haryana",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Nafe Singh",
+  "respondent": "State of Haryana\nSupreme Court of India\n\n23 April 2009\nCriminal Appeal No. 210 of 2008\nThe Judgment was delivered by : Dr. Arijit Pasayat, J.\n1.  Challenge in this appeal is to the judgment of a Division of the Punjab and Haryana High Court dismissing the appeal filed by the appellant.\n2.  Three accused persons faced trial for alleged commission of offences punishable under Section 302, 323 and 324 read with Section 34 of the Indian Penal Code, 1860 (in short \"IPC\") for allegedly intentionally causing the death of Bhanwar Singh (hereinafter referred to as \"the deceased\") in furtherance of their common intention and causing injuries to Mukesh (PW.8) and his brother Vinod. The trial court found the accused persons guilty and convicted them for the offences punishable under Sections 302, 323 and 324 read with Section 34 IPC. The appeal was filed by all the three convicted accused persons. Criminal Revision No.474/2005 was filed by the complainant.\nThe prosecution version in a",
+  "citations": [
+    "2007 3 SCC 89",
+    "AIR 1993 SC 2426"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "34"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "313"
+    },
+    {
+      "act": "Ipc Covers Act",
+      "section": "300"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "23 April 2009",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The appropriate conviction will be under Section 304 Part-II IPC instead of Section 302 IPC."
+  ],
+  "cases_cited": []
+}

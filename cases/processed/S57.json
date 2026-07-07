@@ -1,0 +1,52 @@
+{
+  "case_id": "S57",
+  "case_name": "",
+  "court": "High Court",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Principal Act",
+      "section": "115"
+    },
+    {
+      "act": "Code Of Civil Procedure",
+      "section": "115"
+    },
+    {
+      "act": "Said Code",
+      "section": "115"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The High Court may call for the record of any case which has been decided by any Court subordinate to such High Court and in which no appeal lies thereto, and if such subordinate Court appears- (a ) to have exercised a jurisdiction not vested in it by law, or (b) to have failed to exercise a jurisdiction so vested, or (c) to have acted in the exercise of its jurisdiction illegally or with material irregularity, the High Court may make such order in the case as it thinks fit.",
+    "The High Court shall not, under this section, vary or reverse any decree or order against which an appeal lies either to the High Court or to any Court subordinate thereto.",
+    "A revision shall not operate as a stay Of suit or other proceeding before the Court except where such suit or other proceeding is stayed by the High Court."
+  ],
+  "issues": [
+    "[]"
+  ],
+  "petitioner_arguments": [
+    "[]"
+  ],
+  "respondent_arguments": [
+    "[]"
+  ],
+  "court_reasoning": [
+    "The expression 'any case which has been decided' includes any order made, or any order deciding an issue, in the course of a suit or other proceeding.",
+    "In this section, the expression 'any case which has been decided' includes any order deciding an issue in the course of a suit or other proceeding."
+  ],
+  "holding": [
+    "[]"
+  ],
+  "cases_cited": []
+}

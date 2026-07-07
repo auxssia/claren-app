@@ -1,0 +1,73 @@
+{
+  "case_id": "C2546",
+  "case_name": "Ghanshyam Sharma v Surendra Kumar Sharma and others",
+  "court": "Supreme Court of India",
+  "year": 2014,
+  "judges": [
+    "J. Chelameswar"
+  ],
+  "bench": [],
+  "petitioner": "Ghanshyam Sharma",
+  "respondent": "Surendra Kumar Sharma",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "44"
+    },
+    {
+      "section": "16"
+    },
+    {
+      "section": "406"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "482"
+    },
+    {
+      "section": "420"
+    },
+    {
+      "section": "379"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Theft",
+  "court_level": "Supreme Court",
+  "decision_date": "26 August 2014",
+  "outcome": "Unknown",
+  "facts": [
+    "The defacto complainant in case No.1743/IX/2009, arising out of Case Crime No.246 of 2009 on the file of the 1st Additional Chief Judicial Magistrate, Mathura, preferred this appeal.",
+    "It is alleged that there was an agreement between the appellant and the contesting respondents (1 to 3) whereunder the said respondents agreed to sell a plot of land admeasuring 400 sq. yards to the appellant herein for an amount of Rs.44,00,000/-.",
+    "On 11.7.2009, the appellant complained to the police that the father of the contesting respondents herein had called the appellant herein on telephone and asked the appellant to make the payment of the balance amount to the first respondent herein.",
+    "The police investigated the case and filed a chargesheet u/s. 406 and 420 IPC.",
+    "The trial Court summoned the accused (respondents herein).",
+    "The respondents approached the High Court u/s. 482 Cr.P.C. praying that the criminal proceedings be quashed."
+  ],
+  "issues": [
+    "Whether the respondents are guilty u/s. 379 IPC or not is a matter of evidence.",
+    "Whether the trial Court can frame an appropriate charge if there is sufficient material from the report of the police available before it."
+  ],
+  "petitioner_arguments": [
+    "Two fold submissions have been made by the learned counsel for the applicants: -",
+    "1. That the facts disclosed in the report as well as in the statement of the witnesses, do not constitute the substantive offence u/s. 406 as there is no entrustment of the property.",
+    "2. That the amount of Rs.16,68,000/- was required to be paid by the complainant in lieu of the sale consideration as such offence u/s. 420 is not made out as no inducement was made by the applicants to deliver the property to the applicants."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The High Court opined that there was no entrustment of the money in the instant case and at best it was a case of theft falling u/s. 379 IPC.",
+    "What is being alleged in the present case is that the money which was carried by the complainant for discharge of his liability for paying remaining sale consideration which amount was kept in the vehicle owned by the applicants.",
+    "By any stretch of imagination it cannot be said that the property was entrusted to the accused persons."
+  ],
+  "holding": [
+    "We do not propose to examine the correctness of the findings recorded by the High Court in an enquiry that there was no entrustment of money.",
+    "The fact remains that the appellant lost money which was kept in the car of the first respondent.",
+    "Even according to the High Court, the case would fall u/s. 379 IPC.",
+    "We allow the appeal and set aside the impugned order."
+  ],
+  "cases_cited": [
+    "Ghanshyam Sharma v Surendra Kumar Sharma"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "case_id": "C469",
+  "case_name": "Bidi Supply Co. v The Union Of India And Others",
+  "court": "Supreme Court of India",
+  "year": 1954,
+  "judges": [
+    "Das, J."
+  ],
+  "bench": [],
+  "petitioner": "Bidi Supply Co",
+  "respondent": "The Union Of India",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    },
+    {
+      "section": "22(2)"
+    },
+    {
+      "section": "5(7- A)"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    },
+    {
+      "section": "5"
+    },
+    {
+      "section": "64"
+    },
+    {
+      "section": "5(7-A)"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "31"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "527"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "13 December 1954",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner is a firm carrying on business as manufacturer and seller of Bidi.",
+    "In 1948 it was registered as a firm under the Indian Partnership Act.",
+    "It has its head office in Calcutta, where its books of account are said to be kept and maintained and where it is said to have its banking account.",
+    "It has its factories near Chakradharpur in the State of Bihar but it has no banking account there.",
+    "The members of the firm are citizens of India.",
+    "Since its inception the firm has all along been assessed to income-tax by the Income-tax Officer, District III, Calcutta.",
+    "Assessments for the years 1948-49 and 1949-50 were made by the Income-tax Officer, District III, Calcutta.",
+    "Notices u/s. 22(2) of the Indian Income-tax Act, 1922 were issued to the petitioner on different dates by the Income-tax Officer, District III, Calcutta, calling upon the petitioner to submit returns for the assessment years 1950-51, 1951-52, 1952-53, 1953-54 and 1954-55.",
+    "The notice for the last mentioned year being dated 23rd August 1954.",
+    "In compliance with these notices the petitioner duly submitted its returns for those respective years to the Income-tax Officer, District III, Calcutta.",
+    "In the course of assessment proceedings for the year 1950-51 a question was raised regarding the location of the principal place of business of the petitioner.",
+    "Eventually the income-tax authorities seem to have been satisfied that it was in Calcutta and on 18th December 1954 the Income-tax Officer, District III, Calcutta, made assessment for the year 1950-51.",
+    "On the 25th January, 1955 the petitioner received a letter from the Income-tax Officer, District III, Calcutta informing it 'that in pursuance to orders u/s. 5(7-A) of the Indian Income-tax Act, 1922 your assessment records are transferred from this office to the Income-tax Officer, Special Circle, Ranchi with whom you may correspond in future regarding your assessment proceedings.'"
+  ],
+  "issues": [
+    "Whether sub-section (7-A) of s. 5 of the Indian Income-tax Act, 1922 and the said Order of transfer made thereunder are unconstitutional in that they infringe the fundamental rights guaranteed to the petitioner by articles 14, 19(1)(g) and 31 of the Constitution."
+  ],
+  "petitioner_arguments": [
+    "The contention is that sub-section (7-A) of s. 5 of the Indian Income-tax Act, 1922 and the said Order of transfer made thereunder are unconstitutional in that they infringe the fundamental rights guaranteed to the petitioner by articles 14, 19(1)(g) and 31 of the Constitution."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The scope and effect of article 14, in so far as it protects all persons against discriminatory and hostile legislation, have been discussed and explained by this court in a series of cases beginning with Chiranjit Lal Chowdhury v. The Union of India ([1950] S.C.R. 8691950 Indlaw SC 55.) and ending with Budhan Chowdhry and others v. The State of Bihar ([1955] 1 S.C.R. 10451954 Indlaw SC 4.).",
+    "It is now well-established that while art. 14 forbids class legislation, it does not forbid reasonable classification for the purposes of legislation.",
+    "The classification may be founded on different bases; namely, geographical, or according to objects or occupations or the like.",
+    "What is necessary is that there must be a nexus between the basis of classification and the object of the Act under consideration."
+  ],
+  "holding": [
+    "The petition is allowed. The order of transfer dated 13th December 1954 is declared invalid and without jurisdiction."
+  ],
+  "cases_cited": [
+    "Bidi Supply Co. v The",
+    "In another case, Ram Prasad Narayan Sahi and Another v. The",
+    "In the case of Liversidge v. Sir John Anderson (",
+    "Patanjali Sastri, C.J. said in The State of West Bengal v. Anwar",
+    "So also in the State of Madras v. V. G",
+    "and ending with Budhan Chowdhry and others v. The",
+    "decisions and was stated thus in The State of West Bengal v. Anwar Ali Sarkar (",
+    "discussion before the Bombay High Court in Dayaldas Kushiram v. Commissioner of Income-tax",
+    "in a series of cases beginning with Chiranjit Lal Chowdhury v. The",
+    "position. The quotation is from Ram Prasad Narayan Sahi v. The"
+  ]
+}

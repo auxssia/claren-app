@@ -1,0 +1,50 @@
+{
+  "case_id": "C530",
+  "case_name": "Maharashtra Academy of Engineering and Educational Research v State of Maharashtra and Others",
+  "court": "Supreme Court of India",
+  "year": 2001,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Maharashtra Academy of Engineering and Educational Research",
+  "respondent": "State of Maharashtra",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "136"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 226",
+  "court_level": "Supreme Court",
+  "decision_date": "6 November 2001",
+  "outcome": "Unknown",
+  "facts": [
+    "The applicant before us being an engineering institution for whose benefit the land had been acquired...",
+    "It is well settled that an order of an inferior tribunal or a statutory authority could be interfered with by the High Court while exercising jurisdiction under Article 226 of the Constitution, only if the Court comes to the conclusion that the order is contrary to certain provisions of law or the authority concerned has no jurisdiction or the authority concerned took into consideration certain extraneous materials, not germane to the issue or the authority concerned failed to take into consideration certain materials which are otherwise relevant or the finding is one on the materials which could not have been arrived at by any reasonable man.",
+    "We have scrutinized the order of the Minister concerned from the aforesaid standpoint and we do not find the said order to be suffering from any of the aforesaid infirmities, requiring interference by the Court in exercise of its discretionary jurisdiction under Articles 226 and 227 of the Constitution."
+  ],
+  "issues": [
+    "Whether the order of the Minister concerned withdrawing from the acquisition is contrary to certain provisions of law or the authority concerned has no jurisdiction",
+    "Whether the authority concerned took into consideration certain extraneous materials, not germane to the issue"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "We have scrutinized the order of the Minister concerned from the aforesaid standpoint and we do not find the said order to be suffering from any of the aforesaid infirmities, requiring interference by the Court in exercise of its discretionary jurisdiction under Articles 226 and 227 of the Constitution.",
+    "On examining the order of the Minister as well as the materials on record, we do not find any force in the aforesaid contention."
+  ],
+  "holding": [
+    "The special leave petition is dismissed."
+  ],
+  "cases_cited": [
+    "Maharashtra Academy of Engineering and Educational Research v State of Maharashtra"
+  ]
+}

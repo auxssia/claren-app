@@ -1,0 +1,34 @@
+{
+  "case_id": "S101",
+  "case_name": "Grounds for setting aside award",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "35"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "(a) that an arbitrator or umpire has misconducted himself or the proceedings ;",
+    "(b) that an award has been made after the issue of an order by the Court superseding the arbitration or after arbitration proceedings have become invalid under section 35 ;",
+    "(c) that an award has been improperly procured or is otherwise invalid."
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "An award shall not be set aside except on one or more of the following grounds, namely :-"
+  ],
+  "cases_cited": []
+}

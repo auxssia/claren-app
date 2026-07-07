@@ -1,0 +1,60 @@
+{
+  "case_id": "C2431",
+  "case_name": "Ganeshmal Jashraj v Govt. Of Gujarat And Anr.",
+  "court": "Supreme Court of India",
+  "year": 1979,
+  "judges": [
+    "P. N. Bhagwati"
+  ],
+  "bench": [],
+  "petitioner": "Ganeshmal Jashraj",
+  "respondent": "Govt. Of Gujarat",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "313"
+    },
+    {
+      "act": "Code Of Criminal Procedure Was",
+      "section": "313"
+    },
+    {
+      "act": "Code Of Criminal Procedure And",
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Consumer",
+  "legal_subdomain": "Deficiency",
+  "court_level": "Supreme Court",
+  "decision_date": "30 October 1979",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant was charged before the learned Judicial Magistrate for an offence under section 16(1) (a) (i) of the Prevention of Food Adulteration Act, 1954.",
+    "The Prosecution led the evidence of respondent No. 2 and one Thakurbhai who was one of the panch witnesses in whose presence the turmeric powder was purchased by respondent No. 2 and the certificate of the Public Analyst showing that the turmeric powder was adulterated was also tendered in evidence.",
+    "The appellant pleaded not guilty to the offence charged against him and a trial was thereupon held by the learned Judicial Magistrate.",
+    "The Prosecution closed its case and thereafter the appellant was examined by the learned Judicial Magistrate under section 313 of the Code of Criminal Procedure."
+  ],
+  "issues": [
+    "Whether the conviction was vitiated due to the admission of guilt made by the appellant",
+    "Whether the sentence imposed on the appellant was in breach of the mandatory requirement of the Act"
+  ],
+  "petitioner_arguments": [
+    "The learned Judicial Magistrate was not entitled to take into account the admission of guilt made by the appellant in reaching his decision in regard to the conviction of the appellant.",
+    "The evaluation of the evidence by the Court is likely to become a little superficial and perfunctory when there is an admission of guilt made by the accused."
+  ],
+  "respondent_arguments": [
+    "The learned Judicial Magistrate did not base his order of conviction solely on the admission of guilt made by the appellant, but it was clear from his judgment that his conclusion was not unaffected by the admission of guilt on the part of the appellant.",
+    "The approach of the Court to the assessment of the evidence would be likely to be different when there is an admission of guilt by the accused."
+  ],
+  "court_reasoning": [
+    "When there is an admission of guilt made by the accused as a result of plea bargaining or otherwise, the evaluation of the evidence by the Court is likely to become a little superficial and perfunctory.",
+    "The approach of the learned Judicial Magistrate was affected by the admission of guilt made by the appellant and in the circumstances, it would not be right to sustain the conviction of the appellant."
+  ],
+  "holding": [
+    "We accordingly allow the appeal, set aside the order of the High Court enhancing the sentence imposed on the appellant as also the Order of the learned Judicial Magistrate convicting the appellant and remand the case to the learned Judicial Magistrate so that he may proceed further from the stage of examination under section 313 of the Code of Criminal Procedure."
+  ],
+  "cases_cited": [
+    "Ganeshmal Jashraj v Govt"
+  ]
+}

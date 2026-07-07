@@ -1,0 +1,110 @@
+{
+  "case_id": "C717",
+  "case_name": "Kuria and another v State of Rajasthan",
+  "court": "Supreme Court of India",
+  "year": 2012,
+  "judges": [
+    "Swatanter Kumar"
+  ],
+  "bench": [],
+  "petitioner": "Kuria and another",
+  "respondent": "State of Rajasthan\nSupreme Court of India\n\n13 September 2012\nCr.A. No. 2488 of 2009\nThe Judgment was delivered by : Swatanter Kumar, J.\n1.  At the outset, we may notice that 15 accused persons had faced trial for offences u/ss. 302 and 364 read with S. 34 of the Indian Penal Code, 1860 (for short \"IPC\") before the Court of the Additional Sessions Judge, Banswara (Rajasthan). Vide its judgment dated 5th September, 2003, learned Trial Court acquitted all the accused persons except Laleng son of Bajeng, Laleng son of Dalji and Kuriya son of Laleng. These three accused were convicted for both these offences and were directed to undergo rigorous imprisonment for life with a fine of Rs.4,000/ each and in default to further undergo rigorous imprisonment for four months under Section 302/34 IPC and to undergo rigorous imprisonment for ten years with a fine of Rs.1000/each and in default to undergo further rigorous imprisonment for one month under Section 364/34 IPC.\n2.  All",
+  "citations": [
+    "1991 1 SCC 519",
+    "2000 8 SCC 457",
+    "2001 2 SCC 205",
+    "2002 5 SCC 100",
+    "2003 11 SCC 367",
+    "2003 7 SCC 56",
+    "2005 9 SCC 769",
+    "2008 11 SCC 303",
+    "2009 13 SCC 542",
+    "2010 10 SCC 259",
+    "2010 12 SCC 350",
+    "2011 12 SCC 120",
+    "2011 9 SCC 561",
+    "2012 5 SCC 724"
+  ],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "4"
+    },
+    {
+      "section": "1000"
+    },
+    {
+      "section": "364"
+    },
+    {
+      "section": "173(3)"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "161"
+    },
+    {
+      "section": "34"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "13 September 2012",
+  "outcome": "Unknown",
+  "facts": [
+    "The case involves 15 accused persons who faced trial for offences under sections 302 and 364 of the Indian Penal Code.",
+    "The Trial Court acquitted all the accused except three, who were convicted and sentenced to rigorous imprisonment for life with a fine.",
+    "The High Court confirmed the conviction and sentence.",
+    "The appellants argue that the prosecution's case is based on suspicion and that there are serious holes in the case.",
+    "The post-mortem report shows 15 injuries caused by blunt objects within 24 hours of death."
+  ],
+  "issues": [
+    "Whether the prosecution has established its case beyond reasonable doubt.",
+    "Whether the accused have been properly convicted and sentenced.",
+    "Whether the High Court's confirmation of the conviction is justified."
+  ],
+  "petitioner_arguments": [
+    "PW1 is not a reliable eye-witness, inasmuch as from his statement and the attendant circumstances, it is clear that he has not seen the occurrence.",
+    "Presence of PW15 at the place of occurrence is doubtful inasmuch as PW3 in his report to the Police did not name him.",
+    "No specific role or use of a particular weapon in causing injuries by the respective accused has been seen by PW3 or any other witness.",
+    "There is clear contradiction between the ocular and medical evidence inasmuch as, according to PW3 and PW15, axe and kash were used for inflicting injuries upon the deceased, while, according to the post mortem report, all the injuries were caused with blunt weapons and there was no bleeding injury.",
+    "The statement of hostile witnesses or unreliable witnesses cannot be used for the purposes of corroboration of other witnesses."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The court notes that the prosecution's case is based on suspicion and that there are serious holes in the case.",
+    "The court refers to the post-mortem report, which shows 15 injuries caused by blunt objects within 24 hours of death.",
+    "The court concludes that the prosecution has not established its case beyond reasonable doubt."
+  ],
+  "holding": [
+    "The appeal is allowed, and the conviction and sentence are set aside."
+  ],
+  "cases_cited": [
+    "Alagupandian v. State of Tamil Nadu",
+    "D.P. Chadha v. Triyugi Narain Mishra",
+    "Hemchand Jhas alias Hemchandra Jha v. State of Bihar",
+    "In State of U.P. v. Hari Chand",
+    "In the case of Krishnan v. State",
+    "Narayan Chetanram Chaudhary and Another v. State of Maharashtra",
+    "Organs and interal Healthy V. MUSCLES BONES",
+    "Ref. Sunil Kumar v. State",
+    "Reference in this regard can be made to Ashok Kumar Vs. State of Haryana",
+    "Sukhchain Singh v. State of Haryana",
+    "and Nand Kishore v. State of Madhya Pradesh",
+    "and Shivlal and Another v. State of Chhattisgarh",
+    "in this regard can be made to the cases of Shyamal Ghosh v. State of West Bengal",
+    "judgments of this Court in Kathi Bharat Vajsur and Another v. State of Gujarat",
+    "on the judgment of this Court in the case of State of Punjab v. Parveen Kumar",
+    "oral evidence has primacy. In the case of Abdul Sayeed v. The",
+    "supra), Brathi alias Sukhdev Singh Vs. State of Punjab",
+    "was taken by this Court in the case of Baso Prasad & Ors. v. State of Bihar"
+  ]
+}

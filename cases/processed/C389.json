@@ -1,0 +1,80 @@
+{
+  "case_id": "C389",
+  "case_name": "Parminder alias Ladka Pola v State of Delhi",
+  "court": "Supreme Court of India",
+  "year": 2014,
+  "judges": [
+    "A. K. Patnaik"
+  ],
+  "bench": [],
+  "petitioner": "Parminder alias Ladka Pola",
+  "respondent": "State of Delhi\nSupreme Court of India\n\n16 January 2014\nCr.A. No. 133 of 2006\nThe Judgment was delivered by : A. K. Patnaik, J.\n1. This is an appeal by way of special leave u/art. 136 of the Constitution against the judgment dated 06.03.2003 of the Delhi High Court in Criminal Appeal No. 696 of 2002 by which the conviction of the appellant u/ss. 376 and 506 of the Indian Penal Code, 1860 (for short 'IPC') and the sentences imposed by the trial court on the appellant have been maintained.\nFacts:\n2. The facts very briefly are that on 30.01.2001 at about 8.00 p.m., a young girl of about fourteen years accompanied by her parents, lodged the First Information Report (for short 'the FIR') in Police Station, Khajoori Khas, Delhi, in which she stated as follows: She was a student of Higher Secondary School and residing with her parents at House No.131, Gali No.12, Khajoori Khas, Delhi. Opposite to their house was the house of Sardar Jagir Singh. Babbo, daughter of S",
+  "citations": [
+    "2000 5 SCC 30",
+    "2000 9 SCC 204",
+    "2009 2 SCC 272",
+    "2010 2 SCC 9",
+    "2011 13 SCC 705",
+    "2012 6 SCC 770"
+  ],
+  "statutes": [
+    {
+      "section": "376"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "5"
+    },
+    {
+      "section": "506"
+    },
+    {
+      "section": "511"
+    },
+    {
+      "section": "375"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "16 January 2014",
+  "outcome": "Unknown",
+  "facts": [
+    "On 30.01.2001 at about 8.00 p.m., a young girl of about fourteen years accompanied by her parents, lodged the First Information Report (for short 'the FIR') in Police Station, Khajoori Khas, Delhi...",
+    "The prosecutrix was medically examined on the same night.",
+    "On examination of the X-rays report of the prosecutrix, the doctor opined that her age was above fourteen years but below sixteen years."
+  ],
+  "issues": [
+    "Whether the High Court is right in coming to the conclusion that the appellant was guilty under Section 376, IPC, for the offence of rape or whether the evidence on record in this case only made out an offence of attempt to rape under Section 376, IPC, read with Section 511, IPC."
+  ],
+  "petitioner_arguments": [
+    "At most this is a case of attempt to rape and not rape and hence the appellant should be held guilty under Sections 376/511, IPC, and not under Section 376, IPC.",
+    "The onus is always on the prosecution to prove affirmatively each ingredient of the offence it seeks to establish and such onus never shifts and it is no part of the duty of the defence to explain as to how and why in a rape case the victim and other witnesses have falsely implicated the accused."
+  ],
+  "respondent_arguments": [
+    "The prosecution has discharged its onus in establishing beyond reasonable doubt that the appellant has committed rape on the prosecutrix.",
+    "This is not a fit case in which this Court should invoke the proviso to S. 376(1), IPC and reduce the minimum sentence of seven years for the offence of rape as provided in S. 376(1), IPC, to the period already undergone by the appellant."
+  ],
+  "court_reasoning": [
+    "The High Court has considered the evidence of the prosecutrix (PW-1), the medical evidence and the report of CFSL.",
+    "There is corroboration of the testimony of the prosecutrix that rape was committed on her.",
+    "Partial penetration of the penis within the Labia majora or the vulva or pudenda with or without emission of semen or even an attempt at penetration is quite sufficient for the purpose of the law."
+  ],
+  "holding": [
+    "The High Court has held that there was penetration which has caused bleeding in the private parts of the prosecutrix as would be evident from the fact that the underwear of the prosecutrix was stained by blood.",
+    "This Court has accordingly held that even the slightest penetration is sufficient to make out an offence of rape and depth of penetration is immaterial."
+  ],
+  "cases_cited": [
+    "He cited the decision of this Court in Narender Kumar v. State (NCT of Delhi",
+    "In State of Rajasthan vs. N.K",
+    "Sukhwinder Singh vs. State of Punjab",
+    "and Baldev Singh and Others vs. State of Punjab",
+    "and State of Rajasthan vs. Vinod Kumar",
+    "cited the decisions of this Court in State of Madhya Pradesh vs. Bablu Natt",
+    "he cited the decisions of this Court in State of Rajasthan vs. N.K",
+    "of rape. This Court has accordingly held in Wahid Khan v. State of Madhya Pradesh"
+  ]
+}

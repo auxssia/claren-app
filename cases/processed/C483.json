@@ -1,0 +1,70 @@
+{
+  "case_id": "C483",
+  "case_name": "G. Sagar Suri and Another v State of Uttar Pradesh and Others",
+  "court": "Supreme Court of India",
+  "year": 2000,
+  "judges": [
+    "D. P. Wadhwa"
+  ],
+  "bench": [],
+  "petitioner": "G. Sagar Suri and Another",
+  "respondent": "State of Uttar Pradesh",
+  "citations": [
+    "1977 3 SCR 113"
+  ],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "482"
+    },
+    {
+      "act": "Negotiable Instruments Act",
+      "section": "138"
+    },
+    {
+      "act": "The Code",
+      "section": "482"
+    },
+    {
+      "act": "Code Or Article 227 Of The Constitution",
+      "section": "482"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "28 January 2000",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants had sought quashing of criminal proceedings pending against them under Section 406/420 of the Indian Penal Code.",
+    "A First Information Report (FIR) was filed against seven persons, including the two appellants, by Mr. P.K. Sen Gupta, General Manager, M/s. Phoenix International Finance Ltd.",
+    "The FIR alleged that the accused persons had cheated and committed fraud on the complainant's company.",
+    "The Police registered a case against four persons, namely, G. Sagar Suri, Shama Suri, Ashwani Suri, and Shalini Suri, describing them as Directors of M/s. Ganga Automobiles Ltd.",
+    "The complainant had already instituted a complaint under Section 138 of the Negotiable Instruments Act in the Court of the Additional Chief Judicial Magistrate, Ghaziabad."
+  ],
+  "issues": [
+    "Whether the criminal proceedings pending against the appellants can be quashed?"
+  ],
+  "petitioner_arguments": [
+    "The appellants argued that the criminal proceedings were based on a false and fabricated FIR.",
+    "They contended that the complainant had no locus standi to file the FIR."
+  ],
+  "respondent_arguments": [
+    "The respondent argued that the FIR was genuine and the accused persons had committed fraud and cheated the complainant's company."
+  ],
+  "court_reasoning": [
+    "The court held that the FIR was not fabricated and the accused persons had indeed committed fraud and cheated the complainant's company.",
+    "The court noted that the appellants had failed to establish any material irregularity in the investigation or the filing of the FIR."
+  ],
+  "holding": [
+    "The appeal was dismissed, and the criminal proceedings pending against the appellants were allowed to continue."
+  ],
+  "cases_cited": [
+    "G. Sagar Suri and Another v State of Uttar Pradesh",
+    "In Chandrapal Singh and Others v. Maharaj Singh",
+    "In Kurukshatra University and Another v. State of Haryana",
+    "and Ashok Chaturvedi & Ors. v. Shitul H",
+    "to secure the ends of justice. In State of Karnataka v. L. Muniswamy",
+    "to two decisions of this Court in Pepsi Foods Ltd. & Anr. v. Special Judicial Magistrate &"
+  ]
+}

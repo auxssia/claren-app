@@ -1,0 +1,70 @@
+{
+  "case_id": "C2029",
+  "case_name": "Uma Shankar Gautam v State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "year": 2014,
+  "judges": [
+    "C. Nagappan, J."
+  ],
+  "bench": [],
+  "petitioner": "Uma Shankar Gautam",
+  "respondent": "State of Madhya Pradesh\nSupreme Court of India\n\n9 December 2014\nCr.A. No. 1451 of 2009\nThe Judgment was delivered by : C. Nagappan, J.\n1. This appeal is preferred against the judgment and order dated 12.8.2008 passed by the High Court of Madhya Pradesh at Jabalpur in Criminal Appeal No.1537 of 1998.\n2. The appellant herein is accused no.1 and he along with five other accused were tried in Sessions case no.193/1995 on the file of Sessions Judge, District Shahdol and the trial court convicted them for the commission of offences u/s. 147 and S. 302 read with S. 149 IPC and sentenced each of them to undergo rigorous imprisonment for one year for the first offence and each of them to undergo imprisonment for life for second offence. Aggrieved by the same all the accused preferred Criminal Appeal no.1537 of 1998 to the High Court of judicature at Jabalpur. During the pendency of appeal appellant no.2/accused no.2 Ramashankar died and the appeal preferred by him stood aba",
+  "citations": [
+    "2002 8 SCC 381"
+  ],
+  "statutes": [
+    {
+      "section": "147"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "1"
+    },
+    {
+      "section": "313"
+    },
+    {
+      "section": "5"
+    },
+    {
+      "section": "3"
+    },
+    {
+      "act": "Constitution of India"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "9 December 2014",
+  "outcome": "Unknown",
+  "facts": [
+    "The case involves a murder trial where the accused, Umashankar, appeals against his conviction and sentence.",
+    "The prosecution's case is that on July 19, 1995, the accused and five others attacked Kalua @ Ramnath with weapons, causing injuries that led to his death.",
+    "The trial court convicted all six accused, including Umashankar, and sentenced them to imprisonment for one year and life.",
+    "Umashankar appeals against his conviction and sentence, arguing that there is no evidence linking him to the injuries on Kalua's hands."
+  ],
+  "issues": [
+    "Whether the prosecution has established the presence of the accused at the scene of the crime?",
+    "Whether the injuries found on the deceased were caused by the accused or others?",
+    "Whether the High Court correctly applied the principle of parity in distinguishing between the accused?"
+  ],
+  "petitioner_arguments": [
+    "The eye witnesses have not stated that the appellant/accused no.1 caused injury on the hands of deceased Kalua with lathi.",
+    "The High Court had given benefit of doubt to accused nos.5 and 6 as no injury of lathi has been found on the person of deceased and on the ground of parity the appellant also deserves to be acquitted."
+  ],
+  "respondent_arguments": [
+    "The presence of the appellant and his overt act against the deceased stood established by ocular testimony and also intimation report in Exh.P-6.",
+    "The High Court had elaborately considered the role and overt act of appellant/accused no.1 Umashankar and held that his presence stood established not only by the ocular testimony but also in the first intimation in Exh.P-6 report."
+  ],
+  "court_reasoning": [
+    "The High Court has given benefit of doubt by acquitting accused nos.5 and 6 on the ground that no injury of lathi was found on the person of the deceased.",
+    "The fact remains that compound fractures were found on the left forearm and right wrist which as per medical opinion attributable to attack made by hard and blunt object."
+  ],
+  "holding": [
+    "The appeal is dismissed."
+  ],
+  "cases_cited": []
+}

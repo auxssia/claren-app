@@ -1,0 +1,63 @@
+{
+  "case_id": "C106",
+  "case_name": "State of Maharashtra v Suresh",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [
+    "Hon'ble Justice K. T. Thomas"
+  ],
+  "bench": [],
+  "petitioner": "State of Maharashtra",
+  "respondent": "Suresh\nSupreme Court of India\n\n10 December 1999\nAppeal (Cr.) 1092-1093 of 1998\nThe Judgment was delivered by : Hon'ble Justice K. T. Thomas\n1. A gory episode is narrated in this case the gravamen of which is a grisly perpetrated rape and murder of a four year old female child. The rapist had abducted the child from her house and decoyed her to a field at Arvi (in Wardha district of Maharashtra State). After the rape and murder the mangled body of the child was dumped in the field where pulses and cotton were cultivated. The man whom the police challenged as a culprit was convicted and condemned to death penalty by the sessions court but he now stands exonerated as a Division Bench of the High Court of Bombay proclaimed him not guilty. The State of Maharashtra is not prepared to reconcile with the clean chit granted to him by the High Court and hence this appeal by special leave has been filed by the State.\n2. Sneha is the name of the little child who was subjecte",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Evidence Act, 1872"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "10 December 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "Gangu, a four-year-old female child, was abducted from her house and taken to a field where she was raped and murdered.",
+    "The rapist had previously been accused of committing rape and murder in another case and was acquitted.",
+    "The police found the mangled body of Gangu in a farm, and an autopsy revealed that she died due to asphyxia by rape and smothering.",
+    "Gangu's father reported her missing to the police station, and the respondent was arrested on suspicion of her disappearance.",
+    "The respondent disclosed the location of the dead body during interrogation, leading the police to recover it."
+  ],
+  "issues": [
+    "Whether the crime was committed by the respondent",
+    "Whether the evidence presented by the prosecution was reliable"
+  ],
+  "petitioner_arguments": [
+    "The prosecution presented a chain of circumstances that pointed to the guilt of the respondent.",
+    "The respondent's injuries and the presence of human blood and semen on his underclothes were incriminating circumstances.",
+    "The testimony of three witnesses who claimed to have seen the respondent with Gangu was reliable."
+  ],
+  "respondent_arguments": [
+    "The High Court declined to rely on the evidence of the three witnesses due to minor discrepancies in their testimony.",
+    "The respondent's injuries could have been caused 48 hours earlier than the time of his examination, making them not conclusive evidence.",
+    "There was delay in seizing the underclothes with human blood and semen, which raised doubts about their relevance."
+  ],
+  "court_reasoning": [
+    "The court found that the three witnesses' testimony was reliable and that their memories were jogged by hearing about Gangu's murder.",
+    "The court rejected the High Court's reasoning that the witnesses had no cause to remember seeing the respondent with Gangu.",
+    "The court concluded that either the witnesses concocted the story falsely or what they said must be true."
+  ],
+  "holding": [
+    "The Supreme Court allowed the appeal and convicted the respondent of the crime."
+  ],
+  "cases_cited": [
+    "and Ramanathan V. State of Tamil Nadu",
+    "envisaged by the Constitution Bench in Bachan Singh v. State of Punjab",
+    "impair the purpose for which the parade is held, vide Budhsen v. State of Uttar Pradesh"
+  ]
+}

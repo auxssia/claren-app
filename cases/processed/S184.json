@@ -1,0 +1,39 @@
+{
+  "case_id": "S184",
+  "case_name": "",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "4"
+    },
+    {
+      "section": "6"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "No person shall himself or by any person on his behalf manufacture for sale, or store, sell or distribute-",
+    "(i) any adulterated food; (ii) any misbranded food;",
+    "(iii) any article of food for the sale of which a licence is prescribed, except in accordance with the conditions of the licence;",
+    "(iv) any article of food the sale of which is for the time being prohibited by the Food (Health) Authority1 [in the interest of public health;]2",
+    "(v) any article of food in contravention of any other provision of this Act or of any rule made there under;3 [or] 4 [(vi) any adulterant]"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "No person shall manufacture for sale, or store, sell or distribute any adulterated food; any misbranded food; any article of food for the sale of which a licence is prescribed, except in accordance with the conditions of the licence; any article of food the sale of which is for the time being prohibited by the Food (Health) Authority; any article of food in contravention of any other provision of this Act or of any rule made there under."
+  ],
+  "cases_cited": []
+}

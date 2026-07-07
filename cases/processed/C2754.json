@@ -1,0 +1,76 @@
+{
+  "case_id": "C2754",
+  "case_name": "Tata Engineering and Locomotive Company Limited v State of Bihar and Others",
+  "court": "Supreme Court of India",
+  "year": 1964,
+  "judges": [
+    "Pralhad Balacharya Gajendragadkar"
+  ],
+  "bench": [],
+  "petitioner": "Tata Engineering and Locomotive Company Limited",
+  "respondent": "State of Bihar",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "112"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "25 February 1964",
+  "outcome": "Unknown",
+  "facts": [
+    "These writ petitions have been placed for hearing before us in a group, because they raise a common question of law in regard to the validity of the demand for sales tax which has been made against the respective petitioners by the Sales-tax Officers for different areas.",
+    "The facts in respect of each one of the writ petitions are not the same and the years for which the demand is made are also different; but the pattern of contention is uniform and the arguments urged in each one of them are exactly the same.",
+    "The petitioner is a company registered under the Indian Companies Act, 1913 and carries on the business of manufacturing, inter alia, Diesel Truck and Bus chassis and the spare parts and accessories thereof at Jamshedpur in the State of Bihar.",
+    "The company sells these products to dealers, State Transport Organisations and others doing business in various States of India.",
+    "The registered office of the petitioner is in Bombay.",
+    "In order to promote its trade throughout the country, the petitioner has entered into Dealership Agreements with different persons.",
+    "The modus adopted by the petitioner in carrying on its business in different parts of India is to sell its products to the dealers by virtue of the relevant provisions of the Dealership Agreements.",
+    "The petitioner distributes and sells its vehicles to dealers, State Transport Organisations and consumers in the manner set out in the petition.",
+    "The petitioner contends that the sales in respect of which the present petitions have been filed were effected in the course of inter-State trade and as such, were not liable to be taxed under the relevant provisions of the Sales Tax Act.",
+    "The Sales-tax Officer, on the other hand, has held that the sales had taken place within the State of Bihar and were intra-State sales and as such, were liable to assessment under the Bihar Sales Tax Act."
+  ],
+  "issues": [
+    "Whether the appropriate authorities purporting to act under the different Sales Tax Acts are attempting to recover from the petitioners sales-tax in respect of transactions to which the petitioners were parties, though the said transactions are not taxable under Art. 286 of the Constitution.",
+    "Whether the sales in question are all sales which took place outside the State and as such, are entitled to the protection of Art. 286(1) (a).",
+    "Whether by coming to this erroneous conclusion, a tax is being levied against them in respect of transactions protected by Art. 286(1)(a) and that constitutes a breach of their fundamental rights under Art. 31(1)."
+  ],
+  "petitioner_arguments": [
+    "The case for the petitioners is that the appropriate authorities purporting to act under the different Sales Tax Acts are attempting to recover from the petitioners sales-tax in respect of transactions to which the petitioners were parties, though the said transactions are not taxable under Art. 286 of the Constitution.",
+    "The argument is that the sales in question are all sales which took place outside the State and as such, are entitled to the protection of Art. 286(1) (a).",
+    "It is argued on behalf of the petitioners that though the company or the Corporation may not be an Indian citizen under Art. 19, that should not prejudice the petitioners' case, because, in substance, the Corporation is no more than an instrument or agent appointed by its Indian shareholders and as such, it should be open to the petitioners either acting themselves as companies or acting through their shareholders to claim the relief for which the present petitions have been filed under Art. 32."
+  ],
+  "respondent_arguments": [
+    "The respondents contend that the main attack of the petitioners is against the findings of the Sales-tax Officers in regard to the character of the impugned sale transactions and they urge that even if the said findings are wrong, that cannot attract the provisions of Art. 32.",
+    "It is urged that the decision of this Court that the State Trading Corporation is not a citizen, necessarily means that the fundamental rights guaranteed by Art. 19 which can be claimed only by citizens cannot be claimed by such a Corporation, and so, there can be no scope for looking at the substance of the matter and giving to the shareholders indirectly the right which the Corporation as a separate legal entity is not directly entitled to claim."
+  ],
+  "court_reasoning": [
+    "The majority decision rendered in these writ petitions on the preliminary issue referred to the Special Bench was that the petitioner as a State Trading Corporation is not a citizen under Art. 19, and so, could not claim the protection of the fundamental rights guaranteed by the said Article.",
+    "It is urged that in dealing with the plea of the petitioners that the veil worn by the Corporation as a separate legal entity should be lifted and the substantial character of the Corporation should be determined without reference to the technical position that the Corporation is a separate entity, we ought to bear in mind the decision of this Court in the case of the State Trading Corporation of India Ltd.",
+    "Basing themselves on this contention, the respondents have also argued that if the fundamental rights guaranteed by Art. 19 are not available to the petitioners, then their plea that the sales-tax is being collected from them contrary to Art. 31(1) must fail and in support of this contention reliance is placed upon a recent decision of this Court in the case of Indo-China Steam Navigation Co. Ltd."
+  ],
+  "holding": [
+    "The second preliminary objection raised by the respondents against the competence of the writ petitions must be upheld.",
+    "Since we have come to the conclusion that the second preliminary objection raised by the respondents must be upheld, we do not propose to pronounce any decision on the first preliminary objection."
+  ],
+  "cases_cited": [
+    "Court in the case of Indo-China Steam Navigation Co. Ltd. v. The Additional Collector of Customs",
+    "Das J. expressly held that the view taken in Kailash Nath v. State of U",
+    "J. V. Gokar & Co. (Private) Ltd. v. The Assistant Collector of Sales-tax (Inspection",
+    "M/s. Mohanlal Hargovind Dass v. The",
+    "Tata Engineering and Locomotive Company Limited v State of Bihar",
+    "Thakur Amar Singhji v. State of Rajasthan",
+    "The State Trading Corporation of India Ltd. and Another v. The",
+    "Y. Mahaboob Sheriff v. Mysore",
+    "and Scottish Joint Co-operative Wholesale Society Ltd. v. Commissioner of Agricultural Income-tax",
+    "and The State Trading Corporation of India Ltd. and Others v. The",
+    "and Universal Imports Agency v. Chief Controller of Imports",
+    "as the decision of the House of Lords in Daimler Company Ltd. v. Continental Tyre",
+    "decision of a Special Bench of this Court in Smt. Ujjam Bai v. State of Uttar Pradesh",
+    "established ever since the decision in the case of Salomon v. Salomon & Co",
+    "held by this Court in All India Bank Employees' Association v. National Industrial Tribunal",
+    "vide State Trading Corporation of India Ltd. v. The Commercial Tax Officer"
+  ]
+}

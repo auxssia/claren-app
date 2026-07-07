@@ -1,0 +1,75 @@
+{
+  "case_id": "C566",
+  "case_name": "Ramashraya and Another v State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "year": 2001,
+  "judges": [
+    "K. G. Balakrishnan"
+  ],
+  "bench": [],
+  "petitioner": "Ramashraya and Another",
+  "respondent": "State of Madhya Pradesh\nSupreme Court of India\n\n23 February 2001\nAppeal (Cr.) 132-134 of 2000\nThe Judgment was delivered by : K. G. Balakrishnan, J.\n1. The appellants herein challenge their conviction and sentence u/s. 302 IPC read with S. 34 IPC. They were tried by the Fourth Addl. Sessions Judge, Raipur, alleging that they caused the death of one Ajeet. The prosecution case was that on 19 December 1987 when the deceased Ajeet and his son, Laljee, were doing some work in their paddy field, the appellants came there in their bullock cart. Deceased Ajeet was grazing his buffaloes near his field and a little away, his son Laljee, was collecting bundles of paddy. It seems that the appellants wanted to drive their bullock cart through the Tewda field of the deceased. Deceased Ajeet, objected to this and there ensued a quarrel between Ajeet and the appellants. Appellant Kripa Ram tried to hit the deceased on his head but the blow fell on the shoulder of the deceased",
+  "citations": [
+    "1975 3 SCC 727",
+    "1979 1 SCC 161",
+    "AIR 1956 SC 116",
+    "AIR 1956 SC 654",
+    "AIR 1958 SC 465",
+    "AIR 1960 SC 1390",
+    "AIR 1964 SC 1263",
+    "AIR 1995 SC 1453"
+  ],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "304"
+    },
+    {
+      "section": "300"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "23 February 2001",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants herein challenge their conviction and sentence u/s. 302 IPC read with S. 34 IPC.",
+    "Deceased Ajeet was grazing his buffaloes near his field and a little away, his son Laljee, was collecting bundles of paddy.",
+    "Appellant Kripa Ram tried to hit the deceased on his head but the blow fell on the shoulder of the deceased.",
+    "The Inquest Report was prepared and the body of Ajeet was subjected to post-mortem.",
+    "Two broken pieces of the tooth of Ajeet were recovered from the place of incident along with blood stained earth and the 'lathi' alleged to have been used to kill the deceased."
+  ],
+  "issues": [
+    "What is the nature of the injuries caused by the appellants?",
+    "Was there intention to cause death or was it a case of culpable homicide not amounting to murder?"
+  ],
+  "petitioner_arguments": [
+    "The witnesses were interested-witnesses and the courts below erred in placing reliance on these witnesses.",
+    "There was no pre-meditation and the quarrel took place all of a sudden pursuant to a wordy altercation between the appellants and the deceased.",
+    "There was no intention on the part of the appellants to cause the death of the deceased.",
+    "The circumstances of the case do not also indicate that there was knowledge on the part of the appellants that the injuries caused by them were likely to cause death."
+  ],
+  "respondent_arguments": [
+    "The prosecution must establish, quite objectively, that a bodily injury is present and the nature of injury must be proved.",
+    "The second part of S. 304 speaks of 'knowledge' and does not refer to 'intention', which has been segregated in the first part.",
+    "But the knowledge is knowledge of the likelihood of death."
+  ],
+  "court_reasoning": [
+    "We do not find much force in this contention.",
+    "From the nature of the injury also, it would be observed that the accused had only the knowledge that the injury was likely to cause death, but intention as such cannot be attributed to them.",
+    "The second part of S. 304 speaks of 'knowledge' and does not refer to 'intention', which has been segregated in the first part."
+  ],
+  "holding": [
+    "The offence would come u/s. 304 Part II IPC instead of 302."
+  ],
+  "cases_cited": [
+    "In State of Madhya Pradesh vs. Jhaddu &",
+    "Ramesh Kumar vs. State of Bihar &"
+  ]
+}

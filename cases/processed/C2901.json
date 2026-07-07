@@ -1,0 +1,65 @@
+{
+  "case_id": "C2901",
+  "case_name": "Ganesh v State of Karnataka and Others",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Ganesh",
+  "respondent": "State of Karnataka",
+  "citations": [
+    "AIR 1956 SC 460",
+    "AIR 1965 SC 202"
+  ],
+  "statutes": [
+    {
+      "act": "Read With Section 149 Of The Indian Penal Code",
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "20 August 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "The accused, the deceased and the material prosecution witnesses are all residents of Malladihalli village in Holalkere Taluk.",
+    "Accused Nos. 1 and 4 are brothers.",
+    "Accused No.2 is the son of accused No.4, whereas accused Nos. 3 and 5 are the sons of accused No.1.",
+    "Accused No.6 is related to these accused.",
+    "Relation between the accused group and the deceased and his family members was strained over erecting an electric pole in the land of the accused, the line of which would have passed and benefited the deceased and his borewell in the land near by which was objected by the accused.",
+    "This ill will and enmity ultimately resulted in the assault on the deceased and his sons on 2.10.1995.",
+    "On that day, there was a festival and a procession was taken of the deity by the villagers.",
+    "The deceased and his children had also joined the procession."
+  ],
+  "issues": [
+    "Whether the evidence on record left no manner of doubt that Section 302 read with Section 149 IPC was clearly applicable.",
+    "Whether the eye witnesses PWs 2 and 3 should not have been accepted as they were related witnesses.",
+    "Whether the investigating officer did not investigate fairly and therefore the trial Court and the High Court were not justified in upholding the conviction of the five appellants."
+  ],
+  "petitioner_arguments": [
+    "The evidence does not inspire confidence and most of the related witnesses are partisan witnesses.",
+    "The eye witnesses PWs 2 and 3 should not have been accepted as they were to be related witnesses.",
+    "There was delayed examination of so-called witnesses.",
+    "When the trial Court acquitted 19 accused persons i.e. A-7 to A-25 and the High Court directed acquittal of A-1, it would be unsafe to sustain the conviction of others."
+  ],
+  "respondent_arguments": [
+    "The evidence on record shows that PWs 2 and 3 were injured witnesses.",
+    "Their evidence assumes great importance.",
+    "No definite overt act has been attributed to any of the five respondents."
+  ],
+  "court_reasoning": [
+    "Appreciation of evidence in such a complex case is no doubt a difficult task; but criminal courts have to do their best in dealing with such cases and it is their duty to sift the evidence carefully and decide which part of it is true and which is not.",
+    "It is always open to the court to differentiate between an accused who has been convicted and those who have been acquitted.",
+    "The maxim 'falsus in uno, falsus in omnibus' is merely a rule of caution."
+  ],
+  "holding": [
+    "The appeals are without merit and deserve dismissal which we direct.",
+    "Appeals Dismissed"
+  ],
+  "cases_cited": [
+    "Ganesh v State of Karnataka"
+  ]
+}

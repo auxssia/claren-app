@@ -1,0 +1,74 @@
+{
+  "case_id": "C548",
+  "case_name": "Shri Harendra Nath Borah v State Of Assam",
+  "court": "Supreme Court of India",
+  "year": 2007,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Shri Harendra Nath Borah",
+  "respondent": "State Of Assam\nSupreme Court of India\n\n24 January 2007\nAppeal (crl.) 107 of 2007(Arising out of SLP (CRL.) No.5338 of 2006)\nThe Judgment was delivered by : Dr. Arijit Pasayat, J.\nLeave granted.\n1.  Challenge in this appeal is to the judgment of the Guwahati High Court upholding appellant's conviction under Section 302 of the Indian Penal Code, 1860 (in short the 'IPC') and sentence of imprisonment for life as awarded by the learned Sessions Judge, Dhemaji.\n2.  Accusations which led to the trial of the appellant are essentially as follows: One Premlal Verma lodged a written complaint to the Superintendent of Police, East Siang, Arunachal Pradesh on 29.9.2000 alleging that on 26.9.2000 one Fekan Das (hereinafter referred to as the 'deceased') was driving a Truck No.AS-25/641. At about 11.00 p.m. when the truck reached Ruksing Gate, the police personnel of Jonai Police Station came there in a three wheeler and assaulted the deceased. The deceased became senseles",
+  "citations": [
+    "AIR 1958 SC 465",
+    "AIR 1966 SC 1874"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "197"
+    },
+    {
+      "act": "Both Require Knowledge Of The Probability Of The Act",
+      "section": "300"
+    },
+    {
+      "act": "Would Be Applicable Where The Knowledge Of The Offender As To The Probability Of Death Of A Person Or Persons In General As Distinguished From A Particular Person Or Persons Being Caused From His Imminently Dangerous Act",
+      "section": "300"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "24 January 2007",
+  "outcome": "Unknown",
+  "facts": [
+    "One Premlal Verma lodged a written complaint to the Superintendent of Police, East Siang, Arunachal Pradesh on 29.9.2000 alleging that on 26.9.2000 one Fekan Das (hereinafter referred to as the 'deceased') was driving a Truck No.AS-25/641.",
+    "At about 11.00 p.m. when the truck reached Ruksing Gate, the police personnel of Jonai Police Station came there in a three wheeler and assaulted the deceased.",
+    "The deceased became senseless and the police left him on the road and returned to the police station.",
+    "It was further alleged that the deceased was brought to the Pasighat General Hospital for treatment.",
+    "On 28.9.2000, he was referred to Dibugarh for treatment and on 29.9.2000 on way to the hospital his condition became serious and he died while being brought to Pasighat."
+  ],
+  "issues": [
+    "The academic distinction between 'murder' and 'culpable homicide not amounting to murder' has always vexed the Courts.",
+    "The confusion is caused, if Courts losing sight of the true scope and meaning of the terms used by the legislature in these sections, allow themselves to be drawn into minute abstractions."
+  ],
+  "petitioner_arguments": [
+    "Even if the accusations are accepted in toto, the offence under Section 302 IPC is not made out.",
+    "The evidence of the eye witnesses cannot be relied upon as there was delay in lodging the FIR, and conviction was vitiated.",
+    "No sanction was obtained as required under Section 197 of the Code of Criminal Procedure, 1973 (in short the 'Code')."
+  ],
+  "respondent_arguments": [
+    "The evidence of PWs. 5, 6 and 7 had clearly established the accusations.",
+    "The deceased was assaulted without any fault on his part.",
+    "Since the appellant, a police personnel was involved there was effort on the part of the other officials not to accept the information given and ultimately the grievance was made before the Superintendent of Police."
+  ],
+  "court_reasoning": [
+    "The crucial question is as to which was the appropriate provision to be applied.",
+    "For the purpose of fixing punishment, proportionate to the gravity of the generic offence, the IPC practically recognizes three degrees of culpable homicide.",
+    "Culpable homicide of this degree is punishable under the second part of Section 304."
+  ],
+  "holding": [
+    "The appeal was dismissed."
+  ],
+  "cases_cited": [
+    "In Virsa Singh v. State of Punjab",
+    "and in Thangiya v. State of T",
+    "death in the ordinary course of nature. Rajwant and Anr. v. State of Kerala",
+    "highlighted by this Court in State of Andhra Pradesh v. Rayavarapu Punnayya"
+  ]
+}

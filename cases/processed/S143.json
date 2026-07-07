@@ -1,0 +1,52 @@
+{
+  "case_id": "S143",
+  "case_name": "",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Hindu Adoptions And Maintenance Act",
+      "section": "18"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "125"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "488"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "This Act may, on a petition presented by either the husband or the wife, be dissolved by a decree of divorce on the ground that the other party has, after the solemnization of the marriage, had voluntary sexual intercourse with any person other than his or her spouse;",
+    "The expression 'mental disorder' means mental illness, arrested or incomplete development of mind, psychopathic disorder or any other disorder or disability of mind and includes schizophrenia;",
+    "Either party to a marriage may also present a petition for the dissolution of the marriage by a decree of divorce on the ground that there has been no resumption of cohabitation as between the parties to the marriage for a period of one year or upwards after the passing of a decree for judicial separation in a proceeding to which they were parties;",
+    "A wife may also present a petition for the dissolution of her marriage by a decree of divorce on the ground that the husband has, since the solemnization of the marriage, been guilty of rape, sodomy or bestiality;"
+  ],
+  "issues": [
+    "[]"
+  ],
+  "petitioner_arguments": [
+    "[]"
+  ],
+  "respondent_arguments": [
+    "[]"
+  ],
+  "court_reasoning": [
+    "[]"
+  ],
+  "holding": [
+    "[]"
+  ],
+  "cases_cited": []
+}

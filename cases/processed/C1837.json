@@ -1,0 +1,93 @@
+{
+  "case_id": "C1837",
+  "case_name": "Indian Overseas Bank, Anna Salai And Anr v P. Ganesan And Others",
+  "court": "Supreme Court of India",
+  "year": 2007,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "Indian Overseas Bank, Anna Salai And Anr",
+  "respondent": "P. Ganesan",
+  "citations": [
+    "1996 6 SCC 417",
+    "1999 3 SCC 679",
+    "2004 7 SCC 442",
+    "2005 10 SCC 471",
+    "2006 5 SCC 446",
+    "AIR 1960 SC 806",
+    "AIR 1965 SC 155"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "section": "1"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "482"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "13(1)"
+    },
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    },
+    {
+      "section": "25"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "23 November 2007",
+  "outcome": "Unknown",
+  "facts": [
+    "Respondents 1 to 4 herein are the office bearers of the All India Indian Overseas Bank SC/ST Employees Welfare Association.",
+    "Indisputably another association was also operating in the establishment of the appellant known as All India Indian Overseas Bank Employees Union of which respondent No.5 is the President.",
+    "A first information report was lodged on 27th January, 2005 with the Thousand Lights Police Station, Chennai alleging that L. Balasubramanian, Respondent No.5, herein was assaulted on 27th January, 2005 at about 12.35 p.m. within the bank premises by Respondents Nos. 1 to 4 as well as by Mr. P. Rajalingam, the Deputy Chief Officer working in the Regional Office of the appellant-bank.",
+    "All the respondents are indisputably employees of the bank.",
+    "Their designations are as under :- (a) Respondent No.1 (P. Ganesan) is employed as Assistant Manager, Thiruvottiyur Market Branch..",
+    "An enquiry was conducted leading to discovery of certain additional facts.",
+    "Respondent No.5 was admitted in the National Hospital for medical treatment.",
+    "He remained confined therein for a period of twelve days."
+  ],
+  "issues": [
+    "Whether pendency of a criminal case by itself would be a sufficient ground for stay of the departmental proceedings",
+    "The question as to whether the Departmental Proceedings and the Criminal case are based on identical and similar set of facts"
+  ],
+  "petitioner_arguments": [
+    "The appellants argued that the respondents were seeking adjournments and taking time from the Enquiry Officer in the said disciplinary proceedings, while on the other hand, they moved the High Court of Madras by filing writ petitions u/art. 226 of the Constitution of India."
+  ],
+  "respondent_arguments": [
+    "The respondents argued that the departmental proceedings were solely based upon the criminal complaint lodged by the president of a rival union, who is also facing prosecution with regard to the same incident."
+  ],
+  "court_reasoning": [
+    "In our opinion, in the peculiar facts and circumstances of the case on hand, fair play requires that postponing of the departmental proceedings till the criminal cases are decided.",
+    "We are, therefore, of the view that the prayer made by the petitioners for deferring the departmental proceedings till the conclusion of the criminal trial has to be accepted and it is ordered accordingly."
+  ],
+  "holding": [
+    "The court held that the departmental proceedings should be deferred till the criminal cases are decided."
+  ],
+  "cases_cited": [
+    "Capt. M. Paul Anthony vs. Bharat Gold Mines Ltd",
+    "Hindustan Petroleum Corporation Ltd. and others vs. Sarvesh Berry",
+    "In Delhi Cloth and General Mills Ltd. vs. Kushal Bhan",
+    "In State of Rajathan vs. B.K",
+    "Indian Overseas Bank, Anna Salai And Anr v P. Ganesan",
+    "The same principle was reiterated in Tata Oil Mills Co. Ltd. vs. The Workmen",
+    "and Sathi Vijay Kumar vs. Tota Singh",
+    "has been placed on Kendriya Vidyalaya Sangathan and others vs. T. Srinivas",
+    "in support of his contention, strongly relied upon G.M. Tank vs. State of Gujarat"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "case_id": "C887",
+  "case_name": "S.N. Chandrashekar and Another v State of Karnataka and Others",
+  "court": "Supreme Court of India",
+  "year": 2006,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "S.N. Chandrashekar and Another",
+  "respondent": "State of Karnataka",
+  "citations": [
+    "2004 3 SCC 1",
+    "2005 3 SCC 232",
+    "2005 3 SCC 241",
+    "2005 7 SCC 627"
+  ],
+  "statutes": [
+    {
+      "act": "Shall Conform To The Provisions Of The Act",
+      "section": "14A"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "2 February 2006",
+  "outcome": "Unknown",
+  "facts": [
+    "The State of Karnataka enacted the Karnataka Town and Country Planning Act, 1961 (for short, 'the Act').",
+    "A Comprehensive Development Plan was prepared by the BDA.",
+    "In Jayanagar which is a residential area in the town of Bangalore, allotment of houses had been made to individuals for residential purpose only in terms of the said development plan.",
+    "Whereas the Appellants were allotted houses bearing nos. 282D and 281D, one K.V. Ramachandra was allotted Plot No.585.",
+    "A deed of sale was executed in his favour on 10 December 1994, inter alia, on the condition that the same would be exclusively used for residential purpose only.",
+    "The Respondent No.6 purchased the said premises from the said K.V. Ramachandra by a registered deed of sale dated 24 August 1998.",
+    "He intended to convert the land use from residential to commercial wherefor an application was made before the BDA.",
+    "The said application was treated to be one under Section 14-A of the Act."
+  ],
+  "issues": [
+    "Whether the State of Karnataka and the BDA acted illegally and without jurisdiction in granting permission for change of land use from residential to commercial",
+    "Whether the Appellants have a right to challenge the order granting permission for change of land use"
+  ],
+  "petitioner_arguments": [
+    "The State of Karnataka as also the BDA acted illegally and without jurisdiction in granting such permission as the conditions precedent laid down therefor had not been fulfilled.",
+    "While granting such permission, the basic issue that such change of land use is impermissible in law had not been taken into consideration and the impugned order was passed upon taking into consideration irrelevant factors and without considering the relevant ones."
+  ],
+  "respondent_arguments": [
+    "From various provisions of the Act, it would appear that Ss. 14 and 15 thereof provide for a separate scheme which is not governed by Section 14-A of the Act.",
+    "As in terms of Ss. 14 and 15 of the Act, the power as regard change in user vests in the Planning Authority, it was not necessary to invoke Section 14-A of the Act.",
+    "Having regard to the fact that the Association had given its consent, constructions were permitted to start a vegetarian restaurant by the Respondent No.6 and the said restaurant has been running for a period of more than three years;",
+    "As the other persons similarly situated are operating in the area and as the Appellants or any other person had not taken any objection thereto, it is not a fit case where this Court should exercise its discretionary jurisdiction u/art. 136 of the Constitution of India."
+  ],
+  "court_reasoning": [
+    "The High Court dismissed the writ petition filed by the Appellants herein holding, inter alia :",
+    "When objections were called for, wherefor notices were published in several newspapers, only Jayanagar 5th Block Residents' Welfare Association filed an objection and later on withdrew the same;",
+    "The BDA in its resolution dated 29 June 1999 held that conversion was in public interest and permitted the conversion of use from dwelling to commercial (restaurant);",
+    "As the Appellants did not file any objection, they were not entitled to any relief;",
+    "Number of permissions by the planning authorities had been accorded for change of land use by invoking Section 14-A of the Act and, thus, there was no reason, why such permission should not be granted to the Respondent No.6."
+  ],
+  "holding": [
+    "The Court held that the Appellants did not have a right to challenge the order granting permission for change of land use from residential to commercial.",
+    "The Court also held that the Respondent No.6 had given its consent by letter dated 13 April 1999 for change of user of the property and for establishing a vegetarian restaurant at Plot No.585."
+  ],
+  "cases_cited": [
+    "In Hindustan Petroleum Corpn Ltd. v. Darius Shapur Chenai &",
+    "S.N. Chandrashekar and Another v State of Karnataka",
+    "See Bangalore Development Authority & Others v. R. Hanumaiah &",
+    "We may notice that in Special Deputy Commissioner v. Bhargavi Madhavan",
+    "answerable for. Homan v. Employers Reinsurance Corpn",
+    "brought out later. Yet again in Sri Krishnapur Mutt, Udipi v. N. Vijayendra Shetty",
+    "of the said words had been noticed in Ashok Leyland Ltd. vs. State of T",
+    "th Main Road, V Block",
+    "this Court referring to Cholan Roadways Ltd. v. G. Thirugnanasambandam"
+  ]
+}

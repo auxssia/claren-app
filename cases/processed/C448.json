@@ -1,0 +1,74 @@
+{
+  "case_id": "C448",
+  "case_name": "State Of Rajasthan v Islam",
+  "court": "Supreme Court of India",
+  "year": 2011,
+  "judges": [
+    "Hon'ble Mr. Justice A.K. Ganguly"
+  ],
+  "bench": [],
+  "petitioner": "State Of Rajasthan",
+  "respondent": "Islam\nSupreme Court of India\n\n24  May  2011\nCriminal Appeal No(S). 1318 of 2005\nThe Judgment was delivered by : Hon'ble Mr. Justice A.K. Ganguly, J.\n1. Heard learned counsel for the parties.\n2. The State of Rajasthan is in appeal before us impugning the judgment dated 19.2.2003 passed by the High Court whereby the High Court by its judgment disposed of two appeals, being Criminal Appeal No. 401 of 1997 and Criminal Appeal No. 380 of 1997. The appeal of the State is in respect of Criminal Appeal No. 401 of 1997. By the judgment of acquittal rendered by the High Court in the aforesaid criminal appeal, it inter alia, confirmed the conviction of the other accused, namely, Rujdar, Ilias, Muvin, and Manna u/s. 323 IPC but modified their sentence awarded to them by enhancing the fine instead of imposing imprisonment.\n3. The appeal of the accused Asru, Guncheri, Mohammada, Kalto, Roshan and Titta was allowed and they were acquitted from the charges u/s.s 148 and 336/149 IP",
+  "citations": [
+    "AIR 1981 SC 1442",
+    "AIR 1984 SC 63",
+    "AIR 1990 SC 709"
+  ],
+  "statutes": [
+    {
+      "section": "323"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "304"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "24 May 2011",
+  "outcome": "Unknown",
+  "facts": [
+    "The State of Rajasthan is in appeal before us impugning the judgment dated 19.2.2003 passed by the High Court whereby the High Court by its judgment disposed of two appeals, being Criminal Appeal No. 401 of 1997 and Criminal Appeal No. 380 of 1997.",
+    "A meeting was held in the morning for raising some funds for repairing the mosque and in the said meeting, an altercation took place between respondent no. 1 and various other sons of the area who assembled for the meeting.",
+    "One of the son assembled there told PW 7 that he had been treacherous in misappropriating public funds for repair of the mosque.",
+    "There was a minor shuffle amongst those who had assembled there.",
+    "It is the consistent evidence of the witnesses mentioned above that after that, respondent no. 1 along with others went home and came back armed with a 'Farsa'.",
+    "PW 12 said that Islam hit Jenu with Farsa on his head but the number of times had not been mentioned by him.",
+    "The injuries on the deceased are as follows: One incised wound 7 cm X 1 cm X bone deep on left frontal region of head. Two incised wounds 6.5 cm X 1 cm X bone deep on Rt. Frontal region of head. Three incised wounds 8 cm X 1 cm X bone deep on Rt. Parietal region of head."
+  ],
+  "issues": [
+    "Whether in passing the order of conversion of sentence from S. 302 IPC to S. 304 Part II IPC in respect of respondent no. 1, the High Court exercised its judicial discretion properly."
+  ],
+  "petitioner_arguments": [
+    "The learned counsel for the appellant while taking us though the judgment of the Trial Court drew our attention to the evidence of PW 7, PW 9, PW 12, PW 16 and PW 17 and submitted that these are all eye-witnesses and there is consistent evidence of these eyewitnesses about the involvement of respondent no. 1 in the commission of crime, namely, the murder of Jenu."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The High Court while converting the conviction of the respondent no. 1 from S. 302 IPC to S. 304 Part-II in paragraph 12 held that the relations between respondent no. 1 and the deceased Jenu were cordial and only one blow was caused by Islam on the head of the deceased and that proved fatal.",
+    "The High Court further said that the injury inflicted by respondent no. 1 was not pre-meditated and the respondent no. 1 did not take any undue advantage or nor acted in a cruel manner and as such, the case of respondent Islam is covered by Explanation IV appended to S. 300 IPC and could only be held guilty under s. 304 Part II IPC.",
+    "We fail to appreciate the aforesaid reasoning by the High Court in the context of the consistent evidence discussed above."
+  ],
+  "holding": [
+    "The conversion of the conviction of respondent Islam from s. 302 IPC to s. 304 Part II IPC cannot be sustained and the entire approach of the High Court is misconceived, if not verse.",
+    "The finding of the High Court that the act of the respondent no. 1 is coming under the fourth exception cannot be sustained at all."
+  ],
+  "cases_cited": [
+    "State of M.P. v. Paltan Mallah",
+    "State of U.P. v. Premi",
+    "and State of Punjab v. Parveen Kumar",
+    "approach resulting in miscarriage of justice (State of T.N. v. Suresh",
+    "b. The finding is verse. (State of M.P. v. Bachhudas",
+    "f. Acquittal is based on irrelevant grounds (Arunachalam v. Sadhanatham",
+    "infirmity in the appraisal of evidence. (State of U.P. v. Sahai",
+    "of law or erroneous appreciation of evidence (State of U.P. v. Abdul",
+    "order of conviction by the Trial Court (Gaurishanker Sharma v. State of U",
+    "suffers from substantial errors of law and fact (Rajesh Kumar v. Dharamvir",
+    "tainted with serious legal infirmities (State of Maharashtra v. Pimple"
+  ]
+}

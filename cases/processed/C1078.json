@@ -1,0 +1,55 @@
+{
+  "case_id": "C1078",
+  "case_name": "Khazan Singh (Dead) by Lrs v Union of India",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [
+    "THOMAS, J."
+  ],
+  "bench": [],
+  "petitioner": "Khazan Singh (Dead) by Lrs",
+  "respondent": "Union of India\nSupreme Court of India\n\n24 January 2002\nC.A. No. 667 of 2002\nThe Judgment was delivered by : THOMAS, J.\nLeave granted.\n1.  Can the reference made by a Collector u/s. 18 of the Land Acquisition Act, 1894, (for short 'the Act') be dismissed for default? A civil court dismissed the reference for default of the claimant as he failed to be present when the matter was taken up. He made an unsuccessful bid to have the reference restored to the file. The High Court also did not help him as per the impugned order.\n2.  Appellants are the legal heirs of one Khazan Singh. Certain area of land belonging to the said Khazan Singh was acquired under the provisions of the Act and an award was passed by the collector  on 16.7.1984, fixing the compensation payable to the land owners. As Khazan Singh was not satisfied with the amount fixed by the Land Acquisition Officer he moved an application u/s. 18 of the Act for making a reference to the civil court. The La",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "18"
+    },
+    {
+      "section": "23"
+    },
+    {
+      "section": "2"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "24 January 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "The Collector made a reference under s.18 of the Land Acquisition Act, 1894, which was pending before the court of a District Judge.",
+    "Khazan Singh died and the present appellants filed an application quoting Order 9 Rule 9 and S.151 of the Code of Civil Procedure for restoration of the reference.",
+    "The Additional District Judge rejected the said petition on the ground that there was no sufficient cause for the absence of the appellant or his counsel on 29.9.1997.",
+    "Appellants thereafter filed an appeal before the High Court, which dismissed the appeal mainly on the ground that absence of the appellant and his counsel has not been satisfactorily explained, and also on the ground that there was unexplained delay in moving the application for restoration."
+  ],
+  "issues": [
+    "Can the reference made by a Collector u/s. 18 of the Land Acquisition Act, 1894, be dismissed for default?"
+  ],
+  "petitioner_arguments": [
+    "The appellants argued that the Additional District Judge rejected their petition for restoration of the reference without sufficient cause and that there was unexplained delay in moving the application for restoration."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The court held that the civil court has to pass an award in answer to the reference made by the collector u/s. 18 of the Act, and nonparticipation of any party would not confer jurisdiction on the civil court to dismiss the reference for default.",
+    "The court also referred to various High Courts' decisions which have taken the view that the civil court has to pass an award in answer to the reference made by the collector u/s. 18 of the Act."
+  ],
+  "holding": [
+    "The appeal is allowed, and the order passed by the Additional District Court on 29.9.1997 is set aside.",
+    "The said District Court will now proceed to answer the reference in accordance with the law and pass award as envisaged in S.26 of the Act."
+  ],
+  "cases_cited": [
+    "Abdul Kareem vs. State of M",
+    "In Joseph vs. Govt",
+    "Joseph vs. Government of Kerala"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "case_id": "S69",
+  "case_name": "Appellate jurisdiction of Supreme Court in regard to criminal matters",
+  "court": "Supreme Court",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "134A"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "145"
+    },
+    {
+      "section": "19"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "An appeal shall lie to the Supreme Court from any judgment, final order or sentence in a criminal proceeding of a High Court in the territory of India",
+    "The High Court has on appeal reversed an order of acquittal of an accused person and sentenced him to death; or",
+    "The High Court has withdrawn for trial before itself any case from any court subordinate to its authority and has in such trial convicted the accused person and sentenced him to death; or",
+    "The High Court certifies under Article 134A that the case is a fit one for appeal to the Supreme Court"
+  ],
+  "issues": [
+    "Appellate jurisdiction of Supreme Court in regard to criminal matters"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "An appeal shall lie to the Supreme Court from any judgment, final order or sentence in a criminal proceeding of a High Court in the territory of India",
+    "Parliament may by law confer on the Supreme Court any further powers to entertain and hear appeals from any judgment, final order or sentence in a criminal proceeding of a High Court in the territory of India"
+  ],
+  "cases_cited": []
+}

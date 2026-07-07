@@ -1,0 +1,80 @@
+{
+  "case_id": "C2836",
+  "case_name": "East India Tobacco Company v State of Andhra Pradesh and Another",
+  "court": "Supreme Court of India",
+  "year": 1962,
+  "judges": [
+    "T. L. Venkatarama Aiyyar"
+  ],
+  "bench": [],
+  "petitioner": "East India Tobacco Company",
+  "respondent": "State of Andhra Pradesh and Another\nSupreme Court of India\n\n6 April 1962\nC.As. Nos. 290 & 291 of 1961\nThe Judgment was delivered by : T. L. Venkatarama Aiyyar, J.\n1.  Those are appeals against the judgment of the High Court of Andhra Pradesh in petitions Nos. 11 72 of 1956 and 56 of 1957 filed under Art. 226 of the Constitution questioning the validity of the Andhra Act XIV of 1955 insofar as it imposes a tax on the sale of Virginia tobacco. The appellants are firms doing business in the export of tobacco. The usual course of that business is stated to be that they first enter into contracts with their customers abroad for the sale of tobacco, that thereafter they purchase the requisite quantities of goods locally and then export them to the foreign purchasers in performance of their contracts. Prior to October 1, 1953, the area wherein the appellants carried on business formed part of the State of Madras, and on that date the- State of Andhra was constitut",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "3"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "286"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "6 April 1962",
+  "outcome": "Unknown",
+  "facts": [
+    "Those are appeals against the judgment of the High Court of Andhra Pradesh in petitions Nos. 11 72 of 1956 and 56 of 1957 filed under Art. 226 of the Constitution questioning the validity of the Andhra Act XIV of 1955 insofar as it imposes a tax on the sale of Virginia tobacco.",
+    "The appellants are firms doing business in the export of tobacco.",
+    "Prior to October 1, 1953, the area wherein the appellants carried on business formed part of the State of Madras, and on that date the- State of Andhra was constituted, and the area in question fell within that State.",
+    "The law relating to sales tax in force in that area it; the Madras General Sales Tax Act, TX of 1939.",
+    "S. 5 of this Act provides for exemption of tax on sales of goods specified therein and a. 6 confers on the State Government power to exempt the tax payable on the sale of any specified class of goods or by any specified class of persons.",
+    "In exercise of the powers conferred by a. 6 the Government of Madras issued on March 31, 1953, a notification No. 144 exempting the sales of unmanufactured tobacco from sales tax.",
+    "After the Andhra State came into existence, the Legislature of that State enacted Act XIV of 1955 hereinafter referred to as 'the Amendment Act' whereby it amended s. 5 of the Madras General Sales Tax Act by adding as item (viii) the following :-",
+    "(viii) raw tobacco (except country variety thereof whether cured or uncured, shall be liable to tax under Section 3, Sub S. 1 only at the point of the first purchase effected in the State of Andhra by a dealer who is not exempt from taxation under s. 3, Sub s. 3 but at the rate of seven and half pies for every rupee on his turnover.",
+    "Explanation :-For the purpose of this item, country variety of tobacco means variety of tobacco other than Virginia and other similar varieties of tobacco."
+  ],
+  "issues": [
+    "Is the impugned Act repugnant to Art. 14 for the reason that it singles out Virginia tobacco for taxation ?",
+    "Is the impugned legislation in contravention of Art. 286 (1) (b) as imposing a tax on sales in the course of export ?"
+  ],
+  "petitioner_arguments": [
+    "All laws must satisfy the requirements of Art. 14.",
+    "Taxation laws are no exception to it.",
+    "In imposing a tax on the sales of Virginia tobacco and not on other kinds of tobacco the impugned Act is on the face of it discriminatory.",
+    "It is there-fore obnoxious to Art, 14 and is void",
+    "The following statement of the law in Willis on 'Constitutional Law' page 587, would correctly represent the position with reference to taxing statutes under our Constitution'.-",
+    "A State does not have to tax everything in order to tax something.",
+    "It is allowed to pick and choose districts, objects, persons, methods and even rates for taxation if it does so reasonably......................."
+  ],
+  "respondent_arguments": [
+    "Broadly, there are two types,Virginia and Nattu, differing in taste, light, colour and texture...............",
+    "There are obvious differences between the two categories of to- bacco, in the nomenclature used, in the process of growing, curing and grading, in the market facilities foreign and inland, in the price and in the variety of uses to which they are put and also the class of customers that take to them."
+  ],
+  "court_reasoning": [
+    "The point for consideration is whether there is in fact a real distinction between Virginia tobacco and other tobacco called country tobacco 'Nattu tobacco'.",
+    "If there is, then the Act is valid, if not it must be held to be unconstitutional.",
+    "It will therefore be within the power of the State to impose a tax on the sales of Virginia tobacco while exempting the country tobacco.",
+    "The differences between the Virginia tobacco and the country tobacco, as found by the learned Judges, are not, it is argued , germane to the levy of sales tax, and so there is no valid classification.",
+    "We are unable to agree with this contention.",
+    "If a State can validly pick and choose one commodity for taxation and that is not open to attack under Art. 14, the same result must follow when the State picks out one category of goods and subjects it to taxation."
+  ],
+  "holding": [
+    "The impugned Act does not infringe any constitutional provisions.",
+    "That is how these appeals come before us.",
+    "We may now proceed to discuss whether the impugned Act is repugnant to Art. 14 of the Constitution.",
+    "Thus it will be seen that Virginia tobacco has features which distinguish it from country tobacco, and can be treated as a class in itself."
+  ],
+  "cases_cited": [
+    "East India Tobacco Company v State of Andhra Pradesh",
+    "That has been laid down recently by this Court in Moopil Nair v. The",
+    "and Shri Ram Krishna Dalmia v. Shri Justice S",
+    "as held by this Court in The State of Travancore-Cochin v. The Bombay Company LL",
+    "b) arose directly for decision in State of Travancore-Cochin v. Shanmuga Vilas Cashew Nu Factory",
+    "but that it must further be shown, as held in Budhan Choudhry v. The",
+    "for consideration before this Court in The State of Mysore v. Mysore Spinning & Manufacturing Co",
+    "on the following observations in State of Travancore-Cochin v. The Bombay Co",
+    "this question has been considered. In The State of Madras v. Guriviah Naidue & Co"
+  ]
+}

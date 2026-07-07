@@ -1,0 +1,83 @@
+{
+  "case_id": "C2366",
+  "case_name": "Shah Nawaz v State Of U.P. & Anr.",
+  "court": "Supreme Court of India",
+  "year": 2011,
+  "judges": [
+    "P. Sathasivam"
+  ],
+  "bench": [],
+  "petitioner": "Shah Nawaz",
+  "respondent": "State Of U.P. &",
+  "citations": [
+    "1989 3 SCC 1",
+    "2000 5 SCC 488",
+    "2002 2 SCC 287",
+    "2006 5 SCC 584",
+    "2009 13 SCC 211",
+    "2010 3 SCC 235"
+  ],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "52"
+    },
+    {
+      "act": "The Act",
+      "section": "64"
+    },
+    {
+      "act": "Act To Be Dealt Under The Provisions Of The Said Act",
+      "section": "20"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "35"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "5 August 2011",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant claims to have born on 18.06.1989 in Village and Post Dadheru Kala, Police Station Charthawal, District Muzaffarnagar, U.P.",
+    "He was admitted in Class I in Nehru Preparatory School, Khurd, Muzaffarnagar on 05.07.1994 and studied there till 20.05.1998.",
+    "Thereafter, on 04.07.1998, he got admission in Class VI in the National High School Dadheru, Khurd-O-Kalan, Muzaffarnagar and studied there till Class X.",
+    "The date of birth in the mark sheet is mentioned as 18.06.1989.",
+    "On 04.06.2007, a First Information Report (in short 'the FIR') was lodged by Khatizan, wife of Nawab-the deceased, against the appellant herein and three others for the alleged occurrence which culminated into Crime Case No. 215 of 2007 at Police Station Charthawal, District Muzaffarnagar, U.P.",
+    "On 12.06.2007, the mother of the appellant submitted an application before the Juvenile Justice Board (in short 'the Board'), Muzaffarnagar, U.P., stating that the appellant was a minor at the time of the alleged occurrence.",
+    "After examining the witnesses, the Board, vide judgment and order dated 24.01.2008, declared the appellant juvenile under the provisions of the Juvenile Justice (Care and Protection of Children) Act, 2000 (hereinafter referred to as 'the Act').",
+    "Against the judgment of the Board, Khatizan the wife of the deceased filed Criminal Appeal No. 11 of 2008 before the Additional Sessions Judge, Muzaffarnagar, U P., under Section 52 of the Act.",
+    "The State respondent No.1 did not file any appeal."
+  ],
+  "issues": [
+    "Whether the appellant was a juvenile at the time of the alleged occurrence",
+    "What is the procedure to be followed in determining the age of a child or juvenile"
+  ],
+  "petitioner_arguments": [
+    "The appellant's counsel submitted that on the date of the incident, he was a juvenile and as per his mark sheet, wherein his date of birth was recorded as 1977, he was less than 17 years of age",
+    "Learned counsel further contended that the appellant No.1 would have to be dealt with under the provisions of the said Act in keeping with the decision in the aforesaid case"
+  ],
+  "respondent_arguments": [
+    "The State respondent No.1 did not file any appeal"
+  ],
+  "court_reasoning": [
+    "This Court has accepted mark sheet as one of the proof for determining the age of an accused person",
+    "In Bhoop Ram vs. State of U.P., this Court considered whether the appellant therein is entitled lesser imprisonment than imprisonment for life and should have been treated as a 'child' within the meaning of Section 2(4) of the U.P. Children Act, 1951 (1 of 1952)",
+    "In Rajinder Chandra vs. State of Chhattisgarh and Anr., this Court once again considered the entry relating to date of birth in the mark sheet and concluded as under: 'It is true that the age of the accused is just on the border of sixteen years and on the date of the offence and his arrest he was less than 16 years by a few months only.'"
+  ],
+  "holding": [
+    "The High Court, by the impugned judgment dated 10.12.2010, dismissed the criminal revision",
+    "Hence this appeal by way of special leave"
+  ],
+  "cases_cited": [
+    "In Arnit Das vs. State of Bihar",
+    "In Pradeep Kumar vs. State of U",
+    "In Rajinder Chandra vs. State of Chhattisgarh",
+    "In Ravinder Singh Gorkhi vs. State of U",
+    "Shah Nawaz v State Of U",
+    "in determining the age of an accused person. In Bhoop Ram vs. State of U",
+    "regard to the recent decision of this Court in Hari Ram vs. State of Rajasthan &"
+  ]
+}

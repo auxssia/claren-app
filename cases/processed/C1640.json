@@ -1,0 +1,53 @@
+{
+  "case_id": "C1640",
+  "case_name": "Delhi Development Authority (Government of NCT of Delhi), through Secretary and another v Islamuddin and others",
+  "court": "Supreme Court of India",
+  "year": 2016,
+  "judges": [
+    "Kurian Joseph, J."
+  ],
+  "bench": [],
+  "petitioner": "Delhi Development Authority (Government of NCT of Delhi), through Secretary and another",
+  "respondent": "Islamuddin",
+  "citations": [
+    "1996 11 SCC 698"
+  ],
+  "statutes": [
+    {
+      "act": "Land Acquisition Act",
+      "section": "6"
+    },
+    {
+      "act": "That Act",
+      "section": "48"
+    },
+    {
+      "act": "1894 Act",
+      "section": "6"
+    },
+    {
+      "act": "The Act",
+      "section": "11"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "29 November 2016",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The benefit under Section 24(2) of the 2013 Act is available in the event of two circumstances - (i) The compensation has not been paid though the Award has been passed under the provisions of the 1894 Act prior to 01.01.2014; (ii) Despite passing an Award and payment of compensation, possession had not been taken five years prior to 01.01.2014.",
+    "The writ petitioner is entitled to have the declaration under Section 24(2) of the 2013 Act.",
+    "There is no merit in the appeal and it is, accordingly, dismissed.",
+    "In case no fresh acquisition proceedings are initiated within the said period of one year from today by issuing a Notification under Section 11 of the Act, the appellant, if in possession, shall return the physical possession of the land to the owner."
+  ],
+  "cases_cited": [
+    "Government of NCT of Delhi), through Secretary and another v Islamuddin",
+    "placed on a decision of this Court in Star Wire (India) Ltd. Vs. State of Haryana"
+  ]
+}

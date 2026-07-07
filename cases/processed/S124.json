@@ -1,0 +1,34 @@
+{
+  "case_id": "S124",
+  "case_name": "Penalty for demanding dowry",
+  "court": "",
+  "year": 1984,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "4"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "If any person demands, directly or indirectly, from the parents or other relatives or guardian of a bride or bridegroom, as the case may be, any dowry,"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Provided that the Court may, for adequate and special reasons to be mentioned in the judgment , impose a sentence of imprisonment for a term of less than six months"
+  ],
+  "holding": [
+    "Penalty for demanding dowry"
+  ],
+  "cases_cited": []
+}

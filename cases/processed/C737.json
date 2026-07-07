@@ -1,0 +1,63 @@
+{
+  "case_id": "C737",
+  "case_name": "Panna Smt v A. S. Samra and Others",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Panna Smt",
+  "respondent": "A. S. Samra",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "3(2)"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "27 January 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "Pandharinath Laxman Wringe has been detained by an order dated 3-4-1992, u/s. 3(2) of the National Security Act, 1980 with a view to preventing him from acting in any manner prejudicial to the maintenance of public order.",
+    "The detention order is founded on four incidents which took place between 2-6-1990 and 13-9-1991.",
+    "The detenu was released by this Court from the earlier detention order on 30-3-1990.",
+    "He was found absconding and came to be first arrested on 21-12-1991. He was shown arrested on 30-12-1991 and charge-sheet in this behalf was filed on 31-1-1992."
+  ],
+  "issues": [
+    "Whether the detention order is valid",
+    "Whether there was delay in considering the representation of the detenu by the Central Government",
+    "Whether there was non-application of mind on the part of the detaining authority"
+  ],
+  "petitioner_arguments": [
+    "There was inordinate delay in considering the representation of the detenu by the Central Government and as such the detenu was denied the right u/art. 22(5) of the Constitution of India, 1950",
+    "There has been long delay in issuing the detention order",
+    "There was non-application of mind on the part of the detaining authority"
+  ],
+  "respondent_arguments": [
+    "The representation of the detenu is dated 24-4-1992. It was received by the Jail authority on the same day.",
+    "On 27-4-1992 the jail authority forwarded the same to the Central Government, Central Government received it on 1-5-1992.",
+    "After considering this vital information and the parawise comments the Central Government took decision to reject the same on 28-5-1992."
+  ],
+  "court_reasoning": [
+    "The High Court examined the original records and came to the conclusion that there was no delay in considering the representation of the detenu by the Central Government.",
+    "In our opinion having regard to the facts and circumstances of the case there does not seem to be any laches on the part of the Central Government in disposing of the detenu's representation expeditiously",
+    "The detaining authority in its affidavit before the High Court stated that he had gone through all the documents placed before him and after full application of mind, he culled out the grounds of detention."
+  ],
+  "holding": [
+    "Special leave granted.",
+    "The appeal is, therefore, dismissed."
+  ],
+  "cases_cited": [
+    "Panna Smt v A. S"
+  ]
+}

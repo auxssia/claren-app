@@ -1,0 +1,103 @@
+{
+  "case_id": "C953",
+  "case_name": "Balwant Singh v Jagdish Singh & Ors.",
+  "court": "Supreme Court of India",
+  "year": 2010,
+  "judges": [
+    "Dr. B. S. Chauhan"
+  ],
+  "bench": [],
+  "petitioner": "Balwant Singh",
+  "respondent": "Jagdish Singh &",
+  "citations": [
+    "1996 9 SCC 40",
+    "2003 11 SCC 367",
+    "2003 12 SCC 616",
+    "2007 13 SCC 90",
+    "2007 14 SCC 150",
+    "2008 16 SCC 73",
+    "2010 5 SCC 91",
+    "AIR 1957 SC 614",
+    "AIR 1971 SC 1050",
+    "AIR 1972 SC 110",
+    "AIR 1973 SC 55",
+    "AIR 1994 SC 1251",
+    "AIR 2005 SC 733",
+    "AIR 2008 SC 1381"
+  ],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "323"
+    },
+    {
+      "section": "313"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "26 July 2010",
+  "outcome": "Unknown",
+  "facts": [
+    "One Sujit Mondal, PW-1, lodged an Ejahar with Raninagar Police Station on 6.12.1999 stating that his father Bipin Kumar Mondal, appellant herein, came to their house at about midnight on 5.12.1999 and attacked his mother, Usha Rani Mondal, with a knife and inflicted severe injuries on her person.",
+    "When he went to save his mother, he was also attacked by his father. He received injuries on his head and hands and he had to escape out of fear.",
+    "His younger brother, Ajit Mondal, was also severely injured with a knife by his father.",
+    "On hearing the hue and cry made by Sujit Mondal, PW-1, his neighbors came and in the meantime his father ran away.",
+    "The police investigated the case and submitted the charge sheet against the appellant under Section 302/307 IPC. Appellant pleaded not guilty and hence, he was put to trial.",
+    "In support of its case, the prosecution examined 11 witnesses to bring home the charge against the appellant."
+  ],
+  "issues": [
+    "Whether the evidence of the prosecution witnesses is reliable?",
+    "Whether the trial court's finding that the prosecution had succeeded in proving its case beyond reasonable doubt is correct?"
+  ],
+  "petitioner_arguments": [
+    "The appellant is innocent and has been falsely implicated in the crime.",
+    "Sujit Mondal, PW-1, was not sure as to who had committed the offence.",
+    "There was no motive for committing the crime and the weapon with which the offence had been committed has never been recovered.",
+    "The depositions made by PWs 2 to 8 are merely based on hearsay as none of them had seen the commission of offence."
+  ],
+  "respondent_arguments": [
+    "Sujit Mondal, PW-1, had no doubt or suspicion in his mind that his father had committed the offence.",
+    "The depositions made by PWs 2 to 8, who are close relatives and neighbors who had reached the place of occurrence immediately after commission of the offence, cannot be doubted as each of them has deposed before the Trial Court that Sujit Mondal, PW-1, told them that the appellant, his father has committed the crime.",
+    "The recovery of knife used in the commission of offence could not be made because the appellant remained absconding for a long time."
+  ],
+  "court_reasoning": [
+    "Sujit Mondal, PW-1, has lodged an Ejahar with Raninagar Police Station on 6.12.1999 giving full details of the commission of the offence and naming his father as the person who committed the offence.",
+    "The conduct of Sujit Mondal, PW-1, remains very natural, probable and convincing.",
+    "During cross-examination, nothing could be elicited from him seeking the credence of his statement.",
+    "No reason came forward in the cross-examination or otherwise as to why a son would depose against his father."
+  ],
+  "holding": [
+    "The appeal deserves to be dismissed."
+  ],
+  "cases_cited": [
+    "A similar view has been reiterated by this Court in Rahman vs. State of U",
+    "Balachandran Vs. State of Tamil Nadu",
+    "Balwant Singh v Jagdish Singh &",
+    "Bikau Pandey and Others Vs. State of Bihar",
+    "Girish Chandra Vs. The",
+    "In Namdeo Vs. State of Maharashtra",
+    "In Sunil Kumar Vs. State",
+    "State Vs. Bipin Kumar Mondal",
+    "and Abu Thakir and Others. Vs. State of Tamil Nadu",
+    "and State of M.P. Vs. Paltan Mallah",
+    "and Vadivelu Thevar Vs. State of Madras",
+    "be fathomed with any degree of accuracy. (Vide Ujagar Singh vs. State of Punjab",
+    "dealing with a similar issue, this Court in State of U.P. Vs. Kishanpal",
+    "earlier judgments of this court including Jagdish Prasad Vs. State of M",
+    "him to commit a particular crime. In Shivji Genu Mohite Vs. State of Maharashtra",
+    "the evidence is worthy of reliance. (Vide Hari Shankar vs. State of U"
+  ]
+}

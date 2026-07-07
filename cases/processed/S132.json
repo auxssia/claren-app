@@ -1,0 +1,30 @@
+{
+  "case_id": "S132",
+  "case_name": "",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "power to issue, to include power to add to, amend, vary or rescind notifications, orders, rules or bye-laws"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Where, by any 1 [Central Act] or Regulation, a power to 2 [issue notifications,] orders, rules or bye-laws is conferred, then that power includes a power, exercisable in the like manner and subject to the like sanction and conditions (if any), to add to, amend, vary or rescind any 3 [notifications,] orders, rules or bye-llaws so 4 [issued]."
+  ],
+  "holding": [
+    "Where, by any Central Act or Regulation, a power to issue notifications, orders, rules or bye-laws is conferred, then that power includes a power, exercisable in the like manner and subject to the like sanction and conditions (if any), to add to, amend, vary or rescind any notifications, orders, rules or bye-laws so issued."
+  ],
+  "cases_cited": []
+}

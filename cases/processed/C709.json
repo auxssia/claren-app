@@ -1,0 +1,61 @@
+{
+  "case_id": "C709",
+  "case_name": "Vinay Bubna v Stock Exchange, Mumbai and Others",
+  "court": "Supreme Court of India",
+  "year": 1999,
+  "judges": [
+    "B.N.Kirpal"
+  ],
+  "bench": [],
+  "petitioner": "Vinay Bubna",
+  "respondent": "Stock Exchange, Mumbai",
+  "citations": [
+    "AIR 1932 PRIVY COUNCIL 186"
+  ],
+  "statutes": [
+    {
+      "section": "21"
+    },
+    {
+      "act": "Constitution of India"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "28 July 1999",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant in this appeal had dealings in sale and purchase of shares with one Yogesh Mehta respondent No.3 [hereinafter referred to as 'the share broker' who was a member of Bombay Stock Exchange until he was declared a defaulter by the said Exchange.",
+    "According to the appellant as on 10th May, 1995 a sum of Rs.21,81,635.50 P. was due and payable by the share broker but the payment was not made.",
+    "The court did not grant to the appellant any relief in respect of the membership card of the share broker whereupon an appeal was filed and it was contended that a court receiver should be appointed in respect of the said membership card.",
+    "It may here be stated that in view of the default having been committed by the share broker he was, on 10th December 1996, declared defaulter by the Stock Exchange and thereafter he ceased to be its member.",
+    "The appellant wanted Rules 16 and 43 of the Stock Exchange to be amended.",
+    "Letters were written by him to SEBI and other authorities including the Stock Exchange.",
+    "When efforts in this behalf failed a writ petition was filed in the Bombay High Court by the appellant with a prayer that Rules 16 and 43 of the Stock Exchange Rules, Bye-laws and Regulations 1957 should be declared as illegal, bad in law and ultra virus the Constitution of India."
+  ],
+  "issues": [
+    "Whether the membership card of the share broker is an asset which belongs to respondent No.3 and on the sale of the same to distribute the proceeds in the manner indicated by Rule 16 was unfair, unjust and arbitrary and was violative of Articles 14, 19 (1) and 300A of the Constitution of India."
+  ],
+  "petitioner_arguments": [
+    "The membership of the Stock Exchange was an asset which belonged to respondent No.3 and on the sale of the same to distribute the proceeds in the manner indicated by Rule 16 was unfair, unjust and arbitrary and was violative of Articles 14, 19 (1) and 300A of the Constitution of India.",
+    "The Rules 16 and 43 framed by the Bombay Stock Exchange are inconsistent with the laws of insolvency as applicable in India which provide for manner of distribution of the asset of the insolvent which is at variance with the said rules."
+  ],
+  "respondent_arguments": [
+    "After the respondent No.3 had been declared a defaulter he ceased to be a member of the Stock Exchange whereupon his rights of membership vest in the Exchange free of all rights, claims and interest.",
+    "The proceeds so received do not belong to the ex-member and the order of priority contained in Rule 16 was just and fair and is not illegal, wrong or arbitrary."
+  ],
+  "court_reasoning": [
+    "A bare perusal of the aforesaid and other rules clearly shows that the said rules provide that the membership of the Exchange constitutes a personal permission from the Exchange to exercise the rights and privileges attached thereto subject to the Rule, Bye-laws and Regulations of the Exchange.",
+    "The order of priority laid down by the aforesaid Rule 16 ensures that dues to the Exchange or to the Clearing House have first to be met before the balance amount can be utilised for payment of debts, liabilities, obligations etc. arising out of any contract made by the former member."
+  ],
+  "holding": [
+    "The High Court was right in coming to the conclusion that on a default being committed the share broker ceases to become a member of the Exchange and all his rights, privileges etc. as a member come to an end.",
+    "If he does not clear the dues within six months the Governing Body then has a right of nomination in respect of such membership."
+  ],
+  "cases_cited": [
+    "Vinay Bubna v Stock Exchange",
+    "decision of Gujarat High Court in Stock Exchange, Ahmedabad Vs. Assistant Commissioner of Income-tax",
+    "decision of the Privy Council in Official Assignee of Bombay Vs. K.R"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "case_id": "C1045",
+  "case_name": "Union of India and Another v Belgachi Tea Company Limited and Others",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "Dalveer Bhandari"
+  ],
+  "bench": [],
+  "petitioner": "Union of India and Another",
+  "respondent": "Belgachi Tea Company Limited",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "8"
+    },
+    {
+      "section": "1"
+    },
+    {
+      "section": "4"
+    },
+    {
+      "section": "54"
+    },
+    {
+      "section": "92"
+    },
+    {
+      "section": "10"
+    },
+    {
+      "act": "Constitution of India"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "9 May 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "The assessee Belgachi Tea Company filed a writ petition in the High Court of Judicature at Calcutta u/art. 226 of the Constitution.",
+    "The main prayer of the writ petition is reproduced as under: 'A writ in the nature of mandamus be issued commanding the respondents to act according to law and to cancel and/or rescind and/or withdraw notices of demand dated 29.03.1984, 04.04.1984, 29.03.1985 and any proceeding taken or purported to have been taken under the Bengal Act, as amended by the Bengal Agricultural Income Tax (Amendment) Act, 1980 for the purpose of levy, imposition and collection of agricultural income tax in respect of income derived from the said tea grown and manufactured by your petitioner and further forbearing the respondents from giving any effect or further effect of proceeding in any way to enforce the impugned notices of demand dated 26.3.1984, 04.04.1984 and 29.03.1985.'",
+    "The assessee also prayed that ss. 3 and 5 of the Bengal Agricultural Income Tax (Amendment) Act, 1980 be declared as ultra vires of the Constitution and beyond the competence of the State Legislature in enacting the same.",
+    "The writ petition was disposed of by the learned Single Judge of the Calcutta High Court in terms of the judgment of this court in Tata Tea Ltd. & Another v. State of West Bengal & Others 1988 (Supp) SCC 316 1988 Indlaw SC 779.",
+    "Learned counsel for the assessee submitted that the sale proceeds of green tea leaves be treated incidental to business and its income should be computed under the provisions of the 1961 Act.",
+    "Learned counsel appearing for the State submitted that the income from sale of green tea leaves is taxable as income from agriculture under the 1944 Act."
+  ],
+  "issues": [
+    "What is the correct method of taxing the income derived from the sale of tea grown and manufactured by a seller in India?",
+    "Can the Centre and the State impose taxes on different portions of the same income?",
+    "How should the income from 'tea grown and manufactured' activities be taxed by the Centre and the State?"
+  ],
+  "petitioner_arguments": [
+    "The assessee company submitted that the entire income should be assessed under the provisions of the 1961 Act and after the income is assessed, the tax should be charged on 40% of such income under the 1961 Act and on the balance 60%, the State can tax under the 1944 Act.",
+    "The sale proceeds of green tea leaves be treated incidental to business and its income should be computed under the provisions of the 1961 Act."
+  ],
+  "respondent_arguments": [
+    "The income from sale of green tea leaves is taxable as income from agriculture under the 1944 Act.",
+    "The State can impose tax on 60% of the income derived by an assessee who sells tea grown and manufactured by him in India, while the Centre can impose tax on 40% of such income."
+  ],
+  "court_reasoning": [
+    "The court observed that the result would still be the same, namely, that the Kerala State Legislature can impose tax only in respect of 60 per cent of the income derived by an assessee who sells tea grown and manufactured by him in India and such income has to be computed in the manner laid down in the Act of 1922 and thereafter in the Act of 1961 for computation of business income.",
+    "The court further observed that it is not necessary to strike down the said amendments because they do not directly conflict with the definition of the term 'agricultural income' under the Constitution as we have pointed out earlier, but we may make it clear that they do not confer any wider power on the State Legislature to impose taxes on agricultural income than what we have set out earlier.",
+    "The court considered the amendments made by the State Governments i.e. West Bengal and Kerala regarding tax on the entire income.",
+    "The court observed that there is no dispute on the fact that from the income assessed, 60% is taxable by the State under the 1944 Act and 40% is taxable by the Centre under the 1961 Act."
+  ],
+  "holding": [
+    "The Supreme Court held that the income from 'tea grown and manufactured' activities should be taxed as follows: 40% of the income is taxable by the Centre under the 1961 Act, while 60% of the income is taxable by the State under the 1944 Act.",
+    "The court further held that there can be only one assessment of income from the tea business, and that the Agricultural Income Tax Officer will go by the assessment order made under the provisions of the 1961 Act and the contents of the assessment for the year made by the Assessing Officer under the 1961 Act shall be conclusive evidence of the contents of such order."
+  ],
+  "cases_cited": [
+    "Union of India and Another v Belgachi Tea Company Limited",
+    "of the judgment of this court in Tata Tea Ltd. & Another v. State of West Bengal &"
+  ]
+}

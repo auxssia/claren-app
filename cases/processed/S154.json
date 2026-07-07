@@ -1,0 +1,39 @@
+{
+  "case_id": "S154",
+  "case_name": "Power to summon persons to give evidence and produce documents",
+  "court": "",
+  "year": 2006,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code Of Civil Procedure",
+      "section": "132"
+    },
+    {
+      "act": "And Section 228 Of The Indian Penal Code",
+      "section": "193"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "13 07 2006",
+  "outcome": "Unknown",
+  "facts": [
+    "Any gazetted officer of custom shall have power to summon any person whose attendance he considers necessary either to give evidence or to produce a document or any other thing in any inquiry which such officer is making under this Act."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Every such inquiry as aforesaid shall be deemed to be a judicial proceeding within the meaning of section 193 and section 228 of the Indian Penal Code (45 of 1860)"
+  ],
+  "holding": [
+    "All persons so summoned shall be bound to attend either in person or by an authorised agent as such officer may direct; and all persons so summoned shall be bound to state the truth upon any subject, respecting which they are examined or make statements and produce such documents and other things as may be required."
+  ],
+  "cases_cited": []
+}

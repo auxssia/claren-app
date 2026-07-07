@@ -1,0 +1,93 @@
+{
+  "case_id": "C2818",
+  "case_name": "Gajraj Jain v State Of Bihar & Ors.",
+  "court": "Supreme Court of India",
+  "year": 2004,
+  "judges": [
+    "S. H. Kapadia"
+  ],
+  "bench": [],
+  "petitioner": "Gajraj Jain",
+  "respondent": "State Of Bihar &",
+  "citations": [
+    "1969 2 SCC 343",
+    "AIR 1930 MADRAS 382",
+    "AIR 1957 SC 3971956",
+    "AIR 1977 SC 774",
+    "AIR 1986 SC 872"
+  ],
+  "statutes": [
+    {
+      "act": "State Financial Corporation Act",
+      "section": "29"
+    },
+    {
+      "act": "Said Act",
+      "section": "29"
+    },
+    {
+      "act": "1951 Act",
+      "section": "29"
+    },
+    {
+      "act": "Transfer Of Property Act",
+      "section": "100"
+    },
+    {
+      "act": "The Act",
+      "section": "29"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "7 May 2004",
+  "outcome": "Unknown",
+  "facts": [
+    "In 1982, a company by the name M/s Katihar Flour Mills (P) Ltd. was incorporated to take over the assets and business of a partnership firm M/s Katihar Flour Mills, a business conducted by Jeloka group.",
+    "On 16.5.1988, a term loan of Rs. 90 lacs was taken by the said company from BICICO, a State Financial Corporation within the meaning of the State Financial Corporation Act, 1951 (hereinafter referred to as \"the 1951 Act\") and a charge was registered under the Companies Act, 1956.",
+    "On 20.10.1993, an agreement was approved by the share-holder of the company in terms of which three directors belonging to Jeloka group resigned and three nominees of the Jain group were inducted.",
+    "In January, 2001, Central Bank of India instituted case no. 2 of 2001 against the company and its directors for recovery of its dues amounting to Rs. 1.47 crores and for enforcement of security.",
+    "On 22.2.2002, respondent no. 2 gave notice under sections 29 and 30 of the 1951 Act for recovery of its dues of Rs. 28.85 lacs.",
+    "On 17.3.2002, the Jeloka Group wrote a letter to respondent no. 2 that the company has approached a financier M/s Stichworth Exports Pvt. Ltd., who was willing to pay the dues of respondent no. 2 against transfer of the assets of the company in their favour.",
+    "On 19.3.2002, M/s Stichworth Exports Pvt. Ltd., respondent no. 4, wrote a letter to respondent no. 2 offering to acquire the assets of the company for Rs. 28.85 lacs plus the dues of Central Bank of India amounting to Rs. 1.70 crores.",
+    "On 20.3.2002, the appellant herein met the law officer of respondent no. 2."
+  ],
+  "issues": [
+    "Whether Bihar State Industrial Credit and Investment Corporation Limited (hereinafter referred to as \"BICICO\") acted malafide and in breach of section 29 of the State Financial Corporation Act, 1951 by transferring the assets of the debtor company on 19.3.2002 and executing the agreement dated 26.4.2002 with M/s Stichworth Exports Pvt. Ltd.",
+    "Whether the sale transaction was collusive, arbitrary and bad in law."
+  ],
+  "petitioner_arguments": [
+    "The impugned agreement dated 26.4.2002 was collusive, arbitrary and contrary to section 29 of the said Act.",
+    "There was no valuation of the assets prior to acceptance of the bid.",
+    "Matching offers were required to be called for from the directors/promoters/guarantors of the company. This was never done.",
+    "Despite repayment of dues amounting to Rs. 28.85 lacs by the appellant on 22.3.2002, respondent no. 2 failed to return the assets to the company and arbitrarily appropriated the payment towards dues recoverable by respondent no. 2 from M/s Aditya Flour Mills Ltd.",
+    "The earnest money amounting to Rs. 1 lac came to be returned to the appellant, after he had filed a writ petition, without any demand from him."
+  ],
+  "respondent_arguments": [
+    "There was no merit in this appeal.",
+    "One of the terms of the sale notice was that the auction purchaser has to liquidate the dues of Central Bank of India.",
+    "The said promise was incorporated in the impugned sale agreement dated 26.4.2002.",
+    "The appellant had withdrawn his offer on 22.3.2002 and after almost one month i.e. on 26.4.2002, the impugned sale agreement came to be executed by respondent no. 2 in favour of respondent no. 4."
+  ],
+  "court_reasoning": [
+    "Under section 29(4) of the 1951 Act, respondent no. 2 was duty bound to sell the assets and appropriate the sale proceeds in the first instance to the paramount charge of the corporation and the balance, if any, was required to be held in trust for Central Bank of India, which had the second charge on the assets.",
+    "The impugned sale was in breach of section 29(4) of the said Act and was, therefore, liable to be set aside."
+  ],
+  "holding": [
+    "The civil appeal deserves to be dismissed."
+  ],
+  "cases_cited": [
+    "Express Newspapers Pvt. Limited & Ors. v. Union of India &",
+    "Financial Corporation Act, as prescribed in Mahesh Chandra v. Regional Manager",
+    "Gajraj Jain v State Of Bihar &",
+    "In the case of M/s S.J.S. Business Enterprises (P) Ltd. v. State of Bihar &",
+    "In the case of Subbu Chetti v. Arunachalam Chettiar reported in",
+    "M/s Pannalal Binjraj & Ors. v. Union of India &",
+    "Rajah Kishendatt Ram v. Rajah Mumtaz Ali Khan reported in",
+    "SIPCOT, Madras v. Contromix Pvt",
+    "a future date is no realization. In the case of M. C. Chacko v. The",
+    "a separate account. Lastly, in the case of Narandas Karsondas v. S. A",
+    "subsequent decision in Haryana Financial State Corporation v. Jagdamba Oils Mills"
+  ]
+}

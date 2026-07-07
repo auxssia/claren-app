@@ -1,0 +1,53 @@
+{
+  "case_id": "C1773",
+  "case_name": "Bal Kishan Das v P. C. Nayar",
+  "court": "Supreme Court of India",
+  "year": 1991,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Bal Kishan Das",
+  "respondent": "P. C. Nayar\nSupreme Court of India\n\n26 March 1991\nCr.A. No. 264 of 1991 (arising out of S.L.P. (Criminal) No. 264 of 1986)\nThe Order of the Court was as follows:\nLeave granted.\n1.  This appeal is directed against the order of the High Court dated 13th Dec. 1985 dismissing the application filed under S. 482 of the Code of Criminal Procedure by the petitioner for quashing the proceedings taken against him for offence punishable under S. 406 of the Indian Penal Code.\n2.  It appears from the records that there was an arbitration agreement between the petitioner and the respondent in the year 1971 for procurement of 'paddy'. One of the clauses of the agreement was that a shortage to the extent of 1.25 kgs. per. qtl. of 'paddy' procured should be permitted and beyond that shortage the petitioner would be liable for payment of penalty at the rates prescribed in the agreement. According to the respondent on a joint physical verification by the Magistrate/ Civil Supplies Staff",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "409"
+    },
+    {
+      "act": "Indian Penal Code",
+      "section": "406"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "482"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "26 March 1991",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal is directed against the order of the High Court dated 13th Dec. 1985 dismissing the application filed under S. 482 of the Code of Criminal Procedure by the petitioner for quashing the proceedings taken against him for offence punishable under S. 406 of the Indian Penal Code.",
+    "There was an arbitration agreement between the petitioner and the respondent in the year 1971 for procurement of 'paddy'.",
+    "A joint physical verification by the Magistrate/ Civil Supplies Staff and Food Corporation Staff on 1st November, 1972 found a heavy shortage of 'paddy' with the petitioner.",
+    "The respondent filed a report before the police stating that the petitioner has committed an offence under Section 409 of the Indian Penal Code.",
+    "A case was registered and referred to the Vigilance Department on 3rd March, 1976. On the final report submitted by the vigilance Department the case was dropped."
+  ],
+  "issues": [
+    "Whether the proceedings taken against the petitioner for offence punishable under S. 406 of the Indian Penal Code are liable to be quashed?"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "After hearing the counsel for both the parties and perusing the documents, we are of the opinion that this matter is purely of a civil nature.",
+    "As pointed out earlier there was an arbitration proceeding and further the matter is pending for more than 17 years."
+  ],
+  "holding": [
+    "The entire proceedings now pending on the file of the Chief Judicial Magistrate, Ganjam are quashed.",
+    "The appeal is accordingly allowed."
+  ],
+  "cases_cited": [
+    "Bal Kishan Das v P. C"
+  ]
+}

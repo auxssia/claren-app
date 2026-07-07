@@ -1,0 +1,54 @@
+{
+  "case_id": "C487",
+  "case_name": "Sham Lal v State of Haryana etc.",
+  "court": "Supreme Court of India",
+  "year": 1997,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Sham Lal",
+  "respondent": "State of Haryana etc.\nSupreme Court of India\n\n20 February 1997\nAppeal (Crl.) 559 of 1990\nThe Order of the Court was as follows :\n1.  Neelam Rani, wife of the appellant, died of burns on 17.6.1987. Her husband, the present appellant, and his father and grand-mother were arrayed as accused before the Sessions Court in connection with the death of Neelam Rani charging them with offences under Section 302, 304B and 498A of the IPC. The Sessions Court acquitted the grand-mother, who was in her eighties, but convicted the appellant as well as his father of all offences and sentenced them to imprisonment for life. The High Court of Punjab and Haryana on the joint appeal by those convicted persons acquitted appellant's father but confirmed the conviction of the appellant under Section 302 IPC. The High Court pointed out that in view of the said conviction it was unnecessary to maintain the conviction under the Other two offences. Appellant filed this appeal by special leave in chall",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "313"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "32"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "20 February 1997",
+  "outcome": "Unknown",
+  "facts": [
+    "Neelam Rani, wife of the appellant, died of burns on 17.6.1987.",
+    "Her husband, the present appellant, and his father and grand-mother were arrayed as accused before the Sessions Court in connection with the death of Neelam Rani charging them with offences under Section 302, 304B and 498A of the IPC.",
+    "The Sessions Court acquitted the grand-mother, who was in her eighties, but convicted the appellant as well as his father of all offences and sentenced them to imprisonment for life.",
+    "The High Court of Punjab and Haryana on the joint appeal by those convicted persons acquitted appellant's father but confirmed the conviction of the appellant under Section 302 IPC."
+  ],
+  "issues": [
+    "Whether the appellant had killed Neelam Rani by setting her ablaze after dousing her with kerosene",
+    "Whether the prosecution has succeeded in proving that the death was caused by burns within seven years of her marriage and that 'soon before her death' she was subjected to cruelty or harassment by the appellant for or in connection with any demand for dowry"
+  ],
+  "petitioner_arguments": [
+    "The stand of the appellant, when questioned under Section 313 of the Code of Criminal Procedure, was that by frustration, as she could not give birth to a child and as she could not adjust in the village life with the appellant, she committed suicide by burning herself."
+  ],
+  "respondent_arguments": [
+    "The prosecution case in brief is that appellant was persecuting her with the demand for more dowry and at last set her ablaze for not quenching his greed for dowry"
+  ],
+  "court_reasoning": [
+    "We are unable to agree with the finding reached by the High Court that on the said circumstance Neelam Rani was murdered by the appellant.",
+    "The primary requirements for finding the appellant guilty of the offence under Section 304-B IPC are that death of the deceased was caused by burns within seven years of her marriage and that 'soon before her death' she was subjected to cruelty or harassment by the appellant for or in connection with any demand for dowry",
+    "In order to establish the third ingredient that 'soon before her death she was subjected to cruelty or harassment for or in connection with demand for dowry', a plea is made to resort to the legal presumption envisaged in Section 113-B of the Evidence Act."
+  ],
+  "holding": [
+    "We therefore set aside the conviction and sentence passed on the appellant under Section 302 of IPC.",
+    "But we find him guilty of the offence under Section 498-A of the IPC and convict him thereunder and sentence him to the maximum period of imprisonment prescribed thereunder i.e., rigorous imprisonment for three years."
+  ],
+  "cases_cited": [
+    "Sham Lal v State of Haryana etc"
+  ]
+}

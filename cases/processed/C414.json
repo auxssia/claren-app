@@ -1,0 +1,60 @@
+{
+  "case_id": "C414",
+  "case_name": "Bhim Sen v State of Punjab",
+  "court": "Supreme Court of India",
+  "year": 1975,
+  "judges": [
+    "BHAGWATI"
+  ],
+  "bench": [],
+  "petitioner": "Bhim Sen",
+  "respondent": "State of Punjab\nSupreme Court of India\n\n10 October 1975\nCr.A. No. 139 of 1971 (Arising as an appeal by Special Leave from the Judgment and Order Dt. 21 May 1971 of the Punjab and Haryana High Court at Chandigarh in Criminal Revision No. 453 of 1971).\nThe Judgment was delivered by: BHAGWATI, J.\n1.  This appeal lies in a very narrow compass and a brief narration of a few relevant facts would be sufficient to appreciate the point which arises for consideration in the appeal.\n2.  The appellant is the owner of a restaurant called Kailash Restaurant where he manufactures aerated water sold under the name of Fresh Cola. On July 11, 1968, the Food Inspector visited the restaurant of the appellant and took a sample containing 1800 millilitres of aerated water for analysis on payment of a sum of Rs. 2.50 after giving requisite notice to the appellant. This sample of aerated water was divided into three equal parts and each part was bottled in a dry, cleaned bottle and out of the three",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "7"
+    },
+    {
+      "section": "13"
+    },
+    {
+      "section": "342"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "10 October 1975",
+  "outcome": "Unknown",
+  "facts": [
+    "This appeal lies in a very narrow compass and a brief narration of a few relevant facts would be sufficient to appreciate the point which arises for consideration in the appeal.",
+    "The appellant is the owner of a restaurant called Kailash Restaurant where he manufactures aerated water sold under the name of Fresh Cola.",
+    "On July 11, 1968, the Food Inspector visited the restaurant of the appellant and took a sample containing 1800 millilitres of aerated water for analysis on payment of a sum of Rs. 2.50 after giving requisite notice to the appellant.",
+    "The report of the analysis by the Public Analyst showed that sucrose content in the sample of aerated water sent to him was 0.38 per cent, whereas, according to him, the sucrose content should have been not less than 5 per cent.",
+    "A criminal case was filed against the appellant for an offence u/s. 7 read with S. 16 of the Prevention of Food Adulteration Act, 1954 for selling adulterated aerated water."
+  ],
+  "issues": [
+    "Whether the conviction of the appellant suffers from a serious infirmity and it is impossible to sustain it.",
+    "Whether the charge against the appellant was that he sold 'sweetened aerated water' or merely 'aerated water'."
+  ],
+  "petitioner_arguments": [
+    "The basis of the charge was that the sucrose content of 'aerated water' sold by the appellant should have been at least 5 per cent whereas in fact it was very much less, namely, 0.38 per cent according to the report of the Public Analyst and nil according to the report of the Director, Central Food Laboratory.",
+    "The requirement of sucrose content being not less than 5 per cent does not apply where what is sold is not 'sweetened aerated water', but merely 'aerated water' which may or may not contain sugar."
+  ],
+  "respondent_arguments": [
+    "The report of the analysis by the Public Analyst showed that sucrose content in the sample of aerated water sent to him was 0.38 per cent, whereas, according to him, the sucrose content should have been not less than 5 per cent.",
+    "The Chief Judicial Magistrate held that the sample of aerated water sold by the appellant to the Food Inspector was adulterated since the sucrose content it was negative and he accordingly convicted the appellant."
+  ],
+  "court_reasoning": [
+    "It is, therefore, obvious that 'aerated water' may contain sugar or may not contain sugar and if it does not contain sugar, it would not in any way detract from the standard of quality prescribed for 'aerated water' in Item A.01.01.",
+    "The so called deficiency in sucrose content did not involve any violation of the standard of quality prescribed for aerated water in Item A.01.01 and the sample of 'aerated water' sold by the appellant could not be condemned as adulterated."
+  ],
+  "holding": [
+    "We accordingly set aside the conviction and sentence recorded against the appellant and acquit him of the offence u/s. 7 read with S. 16 of the Act.",
+    "Appeal dismissed."
+  ],
+  "cases_cited": []
+}

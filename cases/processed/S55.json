@@ -1,0 +1,31 @@
+{
+  "case_id": "S55",
+  "case_name": "Lists of common and special jurors",
+  "court": "High Court",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The 1 [Clerk of the State] shall, before the first day of April in each year, and subject to such rules as the High Court from time to time prescribes, prepare - (a) a list of all persons liable to serve as common jurors ; and (b) a list of persons liable to serve as special jurors only.",
+    "Regard shall be had, in the preparation of the latter list, to the property, character and education of the persons whose names are entered therein.",
+    "No person shall be entitled to have his name entered in the special jurors' list merely because he may have been entered in the special jurors' list for a previous year.",
+    "The State Government may exempt any salaried servant of the Government from serving as a juror."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "No person shall be entitled to have his name entered in the special jurors' list merely because he may have been entered in the special jurors' list for a previous year."
+  ],
+  "cases_cited": []
+}

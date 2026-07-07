@@ -1,0 +1,55 @@
+{
+  "case_id": "C1029",
+  "case_name": "Munna Kumar v State of Bihar",
+  "court": "Supreme Court of India",
+  "year": 2005,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Munna Kumar",
+  "respondent": "State of Bihar\nSupreme Court of India\n\n3 March 2005\nCr.A. No. 516 of 2004\nThe Order of the Court was as follows:\n1.  The appellant Munna Kumar was found guilty by the Xth Additional Sessions Judge, Patna for the offence punishable under Section 302 read with Section 34 IPC. He challenged his conviction and sentence in the appeal preferred before the High Court of Judicature at Patna. The High Court confirmed the conviction and sentence. The prosecution case is that the appellant Munna Kumar and his friend Dilip Kumar went to the house of the deceased Ashok Kumar on 1-6-1994, at about 2.00 p.m. and took him away from his house on the pretext of playing football.\n2. As Ashok Kumar did not return home in the evening, his father got suspicious and went in search of him. When he reached near the office of Damodar Valley Corporation he saw his son Ashok Kumar in the presence of these appellants. Ashok Kumar was raising alarm and was trying to escape from the appellants. The cas",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "section": "34"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "307"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "3 March 2005",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant Munna Kumar was found guilty by the Xth Additional Sessions Judge, Patna for the offence punishable under Section 302 read with Section 34 IPC.",
+    "Munna Kumar and his friend Dilip Kumar went to the house of the deceased Ashok Kumar on 1-6-1994, at about 2.00 p.m. and took him away from his house on the pretext of playing football.",
+    "Ashok Kumar did not return home in the evening, his father got suspicious and went in search of him. When he reached near the office of Damodar Valley Corporation he saw his son Ashok Kumar in the presence of these appellants.",
+    "The investigating officer came to know of the incident and he went to the Patna Medical College Hospital and thereafter he visited the place of incident and conducted further investigation.",
+    "The body of the deceased Ashok Kumar was subject to post-mortem examination and it was found that there was a bullet injury on his head,"
+  ],
+  "issues": [
+    "Whether the prosecution failed to prove the offence of murder against the appellant."
+  ],
+  "petitioner_arguments": [
+    "The prosecution should have produced the best evidence by proving the post-mortem certificate.",
+    "The prosecution failed to produce the best evidence and the appellant is certainly entitled to the benefit of doubt arising out of this."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The prosecution failed to prove the cause of death of Ashok Kumar.",
+    "There is satisfactory evidence beyond all reasonable doubt to show that the appellant Munna Kumar fired a shot at the head of deceased Ashok Kumar.",
+    "In the absence of any satisfactory evidence it is difficult to convict the appellant for the offence of murder punishable under Section 302."
+  ],
+  "holding": [
+    "We set aside the conviction and sentence of the appellant for the offence punishable under Section 302 and find him guilty and sentence him to undergo imprisonment for a period of 8 years under Section 307 IPC.",
+    "The appeal is allowed."
+  ],
+  "cases_cited": []
+}

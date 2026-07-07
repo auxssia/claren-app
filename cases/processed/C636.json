@@ -1,0 +1,59 @@
+{
+  "case_id": "C636",
+  "case_name": "State, Inspector of Police, Tamil Nadu v Rajendran and Others",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "State, Inspector of Police, Tamil Nadu",
+  "respondent": "Rajendran",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Indian Arms Act",
+      "section": "25"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "25 November 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "The State has filed a criminal appeal against the acquittal of respondents who faced trial for alleged commission of offences punishable under Section 302 of the Indian Penal Code, 1860 and Section 25 of the Indian Arms Act, 1915.",
+    "Ruby is the elder sister of P.W.l. Thiraviya Nadar (hereinafter referred to as the 'deceased') was her husband.",
+    "At about 9.00 a.m. on 11-03-1989 when P.W.5 was to catch a bus in the bus stand to go to his village, A2 and two others came there and assaulted P.W.5.",
+    "On 14-09-1989 at 10.00 a.m. P.W.5 was coming out of his work place in the company of the deceased.",
+    "The occurrence had taken place on 17-09-1989 at about 6.00 p.m.",
+    "According to prosecution, when Ex.P5, information was lodged by PW5, deceased was in his company and both of them went to the police station."
+  ],
+  "issues": [
+    "Challenge to the judgment of a Division Bench of the Madras High Court directing acquittal of respondents who faced trial for alleged commission of offences punishable under Section 302 of the Indian Penal Code, 1860 and Section 25 of the Indian Arms Act, 1915.",
+    "Credibility of Ex.P1 to P7 were in serious doubt and therefore the prosecution case was vulnerable."
+  ],
+  "petitioner_arguments": [
+    "The State submitted that the conclusions of the High Court are not only contrary to evidence on record but also are based on surmises and conjectures.",
+    "There was really no delay in sending the FIR and/or inquest report to the court.",
+    "The suggestions given by the accused probabilised the presence of the eye witnesses."
+  ],
+  "respondent_arguments": [
+    "The respondent submitted that there was partly digested food as found by the doctor PW 10.",
+    "The inquest report does not show the presence of PW 3, so, in any event PW1 whose name has been stated becomes the solitary witness."
+  ],
+  "court_reasoning": [
+    "The High Court noted that the evidence offered by the prosecution against the accused was that the deceased was always in the company of PW 5 and whenever PW 5 was in trouble, the deceased used to help him.",
+    "It was observed that except oral evidence of PWs.1and 3 that PW 5 was always found in the company of the deceased, there was no other legal material on record."
+  ],
+  "holding": [
+    "The acquittal was directed."
+  ],
+  "cases_cited": [
+    "State, Inspector of Police, Tamil Nadu v Rajendran"
+  ]
+}

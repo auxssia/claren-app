@@ -1,0 +1,56 @@
+{
+  "case_id": "C2247",
+  "case_name": "Kalpana Mazumdar v State of Orissa",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [
+    "Y. K. Sabharwal, J."
+  ],
+  "bench": [],
+  "petitioner": "Kalpana Mazumdar",
+  "respondent": "State of Orissa\nSupreme Court of India\n\n30 July 2002\nCriminal Appeal 1301 of 2001, 1302 of 2001 and 1303 of 2001\nThe Judgment was delivered by : Y. K. Sabharwal, J.\n1.  Subash Chandra Panda (A1), Kunja Ramana (A2), Narayan Mazumdar (A3) and Kalpana Mazumdar (A4), the appellants before us, are facing death penalty. The charge against them is of kidnapping and murder of a child Ranjeet Mohanty @ Rana, aged four years. They were charged for offences under Sections 364, 302 and 201 read with 34 IPC.\n2.  The First Information Report was registered at the instance of Chitranajan Mohanty, PW7. He reported that the four appellants and Simanchal Padhi had kidnapped his nephew on 30th April, 1997 and subsequently killed him. According to the FIR on 1st May, 1997 in the early morning while he had gone out to attend the call of nature he observed that a person was bringing something on his shoulders and he came towards the pond. The person was A3. PW7 caught him and an alarm was",
+  "citations": [
+    "AIR 1978 SC 1183"
+  ],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "30 July 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "Subash Chandra Panda, Kunja Ramana, Narayan Mazumdar, and Kalpana Mazumdar are facing death penalty for kidnapping and murder of a child Ranjeet Mohanty @ Rana.",
+    "The charge against them is of kidnapping and murder of a child under Sections 364, 302, and 201 read with 34 IPC.",
+    "The First Information Report was registered at the instance of Chitranajan Mohanty, PW7.",
+    "According to the FIR, the four appellants and Simanchal Padhi had kidnapped his nephew on April 30th, 1997, and subsequently killed him."
+  ],
+  "issues": [
+    "Whether the conviction is sustainable based on the sole testimony of an accomplice without any corroboration.",
+    "Whether the investigation was satisfactory and whether the prosecution has established a motive for the accused to commit the crime."
+  ],
+  "petitioner_arguments": [
+    "The submission urged before the Additional Sessions Judge and the High Court that PW14 was an accomplice and was not a witness to the offence was not accepted.",
+    "PW14 was held to be a mere mute spectator.",
+    "It would be highly unsafe to rely upon the testimony of PW14 and convict the appellants."
+  ],
+  "respondent_arguments": [
+    "The prosecution rested its case entirely on PW14 without any corroboration of his testimony on any of the material aspects."
+  ],
+  "court_reasoning": [
+    "It is not safe to convict the appellants on the sole testimony of PW14.",
+    "Without going into the question whether PW14 was an accomplice or not, it is evident that investigation of the case has been most tardy and unsatisfactory.",
+    "The prosecution did not explain what happened to the articles seized from the house of A2."
+  ],
+  "holding": [
+    "The conviction is unsustainable based on the sole testimony of an accomplice without any corroboration.",
+    "The investigation was not satisfactory, and the prosecution has not established a motive for the accused to commit the crime."
+  ],
+  "cases_cited": [
+    "the child. Our view gets sustenance from Mohan Lal and Anr. v. Ajit Singh"
+  ]
+}

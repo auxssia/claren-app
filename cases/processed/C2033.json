@@ -1,0 +1,53 @@
+{
+  "case_id": "C2033",
+  "case_name": "Chacko , Jacob v State Of Kerala",
+  "court": "Supreme Court of India",
+  "year": 1998,
+  "judges": [
+    "G. T. Nanavati"
+  ],
+  "bench": [],
+  "petitioner": "Chacko , Jacob",
+  "respondent": "State Of Kerala\nSupreme Court of India\n\n29 April 1998\nThe Judgment was delivered by : G. T. Nanavati, J.\n1.  This appeal, filed under Section 2(a) of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1973 and under Section 379 of the Criminal Procedure Code, 1973 is directed against the judgment of the High Court of Kerala in Criminal Appeal No. 58/1985. The High Court convicted the appellant for the offences punishable under Section 302 read with 34 IPC, 324 IPC and 27 of the Indian Arms Act.\n2.  The appellant was tried along with three other accused. The charge against them was that on 24.12.1981 at about 9.30 p.m. they had gone to the house of Pullery John (the deceased) and challenged t he inmates of the house to come out. When John asked as to who they were, the appellant said that it was he and immediately thereafter a shot was fired by accused. Thambi which injured John and caused his death. P.Ws 1 t 5 were present in the verandha of the ho",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Criminal Procedure Code",
+      "section": "379"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "29 April 1998",
+  "outcome": "Unknown",
+  "facts": [
+    "The appeal, filed under Section 2(a) of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1973 and under Section 379 of the Criminal Procedure Code, 1973 is directed against the judgment of the High Court of Kerala in Criminal Appeal No. 58/1985.",
+    "The appellant was tried along with three other accused. The charge against them was that on 24.12.1981 at about 9.30 p.m. they had gone to the house of Pullery John (the deceased) and challenged the inmates of the house to come out.",
+    "P.Ws 1 to 6 were present in the verandah of the house at that time. P.W. 2 flashed his torch to find out who were the assailants. Immediately thereafter, the appellant fired a shot which caused injuries to P.W. 1, 2 and 4.",
+    "The trial court disbelieved the evidence of P.Ws 1 to 6 on the grounds that their relation with the accused were inimical, they had made consistent improvements and their evidence stood contradicted by their police statements and the F.I.R.",
+    "Aggrieved by their acquittal, the State filed Criminal Appeal No. 58/1985. The Original informant also filed a revision petition to the High Court against their acquittal.",
+    "The High Court found appreciation of the evidence by the Sessions Court unreasonable and it also noticed that various important aspects were not at all considered by the trial court."
+  ],
+  "issues": [
+    "Whether the evidence of eye witnesses ought not to have been believed as all of them stood contradicted by their police statements",
+    "Whether the High Court was correct in accepting the evidence of P.Ws 1 to 4 against Thambi and the appellant without any independent corroboration"
+  ],
+  "petitioner_arguments": [
+    "The evidence of eye witnesses ought not to have been believed as all of them stood contradicted by their police statements",
+    "The High Court was incorrect in accepting the evidence of P.Ws 1 to 4 against Thambi and the appellant without any independent corroboration"
+  ],
+  "respondent_arguments": [
+    "The evidence of P.Ws 1 to 4 deserved to be accepted as it was consistent and their presence at the place of incident was natural",
+    "The High Court was correct in accepting the evidence of P.Ws 1 to 4 against Thambi and the appellant without any independent corroboration"
+  ],
+  "court_reasoning": [
+    "The explanation given by the eye witnesses as regards the contradiction that both the shots were fired by the appellant was not considered by the trial court",
+    "There was no good reason for discarding their evidence",
+    "If the prosecution after examined the injured eye witnesses thought it unnecessary to examining other witnesses, it cannot be inferred that it did so with an oblique motive"
+  ],
+  "holding": [
+    "The appeal is dismissed. As the appellant was released on bail by this Court, his bail is cancelled and he is ordered to surrender to custody to serve out the remaining part of his sentence."
+  ],
+  "cases_cited": []
+}

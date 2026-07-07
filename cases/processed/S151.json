@@ -1,0 +1,45 @@
+{
+  "case_id": "S151",
+  "case_name": "Courts to try all civil suits unless barred-",
+  "court": "",
+  "year": 0,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "9"
+    },
+    {
+      "section": "9A"
+    },
+    {
+      "section": "3"
+    },
+    {
+      "section": "5"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The Courts shall (subject to the provisions herein contained) have jurisdiction to try all suits of a civil nature excepting suits of which their cognizance is either expressly or impliedly barred.",
+    "A suit in which the right to property or to an office is contested is a suit of a civil nature, notwithstanding that such right may depend entirely on the decision of questions as to religious rites or ceremonies.",
+    "For the purposes of this section, it is immaterial whether or not any fees are attached to the office referred to in Explanation I or whether or not such office is attached to a particular place."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Notwithstanding anything contained in this Code or any other law for the time being in force, if, at the hearing of any application for granting or setting aside an order granting any interim relief, whether by way of stay, injunction, appointment of a receiver or otherwise, made in any suit, an objection to the jurisdiction of the Court to entertain such a suit is taken by any of the parties to the suit, the Court shall proceed to determine at the hearing of such application the issue as to the jurisdiction as a preliminary issue before granting or setting aside the order granting the interim relief."
+  ],
+  "holding": [
+    "Notwithstanding anything contained in this Code or any other law for the time being in force, if, at the hearing of any application for granting or setting aside an order granting any interim relief, whether by way of stay, injunction, appointment of a receiver or otherwise, made in any suit, an objection to the jurisdiction of the Court to entertain such a suit is taken by any of the parties to the suit, the Court shall proceed to determine at the hearing of such application the issue as to the jurisdiction as a preliminary issue before granting or setting aside the order granting the interim relief."
+  ],
+  "cases_cited": []
+}

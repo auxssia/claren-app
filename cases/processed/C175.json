@@ -1,0 +1,80 @@
+{
+  "case_id": "C175",
+  "case_name": "T.A. Abdul Rahman v State Of Kerala And Ors.",
+  "court": "Supreme Court of India",
+  "year": 1989,
+  "judges": [
+    "S. R. Pandian"
+  ],
+  "bench": [],
+  "petitioner": "T.A. Abdul Rahman",
+  "respondent": "State Of Kerala",
+  "citations": [
+    "1975 2 SCR 996",
+    "1979 2 SCR 257",
+    "1981 4 SCC 647"
+  ],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "8"
+    },
+    {
+      "act": "Customs Act",
+      "section": "108"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "23 August 1989",
+  "outcome": "Unknown",
+  "facts": [
+    "The appeal under Article 136 of the Constitution of India is preferred by the appellant, Abdul Rahman questioning the validity and correctness of the order of detention passed by the first Respondent on 7.10.1987.",
+    "Though the impugned order was passed on 7.10.1987, the detenu was arrested on 18.1.1988 and detained in the Central prison, Trivandrum from 19.1.1988 onwards.",
+    "The material facts which necessitated the passing of the detention order can be briefly stated thus:",
+    "On 30.11.1986, Superintendent of Central Excise, Manjeri Range and party searched the permanent residence of the detenu in his presence which did not result in the seizure of any contraband goods or the recovery of any incriminating documents.",
+    "But on questioning by the officer, the detenu confessed that he had buried eleven gold biscuits in the backyard of his house.",
+    "He dug up the spot and produced the relevant gold biscuits which were kept concealed under the ground.",
+    "The total weight of the eleven gold biscuits was 1282.600 gms., the market value of which as on that date was Rs.3,14,237.",
+    "The contraband goods were seized under a Mahazar.",
+    "On 30.11.1986 also the Superintendent of Central Excise searched the residence of the detenu in the reasonable belief that there was concealment of more smuggled gold in the said house.",
+    "During this search, the detenu pointed out to the Superintendent one packet which had been placed in the thatched roofing of his house.",
+    "The Superintendent took out the packet and it was found containing four gold ingots bearing foreign markings weighing 466.400 gms. with 24 carat purity, all to the value of Rs.1,14,268."
+  ],
+  "issues": [
+    "Whether the delay between the alleged prejudicial activity and the passing of the detention order is reasonable and justifiable.",
+    "Whether the representation submitted by the detenu to the third Respondent on 25.1.1988 challenging the impugned order clamped upon him had been disposed of by a delay of 72 days i.e. on 11.4.1988 and this long and avoid-able delay vitiates the order of detention as being violative of Article 22(5) of the Constitution of India."
+  ],
+  "petitioner_arguments": [
+    "As there is no proximity in time to provide a rational nexus between the alleged prejudicial activity, that is the seizure of the gold biscuits on 30.11.1986 and the passing of the impugned order of detention after 11 months i.e. on 7.10.1987 and as there is no reasonable and satisfactory explanation given by the first Respondent for this undue and unreasonable delay, the order is liable to be quashed on the ground that the credible chain between the grounds of the alleged criminal activities and the purpose of detention is snapped.",
+    "The representation submitted by the detenu to the third Respondent on 25.1.1988 challenging the impugned order clamped upon him had been disposed of by a delay of 72 days i.e. on 11.4.1988 and this long and avoid-able delay vitiates the order of detention as being violative of Article 22(5) of the Constitution of India."
+  ],
+  "respondent_arguments": [
+    "The investigating officer had to question a number of persons and to conduct extensive search of various premises in different places in connection with the information gathered during interrogation.",
+    "The Superintendent issued summons to the brothers of the detenu, namely, Haneefa and Abdul Rahman for appearance on 10.3.87 and 3.3.87 respectively, but Abdul Rahman was absconding.",
+    "On 18.5.1987 show cause notices were issued to persons connected with this case and immediately after completion of the investigation the Customs authorities sponsored the proposal for detention of the detenu by their letter dated 26.8.1987 and that the proposal was screened by the Screening Committee on 11.9.1987 and thereafter the detention order was passed on 7.10.1987.",
+    "The delay in securing the detenu by arrest is explained as follows: The detention order was forwarded to the Malappuram Superintendent of Police for its execution by letter dated 9.10.1987. The Police executed the order on 18.1.1988."
+  ],
+  "court_reasoning": [
+    "There is no hard and fast rule that merely because there is a time lag between the offending acts and the date of order of detention, the causal link must be taken to be snapped and the satisfaction reached by the detaining authority should be regarded as unreal.",
+    "Whether the acts of the detenu forming the basis for arriving at a subjective satisfaction are too remote in point of time to induce any reasonable person to reach such subjective satisfaction must depend on the facts and circumstances of each case."
+  ],
+  "holding": [
+    "The impugned order has been passed after lapse of 11 months from the date of seizure of the eleven gold biscuits from the back courtyard of the house of the detenu.",
+    "There is no denying the fact that the impugned order has been passed after lapse of 11 months from the date of seizure of the eleven gold biscuits from the back courtyard of the house of the detenu."
+  ],
+  "cases_cited": [
+    "Harnek Singh v. State of Punjab",
+    "In a recent decision in Yogendra Murari v. State of U",
+    "Rekhaben Virendra Karadia v. State of Gujarat &",
+    "See also SK Serajul v. State of West Bengal",
+    "Shiv Ratan Makin v. Union of India",
+    "Smt. K. Aruna Kumari v. Government of Andhra Pradesh",
+    "T.A. Abdul Rahman v State Of Kerala",
+    "This Court in Rama Dhondu Borade v. Shri V",
+    "and Rajendra Kumar Natvarlal Shah v. State of Gujarat",
+    "except a salient few. This court in Golam Hussain alias Garna v. Commnr",
+    "has been broken in the circumstances of each case. Gora v. State of West Bengal"
+  ]
+}

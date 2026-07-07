@@ -1,0 +1,65 @@
+{
+  "case_id": "C315",
+  "case_name": "B. N. Kavatakar and Another v State of Karnataka",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [],
+  "bench": [],
+  "petitioner": "B. N. Kavatakar and Another",
+  "respondent": "State of Karnataka\nSupreme Court of India\n\n12  May  1993\nCr.A. No. 536 of 1979\nThe Order of the Court was as follows :\n1.  This appeal is directed by the above two appellants who are brothers. These two appellants along with their father who was arrayed as accused I were called upon to answer the charges punishable under Section 447, 326, 302 read with Section 34 IPC on the allegations that on September 24, 1977 at about 11.15 p.m. at Sevalagi village committed criminal trespass on the land belonging to the deceased, Jinnappa Dadu and that in furtherance of the common intention, they attacked Jinnappa with lethal weapons and caused several injuries to which injuries Jinnappa succumbed on September 30, 1977 at 3.50 a.m. The investigating officer, PW 21 recorded the statement of the deceased in the hospital on the night of September 24/25, 1977. On the basis of Ex. P- 32, a case was registered, Ex. P-23. The Investigating Officer after inspecting the scene o",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "447"
+    },
+    {
+      "section": "34"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "313"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "326"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "CrPC",
+  "court_level": "Supreme Court",
+  "decision_date": "12 May 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "On September 24, 1977 at about 11.15 p.m. at Sevalagi village committed criminal trespass on the land belonging to the deceased, Jinnappa Dadu.",
+    "The investigating officer, PW 21 recorded the statement of the deceased in the hospital on the night of September 24/25, 1977.",
+    "According to the prosecution, the occurrence was witnessed by PWs 7, 8 and 9 of whom PW 7 is an injured witness.",
+    "After completing the investigation, the Investigating Officer laid the charge-sheet against all the three accused.",
+    "The State preferred an appeal before the High Court. The High Court on reevaluating the evidence, convicted these two appellants but acquitted their father by giving him the benefit of doubt.",
+    "The matter was referred to the Supreme Court Legal Aid Board.",
+    "Mr U.R. Lalit, learned senior counsel has offered his assistance to the Court appearing on behalf of the appellants."
+  ],
+  "issues": [
+    "What is the nature of the offence that the appellants have committed?"
+  ],
+  "petitioner_arguments": [
+    "The evidence is inadequate and insufficient to warrant the conviction against the appellants.",
+    "If the evidence even is accepted the offence would not amount to one punishable under Section 302 read with Section 34 IPC but would be only under Section 326 read with Section 34 IPC."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The evidence of PWs 8 and 9 is eschewed, we can safely rely upon the evidence of PW 7 which corroborates Ex. P-22, the statement recorded by PW 21 in the hospital.",
+    "On an overall scrutiny of the facts and circumstances of the case coupled with the opinion of the Medical Officer, we are of the view that the offence would be one punishable under Section 326 read with Section 34 IPC."
+  ],
+  "holding": [
+    "The appeal is dismissed.",
+    "We convict them under Section 326 read with Section 34 IPC and sentence each of the appellants to undergo rigorous imprisonment for a period of three years."
+  ],
+  "cases_cited": []
+}

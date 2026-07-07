@@ -1,0 +1,56 @@
+{
+  "case_id": "C376",
+  "case_name": "State of Tamil Nadu v Kutty Alias Lakshmi Narasimhan",
+  "court": "Supreme Court of India",
+  "year": 2001,
+  "judges": [
+    "K. T. Thomas"
+  ],
+  "bench": [],
+  "petitioner": "State of Tamil Nadu",
+  "respondent": "Kutty Alias Lakshmi Narasimhan\nSupreme Court of India\n\n10 August 2001\nAppeal (Crl.) 453 of 1991\nThe Judgment was delivered by : K. T. Thomas, J.\n1.  Rani Padmini, a dainty film actress of the South and her mother Indira Kumari were butchered on an ill-fated morning fifteen years ago, in their own flat at Anna Nagar in Madras (now Chennai). Their driver, watchman and cook were later caught and charge-sheeted by the police for the said double murder. The trial court convicted all the three persons and sentenced them to death. But a Division Bench of the High Court of Madras acquitted two of them (the watchman and the cook) while altering the sentence of the driver to imprisonment for life after confirming the conviction. That person (A-1 Jebaraj) moved this Court for special leave to appeal but that special leave petition was dismissed.\n2.  The State of Tamil Nadu filed appeals against the acquittal of the two persons (the watchman A-2 Lakshmi Narasimhan and the coo",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "164"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "10 August 2001",
+  "outcome": "Unknown",
+  "facts": [
+    "Rani Padmini, a dainty film actress of the South and her mother Indira Kumari were butchered on an ill-fated morning fifteen years ago, in their own flat at Anna Nagar in Madras (now Chennai).",
+    "Their driver, watchman and cook were later caught and charge-sheeted by the police for the said double murder.",
+    "The trial court convicted all the three persons and sentenced them to death.",
+    "But a Division Bench of the High Court of Madras acquitted two of them (the watchman and the cook) while altering the sentence of the driver to imprisonment for life after confirming the conviction.",
+    "That person (A-1 Jebaraj) moved this Court for special leave to appeal but that special leave petition was dismissed.",
+    "The State of Tamil Nadu filed appeals against the acquittal of the two persons (the watchman A-2 Lakshmi Narasimhan and the cook A-3 Ganeshan) but the latter was not traced out in spite of repeated searches made for effecting the service of notice on him.",
+    "Finally this Court dismissed the appeal filed against A-3 Ganeshan on 5.4.1999.",
+    "Thus the appeal by special leave filed by the State as against the watchman (A-2 Lakshmi Narasimhan @ Kutty) is now surviving."
+  ],
+  "issues": [
+    "Whether A-2 Lakshmi Narasimhan had also joined A-1 Jebaraj in murdering the two ladies.",
+    "Whether the judicial confession recorded by the magistrate can be relied upon."
+  ],
+  "petitioner_arguments": [
+    "The High Court approached prosecution evidence in a very pedantic manner and laboured to find out the drawbacks in investigation and wrongly sidestepped the confessions made by the accused persons.",
+    "The extra judicial confession spoken to by PW-30 should have been acted on.",
+    "Acquittal of the appellant resulted in a grave miscarriage of justice."
+  ],
+  "respondent_arguments": [
+    "Apart from the inherent weakness of extra judicial confessions by the very nature of that evidence, the testimony of PW-30 itself would show that the confession spoken to by him as attributed to A-1 is a very fragile piece of evidence.",
+    "Recovery of the articles did not connect the second accused, particularly in the light of the evidence of the independent witnesses examined by the prosecution."
+  ],
+  "court_reasoning": [
+    "The twin test of a confession is to ascertain whether it was voluntary and true.",
+    "Once those tests are found to be positive the next endeavour is to see whether there is any other reason which stands in the way of acting on it.",
+    "Even for that, retraction of the confession is not the ground to throw the confession overboard."
+  ],
+  "holding": [
+    "We hold that the judicial confession recorded by the magistrate can be relied upon and we accordingly set aside the order of acquittal passed by the High Court and convict A-2 Lakshmi Narasimhan for the murder of Indira Kumari and her daughter Rani Padmini."
+  ],
+  "cases_cited": []
+}

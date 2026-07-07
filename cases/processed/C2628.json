@@ -1,0 +1,76 @@
+{
+  "case_id": "C2628",
+  "case_name": "State Of Punjab & Ors. v Kailash Nath and another",
+  "court": "Supreme Court of India",
+  "year": 1988,
+  "judges": [
+    "N. D. Ojha, J."
+  ],
+  "bench": [],
+  "petitioner": "State Of Punjab & Ors",
+  "respondent": "Kailash Nath and another\nSupreme Court of India\n\n22 November 1988\nCRIMINAL APPELLATE JURISDICTION: Criminal Appeal Nos. 422-424 of 1988. From the Judgment and Order dated 12.2.1986 and 4.9.1986 from the High Court of Punjab and Haryana in Crl. Misc. No. 5837 of 1985 and Crl. Misc. No. 4488 and 2993 of 1986 respectively.\nThe Judgment was delivered by : N. D. Ojha, J.\n1.  These appeals raise an identical question of law and can conveniently be decided by a common order. Kailash Nath, respondent in Criminal appeal No. 422/88, was working as Executive Engineer in Public Works Department in the State of Punjab in the year 1979. On various dates in that year, he placed orders for the purchase of sign boards which were required by the Department to avoid accidents on roads and for traffic safety. The requisite sign boards were purchased in pursuance of the aforementioned orders. In the year 1980 some complaints were received in the Department against the respondent pe",
+  "citations": [
+    "1966 1 SCR 367",
+    "1970 3 SCR 302",
+    "1976 3 SCR 1013",
+    "1981 2 SCR 989"
+  ],
+  "statutes": [
+    {
+      "act": "Prevention Of Corruption Act",
+      "section": "5"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "22 November 1988",
+  "outcome": "Unknown",
+  "facts": [
+    "Kailash Nath, respondent in Criminal appeal No. 422/88, was working as Executive Engineer in Public Works Department in the State of Punjab in the year 1979.",
+    "On various dates in that year, he placed orders for the purchase of sign boards which were required by the Department to avoid accidents on roads and for traffic safety.",
+    "The requisite sign boards were purchased in pursuance of the aforementioned orders.",
+    "In the year 1980 some complaints were received in the Department against the respondent pertaining to the purchase of the sign-boards.",
+    "Vigilance enquiry was instituted by the Vigilance Bureau to enquire into the complaints and ultimately a First Information Report was lodged on August 27, 1985 against the respondent under sub-sections (1) and (2) of Section 5 of the Prevention of Corruption Act.",
+    "In the meantime, the respondent had retired from the post of Executive Engineer with effect from October 31, 1982.",
+    "Mangal Singh Minhas, the respondent in Criminal Appeal Nos. 423-24/1988, was posted in the Industrial Supply Section of the Directorate of Industries where various types of raw materials including wax and import lincences are dealt with.",
+    "A First Information Report was lodged against the respondent on June 19, 1980.",
+    "It appears that the respondent applied in the High Court of Punjab and Haryana for quashing of the First Information Report on account of which challan could not be filed and it was only when the challenge to the First Information Report was repelled by the High Court that a challan was filed on August 28, 1985",
+    "In the meantime, the respondent retired as Superintendent, Directorate of Industries, Punjab, on September 30, 1983."
+  ],
+  "issues": [
+    "Whether Rule 2.2 of the Punjab Civil Service Rules places an embargo on initiating judicial proceedings for prosecution of a government servant on the expiry of four years from the date of cause of action or event mentioned therein.",
+    "What is the scope and interpretation of Rule 2.2?"
+  ],
+  "petitioner_arguments": [
+    "The rule in question certainly does not purport to regulate recruitment.",
+    "Whether the said rule if it is to be interpreted as one placing an embargo on institution of judicial proceedings as against a person referred to therein for prosecution in respect of a cause of action which arose or an event which took place more than four years before such institution, can be treated to be a rule regulating the condition of service of such a person.",
+    "The expression 'conditions of service' means all those conditions which regulate the holding of a post by a person right from the time of his appointment till his retirement and even beyond it, in matters like pension etc."
+  ],
+  "respondent_arguments": [
+    "An assurance to an employee that he shall not be prosecuted after his retirement, even though guilty of committing a grave misconduct or negligence during the period of his service, after the lapse of a particular time which has been fixed in the instant case as four years would fall within the purview of 'conditions of service' as contemplated by Article 309."
+  ],
+  "court_reasoning": [
+    "The rule in question certainly does not purport to regulate recruitment.",
+    "Whether the said rule if it is to be interpreted as one placing an embargo on institution of judicial proceedings as against a person referred to therein for prosecution in respect of a cause of action which arose or an event which took place more than four years before such institution, can be treated to be a rule regulating the condition of service of such a person.",
+    "The expression 'conditions of service' means all those conditions which regulate the holding of a post by a person right from the time of his appointment till his retirement and even beyond it, in matters like pension etc."
+  ],
+  "holding": [
+    "We find substance in the submission made by learned counsel for the appellant.",
+    "The rule in question cannot be interpreted to be a rule placing an embargo on prosecution of a government servant on the expiry of a period of four years from the date of cause of action or event mentioned therein.",
+    "Whether or not a government servant should be prosecuted for an offence committed by him obviously cannot be treated to be something pertaining to conditions of service."
+  ],
+  "cases_cited": [
+    "In M/s Ram Narain Sons Ltd. v. Asst",
+    "State Of Punjab & Ors. v Kailash Nath",
+    "The decision of this Court in State of Punjab v. Charan Singh",
+    "The same view was reiterated in Abdul Jabar Butt v. State of Jammu & Kashmir",
+    "and reiterated in I.N. Subba Reddy v. Andhra University",
+    "came up for consideration before the Madras High Court in P. V. Venkatavardan v",
+    "explained by this Court in State of Madhya Pradesh and Ors. v. Shardul Singh",
+    "of the Patna High Court in Madheshwardhari Singh and Another v. State of Bihar",
+    "on an earlier decision of that Court in Des Raj Singhal v. State of Punjab",
+    "on the aforesaid decision in the case of Des Raj Singhal v. State of Punjab",
+    "on the decision of this Court in Ishverlal Thakorelal Almaula v. Motibhai Nagjibhai"
+  ]
+}

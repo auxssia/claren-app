@@ -1,0 +1,63 @@
+{
+  "case_id": "C147",
+  "case_name": "Wakil Singh and Others v State of Bihar",
+  "court": "Supreme Court of India",
+  "year": 1981,
+  "judges": [
+    "FAZAL ALI"
+  ],
+  "bench": [],
+  "petitioner": "Wakil Singh and Others",
+  "respondent": "State of Bihar\nSupreme Court of India\n\n31 March 1981\nCr.A. No. 268 of 1976\nThe Judgment was delivered by: FAZAL ALI, J.\n1. This appeal u/s. 2 of the Supreme Court (Enlargement of the Criminal Appellate Jurisdiction) Act and also u/s. 379 of the Code of Criminal Procedure is directed against the Judgment of the Patna High Court dated April 13,  (Pat)), by which the High Court reversed the order of the Sessions Judge acquitting the appellants and convicted them u/s. 396 of the Indian Penal Code and sentenced them to imprisonment for life. The narration of the prosecution case is given in the Judgment of the High Court and it is not necessary to repeat the same here. The case arose out of a dacoity said to have been committed in the house of the complainant, PW-Darbari Sao on the night of May 24, 1965 at about 8.45 p.m. According to the prosecution some unknown persons including the appellants entered the house, assaulted inmates, killed one of them and looted awa",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "2"
+    },
+    {
+      "section": "379"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "396"
+    },
+    {
+      "act": "Indian Penal Code"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "31 March 1981",
+  "outcome": "Unknown",
+  "facts": [
+    "The case arose out of a dacoity said to have been committed in the house of the complainant, PW-Darbari Sao on the night of May 24, 1965 at about 8.45 p.m.",
+    "According to the prosecution some unknown persons including the appellants entered the house, assaulted inmates, killed one of them and looted away properties worth thousands of rupees.",
+    "There is no clear evidence to show that the deceased Kameshwer Sao was actually killed by one of the dacoits in the course of the dacoity.",
+    "The four appellants were arrested between August 26 to September 2, 1965 and the first T.I. parade was held on September 4, 1965 and two other parades were held on September 8, 1965."
+  ],
+  "issues": [
+    "Whether the conviction of the appellants is sustainable in view of the evidence adduced by the prosecution?"
+  ],
+  "petitioner_arguments": [
+    "The trial Court was right in not relying on the evidence of witnesses and not convicting the accused who are identified by only one witness, apart from the reasons that were given by the trial Court.",
+    "In absence of any such description, it will be impossible for us to convict any accused on the basis of a single identification, in which case the reasonable possibility of mistake in identification cannot be excluded.",
+    "The High Court also ignored the fact that the identification was made at the T.I. parade about 3 1/2 months after the dacoity and in view of such a long lapse of time it is not possible for any human being to remember, the features of the accused and he is, therefore, very likely to commit mistakes."
+  ],
+  "respondent_arguments": [
+    "The prosecution has been able to establish any nexus between his death and the commission of the dacoity or even his injuries.",
+    "The High Court did not agree with the reasoning of the trial court because it construed the T.I. parade in a most technical fashion."
+  ],
+  "court_reasoning": [
+    "In these circumstances it is obvious that charge u/s. 396 must fail.",
+    "For these reasons, therefore, we are clearly of the opinion that the appellants are entitled to an acquittal.",
+    "The possibility of mistake in identification because of the pox marks cannot be reasonably excluded."
+  ],
+  "holding": [
+    "The appeal is accordingly, allowed and the appellants acquitted of the charges framed against them.",
+    "Krishnandan Singh who was on bail will now be discharged from his bail bonds and other appellants are directed to be set at liberty forthwith."
+  ],
+  "cases_cited": []
+}

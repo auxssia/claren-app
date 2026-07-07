@@ -1,0 +1,35 @@
+{
+  "case_id": "S108",
+  "case_name": "Kidnapping, abducting or inducing woman to compel her marriage, etc",
+  "court": "",
+  "year": 1923,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "2"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "kidnapping",
+    "abducting",
+    "inducing woman to compel her marriage"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "imprisonment of either description for a term which may extend to ten years",
+    "liable to fine"
+  ],
+  "cases_cited": []
+}

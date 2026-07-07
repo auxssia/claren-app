@@ -1,0 +1,68 @@
+{
+  "case_id": "C803",
+  "case_name": "Indore Development Authority v Madan Lal and Others",
+  "court": "Supreme Court of India",
+  "year": 1990,
+  "judges": [
+    "K. Jagannatha Shetty"
+  ],
+  "bench": [],
+  "petitioner": "Indore Development Authority",
+  "respondent": "Madan Lal",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Trust Act",
+      "section": "50"
+    },
+    {
+      "act": "Trust Act",
+      "section": "51"
+    },
+    {
+      "act": "Land Acquisition Act",
+      "section": "6"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 226",
+  "court_level": "Supreme Court",
+  "decision_date": "1 March 1990",
+  "outcome": "Unknown",
+  "facts": [
+    "On March 16, 1973, M.P. Nagar Tatha Gram Nivesh Adhiniyam, 1973 ('the Adhiniyam') was brought into force.",
+    "Prior to that date, there was in force an Act called M.P. Town Improvement Trust Act, 1960 ('the Trust Act').",
+    "Under the Trust act, the Indore Improvement Trust was constituted.",
+    "The Indore Improvement Trust framed a Town Expansion Scheme No. 72 under the provisions of the Trust Act.",
+    "It invited objections from persons whose lands were proposed to be acquired for executing the scheme.",
+    "Some persons filed objections and suggestions and they were considered.",
+    "The Improvement Trust by itself had no authority to approve the scheme.",
+    "It must obtain sanction of the State Government.",
+    "Section 50 of the Trust Act provides that when the government is approached for sanction, the Trust shall cause notice of that fact to be published for two consecutive weeks in the gazette and in the local newspaper.",
+    "Section 51 of the Trust Act empowers the State Government either to sanction the scheme with or without modifications or to refuse the sanction or to return the scheme for reconsideration by the Improvement Trust.",
+    "Section 52(1) of the Trust Act provides that whenever the State Government sanctions an improvement scheme, it shall be notified and Section 52(2) provides that the publication of such a notification shall be conclusive evidence that the scheme has been duly framed and sanctioned."
+  ],
+  "issues": [
+    "Whether the Development Authority was justified in following a short cut in this case.",
+    "Whether the procedure followed under the Trust Act could dispense with all the requirements of Section 50 of the Adhiniyam."
+  ],
+  "petitioner_arguments": [
+    "The Development Authority need not have invited fresh objections and suggestions for consideration since that procedure has already been followed by the Improvement Trust under the Trust Act.",
+    "The provisions of Section 87(1)(c)(ii) of the Adhiniyam were also relied upon to salvage the scheme."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "We do not think that the Development Authority was justified in following a short cut in this case.",
+    "The procedure followed under the Trust Act could not be sufficient to dispense with all the requirements of Section 50 of the Adhiniyam.",
+    "As earlier noticed that Section 50 of the Adhiniyam provides procedure for preparation and approval of scheme for development.",
+    "After preparing a draft scheme, the Development Authority must invite objections and suggestions from the public.",
+    "There must be due consideration of the objections and suggestions received in the light of the Master Plan of Indore."
+  ],
+  "holding": [
+    "The High Court has quashed the acquisition.",
+    "The High Court has also held that the Scheme No. 72 which was not approved by the government under the Trust Act could not have been adopted by the Development Authority as if it were a scheme prepared under the Adhiniyam."
+  ],
+  "cases_cited": [
+    "Indore Development Authority v Madan Lal"
+  ]
+}

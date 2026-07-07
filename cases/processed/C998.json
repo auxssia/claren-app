@@ -1,0 +1,71 @@
+{
+  "case_id": "C998",
+  "case_name": "Columbia Sportswear Company v Director Of Income Tax, Bangalore",
+  "court": "Supreme Court of India",
+  "year": 2012,
+  "judges": [
+    "A. K. Patnaik"
+  ],
+  "bench": [],
+  "petitioner": "Columbia Sportswear Company",
+  "respondent": "Director Of Income Tax, Bangalore\nSupreme Court of India\n\n30 July 2012\nSPECIAL LEAVE PETITION (C ) No . 31543 of 2011 SPECIAL LEAVE PETITION (C ) No . 3318 of 2011 ,\nSPECIAL LEAVE PETITION (C ) No . 13760 of 2011 ,\nCIVIL APPEAL No . 2996 of 20O8 ,\nCIVIL APPEAL No . 5839 of 2008 ,\nCIVIL APPEAL No . 7035 of 2011 ,\nCIVIL APPEAL No . 6987 of 2010 ,\nCIVIL APPEAL No . 10064 of 2011 ,\nAND\nCIVIL APPEAL No . 11327 of 2011 ,\nThe Judgment was delivered by : A. K. Patnaik, J.\n1. This is a petition u/art. 136 of the Constitution of India seeking special leave to appeal against the order dated 08.08.2011 of the Authority for Advance Rulings (Income Tax) constituted under Chapter XIX-B of the Income Tax Act, 1961 (for short 'the Act') in A.A.R. No.862 of 2009.\n2. The petitioner is a company incorporated in the United States of America (for short 'the USA') and is engaged in the business of designing, developing, marketing and distributing outdoor apparel. For making purc",
+  "citations": [
+    "1997 3 SCC 261",
+    "2010 11 SCC 1",
+    "AIR 1963 SC 677",
+    "AIR 1965 SC 1595",
+    "AIR 1970 SC 1520"
+  ],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "245S"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 226",
+  "court_level": "Supreme Court",
+  "decision_date": "30 July 2012",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner, Columbia Sportswear Company, is a company incorporated in the United States of America (USA) engaged in designing, developing, marketing, and distributing outdoor apparel.",
+    "The petitioner established a liaison office in Chennai with permission from the Reserve Bank of India (RBI) in 1995.",
+    "The RBI granted permission for opening an additional liaison office in Bangalore on the same terms and conditions as mentioned in the letter dated 01.03.1995.",
+    "The Authority for Advance Rulings (Income Tax) constituted under Chapter XIX-B of the Income Tax Act, 1961 passed an order dated 08.08.2011.",
+    "The petitioner filed a special leave petition challenging the impugned order on various grounds."
+  ],
+  "issues": [
+    "Whether based on the nature of activities carried on by the Liaison Office ['India LO'] of the Applicant in India, any income accrues or arises in India as per S. 5(2)(9B) of the Act?",
+    "Whether based on the nature of activities carried on by the India LO, as listed in the Statement of relevant facts [Annexure III], the Applicant can be said to have a business connection in India as per the provisions of S. 9(1)(i) of Act read with its Explanation 2",
+    "If the answer to Query 3 is in the negative, how would the profits attributable to the 'operations in India' be determined and what would be the broad principles to be borne in mind for attributing income to the India LO"
+  ],
+  "petitioner_arguments": [
+    "The Authority is a quasi-judicial Tribunal.",
+    "The order of the Authority is an adjudicating order determining a question of law or fact specified in the application and sub-section (5) of Section 245R mandates compliance with the principles of natural justice.",
+    "As the Authority is a quasijudicial Tribunal, its orders can be challenged before the High Court by way of judicial review under Article 226/227 of the Constitution or before this Court by way of an appeal u/art. 136 of the Constitution."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The expression 'tribunal' in Art. 136 and the expression 'tribunals' in Art. 227 of the Constitution has been explained by Hidayatullah, J., in Harinagar Sugar Mills v. Shyam Sunder [AIR 1961 S.C. 1669 1961 Indlaw SC 372]"
+  ],
+  "holding": [
+    "The preliminary question that we have to decide is whether an advance ruling pronounced by the Authority can be challenged by the applicant or by the Commissioner or any income-tax authority subordinate to him under Article 226/227 of the Constitution before the High Court or u/art. 136 of the Constitution before this Court."
+  ],
+  "cases_cited": [
+    "Associated Cement Companies Ltd. v. P.N",
+    "Columbia Sportswear Company v Director Of Income Tax",
+    "Jyotendrasinhji v. S.I",
+    "L. Chandra Kumar v. Union of India",
+    "They cited the decisions of this Court in Kihoto Hollohan v. Zachillhu",
+    "and Union of India v. R. Gandhi",
+    "been explained by Hidayatullah, J., in Harinagar Sugar Mills v. Shyam Sunder",
+    "has been reiterated by this Court in Jaswant Sugar Mills Ltd. v. Lakshmi Chand &",
+    "has been taken note of by this Court in Union of India & Anr. v. Azadi Bachao Andolan &",
+    "may limit the scope of this jurisdiction. In Jyotendrasinhji v. S.I",
+    "on the self same grounds. In fact, in Sirpur Paper Mills Ltd. v. Commissioner of Wealth Tax",
+    "recent decision of the Constitution Bench in Union of India v. R. Gandhi",
+    "relied upon the decision of this Court in Durga Shankar Mehta v. Thakur Raghuraj Singh",
+    "some authorities in support of this view. In Kihoto Hollohan v. Zachillhu",
+    "the Constitution before the High Court. In L. Chandra Kumar v. Union of India"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "case_id": "S121",
+  "case_name": "Persons not to be deprived of property save by authority of law",
+  "court": "None",
+  "year": 1978,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Of Constitution",
+      "section": "34"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "Persons not to be deprived of property save by authority of law"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "No person shall be deprived of his property save by authority of law."
+  ],
+  "cases_cited": []
+}

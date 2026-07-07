@@ -1,0 +1,57 @@
+{
+  "case_id": "C1397",
+  "case_name": "Munshi Ram v Collector of Central Excise and Land Customs",
+  "court": "Supreme Court of India",
+  "year": 1964,
+  "judges": [
+    "M. HIDAYATULLAH"
+  ],
+  "bench": [],
+  "petitioner": "Munshi Ram",
+  "respondent": "Collector of Central Excise and Land Customs, New\nSupreme Court of India\n\n18 March 1964\nCr.A. No. 89 of 1962 (Arising as an appeal from Punjab High Court (Circut Bench) at Delhi in Criminal Writ No. 8D of 1961)\nThe Judgment was delivered by: M. HIDAYATULLAH, J.\n1.  Munshi Ram whose petition u/art. 226 of the Constitution was dismissed summarily by the High Court of Punjab and who appeals by special leave was ordered to pay Rs. 1, 20, 000/- as penalty u/s. 167(8) of the Sea Customs Act read with S. 19 ibid. and Section 23A of the Foreign Exchange Regulation Act, 1947 in respect of 450 tolas of gold found on search of houses Nos. 14 and 15 of Ganganagar, Rajasthan.\n2.  On the night between the 2nd and 3rd March, 1958 the appellant was accosted at village Kehri in India near the India-Pakistan border by the R.A.C. constables. A sum of Rs. 45/- was found on his person, but on the person of his servant Keru a sum of Rs. 22, 800/- was found. This amount was seized by the Customs",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Foreign Exchange Regulation Act",
+      "section": "23A"
+    },
+    {
+      "act": "Sea Customs Act",
+      "section": "178A"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "18 March 1964",
+  "outcome": "Unknown",
+  "facts": [
+    "Munshi Ram's petition under Article 226 of the Constitution was dismissed summarily by the High Court of Punjab.",
+    "On the night between March 2nd and 3rd, 1958, Munshi Ram was accosted at village Kehri in India near the India-Pakistan border by R.A.C. constables.",
+    "A sum of Rs. 45/- was found on his person, but on the person of his servant Keru a sum of Rs. 22,800/- was found.",
+    "The Customs authorities seized this amount and searched House No. 15, finding some ammunition and 30 tolas of contraband opium.",
+    "Report of this was made to the police and the police obtained a warrant under Section 19/20 of the Indian Arms Act (Act XI of 1878) and searched Blocks Nos. 13, 14, 15 and 16.",
+    "At that search, 420 tolas of gold were found at House No. 14 and 30 tolas at House No. 15."
+  ],
+  "issues": [
+    "Whether the penalty imposed on Munshi Ram was legal",
+    "Whether Section 167(8) of the Sea Customs Act offended Article 14 of the Constitution"
+  ],
+  "petitioner_arguments": [
+    "He was not given any hearing before the penalty was imposed",
+    "Penalty in excess of Rs. 1,000/- was illegal",
+    "S. 167(8) offended Art. 14 of the Constitution",
+    "Section 178A of the Sea Customs Act under which he was required to prove that the gold was not smuggled into India was ultra vires"
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The findings of fact by the appropriate authorities must be accepted as correct and cannot be re-examined",
+    "The point now sought to be raised is not one on which an affidavit by the opposite side would not have been necessary if the High Court had considered it good and allowed it to be taken to trial"
+  ],
+  "holding": [
+    "The appeal fails and is dismissed"
+  ],
+  "cases_cited": [
+    "Munshi Ram v Collector of Central Excise"
+  ]
+}

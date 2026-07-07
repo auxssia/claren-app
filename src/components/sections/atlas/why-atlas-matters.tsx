@@ -1,5 +1,3 @@
-"use client";
-
 import { SectionWrapper } from "@/components/common/section-wrapper";
 import { AnimatedStagger } from "@/components/common/animated-section";
 import { Eye, BookOpen, Compass, Shield } from "lucide-react";

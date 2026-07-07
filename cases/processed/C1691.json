@@ -1,0 +1,64 @@
+{
+  "case_id": "C1691",
+  "case_name": "V. P. Shrivastava and Others v State of Madhya Pradesh and Others",
+  "court": "Supreme Court of India",
+  "year": 1996,
+  "judges": [
+    "G. B. Pattanaik"
+  ],
+  "bench": [],
+  "petitioner": "V. P. Shrivastava and Others",
+  "respondent": "State of Madhya Pradesh",
+  "citations": [
+    "1985 1 SCR 216",
+    "1990 2 SCR 900"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 226",
+  "court_level": "Supreme Court",
+  "decision_date": "2 February 1996",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants are the direct recruits as Assistant Director of Industries, they having been appointed on 29 September 1980 through the process of selection conducted by the Public Service Commission.",
+    "The respondents are the ad hoc promotees to the post of Assistant Director, they having been promoted on 27 September 1980.",
+    "The inter se seniority between these two groups of appointees is the subject matter of controversy in this appeal.",
+    "Under the Recruitment Rules, 1965 no appointment to the service could be made except after selection by one of the methods of recruitment specified in Rule 6.",
+    "So far as the direct recruitment is concerned the selection has to be made by the Public Service Commission after interviewing the candidates as provided under Rule 11 and then Commission forwards a list to the Government arranging the persons in order of merit as provided in Rule 12 and finally the Government makes the appointments from the said list.",
+    "So far as the appointment to the service by promotion is concerned, under Rule 13 a preliminary selection committee is constituted which committee considers the cases of all eligible persons as provided under Rule 14 and finally a list of suitable persons is prepared by the said committee under Rule 15,"
+  ],
+  "issues": [
+    "Whether the Tribunal erred in law in declaring the promotees to be senior to the direct recruits solely on the ground that the promotees were appointed on 27 September 1980 whereas the direct recruits were appointed on 29 September 1980.",
+    "Whether the appellants could have been refused relief on the score that some of the promotee appointees have been impleaded as parties and the Tribunal itself came to the conclusion that they successfully safeguarded the interest of the promotees."
+  ],
+  "petitioner_arguments": [
+    "The appellants do not challenged the so called ad-hoc appointments of respondents by way of promotion but they merely challenge the position assigned to them in the selection list",
+    "The appellants' application before the Tribunal in 1989 by no stretch of imagination can be held to be barred on the principle of delay and laches"
+  ],
+  "respondent_arguments": [
+    "Many of the respondents have been retired in the meantime, and therefore, alteration of the seniority need not be made by this Court."
+  ],
+  "court_reasoning": [
+    "The Constitution Bench of this Court summarised the legal position in paragraph 44 as follows :",
+    "Once an incumbent is appointed to a post according to rule, his seniority has to be counted from the date of his appointment and not according to the date of his confirmation.",
+    "If the initial appointment is only ad-hoc and not according to rules and made as a stop-gap arrangement, the officiation in such post cannot be taken into account for considering the seniority."
+  ],
+  "holding": [
+    "The appellants direct recruits must be held senior to the respondents - private respondents - ad-hoc promotees.",
+    "The Tribunal obviously erred in law in not following the aforesaid authoritative pronouncement of this Court for determination of the inter se seniority between direct recruits and the promotees."
+  ],
+  "cases_cited": [
+    "In a more recent case of V, Sreenivasa Reddy and Others v. Govt",
+    "In the case of A. Janardhana v. Union of India",
+    "Manger, South Central Railway Secundrabad and Anr. Etc. v. A.V",
+    "Recruit Class II Engineering Officers Association and On. v. Stale of Maharashtra",
+    "V. P. Shrivastava and Others v State of Madhya Pradesh",
+    "by this Court in the case of Prabodh Verma and Others, Etc. v. State of Uttar Pradesh",
+    "decision this Court in the case of State of W.B. and Others v. Aghore Nath Day"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "case_id": "C1187",
+  "case_name": "Pralhad and others v State of Maharashtra and another",
+  "court": "Supreme Court of India",
+  "year": 2010,
+  "judges": [
+    "Hon'ble Mr. Justice A.K. Ganguly"
+  ],
+  "bench": [],
+  "petitioner": "Pralhad and others",
+  "respondent": "State of Maharashtra and another\nSupreme Court of India\n\n15 September 2010\nC.A. No. 1745-1753 of 2004\nThe Judgment was delivered by : Hon'ble Mr. Justice A.K. Ganguly\n1. The relevant facts common in these appeals are that a preliminary notification dated 5.03.1983 was issued u/s. 4 of the Land Acquisition Act, 1894 (hereinafter referred to as, 'the Principal Act') in respect of the land at Ghonga Tank in village Ghonga, Taluk Barshitakli, Akola, Nagpur. It was followed by a notification u/s. 6 of the Principal Act on 28.07.1983.\n2. The Land Acquisition Collector passed his award on 1.03.1984, awarding Rs.3600/- per acre for the acquired lands. Landowners, being aggrieved, filed a Reference application u/s. 18 of Act on 5.04.1984, for enhancement of compensation.\n3. Meanwhile, the Land Acquisition (Amendment) Act, 1984, being Act 68 of 1984 (hereinafter 'the Amendment Act') received the assent of the President on 24.09.1984 for amending the Principal Act. The amendm",
+  "citations": [
+    "AIR 2004 SC 1989",
+    "AIR 2010 SC 1308"
+  ],
+  "statutes": [
+    {
+      "section": "4"
+    },
+    {
+      "section": "6"
+    },
+    {
+      "section": "3600"
+    },
+    {
+      "section": "18"
+    },
+    {
+      "section": "13"
+    },
+    {
+      "section": "23(1A)"
+    },
+    {
+      "section": "30"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "15 September 2010",
+  "outcome": "Unknown",
+  "facts": [
+    "A preliminary notification dated 5.03.1983 was issued u/s. 4 of the Land Acquisition Act, 1894 in respect of the land at Ghonga Tank in village Ghonga, Taluk Barshitakli, Akola, Nagpur.",
+    "The Land Acquisition Collector passed his award on 1.03.1984, awarding Rs.3600/- per acre for the acquired lands.",
+    "Landowners, being aggrieved, filed a Reference application u/s. 18 of Act on 5.04.1984, for enhancement of compensation.",
+    "On 25.04.1985, the Additional District Judge, Akola, in the Reference Proceeding enhanced the compensation to Rs.13,000/- per acre, with solatium at the rate of 30% as per the amendment and interest at the rate of 9% p.a. from the date of possession.",
+    "The State of Maharashtra challenged the award of the Reference Court in the High Court of Bombay (Nagpur Bench), Nagpur.",
+    "The landowners did not file any appeal or cross-objections against the judgment of the Reference Court, but filed applications under Order 41, Rule 33 of the Civil Procedure Code (for short \"CPC\") claiming additional compensation at the rate of 12% p.a. on the market value for the period commencing from the date of publication of the award and interest at 9% p.a. on enhanced compensation from the date of taking possession for a period of one year and at the rate of 15% for the further period, in view of the amendment to the Principal Act.",
+    "The High Court, by judgment and order dated 9.02.1999, dismissed the appeals of the State of Maharashtra as well as the applications filed by the landowners under Order 41, Rule 33 of CPC.",
+    "The present appeals are filed by the landowners before this Court, challenging the dismissal of their application under Order 41, Rule 33 of the CPC by the High Court."
+  ],
+  "issues": [
+    "Whether in absence of an appeal or cross-objection from the claimants, is it permissible to grant additional benefits to the appellants as provided in S. 23(1A) of the Land Acquisition Act, 1894?"
+  ],
+  "petitioner_arguments": [
+    "The landowners argued that they were entitled to the benefit of the amending provision u/s. 23(1A) of the Act.",
+    "They contended that since a clear intention has been given in S. 30(1), there is no scope for any speculation about the parliamentary intention by reading S. 23(1A) in isolation from S. 30(1) of the Act."
+  ],
+  "respondent_arguments": [
+    "The State of Maharashtra argued that the landowners were not entitled to the benefit of the amending provision u/s. 23(1A) of the Act.",
+    "They contended that since a clear intention has been given in S. 30(1), there is no scope for any speculation about the parliamentary intention by reading S. 23(1A) in isolation from S. 30(1) of the Act."
+  ],
+  "court_reasoning": [
+    "The Court held that the decision of this Court in Union of India vs. Zora Singh, 1991 Indlaw SC 383, is not correct and in paragraph 70 of the judgment the learned Judges held that the Parliament has given a clear intention of its intention in S. 30(1), which was a transitional provision.",
+    "The Court further held that since a clear intention has been given in S. 30(1), there is no scope for any speculation about the parliamentary intention by reading S. 23(1A) in isolation from S. 30(1) of the Act."
+  ],
+  "holding": [
+    "The Court granted relief to the claimants in accordance with the provision of S. 23(1A) of the Act.",
+    "The Court held that the landowners who were affected by the instant acquisition proceeding were entitled to the benefit of the amending provision u/s. 23(1A) in view of the ratio in Paripoornan 1994 Indlaw SC 1227 (supra)."
+  ],
+  "cases_cited": [
+    "Bench Judgment of this Court in the case of K.S. Paripoornan vs. State of Kerala",
+    "In Vanarsi vs. Ramphal",
+    "In subsequent judgment, in Prem Chand and others vs. Union of India",
+    "Pralhad and others v State of Maharashtra",
+    "has also been held by this Court in Samundra Devi and others vs. Narendra Kaur",
+    "held that the decision of this Court in Union of India vs. Zora Singh"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "case_id": "C2415",
+  "case_name": "Raghubir Singh v State of Rajasthan and others",
+  "court": "Supreme Court of India",
+  "year": 2011,
+  "judges": [
+    "H.S. Bedi, J."
+  ],
+  "bench": [],
+  "petitioner": "Raghubir Singh",
+  "respondent": "State of Rajasthan",
+  "citations": [
+    "2008 16 SCC 657",
+    "2009 4 SCC 271",
+    "AIR 1954 SC 695"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "313"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "304"
+    },
+    {
+      "section": "324"
+    },
+    {
+      "section": "325"
+    },
+    {
+      "section": "161"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "136"
+    },
+    {
+      "section": "149"
+    },
+    {
+      "section": "7"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "29 August 2011",
+  "outcome": "Unknown",
+  "facts": [
+    "The facts have been taken from Criminal Appeal No. 778 of 2005.",
+    "As per the prosecution story, PW Prabhu Koli and his brothers had mortgaged 5 bighas of land comprising Khasra No. 250 to PW-1 Raghuveer Singh several years earlier to the incident.",
+    "At about 2 p.m. on the 7th August 1997, Raghuveer Singh alongwith Chhotey Lal, Rajendra, Munshi and Girdhari were in the process of ploughing the land when the accused, Kallu, Kamru, Taiyab and Rahmat reached that place on two tractors and also started ploughing the same land.",
+    "Raghuveer Singh protested at this intrusion on which they attempted to run him over with their tractors.",
+    "In the meanwhile, Asuddin, Mehboob, Mauj, Sohan Lal and Kamru armed with Farsis, Tanchias, Dantis and lathis attacked them and whereas Mauj and Asuddin inflicted blows with a Danti and Tanchia on the head of Girdhari, Kallu and Rahmat ran over him with their tractors, and when Raghuveer Singh attempted to intervene in favour of Girdhari, Asuddin, Taiyab and Kamruddin also caused blows to him with their weapons.",
+    "Girdhari died on the spot whereas Chhotey Lal, Lallu, Rajendra and Munshi sustained serious injuries."
+  ],
+  "issues": [
+    "The legal questions or points of law being debated"
+  ],
+  "petitioner_arguments": [
+    "It has first been pointed out that there was ample evidence to show that the incident had happened in the field of Prabhu which had been mortgaged with Raghuveer Singh and the accused were therefore the aggressors as they had trespassed into that field and the finding of a free fight was erroneous, more particularly as the prosecution case rested on the statements of a large number of seriously injured eye witnesses.",
+    "It has been emphasized that a free fight postulated that both sides had come to do battle, as held by this Court in Gajanand & Ors. vs. State of U.P. AIR 1954 SC 695 1954 Indlaw SC 202 and Bhanwar Singh & Ors. vs. State of M.P. (2008) 16 SCC 657 2008 Indlaw SC 1437 and in the light of the fact that the accused were the aggressors the finding of the High Court was completely misplaced.",
+    "It has also been submitted by the learned counsel that even assuming that there was a free fight Asuddin, Mauj Khan, Kallu and Rahmat accused were, in any case, liable for the offence under Section 302 of the IPC as they had caused injuries to the deceased Girdhari."
+  ],
+  "respondent_arguments": [
+    "Ms. Makhija, the learned counsel for the accused has, however, supported the judgment of the High Court and has raised a preliminary argument that the High Court's interference in such matters was required to be minimal and if the High Court had taken a view which was possible on the evidence, interference should not be made.",
+    "She has also submitted that the witnesses had suppressed the factum of the injuries on the person of the accused, which meant that the genesis of the incident was uncertain and an adverse inference was to be drawn on the prosecution's case."
+  ],
+  "court_reasoning": [
+    "The court accordingly concluded that in this view of the matter, the provisions of Sections 147, 148 and 149 could not be attracted and each of the accused was to be held liable and responsible for his individual act.",
+    "The court accordingly examined the role of each of the accused and observed that though Kallu had been charged under Section 302 of the IPC for having caused the fatal injury on the left side of the back of Girdhari with the cultivator by running over him he did not have the intention to cause death and as such he would be liable under Section 304 Part II of the IPC."
+  ],
+  "holding": [
+    "Appeal of appellant Rahmuddin is allowed and he is acquitted of the charges under Section 302/149, 447, 147,325/149,324/149 and 323/149 IPC.",
+    "As appellant Rahmat Khan died during the pendency of the appeal, proceedings against him stand dropped.",
+    "Appeal of appellants Kallu, Asuddin, Sohan Lal, Kamruddin and Mauj Khan stands partly allowed. Conviction of appellant Kallu under Section 302,447,148,325/149,324/149 and 323/159 is set aside, instead he is convicted under Section 304 Part II IPC.",
+    "Conviction of appellants Sohan Lal, Mauj Khan and Asuddin under Section 302/149,447,148,325/149 and 323/149 stands set aside and they are acquitted of the said charges."
+  ],
+  "cases_cited": [
+    "Raghubir Singh v State of Rajasthan",
+    "and Bhanwar Singh & Ors. vs. State of M",
+    "come to do battle, as held by this Court in Gajanand & Ors. vs. State of U"
+  ]
+}

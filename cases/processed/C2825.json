@@ -1,0 +1,69 @@
+{
+  "case_id": "C2825",
+  "case_name": "Williams v Lourdusamy and Another",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "Williams",
+  "respondent": "Lourdusamy and Another\nSupreme Court of India\n\n24 April 2008\nAppeal (civil) 2894-2895 of 2008\nThe Judgment was delivered by : S. B. Sinha, J.\n1. Leave granted.\n2. Whether principle of res judicata is applicable to the facts and circumstances of this case, is the question involved herein.\n2.1. The basic fact of the matter is not in dispute. Second respondent was the owner of the properties. He by reason of a registered deed of sale dated 25.11.1987 transferred his right, title and interest in favour of the appellant.\n3. First respondent, however, filed a suit against the appellant herein in the Court of District Munsif, Thiruvaiyaru praying for a decree for permanent injunction alleging that the land in suit admeasuring 3 cents was the subject- matter of an oral agreement of sale by and between himself and the second respondent herein. It was contended that the second respondent had been in possession of the said land in terms of a patta executed under the Kudiyiruppu Act bei",
+  "citations": [
+    "2000 3 SCC 350",
+    "2007 2 SCC 355",
+    "AIR 1979 SC 193"
+  ],
+  "statutes": [
+    {
+      "act": "Transfer Of Property Act",
+      "section": "53A"
+    },
+    {
+      "act": "The Act",
+      "section": "53A"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "24 April 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "The basic fact of the matter is not in dispute.",
+    "Second respondent was the owner of the properties.",
+    "He by reason of a registered deed of sale dated 25.11.1987 transferred his right, title and interest in favour of the appellant.",
+    "First respondent, however, filed a suit against the appellant herein in the Court of District Munsif, Thiruvaiyaru praying for a decree for permanent injunction alleging that the land in suit admeasuring 3 cents was the subject- matter of an oral agreement of sale by and between himself and the second respondent herein.",
+    "It was contended that the second respondent had been in possession of the said land in terms of a patta executed under the Kudiyiruppu Act being Act 40 of 1971.",
+    "The contention of the appellant, on the other hand, was that he had been put in possession of the suit land by the second respondent in terms of the aforementioned deed of sale dated 25.11.1987."
+  ],
+  "issues": [
+    "Whether on the date of the suit the plaintiff was in possession of the suit property?",
+    "Whether the plaintiff is entitled to the relief of permanent injunction as prayed for?",
+    "To what else relief, the plaintiff is entitled to?"
+  ],
+  "petitioner_arguments": [
+    "As no issue was framed in regard to the purported oral agreement of sale by and between respondent Nos. 1 and 2 nor any specific finding having been arrived at by the learned trial Judge in the said O.S. No. 402 of 1987, the impugned judgment is wholly unsustainable.",
+    "The principles of res judicata although provide for a salutary principle that no person shall be harassed again and again, have its own limitations."
+  ],
+  "respondent_arguments": [
+    "It was contended that the second respondent had been in possession of the said land in terms of a patta executed under the Kudiyiruppu Act being Act 40 of 1971.",
+    "The respondent had failed to prove the existence of an oral agreement."
+  ],
+  "court_reasoning": [
+    "In O.S. No. 402 of 1987, the respondent No. 2 was not impleaded as a party.",
+    "If that was decided in the said suit, the findings would have been nullities.",
+    "A competent Court of law has dismissed the suit for specific performance of contract filed by the first respondent opining that the respondent had failed to prove the existence of an oral agreement.",
+    "The principle of res judicata is not attracted in this case."
+  ],
+  "holding": [
+    "Appeal allowed. There shall, however, be no order as to costs. Appeal allowed"
+  ],
+  "cases_cited": [
+    "In Sajjadanashin Sayed MD. B.E. EDR. (D) by L.Rs. v. Musa Dadabhai Ummer",
+    "Mr. V. Prabhakar",
+    "See Chief Justice of Andhra Pradesh and another etc. v. L.V",
+    "Williams v Lourdusamy",
+    "and Hasham Abbas Sayyad v. Usman Abbas Sayyad"
+  ]
+}

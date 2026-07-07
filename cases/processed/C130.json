@@ -1,0 +1,59 @@
+{
+  "case_id": "C130",
+  "case_name": "Mohd. Iqbal Ahmed v State of Andhra Pradesh",
+  "court": "Supreme Court of India",
+  "year": 1979,
+  "judges": [
+    "Syed Murtaza Fazalali"
+  ],
+  "bench": [],
+  "petitioner": "Mohd. Iqbal Ahmed",
+  "respondent": "State of Andhra Pradesh\nSupreme Court of India\n\n18 January 1979\nCriminal Appeal No. 194 of 1973 (Appeal by Special Leave from the Judgment and Order dated 3-4-1973 of the Andhra Pradesh High Court in Criminal Appeal No. 703/71)\nThe Judgment was delivered by : Syed Murtaza Fazalali, J.\n1.  In this appeal by special leave the appellant has been convicted under section 161 I.P.C. and section 5(2) read with section 5(1)(d) of the Prevention of Corruption Act and sentenced to rigorous imprisonment for one year and a fine of Rs. 250/- on each count.\n2.  The appellant had been convicted by Special Judge but on appeal by the State to the High Court the High Court reversed the judgment of acquittal and convicted the appellant as indicated above. According to the prosecution the appellant is said to have struck a bargain for taking a bribe of Rs. 125/- which he received on the 15th of July, 1968 in the presence of P.Ws. 1 and 3. On receiving the signal the raiding party appea",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Prevention Of Corruption Act",
+      "section": "6"
+    },
+    {
+      "act": "Prevention Of Corruption Act",
+      "section": "4"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "18 January 1979",
+  "outcome": "Unknown",
+  "facts": [
+    "In this appeal by special leave the appellant has been convicted under section 161 I.P.C. and section 5(2) read with section 5(1)(d) of the Prevention of Corruption Act and sentenced to rigorous imprisonment for one year and a fine of Rs. 250/- on each count.",
+    "The appellant had been convicted by Special Judge but on appeal by the State to the High Court the High Court reversed the judgment of acquittal and convicted the appellant as indicated above.",
+    "According to the prosecution the appellant is said to have struck a bargain for taking a bribe of Rs. 125/- which he received on the 15th of July, 1968 in the presence of P.Ws. 1 and 3.",
+    "On receiving the signal the raiding party appeared on the scene and the hand of the accused was dipped in water containing phenopthelien solution which showed that he touched the notes.",
+    "The defence of the appellant was that he never demanded any bribe and that the notes were thrust into his pocket."
+  ],
+  "issues": [
+    "Whether the sanction under section 6 of the Prevention of Corruption Act produced in this case does not reveal the facts constituting the offence",
+    "Whether there is no evidence to show on what materials the sanctioning authority applied its mind and granted the sanction"
+  ],
+  "petitioner_arguments": [
+    "The appeal must succeed on a short point of law, raised by Mr. A.N. Mulla, learned counsel for the appellant.",
+    "The Resolution of the Standing Committee granting the sanction is Exh. P-16 and is dated 31-3-1969, and runs as follows:",
+    "What the prosecution did was merely to examine two witnesses P.Ws. 2 and 7.",
+    "It is incumbent on the prosecution to prove that a valid sanction has been granted by the Sanctioning Authority after it was satisfied that a case for sanction has been made out constituting the offence."
+  ],
+  "respondent_arguments": [
+    "Mr. Rao vehemently argued that although the Resolution, Exh. P-16 does not mention the facts, the Court should presume the facts on the basis of the evidence given by P.W. 2 and the order implementing sanction which mentions these facts.",
+    "It was next contended by Mr. d to above was the only primary evidence for this purpose.",
+    "Mr. Rao that in view of the presumption which is to be drawn under section 4 of the Prevention of Corruption Act, even if, no facts are mentioned in the Resolution of the Sanctioning Authority it must be presumed that the Sanctioning Authority was satisfied that the prosecution against the appellant should be launched on the basis of the presumption that the accused had received a bribe."
+  ],
+  "court_reasoning": [
+    "The grant of sanction is not an idle formality or an acrimonious exercise but a solemn and sacrosanct act which affords protection to government servants against frivolous prosecutions and must therefore be strictly complied with before any prosecution can be launched against the public servant concerned.",
+    "It is well settled that in a criminal case this Court or for that matter any court should not ordinarily direct fresh evidence to fill up a lacuna deliberately left by the prosecution."
+  ],
+  "holding": [
+    "The appeal is accordingly allowed. The judgment of the High Court is set aside and convictions and sentences passed on the appellant are quashed.",
+    "The appellant will now be discharged from his bail bonds."
+  ],
+  "cases_cited": []
+}

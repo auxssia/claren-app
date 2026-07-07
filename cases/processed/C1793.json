@@ -1,0 +1,57 @@
+{
+  "case_id": "C1793",
+  "case_name": "State of Rajasthan v Nana and Others",
+  "court": "Supreme Court of India",
+  "year": 2007,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "State of Rajasthan",
+  "respondent": "Nana",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "2 August 2007",
+  "outcome": "Unknown",
+  "facts": [
+    "State of Rajasthan is in appeal against the judgment of the Division Bench of the Rajasthan High Court at Jodhpur directing acquittal of respondents Sawa and Bada while altering the conviction of accused respondent Nana from Section 302 of the Indian Penal Code, 1860 (in short the 'IPC') read with Section 34 IPC.",
+    "On the intervening night of 12th and 13th May, 1995 at about half past 12 the accused respondents and co-accused Sundara and Reshma were roaming in village fair where they met Deeta (hereinafter referred to as the 'deceased'), Gena (PW-2), Narsa (PW-3), Uda (PW-5) and Soma (PW-9).",
+    "A First Information Report (in short the 'FIR') to the above effect was lodged at 12.45 A.M. on 13.5.1995 by Dhanna (PW- 1)."
+  ],
+  "issues": [
+    "The legal questions or points of law being debated",
+    "There is no mention of specific issues in this judgment text"
+  ],
+  "petitioner_arguments": [
+    "In support of the appeal, learned counsel for the appellant-State submitted that the High Court has clearly overlooked the fact that all the eye witnesses PWs. 2, 3 & 9 in addition to PW 1 have stated that attack on the back of the deceased was by Nana and Bada.",
+    "The High Court should not have directed his acquittal."
+  ],
+  "respondent_arguments": [
+    "There is no appearance of respondent in spite of service of notice."
+  ],
+  "court_reasoning": [
+    "We find that the evidence of the eye witnesses PWs 2, 3 & 9 need to be accepted so far as assault by accused Bada is concerned.",
+    "The High Court was right that in the FIR and during investigation PW 1 had stated that Nana and Sawa assaulted the deceased.",
+    "Therefore merely because there was some difference in the version of PW 1 so far as his statement in the court vis-a-vis Statement in the FIR is concerned that does not in any way affect the credible and cogent offence of PWs 2 and 3."
+  ],
+  "holding": [
+    "The appeal is partly allowed to the extent that the acquittal of accused Bada is set aside and he is convicted for offence punishable under Section 304 Part II IPC read with Section 34 as in the case of Nana.",
+    "In the case of accused Nana his custody was about six years. Therefore, High Court had directed his release.",
+    "The custodial sentence shall be seven years in case of accused Bada."
+  ],
+  "cases_cited": [
+    "State of Rajasthan v Nana"
+  ]
+}

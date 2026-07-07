@@ -1,0 +1,105 @@
+{
+  "case_id": "C1663",
+  "case_name": "B.C. Chaturvedi v Union of India and Others",
+  "court": "Supreme Court of India",
+  "year": 1995,
+  "judges": [
+    "K. Ramaswamy"
+  ],
+  "bench": [],
+  "petitioner": "B.C. Chaturvedi",
+  "respondent": "Union of India",
+  "citations": [
+    "1977 1 SCC 816",
+    "1990 4 SCC 456",
+    "1993 4 SCC 357",
+    "AIR 1963 SC 1909",
+    "AIR 1963 SC 779",
+    "AIR 1978 SC 597",
+    "AIR 1983 SC 454",
+    "AIR 1989 SC 1137",
+    "AIR 1992 ORISSA 261"
+  ],
+  "statutes": [
+    {
+      "section": "5"
+    },
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    },
+    {
+      "section": "30"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "142"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "323"
+    },
+    {
+      "section": "11A"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "1 November 1995",
+  "outcome": "Unknown",
+  "facts": [
+    "Appellant's integrity, while he was working as Income-tax officer, had come under cloud.",
+    "On an investigation made by the C.B.I., it had stated to the respondent that though the evidence collected during investigation disclosed that the appellant had assets disproportionate to his known source of income, as the evidence was not strong enough to lay prosecution u/s. 5 (1) (e) of the Prevention of Corruption Act, 1947 [for short, 'the Act'], the competent authority might proceed against the appellant in a departmental inquiry.",
+    "In furtherance thereof on March 2, 1982 the appellant was served with the charge-sheet containing four specific charges for violating different Conduct Rules and misconduct of being in possession of property disproportionate to his known source of income."
+  ],
+  "issues": [
+    "Whether the order dismissing the appellant from service is invalid in law for non-supply of the inquiry report.",
+    "Whether the charge of being in possession of assets disproportionate to his known source of income is a misconduct.",
+    "Whether the delay in initiating disciplinary proceeding is an unfair procedure depriving the livelihood of a public servant offending Art. 14 or 21 of the Constitution."
+  ],
+  "petitioner_arguments": [
+    "It is firstly urged that a public servant's possession of assets disproportionate to the known source of his income is not defined to be a 'misconduct' under the Civil Service (Classification & Control) Appeal Rules.",
+    "There is abnormal delay in laying the charges.",
+    "Despite the pendency of inquiry, the appellant was promoted as Asstt. Commissioner of Income-tax.",
+    "In consequence, no departmental action could be taken to dismiss him from service."
+  ],
+  "respondent_arguments": [
+    "The Tribunal went wrong in appreciating the evidence.",
+    "The disciplinary authority had undoubted power and authority to impose punishment.",
+    "On the facts found by the inquiry Officer and disciplinary authority that the appellant was in possession of the assets disproportionate to the known source of his income, the Tribunal was unjustified in interfering with the punishment of dismissal from service, and ordering for compulsory retirement, instead."
+  ],
+  "court_reasoning": [
+    "The supply of the copy of the inquiry report is required to be supplied to the delinquent officer.",
+    "The ratio in Ramzan Khan's case would apply to the punishment imposed by the disciplinary authority after the date of the judgment.",
+    "The advantage of promotion gained by the delinquent officer would be no impediment to take pending disciplinary action to its logical conclusion.",
+    "A public servant is said to commit the offences of criminal misconduct if he or any person of his behalf is in possession or has, at any time during the period of his office, been in possession, for which the public servant cannot satisfactorily account for."
+  ],
+  "holding": [
+    "The order dismissing the appellant from service is valid.",
+    "A public servant in possession of assets disproportionate to his known source of income, when he had not satisfactorily accounted for, commits a misconduct amenable to disciplinary action under the CSCCA Rules and the Conduct Rules."
+  ],
+  "cases_cited": [
+    "A Constitution Bench of this Court in State of Orissa Ors. v. Bidyabhushan Mohapatra",
+    "B.C. Chaturvedi v Union of India",
+    "Government servant. In Administrator of Dadra & Nagar Haveli v. H.P",
+    "In Union of India & Ors. v. S.L",
+    "It is true that in Bhagat Ram v. State of Himachal Pradesh &",
+    "The ratio in A.L. Kalra v. Project & Equipment Corpn",
+    "imposed by the disciplinary authority. In Rangaswami v. State of Tamil Nadu",
+    "in Maneka Gandhi vs. Union of India",
+    "including the appeal filed against Union of India & Ors. v. Mohd",
+    "members, it was held in Managing Director, ECIL, Hyderabad v. B. Karunakar &",
+    "of Krishna Chandra v. Union of India",
+    "of a public servant. Recently, in State bank of India & Ors. v. Samarendra Kishore Endow &",
+    "of dismissal is invalid in law. This Court in Krishnanand v. State of M",
+    "order of penalty. This view was reiterated in Union of India v. Sardar Bahadur",
+    "punishment was the view of this Court in Bhagat Ram vs. State of Himachal Pradesh",
+    "to be canvassed before the Court/Tribunal. In Union of India v. H.C"
+  ]
+}

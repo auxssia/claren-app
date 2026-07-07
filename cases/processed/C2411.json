@@ -1,0 +1,53 @@
+{
+  "case_id": "C2411",
+  "case_name": "Sehaj Ram v State of Haryana",
+  "court": "Supreme Court of India",
+  "year": 1983,
+  "judges": [
+    "THAKKAR, J."
+  ],
+  "bench": [],
+  "petitioner": "Sehaj Ram",
+  "respondent": "State of Haryana\nSupreme Court of India\n\n24 March 1983\nCr.A. No. 28 of 1982 (Cr.A. No. 434-DB of 1980, D/- 30 April 1981 (Punj. & Har.)), Dt. 24 March 1983.\nThe Judgment was delivered by: THAKKAR, J.\n1.  Whether the offence committed by the appellant, a Constable of Haryana Police Force who fired his rifle at another Constable, Kaptan Singh of the same Force, as a result of which Kaptan Singh succumbed to the injuries sustained by him on the spot would fall u/s. 302 of the Indian Penal Code or would constitute a lesser offence is the limited question which is posed in this appeal by special leave.\n2.  The learned Sessions Judge at Rohtak convicted the appellant for an offence u/s. 302 of the Indian Penal Code in connection with the 'on the spot' death of Constable Kaptan Singh on September 23, 1979 at about 8.30 p.m. by gun shot injuries inflicted by the appellant. By his judgment and order dated June 14, 1980 the learned Sessions Judge convicted the appellant and sentenced",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "304(1)"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "24 March 1983",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant, a Constable of Haryana Police Force, fired his rifle at another Constable, Kaptan Singh, as a result of which Kaptan Singh succumbed to the injuries sustained by him on the spot.",
+    "The learned Sessions Judge at Rohtak convicted the appellant for an offence u/s. 302 of the Indian Penal Code in connection with the 'on the spot' death of Constable Kaptan Singh on September 23, 1979 at about 8.30 p.m. by gun shot injuries inflicted by the appellant.",
+    "The High Court of Punjab and Haryana confirmed the order of conviction and sentence rendered by the learned Sessions Judge and dismissed the appeal preferred by the appellant on April 30, 1980."
+  ],
+  "issues": [
+    "Whether the offence committed by the appellant would fall u/s. 302 of the Indian Penal Code or would constitute a lesser offence"
+  ],
+  "petitioner_arguments": [
+    "The intention was merely to frighten him or to cause grievous hurt.",
+    "The offence would at the highest fall under Part I of S. 304 of the Indian Penal Code."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "It is impossible to accept the contention that the appellant had not done the act with the intention of causing his death.",
+    "A bare glance at S. 300 of the Indian Penal Code would show that if the act is done with the intention of causing death, culpable homicide would be murder.",
+    "When the appellant, a police constable fired from his 303 rifle (he must have known that it was a deadly weapon) no other inference is possible but that he intended to cause such bodily injury as he knew to be likely to cause death of the person to whom the harm was caused."
+  ],
+  "holding": [
+    "The appeal therefore fails and is dismissed.",
+    "The appellant shall serve out the remaining part of the sentence in accordance with law.",
+    "Appeal dismissed."
+  ],
+  "cases_cited": []
+}

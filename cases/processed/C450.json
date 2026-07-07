@@ -1,0 +1,91 @@
+{
+  "case_id": "C450",
+  "case_name": "Vijay Kumar Kaul And Others v Union Of India And Others",
+  "court": "Supreme Court of India",
+  "year": 2012,
+  "judges": [
+    "Dipak Misra"
+  ],
+  "bench": [],
+  "petitioner": "Vijay Kumar Kaul And Others",
+  "respondent": "Union Of India",
+  "citations": [
+    "1997 6 SCC 721",
+    "2006 2 SCC 747",
+    "2008 9 SCC 24",
+    "2009 1 SCC 768",
+    "AIR 1963 SC 786",
+    "AIR 1965 SC 1153",
+    "AIR 1970 SC 769",
+    "AIR 1974 SC 2105",
+    "AIR 1974 SC 2271",
+    "AIR 1985 SC 167",
+    "AIR 1987 SC 88",
+    "AIR 2006 SC 1581",
+    "AIR 2006 SC 2432",
+    "AIR 2009 SC 571",
+    "AIR 2010 SC 2613"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    },
+    {
+      "section": "141"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "25 May 2012",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants, four in number, participated in a selection process conducted by the Second Field Ordnance Depot (2 FOD) in the year 1984 for the post of Lower Division Clerks (LDCs).",
+    "Despite their selection for the post in question they were not issued appointment letters on the pretext that there was a ban on appointments.",
+    "In December 1993, pursuant to the order passed in OA No. 29/jk/92 dated 24.8.1993 by the Chandigarh Bench of the Central Administrative tribunal (for short 'the Tribunal'), respondent No. 4 was issued an appointment letter.",
+    "The appellant Nos. 1 to 3 were given appointment in May, 1996 on the basis of the directions issued on 24.7.1995 by the High Court of Jammu and Kashmir in SWP No. 1052 of 1991."
+  ],
+  "issues": [
+    "Whether the appellants are entitled to similar benefits as those extended to Parveen Singh and others",
+    "Whether the appointments were based on merit list or not"
+  ],
+  "petitioner_arguments": [
+    "The tribunal as well as the High Court have fallen into serious error by expressing the view that the appointments were based on the merit list and, therefore, there was no supersession of the appellants.",
+    "Neither the original application nor the writ petition could have been dismissed on the ground of delay and laches, in view of the fact that the appellants immediately approached the tribunal after the High Court rendered its judgment on 12.7.2001.",
+    "A serious anomalous situation has cropped up inasmuch as the candidates whose names featured in one select list have been appointed at various times, as a consequence of which their pay-scale, seniority and prospects for promotion, have been put to jeopardy."
+  ],
+  "respondent_arguments": [
+    "The decisions which have been rendered by the tribunal and the High Court are absolutely impregnable since the appellants had never approached the tribunal at the earliest and only put forth their claims after success of Parveen Singh and others.",
+    "The appellants while filing the various original applications seeking appointment had never claimed the relief of appointment with retrospective effect and, in fact, in the case of the appellant No. 4 the tribunal has categorically stated that his appointment could have prospective effect which has gone unassailed."
+  ],
+  "court_reasoning": [
+    "The High Court, upon perusal of the order passed by the tribunal, the decision rendered by the Punjab and Haryana High Court, and on considering the factum of the delay and laches on the part of the appellants, and that they had not been superseded as the select list was prepared in order of merit, and appreciating the fact that the appointments had been made strictly in accordance with the merit declined to interfere with the order."
+  ],
+  "holding": [
+    "The High Court declined to interfere with the order passed by the tribunal and the respondents were directed to extend similar benefits as those extended to Parveen Singh and others"
+  ],
+  "cases_cited": [
+    "Babubhai Muljibhai Patel v. Nandlal",
+    "Collector of Central Excise, Calcutta v. M/s",
+    "In City Industrial Development Corporation v. Dosu Aardeshir Bhiwandiwala &",
+    "In Karnataka Power Corporation Ltd.. & Anr. v. K. Thangappan &",
+    "In Prabodh Verma & Ors. v. State of U",
+    "In Public Service Commission, Uttaranchal v. Mamta Bisht &",
+    "Vijay Kumar Kaul And Others v Union Of India",
+    "and Maharaj Krishan Bhatt and another v. State of Jammu",
+    "and Sarguja Transport Service v. State Transport Appellate Tribunal",
+    "and Tridip Kumar Dingal & Ors. v. State of West Bengal &",
+    "placed reliance on the decisions in K.C. Sharma and others v. Union of India",
+    "the discretion of the Court as pointed out in Durga Prasad v. Chief Controller of Imports",
+    "therein are applicable. (Vide Gulabchand Chhotalal Parikh v. State of Gujarat",
+    "with profit to the decision in Indu Shekhar Singh & Ors. v. State of U"
+  ]
+}

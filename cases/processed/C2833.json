@@ -1,0 +1,90 @@
+{
+  "case_id": "C2833",
+  "case_name": "Union Of India And Ors v Filip Tiago De Gama Of Vedem Vasco De Gama",
+  "court": "Supreme Court of India",
+  "year": 1989,
+  "judges": [
+    "K. Jagannatha Shetty"
+  ],
+  "bench": [],
+  "petitioner": "Union Of India And Ors",
+  "respondent": "Filip Tiago De Gama Of Vedem Vasco De Gama\nSupreme Court of India\n\n30 November 1989\nCivil Appeal No. 4802 of 1989.\nThe Judgment was delivered by : K. Jagannatha Shetty, J.\nSpecial Leave granted.\nThis case raises yet another variant of a vexed question. Does Section 23(2) of the Land Acquisition Act, 1984 (as amended by Act 68 of 1984) providing for higher solatium proprio rigore apply to award made subsequent to 24 September 1984 even though the acquisition commenced prior to the said date. The appeal also raises another important question as to the applicability of section 23(IA) providing additional amount of compensation to award made in such acquisition proceedings.\nThe facts are not in dispute and may be stated as follows:\n1. By notification under section 4 of the Land Acquisition Act, 1894 (the 'Act') published in the Government Gazette on 26 October 1967, the State Government declared its intention to acquire the land belonging to the respondent for esta",
+  "citations": [
+    "1960 3 SCR 578",
+    "AIR 1986 KARNATAKA 179",
+    "AIR 1987 BOM 214"
+  ],
+  "statutes": [
+    {
+      "act": "Land Acquisition Act",
+      "section": "4"
+    },
+    {
+      "act": "The Act",
+      "section": "18"
+    },
+    {
+      "act": "The Act",
+      "section": "28"
+    },
+    {
+      "act": "Principal Act",
+      "section": "23"
+    },
+    {
+      "act": "And Section 18 Of This Act",
+      "section": "15"
+    },
+    {
+      "act": "This Act",
+      "section": "15"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "30 November 1989",
+  "outcome": "Unknown",
+  "facts": [
+    "By notification under section 4 of the Land Acquisition Act, 1894 (the 'Act') published in the Government Gazette on 26 October 1967, the State Government declared its intention to acquire the land belonging to the respondent for establishing Naval Air Station Dabolim.",
+    "On 23 February 1968, notification under section 6 was published in the Gazette.",
+    "On 5 March 1969 the Land Acquisition Officer declared award determining compensation at the rate of 40 paise per square meter with solatium at 15 per cent.",
+    "The claimant had sought reference under section 18 of the Act and reference was duly made to the Civil Court (District Judge).",
+    "On 28th May 1985, the Court after investigation of the claim awarded compensation at Rs.3 per square meter.",
+    "The High Court accepted the appeal and granted the reliefs in the following terms:...",
+    "There is no grievance made in this appeal as to the second of the reliefs granted to the claimant.",
+    "The challenge is only against the first and the third of the said reliefs."
+  ],
+  "issues": [
+    "Does Section 23(2) of the Land Acquisition Act, 1984 (as amended by Act 68 of 1984) providing for higher solatium proprio rigore apply to award made subsequent to 24 September 1984 even though the acquisition commenced prior to the said date.",
+    "Is the higher solatium also applicable to awards made in acquisition proceedings commenced prior to 24 September 1984."
+  ],
+  "petitioner_arguments": [
+    "Counsel for the appellant on the aforesaid facts rules out the applicability of section 30(2) in the first place.",
+    "Secondly, he also ruled out the applicability of section 23(2).",
+    "He thus submitted that the claimant's case could not be saved for higher solatium either under Transitional Provisions or by amended Section 23(2) of the Act and it was gone both ways."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The scope of retrospective operation of Section 23(2) was first explained in Kamalajammaniavaru v. Special Land Acquisition Officer, [1985] 1 SCC 582 1985 Indlaw SC 182.",
+    "A two Judge Bench held that the award of 30 per cent solatium will apply only where the award appealed against was made by the Collector or Court during the period between 30 April 1982 and 24 September 1984.",
+    "In stating thus, the decision has set at rest the controversy as to entitlement of higher solatium to cases pending as on the date of commencement of the Amending Act.",
+    "Section 23(2) was held to apply to awards made in between 30 April 1982 and 24 September 1984."
+  ],
+  "holding": [
+    "The award with which we are concerned does not fall within the interregnum i.e. between 30 April 1982 and 24 September 1984.",
+    "Section 23(2) by itself is not retrospective in operation.",
+    "It can not proprio vigore apply to awards in respect of acquisition proceedings commenced prior to 24 September 1984."
+  ],
+  "cases_cited": [
+    "But the recent Constitution Bench in Union of India v. Raghubir Singh",
+    "High Court in Special Land Acquisition Officer, Dandeli v. Soma Gopal Gowda",
+    "Lenigh Valley Coal Co. v. Yensavage",
+    "Mahadeolal Kanodia v. The Administrator General of West Bengal",
+    "The Bombay High Court in Jaiwant Laxman P. Sardesai etc. etc. v. Government of Goa",
+    "as Mr. Justice Holmes has wisely and properly warned. (Town v. Eisher",
+    "expressed in another three-Judge Bench in State of Punjab v. Mohinder Singh",
+    "was another decision by a three-Judge Bench in Bhag Singh v. Union Territory of Chandigarh",
+    "was first explained in Kamalajammaniavaru v. Special Land Acquisition Officer"
+  ]
+}

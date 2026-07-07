@@ -1,0 +1,64 @@
+{
+  "case_id": "C1843",
+  "case_name": "Superintendent Of Police (C.B.I.) v Deepak Chowdhary And Ors",
+  "court": "Supreme Court of India",
+  "year": 1995,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Superintendent Of Police (C.B.I.)",
+  "respondent": "Deepak Chowdhary",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "45"
+    },
+    {
+      "act": "Prevention of Corruption Act, 1988"
+    },
+    {
+      "section": "120B"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "5(1)"
+    },
+    {
+      "section": "5(2)"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "17 August 1995",
+  "outcome": "Unknown",
+  "facts": [
+    "The facts lie in a short compass. During the year 1982, while the respondent no.1 was working as a Branch Manager in Desh Priya branch of the United Bank of India at Calcutta it was realised that certain officers working in that bank had conspired with a creditor and the bank was defrauded for a sum ofRs.45,000/-.",
+    "On a complaint laid, a crime case was registered and the appellant investigated the matter and submitted the report to the competent authority for sanction, who, by its order dated the 14th January, 1987 accorded sanction under 6(1-c) of the Prevention of Corruption Act, 1947 (for short, 'PC Act) to file the charge-sheet against the respondent for the offences punishable under Section 120B, 420, 467, 468, 471, 477A, 201 and 109 IPC and also under Section 5(1) (d) read with Section 5(2) of the PC Act.",
+    "The respondent filed writ petition in the High Court to quash the sanction."
+  ],
+  "issues": [
+    "What is required is that the investigating officer should place all the necessary material before the sanctioning authority who should apply its mind to that material and accord sanction.",
+    "The question of giving opportunity of hearing to the accused before granting sanction does not arise.",
+    "The grant of sanction, therefore, being administrative act the need to provide an opportunity of hearing to the accused before according sanction does not arise."
+  ],
+  "petitioner_arguments": [
+    "What is required is that the investigating officer should place all the necessary material before the sanctioning authority who should apply its mind to that material and accord sanction.",
+    "The question of giving opportunity of hearing to the accused before granting sanction does not arise.",
+    "It is contended for the appellant that the question of giving an opportunity to the charged officer before granting sanction does not arise since it is not a quasi-judicial function. Grant of sanction is an administrative function."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The grant of sanction is only an administrative function, though it is true that the accused may be saddled with the liability to be prosecuted in a court of law.",
+    "What is material at that time is that the necessary facts collected during investigation constituting the offence have to be placed before the sanctioning authority and it has to consider the material.",
+    "Prima facie, the authority is required to reach the satisfaction that the relevant facts would constitute the offence and then either grant or refuse to grant sanction."
+  ],
+  "holding": [
+    "The appeal is accordingly allowed, the order of the High Court is set aside and the trial court is directed to proceed with the trial against the respondent as expeditiously as possible and conduct joint trial, if trial is not already concluded, along with other accused.",
+    "If the case has been separated and the trial of other accused has been concluded, then the trial court is directed to expeditiously conclude the trial of the respondent, not exceeding one year."
+  ],
+  "cases_cited": [
+    "Superintendent Of Police (C.B.I.) v Deepak Chowdhary"
+  ]
+}

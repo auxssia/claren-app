@@ -1,0 +1,65 @@
+{
+  "case_id": "C2152",
+  "case_name": "Sasi Kumar v State of Tamil Nadu",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Sasi Kumar",
+  "respondent": "State of Tamil Nadu\nSupreme Court of India\n\n8  May  2009\nCriminal Appeal No. 966 of 2009\nThe Judgment was delivered by : Dr. Arijit Pasayat, J.\nLeave granted.\n1. Challenge in this appeal is to the judgment of a Division Bench of the Madras High Court upholding the conviction of the appellant for offences punishable under Section 302 of the Indian Penal Code, 1860 (in short 'IPC') while setting aside the conviction in terms of Section 307 IPC. Appellant faced trial in the Court of Sessions, Vellore and was convicted in terms of Sections 302 and 307 IPC. He was acquitted of the charges relating to Section 498A IPC.\nProsecution version in a nutshell is as follows:\n2. On 10.11.2003, the accused poured kerosene on his wife Menaka; set fire to her as a result of which she died on 30.11.2003 and in the course of the same transaction he attempted to murder his child aged about 9 months by pouring kerosene on her and setting fire to her also. But luckily she survived. Therefore, th",
+  "citations": [
+    "AIR 1976 SC 1994",
+    "AIR 1979 SC 1505",
+    "AIR 1981 SC 617",
+    "AIR 1982 SC 1021",
+    "AIR 1982 SC 839",
+    "AIR 1983 SC 164",
+    "AIR 1985 SC 416",
+    "AIR 1988 SC 912",
+    "AIR 1989 SC 1519",
+    "AIR 1992 SC 1817"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "8 May 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "On 10.11.2003, the accused poured kerosene on his wife Menaka; set fire to her as a result of which she died on 30.11.2003 and in the course of the same transaction he attempted to murder his child aged about 9 months by pouring kerosene on her and setting fire to her also.",
+    "The prosecution examined PWs 1 to 8 besides marking Exs. P1 to P15 and MOs. 1 and 2.",
+    "The trial court placed reliance on the evidence of PWs 5, 6 and 7 and on the dying declaration recorded to hold the appellant guilty.",
+    "Menaka died on 30.11.2003 and in the course of the same transaction he attempted to murder his child aged about 9 months by pouring kerosene on her and setting fire to her also."
+  ],
+  "issues": [
+    "[]"
+  ],
+  "petitioner_arguments": [
+    "Since the mother of the deceased PW1 did not support the prosecution version, the trial Court and the High Court should not have placed reliance on the so called dying declaration."
+  ],
+  "respondent_arguments": [
+    "[]"
+  ],
+  "court_reasoning": [
+    "The situation in which a person is on his deathbed, being exceedingly solemn, serene and grave, is the reason in law to accept the veracity of his statement.",
+    "It is for this reason that the requirements of oath and cross-examination are dispensed with.",
+    "Besides, should the dying declaration be excluded, it will result in miscarriage of justice because the victim being generally the only eye-witness in a serious crime, the exclusion of the statement would leave the Court without a scrap of evidence."
+  ],
+  "holding": [
+    "The appeal is accordingly dismissed."
+  ],
+  "cases_cited": [
+    "See Kaka Singh v State of M",
+    "See Munnu Raja & Anr. v. The",
+    "See Ram Manorath and Ors. v. State of U",
+    "See State of U.P. v. Madan Mohan",
+    "See State of Uttar Pradesh v. Ram Sagar Yadav"
+  ]
+}

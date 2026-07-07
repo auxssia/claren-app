@@ -1,0 +1,36 @@
+{
+  "case_id": "S189",
+  "case_name": "Extension of Code to extra-territorial offences",
+  "court": "",
+  "year": 2008,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Information Technology Act",
+      "section": "2"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The provisions of this Code apply also to any offence committed by-",
+    "any citizen of India in any place without and beyond India;",
+    "any person on any ship or aircraft registered in India wherever it may be.",
+    "A, who is a citizen of India, commits a murder in Uganda. He can be tried and convicted of murder in any place in India in which he may he found."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "A citizen of India who commits a murder in Uganda can be tried and convicted of murder in any place in India where he may be found."
+  ],
+  "cases_cited": []
+}

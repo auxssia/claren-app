@@ -1,0 +1,80 @@
+{
+  "case_id": "C933",
+  "case_name": "Phulia Tudu And Anr v The State Of Bihar (Now Jharkhand)",
+  "court": "Supreme Court of India",
+  "year": 2007,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Phulia Tudu And Anr",
+  "respondent": "The State Of Bihar (Now Jharkhand)\nSupreme Court of India\n\n14 September 2007\nCRIMINAL APPEAL NO. 1221 OF 2007 (Arising out of SLP (Crl.) No.5396 of 2006)\nThe Judgment was delivered by : Dr. Arijit Pasayat, J.\nLeave granted.\n1.  Challenge in this appeal is to the order passed by a Division Bench of the Jharkhand High Court upholding conviction of the appellants for offence punishable under Section 302 IPC read with Section 34 of the Indian Penal Code, 1860 (in short the 'IPC').\n2.  Background facts according to the prosecution in a nutshell are as follows :\n\"Bitia Soren (PW-8) is the sister-in-law of Biti Murmu (hereinafter referred to as 'the deceased'). The first appellant's son fell ill and the appellants/accused were under the impression that since the deceased, Biti Murmu, is a witch, she has caused a spell on the son of the accused and, therefore, they were nurturing a grievance against the deceased. On the date of incident, when the villagers had gone to the",
+  "citations": [
+    "AIR 1958 SC 465",
+    "AIR 1966 SC 1874"
+  ],
+  "statutes": [
+    {
+      "act": "Ipc Read With Section 34 Of The Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Section 300 A Person Commits Culpable Homicide If The Act",
+      "section": "299"
+    },
+    {
+      "act": "Both Require Knowledge Of The Probability Of The Act",
+      "section": "300"
+    },
+    {
+      "act": "Would Be Applicable Where The Knowledge Of The Offender As To The Probability Of Death Of A Person Or Persons In General As Distinguished From A Particular Person Or Persons Being Caused From His Imminently Dangerous Act",
+      "section": "300"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "14 September 2007",
+  "outcome": "Unknown",
+  "facts": [
+    "The first accused caught the hands of the deceased and pulled her out and the deceased fell down.",
+    "The first accused, Phulia Tudu, assaulted her with lathi and when PW-8 attempted to intervene, she was threatened with her life.",
+    "After the return of the villagers including the husband of PW-8, information was passed on to them.",
+    "Thereafter, fardbeyan, Ext.3, was given by PW-8 at Raneshwar police station at 2.30 p.m., which was registered as a crime and Ext.5 is the first information report",
+    "Bitia Soren (PW-8) is the sister-in-law of Biti Murmu (hereinafter referred to as 'the deceased').",
+    "The appellants/accused were under the impression that since the deceased, Biti Murmu, is a witch, she has caused a spell on the son of the accused and, therefore, they were nurturing a grievance against the deceased.",
+    "On the date of incident, when the villagers had gone to the cremation ground to cremate the dead body of a villager, Jhora Hansda, appellants Phulia Tudu and Malgo Soren, chased the deceased, Biti Murmu, and she took asylum in the house of Bitia Soren (PW-8).",
+    "The appellants entered the house and caught hold of the deceased, Biti Murmu.",
+    "Bitia Soren (PW-8) at that time, was engaged in dehusking paddy."
+  ],
+  "issues": [
+    "Culpable homicide is genus and 'murder' its specie.",
+    "All 'murder' is 'culpable homicide' but not vice-versa.",
+    "What may be called, 'culpable homicide of the first degree'.",
+    "This is the gravest form of culpable homicide, which is defined in Section 300 as 'murder'."
+  ],
+  "petitioner_arguments": [
+    "The lathi blow attributed to A1 could not have caused fatal injuries.",
+    "In any event, only one blow was given and, therefore, Section 302 has no application."
+  ],
+  "respondent_arguments": [
+    "Culpable homicide is murder if the act by which the death is caused is done - INTENTION (a) with the intention of causing death; or",
+    "The distinguishing feature of the mens rea requisite under clause (2) is the knowledge possessed by the offender regarding the particular victim being in such a peculiar condition or state of health that the internal harm caused to him is likely to be fatal, notwithstanding the fact that such harm would not in the ordinary way of nature be sufficient to cause death of a person in normal health or condition."
+  ],
+  "court_reasoning": [
+    "The academic distinction between 'murder' and 'culpable homicide not amounting to murder' has always vexed the Courts.",
+    "The confusion is caused, if Courts losing sight of the true scope and meaning of the terms used by the legislature in these sections, allow themselves to be drawn into minute abstractions.",
+    "To put it more broadly, it is the degree of probability of death which determines whether a culpable homicide is of the gravest, medium or the lowest degree."
+  ],
+  "holding": [
+    "The crucial question is as to which was the appropriate provision to be applied.",
+    "Culpable homicide is murder if the act by which the death is caused is done - INTENTION (a) with the intention of causing death; or",
+    "The distinguishing feature of the mens rea requisite under clause (2) is the knowledge possessed by the offender regarding the particular victim being in such a peculiar condition or state of health that the internal harm caused to him is likely to be fatal, notwithstanding the fact that such harm would not in the ordinary way of nature be sufficient to cause death of a person in normal health or condition."
+  ],
+  "cases_cited": [
+    "In Virsa Singh v. State of Punjab",
+    "Phulia Tudu And Anr v The",
+    "death in the ordinary course of nature. Rajwant and Anr. v. State of Kerala",
+    "highlighted by this Court in State of Andhra Pradesh v. Rayavarapu Punnayya"
+  ]
+}

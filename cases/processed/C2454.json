@@ -1,0 +1,55 @@
+{
+  "case_id": "C2454",
+  "case_name": "Nirmala Devi v State of Bihar",
+  "court": "Supreme Court of India",
+  "year": 2001,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Nirmala Devi",
+  "respondent": "State of Bihar\nSupreme Court of India\n\n1 August 2001\nCr.A. No. 1223 of 1998\nThe Order of the Court was as follows:\n1.  Mr. P.P. Singh, learned amicus curiae for the appellants takes notice for the proposal for enhancement of sentence under section 201 IPC in respect of accused no. 2 - Mahendra Mahto.\nWe heard arguments on that also.\n2.  A little child of 15 months was killed by thrashing its head on some blunt object and thereafter the dead body was stuffed in a latrine. All the members of the family who lived in the house wherein the latrine was situated, were arraigned for the murder of the child as well as for the offence of causing disappearance of evidence of murder. The trial court convicted all of them under section 302 and section 201 read with section 34 of the Indian Penal Code and sentenced each of them to imprisonment for life on the first count and RI for 3 years on the second count.\n3.  There were altogether six accused arraigned in the trial court. They al",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "And Section 201 Read With Section 34 Of The Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Read With Section 34 Of The Indian Penal Code",
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "1 August 2001",
+  "outcome": "Unknown",
+  "facts": [
+    "The Order of the Court was as follows: ... A little child of 15 months was killed by thrashing its head on some blunt object and thereafter the dead body was stuffed in a latrine.",
+    "All the members of the family who lived in the house wherein the latrine was situated, were arraigned for the murder of the child as well as for the offence of causing disappearance of evidence of murder.",
+    "The trial court convicted all of them under section 302 and section 201 read with section 34 of the Indian Penal Code and sentenced each of them to imprisonment for life on the first count and RI for 3 years on the second count.",
+    "All the members of the family of the accused were living in one house. The deceased is the grand child of PW2 and PW3.",
+    "The prosecution case, in short, is that PW3 grandmother took the child to her shop and supplied some sweets to the child and carried it upto the neighbourhood of the house and left him there, thinking that for the remaining distance the little child will totter forward.",
+    "During the searches made the police came to know that there was blood mark on a pillar in the house of the accused.  Therefore, the police remained in the house making searches for the missing child.",
+    "The evidence of the doctor conclusively show that child was killed before the dead body was stuffed inside the latrine.",
+    "The mouth opening of the latrine is a square having a dimension of 6\" x 7\". We satisfied ourselves that it is impossible for a child of any age to make an accidental fall into that opening.",
+    "PW3 grand father of the child said that all the members of the family of the accused were present in the house during the day when the incident took place."
+  ],
+  "issues": [],
+  "petitioner_arguments": [
+    "There is absolutely no evidence suggesting that A4 Nirmala Devi, the appellant could have any part in the killing or in the destroying of the evidence of murder.",
+    "We persuade ourselves to set aside the conviction and sentence passed on Nirmala Devi. We acquit her."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The result of the above exercise in our conclusion is that the child could have been killed and after the killing the dead body would have been stuffed into the latrine.",
+    "One circumstance which creates strong suspicion against A2 Mahendra Mahto and A3 Yogendra Mahto is that when the police finally decided to open the latrine those two youngsters had run away from the house.",
+    "We are not satisfied with the short term of sentence of imprisonment passed on him for the offence under section 201 IPC.",
+    "The fact of this case requires the maximum sentence provided under that section to be imposed on him."
+  ],
+  "holding": [
+    "We acquit A4 Nirmala Devi and direct her to be set at liberty forthwith unless she is required in any other case.",
+    "We acquit A2 Mahendra Mahto of the offence under section 302 read with section 34 of the Indian Penal Code.",
+    "We confirm conviction under section 201 IPC in respect of A2 Mahendra Mahto and impose a sentence of RI for 7 years on him."
+  ],
+  "cases_cited": []
+}

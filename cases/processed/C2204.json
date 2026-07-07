@@ -1,0 +1,68 @@
+{
+  "case_id": "C2204",
+  "case_name": "Harcharan v State of Haryana",
+  "court": "Supreme Court of India",
+  "year": 1982,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Harcharan",
+  "respondent": "State of Haryana\nSupreme Court of India\n\n16 November 1982\nC.A. No. 3620 of 1982, (Arising as an appeal by special leave from the Judgment and Order Dt. 4 May 1979 of the Punjab & Haryana High Court in R.F.A. No. 667 of 1973) (arising out of S.L.P. (Civil) No. 110 of 1980).\nThe Order of the Court was as follows :\nSpecial leave granted.\n1.  By a notification dated June 29, 1966, u/s. 4 of the Land Acquisition Act ('Act' for short), respondent State of Haryana acquired land admeasuring 495 bighas 9 biswas and 12 biswansis pukhta situate in village Faridabad, for the planned development of Sector 14 of Faridabad Complex. A declaration u/s. 6 of the Act followed. Thereafter the Land Acquisition Collector proceeded to determine the compensation on the footing that the land was agricultural land. The measure of compensation determined by him was as under :\n(i) cultivated land at the rate of Rs.190 per biswa pukhta;\n(ii) banjar jadid and banjar qadim at the rate of Rs.152 per biswa",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "4"
+    },
+    {
+      "section": "6"
+    },
+    {
+      "section": "190"
+    },
+    {
+      "section": "152"
+    },
+    {
+      "section": "100"
+    },
+    {
+      "section": "18"
+    },
+    {
+      "section": "10"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "16 November 1982",
+  "outcome": "Unknown",
+  "facts": [
+    "By a notification dated June 29, 1966, u/s. 4 of the Land Acquisition Act ('Act' for short), respondent State of Haryana acquired land admeasuring 495 bighas 9 biswas and 12 biswansis pukhta situate in village Faridabad, for the planned development of Sector 14 of Faridabad Complex.",
+    "A declaration u/s. 6 of the Act followed.",
+    "Thereafter the Land Acquisition Collector proceeded to determine the compensation on the footing that the land was agricultural land.",
+    "The measure of compensation determined by him was as under : (i) cultivated land at the rate of Rs.190 per biswa pukhta; (ii) banjar jadid and banjar qadim at the rate of Rs.152 per biswa pukhta; and (iii) Ghair mumkin land at the rate of Rs.100 per biswa pukhta.",
+    "Various claimants who were covered by the award sought reference u/s. 18 of the Act.",
+    "The learned District Judge enhanced the compensation in respect of some plantation land but otherwise affirmed the award of the Land Acquisition Collector."
+  ],
+  "issues": [
+    "Whether the High Court was justified in dismissing this petition in limine.",
+    "What is the market value of the land and what would be justly due to him on the ground of delay in moving the application for amendment of pleadings."
+  ],
+  "petitioner_arguments": [
+    "The appellant sought amendment relying on this principle.",
+    "Appellant contends that his land is acquired; that it has the potentiality of a building site which can be used for industrial or commercial purposes;",
+    "Faridabad-Ballabhgarh Complex is primarily an industrial complex and, therefore, he must be awarded compensation on the footing that the land has the potentiality of a building site and not as has been done by the Land Acquisition Collector and the District Judge on the footing that it is agricultural land."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Procedural law is intended to facilitate and not to obstruct the course of substantive justice.",
+    "The determination of this question depends upon the nature and potentiality of the land.",
+    "To effectively and finally adjudicate this controversy necessary pleadings ought to be available."
+  ],
+  "holding": [
+    "Appeal allowed.",
+    "We need not dilate on this question in view of the decision of this Court in Ganesh Trading Co. v. Moji Ram 1978 Indlaw SC 451, wherein it has been observed as under :",
+    "In that case an application for amendment of the plaint with a view to altering the cause of action itself and to introduce indirectly through an amendment of his pleadings an entirely new or inconsistent cause of action, amounting virtually to the substitution of a new plaint or a new cause of action in place of what was originally there, was rejected by the High Court and the plaintiff's revision petition to the High Court did not meet with success."
+  ],
+  "cases_cited": []
+}

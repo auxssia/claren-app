@@ -1,0 +1,99 @@
+{
+  "case_id": "C1342",
+  "case_name": "Chairman, All India Railway Rec. Board and another v K. Shyam Kumar and others",
+  "court": "Supreme Court of India",
+  "year": 2010,
+  "judges": [
+    "K. S. Radhakrishnan"
+  ],
+  "bench": [],
+  "petitioner": "Chairman, All India Railway Rec. Board and another",
+  "respondent": "K. Shyam Kumar",
+  "citations": [
+    "1970 1 SCC 648",
+    "1978 1 SCC 405",
+    "1990 3 SCC 157",
+    "1991 3 SCC 47",
+    "1993 2 SCC 573",
+    "1994 2 SCC 481",
+    "1998 4 SCC 37",
+    "1998 9 SCC 236",
+    "2000 9 SCC 283",
+    "2002 5 SCC 533",
+    "2003 11 SCC 768",
+    "2003 2 SCC 673",
+    "2003 7 SCC 285",
+    "2006 11 SCC 67",
+    "2006 3 SCC 276",
+    "2008 2 SCC 161",
+    "2008 3 SCC 273"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "8"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Fundamental Rights",
+  "court_level": "Supreme Court",
+  "decision_date": "6 May 2010",
+  "outcome": "Unknown",
+  "facts": [
+    "The Chairman, All India Railway Rec. Board and another v K. Shyam Kumar and others",
+    "The case concerned with the validity of an order dated 04.06.2004 issued by the Railway Board directing the Railway Recruitment Board (in short RRB) to conduct a re-test for recruitment to Group-D posts, for those candidates who had obtained minimum qualifying marks in the first written examination against which large scale irregularities were noticed.",
+    "The RRB vide its employment notification 1/2003 dated 13.06.2003 invited applications for filling up Group 'D' posts in the South Central Railway Zone, Secunderabad.",
+    "In response to the notification 10,02,909 applications were received by the RRB out of which 5,86,955 were found eligible and call letters were sent to them for appearing in the written test held at various centres from 09.11.2003 to 21.11.2003.",
+    "During verification it was noticed that certain malpractices had taken place in the written examination.",
+    "Meanwhile, several complaints were also received by the RRB stating that certain candidates had indulged in mass copying in some centers, including leakage of question papers and impersonation of certain candidates."
+  ],
+  "issues": [
+    "The validity of an order dated 04.06.2004 issued by the Railway Board directing the Railway Recruitment Board (in short RRB) to conduct a re-test for recruitment to Group-D posts",
+    "The power of the Railway Board to conduct a second stage written examination"
+  ],
+  "petitioner_arguments": [
+    "There was no illegality in ordering a re-test",
+    "Mere qualifying in the written and / or PET a candidate would not get any vested right for appointment, especially since no final list or panel was published.",
+    "Reference was also made to the vigilance report and the report of the CBI which prima facie revealed serious malpractices including mass copying, leakage of question papers and impersonation in the written examination."
+  ],
+  "respondent_arguments": [
+    "The best course open to the Railways was to complete the recruitment process based on the first written test after ordering inquiry with respect to the 62 candidates against whom there were allegations of impersonation rather than conducting a re-test.",
+    "The report of the Vigilance was not made available to the respondents and, therefore, the action of the Railway Board was illegal, arbitrary and violative of the principles of natural justice."
+  ],
+  "court_reasoning": [
+    "The Tribunal found no irregularity in the decision taken by the Board in conducting a re-test which was taken after referring to the vigilance report and other relevant materials.",
+    "The High Court found no reasons to cancel the first written examination and to conduct a re-test for 2690 candidates who got minimum qualifying marks in the written test which included 62 candidates against whom there were serious allegations of impersonation.",
+    "The High Court concluded that the controversy virtually boils down to identifying 62 candidates whose cases stood referred to CEQD/HYD for their certification and hence the process of recruitment could be proceeded with for the rest of the candidates."
+  ],
+  "holding": [
+    "The Railway Board was directed to finalise the selection on the basis of the first written test and to issue appointment orders to all the candidates except the 62 candidates against whom there were allegations of impersonation."
+  ],
+  "cases_cited": [
+    "Asha Kaul vs. State of Jammu",
+    "B. Ramanjini and Others v. State of A",
+    "B. Ramanjini v. State of A",
+    "Chairman, All India Railway Rec. Board and another v K. Shyam Kumar",
+    "Far East Region) v. Secretary of",
+    "In R. v. Secretary of",
+    "Lordship then was, speaking for the Bench in State of U.P. v. Sheo Shanker Lal Srivastava",
+    "Srivastava case was later followed in Indian Airlines Ltd. v. Prabha D",
+    "Union of India vs. Rajesh P",
+    "above mentioned two judgments in Jitendra Kumar And Others v. State of Haryana",
+    "bench judgment of this Court in Mohinder Singh Gill and Anr. Vs. The Chief Election Commissioner",
+    "can be made to the judgment of this Court in Shankarsan Dash v. Union of India",
+    "in constitutional law in this behalf. See, for example, Huang v. Secy",
+    "is involved. This Court in Madhyamic Shiksha Mandal, M.P. v. Abhilash Shiksha Prasar Samiti",
+    "of State for the Home Deptt. wherein referring to R. v. Secy",
+    "propounded in Associated Provincial Picture Houses Limited v. Wednesbury Corporation",
+    "referring to the judgment of the Court of appeal in Huang v. Secretary of",
+    "reliance on the judgments of this Court in Union of India v. Tarun K",
+    "review. Lord Steyn in R. (Alconbury Development Limited) v. Secretary of",
+    "standard of review. The House of Lords in R (Daly) v. Secretary of",
+    "the decision was reached. In Council of Civil Service Unions Vs. Minister of",
+    "the judgment of this Court in Bihar School Examination Board v. Subhas Chandra Sinha",
+    "were again followed in State of Madhya Pradesh and Others v. Hazarilal"
+  ]
+}

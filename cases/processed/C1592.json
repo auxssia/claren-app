@@ -1,0 +1,53 @@
+{
+  "case_id": "C1592",
+  "case_name": "Union of India v Nanak Singh",
+  "court": "Supreme Court of India",
+  "year": 1968,
+  "judges": [
+    "J. C. Shah"
+  ],
+  "bench": [],
+  "petitioner": "Union of India",
+  "respondent": "Nanak Singh\nSupreme Court of India\n\n31 January 1968\nC.A. No. 280 of 1967\nThe Judgment was delivered by : J. C. Shah, J.\n1.  Nanak Singh respondent in this appeal held in August 1957 the post of Field Inspector in the Office of the Custodian, Evacuee Property, Delhi, as a temporary employee. By order dated January 10, 1958, K. S. Kane, Additional Settlement Commissioner who was also holding the office of Additional Custodian terminated the employment of the respondent after giving him one month's salary in lieu of notice. The order of Mr. Kane was confirmed in appeal.\n2.  Nanak Singh then moved the High Court of Punjab by a peti tion under Art. 226 of the Constitution for an order declaring that the determination of his employment was \"void, illegal and unconstitutional\" on two grounds (1) that the order terminating the employment amounted to imposing punishment and could not be made without affording opportunity to the employee to show cause against the action proposed",
+  "citations": [],
+  "statutes": [],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "31 January 1968",
+  "outcome": "Unknown",
+  "facts": [
+    "Nanak Singh was a temporary employee in the Office of the Custodian, Evacuee Property, Delhi.",
+    "He held the post of Field Inspector from August 1957 to January 10, 1958.",
+    "His employment was terminated by K. S. Kane, Additional Settlement Commissioner and Additional Custodian, after giving him one month's salary in lieu of notice.",
+    "Nanak Singh moved the High Court of Punjab for an order declaring that his employment termination was 'void, illegal and unconstitutional'.",
+    "The High Court upheld both grounds and granted the petition.",
+    "The Union of India appealed against this decision to the Supreme Court."
+  ],
+  "issues": [
+    "Whether the judgment of the High Court in the writ petition operated as res judicata in the civil suit filed by Nanak Singh.",
+    "Whether Mr. Kane had authority to terminate Nanak Singh's employment under r. 5 of the Central Civil Services (Temporary Services) Rules, 1949."
+  ],
+  "petitioner_arguments": [
+    "The order terminating his employment amounted to imposing punishment and could not be made without affording opportunity to the employee to show cause against the action proposed to be taken in regard to him.",
+    "Mr. Kane was not competent under r. 5 of the Central Civil Services (Temporary Services) Rules, 1949 to terminate his employment."
+  ],
+  "respondent_arguments": [
+    "The termination of Nanak Singh's employment did not amount to imposing punishment.",
+    "Mr. Kane had authority to terminate Nanak Singh's employment under r. 5 of the Central Civil Services (Temporary Services) Rules, 1949."
+  ],
+  "court_reasoning": [
+    "The judgment in the previous case operates by express decision as res judicata.",
+    "Once the appeal was allowed and the petition was dismissed, the dismissal of the petition operated as a rejection of both the grounds on which it was founded.",
+    "The principle of constructive res judicata may be invoked by a party to the subsequent suit on the ground that a matter which might or ought to have been raised in the earlier proceeding but was not so raised therein, must still be deemed to have been decided."
+  ],
+  "holding": [
+    "The appeal is allowed and the decree passed by the High Court is set aside.",
+    "The decree passed by the Court of First Instance is restored.",
+    "The Union of India will pay the costs of the appeal in any event, and must therefore pay the costs of the respondent in this appeal."
+  ],
+  "cases_cited": [
+    "This Court in Gulabchand Chhotalal Parikh v. State of Gujarat A",
+    "placed by counsel for Nanak Singh Abdullah Ashgar Ali Khan v. Ganesh Dass A"
+  ]
+}

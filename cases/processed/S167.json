@@ -1,0 +1,47 @@
+{
+  "case_id": "S167",
+  "case_name": "Statements to police not to be signed; use of such - statements in evidence",
+  "court": "",
+  "year": 1872,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Evidence Act",
+      "section": "145"
+    },
+    {
+      "act": "That Act",
+      "section": "27"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The course of an investigation under this Chapter",
+    "No statement made by any person to a police-officer in the course of an investigation under this Chapter shall, if reduced into writing, be signed by the person making it;",
+    "any such statement or any record thereof, whether in a police diary or otherwise, or any part of such statement or record, be used for any purpose (save as hereinafter provided) at any inquiry or trial in respect of any offence under investigation at the time when such statement was made"
+  ],
+  "issues": [
+    "[]"
+  ],
+  "petitioner_arguments": [
+    "[]"
+  ],
+  "respondent_arguments": [
+    "[]"
+  ],
+  "court_reasoning": [
+    "When any witness, is called for the prosecution in such inquiry or trial whose statement has been reduced into writing as aforesaid, any part of his statement, if duly proved, may be used by the accused, and with the permission of the Court, by the prosecution, to contradict such witness in the manner provided by section 145 of the Indian Evidence Act, 1872"
+  ],
+  "holding": [
+    "[]"
+  ],
+  "cases_cited": []
+}

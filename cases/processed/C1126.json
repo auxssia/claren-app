@@ -1,0 +1,130 @@
+{
+  "case_id": "C1126",
+  "case_name": "Petroleum and Natural Gas Regulatory Board v Indraprastha Gas Limited and others",
+  "court": "Supreme Court of India",
+  "year": 2015,
+  "judges": [
+    "Dipak Misra"
+  ],
+  "bench": [],
+  "petitioner": "Petroleum and Natural Gas Regulatory Board",
+  "respondent": "Indraprastha Gas Limited",
+  "citations": [
+    "1975 1 SCC 421",
+    "1975 4 SCC 22",
+    "1977 3 SCC 362",
+    "1980 1 SCC 370",
+    "1983 2 SCC 402",
+    "1988 2 SCC 351",
+    "1988 2 SCC 513",
+    "1991 2 SCC 87",
+    "2000 3 SCC 40",
+    "2003 3 SCC 321",
+    "2003 6 SCC 659",
+    "2004 3 SCC 1",
+    "2006 4 SCC 517",
+    "2009 16 SCC 659",
+    "2011 8 SCC 274",
+    "2012 7 SCC 683",
+    "2012 9 SCC 552",
+    "2014 2 SCC 62",
+    "AIR 1933 PC 63",
+    "AIR 1953 SC 148",
+    "AIR 1959 SC 198",
+    "AIR 1961 SC 1152",
+    "AIR 1963 SC 274",
+    "AIR 1964 SC 207",
+    "AIR 1969 SC 118"
+  ],
+  "statutes": [
+    {
+      "section": "22"
+    },
+    {
+      "section": "38"
+    },
+    {
+      "section": "2"
+    },
+    {
+      "section": "21(2)"
+    },
+    {
+      "section": "22(1)"
+    },
+    {
+      "section": "20"
+    },
+    {
+      "section": "11(A)"
+    },
+    {
+      "section": "15"
+    },
+    {
+      "section": "19"
+    },
+    {
+      "section": "21"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "309"
+    },
+    {
+      "section": "11"
+    },
+    {
+      "section": "33"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "61"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "CrPC",
+  "court_level": "Supreme Court",
+  "decision_date": "1 July 2015",
+  "outcome": "Unknown",
+  "facts": [
+    "The present appeal, by special leave, calls in question the legal defensibility and the tenability of the judgment and order dated 01.06.2012 passed by the High Court of Delhi in W.P.(C) No. 2034 of 2012.",
+    "The respondent invoked the jurisdiction u/art. 226 of the Constitution assailing the order dated 9.4.2012 issued by the Board u/s. 22 of the Act determining the network tariff and compression charges for CNG in respect of Delhi City Gas Distribution (CGD) network of the petitioner at Rs.38.58 per MMBtu and Rs.2.75 per kg.",
+    "The said order was criticized on many a ground."
+  ],
+  "issues": [
+    "Whether the Act authorises the Board to pass such an order",
+    "Whether the intention of the legislature is to confer the power of price fixation on the Board"
+  ],
+  "petitioner_arguments": [
+    "There is a presumption of validity of subordinate legislation, and as long as the parent Act enables the framing of regulations they are valid.",
+    "The High Court has incorrectly held that these regulations are ultra vires the parent Act without referring to any specific section or provision.",
+    "The fixation of transportation rate/transportation tariff has to be determined for the network of pipelines irrespective of whether they are common carriers, contract carriers or city networks."
+  ],
+  "respondent_arguments": [
+    "The Board does not have the power to direct the writ petitioner, the respondent no. 1 herein, while charging its consumers, to disclose the network tariff and the compression charges",
+    "The entity having accepted the said term as a condition for obtaining exclusivity is bound by the contractual obligation with the Board and is now estopped from challenging the power of the Board"
+  ],
+  "court_reasoning": [
+    "We thus conclude that PNGRB Act does not confer any power on the Board to fix/regulate price of gas as has been done vide the impugned order dated 9th April, 2012.",
+    "The provisions of the Regulations (supra) in so far as construed by the Board to be so empowering it are held to be bad/illegal."
+  ],
+  "holding": [
+    "We thus allow this writ petition to the extent of holding that the Petroleum and Natural Gas Regulatory Board is not empowered to fix or regulate the maximum retail price at which gas is to be sold by entities as the petitioner, to the consumers.",
+    "The order dated 9th April, 2012 to the extent so fixing the maximum retail price or requiring the petitioner to disclose the network tariff and compression charges to its consumers is struck down/quashed."
+  ],
+  "cases_cited": [
+    "In Bharat Aluminium Co. v. Kaiser Aluminium Technical Services Inc",
+    "In Dr. Indramani Pyarelal Gupta v. W.R",
+    "In Kunj Behari Lal Butail v. State of H",
+    "In South India Corporation (P) Ltd. v. Secretary",
+    "In The Commissioner of Wealth Tax, Andhra Pradesh, Hyderabad v. Trustees of H",
+    "Petroleum and Natural Gas Regulatory Board v Indraprastha Gas Limited",
+    "for assessment of a trustee of a trust. In Ashok Leyland Ltd. v. State of T",
+    "is expressed. In K.R.C.S. Balakrishna Chetty and Sons & Co. v. The",
+    "profit, refer to certain authorities in the field. In CST v. Parson Tools",
+    "to which it was made subject to. In B.S. Vadera and another v. Union of India"
+  ]
+}

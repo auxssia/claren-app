@@ -1,0 +1,80 @@
+{
+  "case_id": "C2434",
+  "case_name": "Bhupendra v State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "year": 2013,
+  "judges": [
+    "Madan B. Lokur"
+  ],
+  "bench": [],
+  "petitioner": "Bhupendra",
+  "respondent": "State of Madhya Pradesh\nSupreme Court of India\n\n11 November 2013\nCr.A. No. 1774 of 2008\nThe Judgment was delivered by : Madan B. Lokur, J.\n1. The question before us is whether Bhupendra (the appellant) was rightly convicted by the Additional Sessions Judge, Morena, Madhya Pradesh of having committed an offence punishable under Section 498-A, Section 304-B and S. 306 of the Indian Penal Code (IPC) and whether his conviction was rightly upheld by the High Court of Madhya Pradesh. In our opinion the question must be answered in the affirmative and therefore we find no merit in this appeal.\nThe facts\n2. Geeta Bai married Bhupendra on 7th June, 1993 and at that time her father PW-1 Bhika Ram gave dowry to Bhupendra and his family according to their means. The case of the prosecution was that Geeta Bai was harassed by Bhupendra and members of his family who demanded dowry over and above what was given to them at the time of marriage. Initially, the demand was for a she buffalo wh",
+  "citations": [
+    "1991 1 SCC 371",
+    "1999 8 SCC 715",
+    "2000 5 SCC 207",
+    "2001 8 SCC 633",
+    "2005 13 SCC 455",
+    "2007 10 SCC 774"
+  ],
+  "statutes": [
+    {
+      "section": "498"
+    },
+    {
+      "section": "304"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Dowry Prohibition Act, 1961"
+    },
+    {
+      "section": "113"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "11 November 2013",
+  "outcome": "Unknown",
+  "facts": [
+    "Geeta Bai married Bhupendra on 7th June, 1993 and at that time her father PW-1 Bhika Ram gave dowry to Bhupendra and his family according to their means.",
+    "The case of the prosecution was that Geeta Bai was harassed by Bhupendra and members of his family who demanded dowry over and above what was given to them at the time of marriage.",
+    "Initially, the demand was for a she buffalo which was met by Bhika Ram. Then there was a further demand for Rs. 10,000/- in cash on 20th August, 1996.",
+    "Geeta Bai consumed wheat tablets on the evening of 20th August, 1996 at her matrimonial home.",
+    "Since Geeta Bai had taken unwell, Bhupendra took her to the District Hospital at Morena for treatment.",
+    "On the basis of the information received, a case was registered and investigations commenced by the police.",
+    "Separately, Bhika Ram made a complaint on 21st August, 1996 to the Superintendent of Police and to the District Magistrate at Morena that Bhupendra, his father Vrindavan and his mother Sheela Devi had caused the dowry death of Geeta Bai.",
+    "On the same day, a post mortem examination was conducted on the body of Geeta Bai and it was opined by PW-7 Dr. Siyaram Sharma (who had conducted the post mortem examination) that she had two injuries on her body, one on the left forearm which was caused by a hard, blunt object while the other injury was on the back of the right hand caused by a tooth bite.",
+    "It was also opined that the cause of death was suspected poisoning."
+  ],
+  "issues": [],
+  "petitioner_arguments": [
+    "The statements of Geeta Bai's parents were not reliable and that she had died as a result of food poisoning.",
+    "Some material witnesses had not been examined by the prosecution."
+  ],
+  "respondent_arguments": [
+    "Virtually from the date of her marriage, Geeta Bai had been treated with cruelty and subjected to harassment for not bringing sufficient dowry.",
+    "There were ante mortem injuries on the body of Geeta Bai."
+  ],
+  "court_reasoning": [
+    "The absence of a viscera report would not make any difference to the fate of the case. For the purposes of Section 304-B of the IPC, the mere fact of an unnatural death is sufficient to invite a presumption under Section 113-B of the Evidence Act, 1872."
+  ],
+  "holding": [
+    "The conviction of the appellant under S. 306 of the IPC was upheld, there being no charge under Section 304-B of the IPC.",
+    "S. 306 of the IPC is much broader in its application and takes within its fold one aspect of Section 304-B of the IPC. These two sections are not mutually exclusive."
+  ],
+  "cases_cited": [
+    "In State of Karnataka v. K. Yarappa Reddy",
+    "In Taiyab Khan and Others v. State of Bihar (Now Jharkhand",
+    "all. Reliance in this regard was placed on Shanti and Another v. State of Haryana",
+    "and Kans Raj v. State of Punjab",
+    "in Taiyab Khan was reiterated in Ananda Mohan Sen and Another v. State of West Bengal",
+    "is also without any substance. In Satvir Singh and Others v. State of Punjab"
+  ]
+}

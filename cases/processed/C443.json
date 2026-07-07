@@ -1,0 +1,77 @@
+{
+  "case_id": "C443",
+  "case_name": "K. S. Paripoornan and Others v State of Kerala and Others",
+  "court": "Supreme Court of India",
+  "year": 1991,
+  "judges": [
+    "M.M. Punchhi",
+    "B.P. Jeevan Reddy"
+  ],
+  "bench": [],
+  "petitioner": "K. S. Paripoornan and Others",
+  "respondent": "State of Kerala",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "3(1)"
+    },
+    {
+      "section": "6"
+    },
+    {
+      "section": "18"
+    },
+    {
+      "section": "4"
+    },
+    {
+      "section": "31"
+    },
+    {
+      "section": "11"
+    },
+    {
+      "section": "12"
+    },
+    {
+      "section": "23"
+    },
+    {
+      "section": "30"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "17 December 1991",
+  "outcome": "Unknown",
+  "facts": [
+    "The notification u/s. 3(1) of the Kerala Land Acquisition Act was issued on March 21, 1978.",
+    "Declaration u/s. 6 was made on May 15, 1979.",
+    "The Land Acquisition Officer (Collector) passed the award on December 30, 1980 and possession of acquired lands taken some time in 1981.",
+    "The claimants were not satisfied with the award. They asked for a reference u/s. 18 which was made.",
+    "The civil court gave its decision on February 28, 1985, enhancing the compensation.",
+    "The Land Acquisition Amendment Bill, which was later enacted into Amendment Act 68 of 1984, was introduced in Parliament on April 30, 1982.",
+    "The award of the Collector in this case was made on December 30, 1980, i.e., prior to April 30, 1982 and the decision of the civil court on reference u/s. 18 is dated February 28, 1985, i.e., subsequent to the coming into force of the Act."
+  ],
+  "issues": [
+    "Whether the claimants are entitled to the benefit of S. 23(1-A)?"
+  ],
+  "petitioner_arguments": [
+    "The learned counsel for the claimants relies upon the aforesaid decision of a three Judge bench of this Court in support of his contention that even in a case like the present one, the said benefit is available."
+  ],
+  "respondent_arguments": [
+    "Shri T. S. Krishnamurthy Iyer, the learned counsel for the State of Kerala questions the correctness of this reasoning."
+  ],
+  "court_reasoning": [
+    "The view expressed by the bench does not appear to be in accordance with the language and intention of the Amendment Act.",
+    "S. 23(1) enjoins the Court to take into consideration six factors, as enumerated therein, in determining the amount of compensation to be awarded for the land acquired under the Act."
+  ],
+  "holding": [
+    "The view taken by a three Judge bench of this Court in Union of India v. Zora Singh (1991 Indlaw SC 383) required reconsideration.",
+    "The benefit of sub-section (1-A) of s. 23 is not available to the claimants here."
+  ],
+  "cases_cited": [
+    "K. S. Paripoornan and Others v State of Kerala"
+  ]
+}

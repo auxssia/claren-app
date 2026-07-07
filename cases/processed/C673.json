@@ -1,0 +1,59 @@
+{
+  "case_id": "C673",
+  "case_name": "Jadu Sahani and Others v State of Bihar",
+  "court": "Supreme Court of India",
+  "year": 1997,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Jadu Sahani and Others",
+  "respondent": "State of Bihar\nSupreme Court of India\n\n30 September 1997\nCr.A. No. 915 of 1996, Dt. 30 September 1997.\nThe Order of the Court was as follows:\n1.  This appeal is directed against the judgment and order of the High Court of Patna, dated 13-9-1995 passed in Criminal Appeal No. 340 of 1985.\n2.  Broadly stated, the case of the prosecution was that a swarm of people went in the area of the village of the complainant party in order to catch fish from a pond. Their number was considerable. The complainant party objected to those People entering into the fish pond in order to catch fish and challenged them to show any title to the pond or to fishing rights. This led to an exchange of unseemly words between the posted factions. There arose a clash; as a result of which two persons on the complainant side and one person on the accused side met his end, and a large number of people were otherwise injured.\n3. The matter was reported to the Police by Bindeshwari Singh, PW-14",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "149"
+    },
+    {
+      "section": "307"
+    },
+    {
+      "section": "326"
+    },
+    {
+      "section": "325"
+    },
+    {
+      "section": "148"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "30 September 1997",
+  "outcome": "Unknown",
+  "facts": [
+    "A swarm of people went into a village pond to catch fish. The complainant party objected to this and challenged them to show any title to the pond or fishing rights.",
+    "The two parties exchanged unseemly words, leading to a clash in which three people died and many were injured.",
+    "The matter was reported to the police by Bindeshwari Singh, PW-14, which set off an investigation.",
+    "Two cross-cases were put up for trial. The accused lost both cases, with their convictions and sentences confirmed by the High Court."
+  ],
+  "issues": [
+    "Whether there arose an unlawful assembly with a common object of causing murder or assault"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The common object of the assembly was to cause assault on the complainant party, not to cause murders.",
+    "Laxmi Yadav and Jadu Sahani were individually guilty for offence under Section 302 IPC each."
+  ],
+  "holding": [
+    "The appeal of Jadu Sahani and Laxmi Yadav is dismissed.",
+    "The appeal of the remaining appellants is partly allowed, with their sentences confirmed."
+  ],
+  "cases_cited": []
+}

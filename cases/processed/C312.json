@@ -1,0 +1,62 @@
+{
+  "case_id": "C312",
+  "case_name": "Common Cause v Union of India and Others",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "H. K. Sema"
+  ],
+  "bench": [],
+  "petitioner": "Common Cause",
+  "respondent": "Union of India",
+  "citations": [
+    "2002 5 SCC 294"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "2"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 32",
+  "court_level": "Supreme Court",
+  "decision_date": "11 April 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "This petition has been filed in the form of public interest litigation by Common Cause (A Registered Society) through its Director Shri H.D. Shourie r/o A-31, West End, New Delhi.",
+    "The petitioner sought for the following reliefs: ...",
+    "I had the privilege of going through the erudite judgment prepared by my learned Brother Justice Katju and I respectfully agree with the conclusion reached by my brother Katju that the Writ Petition be dismissed.",
+    "While coming to this conclusion Brother Katju was of the opinion that the Motor Vehicles Act is a comprehensive enactment on the subject.",
+    "He was further of the opinion that if there is lacuna or defect in the Act it is for the legislature to correct it by a suitable amendment and not by the Court.",
+    "I am also of the view that the relief sought for in this Writ Petition is adequately taken care of by the Motor Vehicles Act itself and if there is any lacuna or defect, it is the legislature to correct it by amending the Act and not the Court."
+  ],
+  "issues": [
+    "Whether the Court can issue directions for amending the Act or the statutory Rules.",
+    "Whether the Court has jurisdiction to issue necessary directions to the executive to sub serve public interest."
+  ],
+  "petitioner_arguments": [
+    "The relief sought for in this Writ Petition is adequately taken care of by the Motor Vehicles Act itself and if there is any lacuna or defect, it is the legislature to correct it by amending the Act and not the Court."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The Supreme Court cannot give any directions for amending the Act or the statutory Rules. It is for Parliament to amend the Act and the Rules.",
+    "It is also established law that no direction can be given, which would be contrary to the Act and the Rules.",
+    "However, it is equally settled that in case when the Act or Rules are silent on a particular subject and the authority implementing the same has constitutional or statutory power to implement it, the Court can necessarily issue directions or orders on the said subject to fill the vacuum or void till a suitable law is enacted."
+  ],
+  "holding": [
+    "The petition be dismissed."
+  ],
+  "cases_cited": [
+    "Common Cause v Union of India",
+    "In the case of Union of India vs. Association for Democratic Reforms",
+    "in the case of Divisional Manager, Aravali Golf Course & Anr. vs. Chander Hass",
+    "of which one of us was a party (Sema J.), in Union of India vs. Association for Democratic Reforms"
+  ]
+}

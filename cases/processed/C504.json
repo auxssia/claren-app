@@ -1,0 +1,79 @@
+{
+  "case_id": "C504",
+  "case_name": "Commissioner, M. P. Housing Board and others v Mohanlal and Company",
+  "court": "Supreme Court of India",
+  "year": 2016,
+  "judges": [
+    "Dipak Misra"
+  ],
+  "bench": [],
+  "petitioner": "Commissioner, M. P. Housing Board and others",
+  "respondent": "Mohanlal and Company\nSupreme Court of India\n\n19 July 2016\nCivil Appeal No. 6573 of 2016\nThe Judgment was delivered by : Dipak Misra, J.\n1. Leave granted.\n2. The present appeal, by special leave, is directed against the order dated 12th August, 2013, passed by the High Court of Madhya Pradesh, Principal Seat at Jabalpur, in Civil Revision No.332 of 2012, whereby the High Court has affirmed the view expressed by the learned Additional District Judge, Bhopal, that the objection preferred by the respondent under Section 34(2) of the Arbitration & Conciliation Act, 1996 (for short, 'the 1996 Act') was condonable in aid of Section 14 of the Limitation Act, 1963 (for brevity, 'the Act').\n3. The present litigation has a history. The respondent had entered into a contract for construction of a commercial complex at Bittan Market, E-5, Arera Colony, Bhopal on 29th June, 2009. During the subsistence of the contract, certain disputes arose between the",
+  "citations": [
+    "2001 8 SCC 470",
+    "2005 13 SCC 1",
+    "2006 6 SCC 239"
+  ],
+  "statutes": [
+    {
+      "act": "Limitation Act",
+      "section": "14"
+    },
+    {
+      "act": "1996 Act",
+      "section": "11"
+    },
+    {
+      "act": "The Act",
+      "section": "14"
+    },
+    {
+      "act": "1996 Act",
+      "section": "34"
+    },
+    {
+      "act": "That Act",
+      "section": "5"
+    },
+    {
+      "act": "Code Of Civil Procedure",
+      "section": "11"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "19 July 2016",
+  "outcome": "Unknown",
+  "facts": [
+    "The respondent had entered into a contract for construction of a commercial complex at Bittan Market, E-5, Arera Colony, Bhopal on 29th June, 2009.",
+    "During the subsistence of the contract, certain disputes arose between the parties and the matter was arbitrated upon.",
+    "Relying on the said clause, the matter was referred to the Additional Housing Commissioner, the sole arbitrator, who passed an award on 11th November, 2010.",
+    "When the matter stood thus, as it appears, wisdom dawned upon the respondent and he thought that he could take a somersault. And that propelled him to file an application under Section 11 of the 1996 Act before the High Court of Madhya Pradesh, which formed the subject matter of Arbitration Case No.135 of 2010, for seeking appointment of an arbitrator to adjudicate the disputes.",
+    "The learned Single Judge reproduced the relevant passages from the said judgment and came to hold as follows: ...",
+    "After facing non-success before the High Court in his effort to get an arbitrator appointed, the respondent thought it appropriate to file an objection under Section 34(2) of the 1996 Act to challenge the award.",
+    "The respondent, along with his objection, filed an application under Section 14 of the Act seeking exclusion of the time consumed in the proceedings asserting that he was bonafidely prosecuting the case in the court having no jurisdiction."
+  ],
+  "issues": [
+    "Whether in the obtaining factual scenario, Section 14 of the Act would be applicable."
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [
+    "The respondent argued that clause 29 of the contract could not be treated as an arbitration clause and, therefore, the court should appoint an arbitrator.",
+    "The respondent sought exclusion of time under Section 14 of the Act asserting that he was bonafidely prosecuting the case in the court having no jurisdiction."
+  ],
+  "court_reasoning": [
+    "This Court in Union of India vs. Popular Construction Co. (2001) 8 SCC 470 2001 Indlaw SC 26 interpreting the said provision has held that: ...",
+    "The aforesaid authority makes it absolutely clear that that the scheme of limitation provided under the 1996 Act is different than 1940 Act; and, therefore, an application filed beyond the period of limitation under Section 34(3) of 1996 Act would not be an application in accordance with the said provision."
+  ],
+  "holding": [
+    "The High Court did not find any infirmity in the order passed by the learned Additional District Judge and, accordingly, gave the stamp of approval to the same.",
+    "It could not have been entertained under the 1996 Act."
+  ],
+  "cases_cited": [
+    "Commissioner, M. P. Housing Board and others v Mohanlal",
+    "This Court in Union of India vs. Popular Construction Co",
+    "and Consolidated Engineering Enterprises vs. Principal Secretary",
+    "stand, reliance was placed on M.P. Housing Board and Another vs. Sohanlal Chourasia"
+  ]
+}

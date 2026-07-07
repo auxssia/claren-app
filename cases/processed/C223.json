@@ -1,0 +1,80 @@
+{
+  "case_id": "C223",
+  "case_name": "Dinesh Tiwari v State of Uttar Pradesh and others",
+  "court": "Supreme Court of India",
+  "year": 2014,
+  "judges": [
+    "Sudhansu Jyoti Mukhopadhaya"
+  ],
+  "bench": [],
+  "petitioner": "Dinesh Tiwari",
+  "respondent": "State of Uttar Pradesh",
+  "citations": [
+    "2012 9 SCC 460"
+  ],
+  "statutes": [
+    {
+      "section": "482"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "323"
+    },
+    {
+      "section": "226"
+    },
+    {
+      "section": "209"
+    },
+    {
+      "section": "228"
+    },
+    {
+      "section": "227"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "7 July 2014",
+  "outcome": "Unknown",
+  "facts": [
+    "One Mahender Prasad Tiwari complainant lodged an FIR against the present appellant-Dinesh Tiwari, Sadhu Saran and Ram Vijay Yadav for the offence u/s 302, 323, 504 and 506 IPC in Police Station Mahuli, District Sant Kabir Nagar.",
+    "It was registered as Crime No.84/2006.",
+    "Reasons for enmity and detail event of murder were mentioned in the FIR.",
+    "Police started the investigation but subsequently, on the order of the Government the investigation was transferred to CBCID.",
+    "CBCID submitted charge sheet against Sadhu Saran Yadav co-accused for the offence u/s 302, 323, 504 and 506 IPC.",
+    "The CJM took cognizance of the offence vide order dated 8th May, 2006.",
+    "The case was committed to the Court of Sessions and was registered as S.T. No.149/2006 titled State v. Sadhu Saran Yadav."
+  ],
+  "issues": [
+    "Whether the appellant-accused was given an opportunity of being heard before framing of the charge u/s 302 IPC.",
+    "Whether any charge sheet was submitted by the investigating agency against the appellant for the offence u/s 302 IPC or any cognizance was taken by the CJM against him for the said offence."
+  ],
+  "petitioner_arguments": [
+    "Appellant-accused was not given an opportunity of being heard before framing of the charge u/s 302 IPC.",
+    "Neither any charge sheet was submitted by the investigating agency against the appellant for the offence u/s 302 IPC nor any cognizance was taken by the CJM against him for the said offence."
+  ],
+  "respondent_arguments": [
+    "There is ample material on record to show that the appellant along with Sadhu Saran committed murder of Arvind Kumar Tiwari son of the complainant and hence the Trial Court rightly framed the charge u/s 302 IPC."
+  ],
+  "court_reasoning": [
+    "The court held that framing of a charge is an exercise of jurisdiction by the trial court in terms of S.228 of the Code, unless the accused is discharged under S.227 of the Code.",
+    "At the initial stage of framing of a charge, the court is concerned not with proof but with a strong suspicion that the accused has committed an offence, which, if put to trial, could prove him guilty.",
+    "The final test of guilt is not to be applied at that stage."
+  ],
+  "holding": [
+    "The High Court by impugned judgment and order dated 11th December, 2007 dismissed the application filed by the appellant-accused u/s 482 Cr.P.C for quashing the order framing the charge u/s 302 IPC."
+  ],
+  "cases_cited": [
+    "Dinesh Tiwari v State of Uttar Pradesh",
+    "in State v. Ram Vijay Yadav etc",
+    "titled State v. Sadhu Saran Yadav",
+    "was noticed and considered by this Court in Amit Kapoor v. Ramesh Chander"
+  ]
+}

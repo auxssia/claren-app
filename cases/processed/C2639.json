@@ -1,0 +1,118 @@
+{
+  "case_id": "C2639",
+  "case_name": "Indian Farmers Fertilizer Co-operative Limited v Bhadra Products",
+  "court": "Supreme Court of India",
+  "year": 2018,
+  "judges": [
+    "R.F. Nariman"
+  ],
+  "bench": [],
+  "petitioner": "Indian Farmers Fertilizer Co-operative Limited",
+  "respondent": "Bhadra Products\nSupreme Court of India\n\n23 January 2018\nCivil Appeal No. 824 of 2018 (Arising Out of SLP (C) No. 19771 of 2017)\nThe Judgment was delivered by : R.F. Nariman, J.\n1. Leave granted.\n2. An interesting question arises as to whether an award delivered by an Arbitrator, which decides the issue of limitation, can be said to be an interim award, and whether such interim award can then be set aside under Section 34 of the Arbitration and Conciliation Act, 1996 (hereinafter referred to as \"the Act\").\nThe brief facts necessary to dispose of the present appeal are as follows.\n3. The appellant before us issued a tender enquiry to 19 parties, including the respondent, for supply of Defoamers. The respondent submitted its bid, pursuant to which a Letter of Intent dated 2nd November, 2006 was issued to the respondent for supply of 800 Metric Tonnes of Defoamers to be used for production of 3,08,880 Metric Tonnes of P2O5. By 11th April, 20",
+  "citations": [
+    "1972 2 SCC 427",
+    "1974 3 SCC 415",
+    "1999 3 SCC 487",
+    "2004 3 SCC 48",
+    "2005 8 SCC 618",
+    "2006 11 SCC 181",
+    "2007 4 SCC 451",
+    "2015 6 SCC 412",
+    "AIR 1962 SC 1123",
+    "AIR 1962 SC 551",
+    "AIR 1996 SC 153"
+  ],
+  "statutes": [
+    {
+      "act": "Arbitration And Conciliation Act",
+      "section": "34"
+    },
+    {
+      "act": "The Act",
+      "section": "34"
+    },
+    {
+      "act": "The Act",
+      "section": "16"
+    },
+    {
+      "act": "English Act",
+      "section": "47"
+    },
+    {
+      "act": "Limitation Act",
+      "section": "3"
+    },
+    {
+      "act": "The Act",
+      "section": "37"
+    },
+    {
+      "act": "The Code",
+      "section": "115"
+    },
+    {
+      "act": "That The Parties Have To Resort To Section 34 Of The Act",
+      "section": "16"
+    },
+    {
+      "act": "Code Of Civil Procedure",
+      "section": "115"
+    },
+    {
+      "act": "Central Excise Act",
+      "section": "11A"
+    },
+    {
+      "act": "Code Of Civil Procedure",
+      "section": "9A"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "23 January 2018",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant before us issued a tender enquiry to 19 parties, including the respondent, for supply of Defoamers.",
+    "By 11th April, 2007, the respondent had supplied 800 Metric Tonnes of Defoamers, however, they could not achieve the targeted production by the end of 1st November, 2007, which was the validity of the supply period.",
+    "After considerable delay, on 6th June, 2011, the respondent issued a legal notice demanding payment of Rs.6,35,74,245/- on 27th September, 2012.",
+    "The appellant made it clear that there was nothing due and payable to the respondent."
+  ],
+  "issues": [
+    "Whether an award delivered by an Arbitrator, which decides the issue of limitation, can be said to be an interim award",
+    "Whether such interim award can then be set aside under Section 34 of the Act"
+  ],
+  "petitioner_arguments": [
+    "The award made on 23rd July, 2015 is an interim award under the Act and would, therefore, be amenable to challenge under Section 34 of the Act as such.",
+    "According to him, the point of limitation being one of the issues raised by the parties, was finally decided by the aforesaid award and would, therefore, be amenable to challenge."
+  ],
+  "respondent_arguments": [
+    "A ruling on the point of limitation is a ruling on 'jurisdiction' and any finding thereon goes to the root of the case.",
+    "The scheme of Section 37, in particular Section 37(2)(a), also makes it clear that appeals lie only from an order under Section 16 accepting the plea but not rejecting it."
+  ],
+  "court_reasoning": [
+    "The language of Section 31(6) is advisedly wide in nature.",
+    "A reading of the said sub-section makes it clear that the jurisdiction to make an interim arbitral award is left to the good sense of the arbitral tribunal, and that it extends to 'any matter' with respect to which it may make a final arbitral award."
+  ],
+  "holding": [
+    "The point at issue is a narrow one: whether an award on the issue of limitation can first be said to be an interim award and, second, as to whether a decision on a point of limitation would go to jurisdiction and, therefore, be covered by Section 16 of the Act."
+  ],
+  "cases_cited": [
+    "A Constitution Bench of this Court in Ittavira Mathai v. Varkey Varkey",
+    "Arbitral Tribunal to rule on its own jurisdiction. SBP & Co. v. Patel Engg",
+    "In Exmar BV v National Iranian Tanker Co",
+    "In McDermott International Inc. v. Burn Standard Co",
+    "Likewise, in Hari Prasad Mulshanker Trivedi v. V.B",
+    "This Court in Rikhabdass v. Ballabhdas",
+    "go into the merits of the claim. In Pandurang Dhoni Chougule v. Maruti Hari Jadhav",
+    "in the Administrative Law sphere and explained in M.L. Sethi v. R.P",
+    "is well-settled. In the classic sense, in Official Trustee v. Sachindra Nath Chatterjee",
+    "the arbitrator becomes functus officio. In Juggilal Kamlapat v. General Fibre Dealers Ltd",
+    "the judgment of National Thermal Power Corpn. Ltd. v. Siemens Atkeingesellschaft",
+    "the order of Reference to a Full Bench in the case of Sukhlal v. Tara Chand",
+    "this Court in Foreshore Coop. Housing Society Ltd. v. Praveen D",
+    "us to the decision of the Privy Council in Maqbul Ahmad v. Onkar Pratap Narain Singh",
+    "was expressly referred to in the context of Anisminic v. Foreign Compensation Commission"
+  ]
+}

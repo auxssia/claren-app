@@ -1,0 +1,55 @@
+{
+  "case_id": "C724",
+  "case_name": "Satya Narain Singh Etc. Etc. v The High Court Of Judicatureat Allahabad And Ors., Etc. Etc.",
+  "court": "Supreme Court of India",
+  "year": 1984,
+  "judges": [
+    "O. Chinnappa Reddy, J."
+  ],
+  "bench": [],
+  "petitioner": "Satya Narain Singh Etc. Etc",
+  "respondent": "The High Court Of Judicatureat Allahabad",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "233"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "27 November 1984",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioners were members of the Uttar Pradesh Judicial Service who applied to be appointed by direct recruitment to the Uttar Pradesh Higher Judicial Service.",
+    "They claimed that each of them had completed 7 years of practice at the bar even before their appointment to the Uttar Pradesh Judicial Service and were, therefore, eligible to be appointed by direct recruitment to the Higher Judicial Service.",
+    "Some of them filed writ petitions in the Allahabad High Court which were dismissed and it was held that members of the Uttar Pradesh Judicial Service were not eligible to be appointed by direct recruitment to the Higher Judicial Service."
+  ],
+  "issues": [
+    "Whether members of the Uttar Pradesh Judicial Service are eligible to be appointed by direct recruitment to the Higher Judicial Service",
+    "What is the meaning of 'the service of the Union or of the State' in Article 233(2) of the Constitution"
+  ],
+  "petitioner_arguments": [
+    "The petitioners argued that there was no Constitutional inhibition against members of any Subordinate Judicial Service seeking to be appointed as District Judges by direct recruitment provided they had completed 7 years' practice at the bar.",
+    "They submitted that a construction of Article 233 of the Constitution which would render a member of the Subordinate Judicial Service ineligible for appointment to the Higher Judicial Service because of the additional experience gained by him as a Judicial officer would be both unjust and paradoxical."
+  ],
+  "respondent_arguments": [
+    "The respondent urged that there was a clear demarcation in the Constitution between two sources of recruitment namely: (1) those who were in the service of a State or Union and (2) those who were not in such service.",
+    "He contended that the second clause of Article 233 was attracted only to the second source and in respect of candidates from that source the further qualification of 7 years as an advocate or a pleader was made obligatory for eligibility."
+  ],
+  "court_reasoning": [
+    "The Court considered that it may be better for us to indicate briefly our reasons.",
+    "We consider that it would be extremely anomalous if a member of the Uttar Pradesh Judicial Service who, on the present construction of Article 233 is ineligible for appointment as a District Judge by direct recruitment, is nevertheless eligible to be appointed as a judge of the High Court by reason of Article 217(2) (aa).",
+    "The Court observed that any other construction would lead to anomalous and absurd consequences such as a junior member of the Subordinate Judicial Service taking a leap, as it were, over senior members of the Judicial Service with long records of meritorious service."
+  ],
+  "holding": [
+    "We are not satisfied that there is any reason for re-opening the issue.",
+    "The Court dismissed the civil appeal and the writ petitions on the former occasion and affirmed the judgment of the High Court of Allahabad without giving our own reasons."
+  ],
+  "cases_cited": [
+    "Satya Narain Singh Etc. Etc. v The High Court Of Judicatureat Allahabad",
+    "and Chander Mohan v. State of Uttar Pradesh(",
+    "relied upon the decisions of this Court in Rameshwar Dayal v. State of Punjab("
+  ]
+}

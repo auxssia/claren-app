@@ -1,0 +1,34 @@
+{
+  "case_id": "S6",
+  "case_name": "Acts done by several persons in furtherance of common intention",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "1"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [
+    "Acts done by several persons in furtherance of common intention"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "When a criminal act is done by several persons in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if it were done by him alone."
+  ],
+  "holding": [
+    "each of such persons is liable for that act in the same manner as if it were done by him alone."
+  ],
+  "cases_cited": []
+}

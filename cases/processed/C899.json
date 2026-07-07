@@ -1,0 +1,58 @@
+{
+  "case_id": "C899",
+  "case_name": "Anuran Rastogi & Ors v State Of U.P. And Anr",
+  "court": "Supreme Court of India",
+  "year": 2007,
+  "judges": [
+    "Dr. Arijit Pasayat J."
+  ],
+  "bench": [],
+  "petitioner": "Anuran Rastogi & Ors",
+  "respondent": "State Of U.P.",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "498"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Dowry Prohibition Act, 1961"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "7 February 2007",
+  "outcome": "Unknown",
+  "facts": [
+    "On the basis of the information given by respondent no.2, a case of alleged commission of offence punishable under Section 498-A, 323, 504 of the Indian Penal Code, 1860 (in short the 'IPC') read with Sections 3 and 4 of the Dowry Prohibition Act, 1961 (in short 'Dowry Act') was registered.",
+    "After investigation, a charge sheet was filed against the appellants. The magistrate took cognizance of the offences and issued summons to the accused persons.",
+    "The informant filed an application before the concerned Magistrate to the effect that on the basis of evidence collected by the investigating officer, cognizance ought to have been taken for offence punishable under Sections 406 and 307 IPC.",
+    "The magistrate was of the view that after evidence is adduced, commission of the offence punishable under Sections 406 and 307 IPC is made out, then the prayer of the informant could be considered.",
+    "Respondent no.2 filed a petition before the High Court stating that the materials collected by the investigating officer and contained in the case diary itself justified trial under Sections 307 and 406 IPC."
+  ],
+  "issues": [
+    "Whether the Magistrate had applied his mind to the merits of the points raised by the informant",
+    "Whether the Magistrate was bound by the description in the police report while taking cognizance"
+  ],
+  "petitioner_arguments": [
+    "The approach of the High Court is clearly erroneous",
+    "The Magistrate is not bound to take cognizance of the offences indicated in the police report"
+  ],
+  "respondent_arguments": [
+    "The materials collected by the investigating officer and contained in the case diary itself justified trial under Sections 307 and 406 IPC"
+  ],
+  "court_reasoning": [
+    "The Magistrate has to consider material at the time of framing charge",
+    "Needless to say, he will pass necessary orders if according to him the case is triable by the Court of Sessions"
+  ],
+  "holding": [
+    "The appeal is accordingly disposed of",
+    "Appeal disposed of"
+  ],
+  "cases_cited": [
+    "Anuran Rastogi & Ors v State Of U"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case_id": "C2760",
+  "case_name": "G. P. Nayyar v State",
+  "court": "Supreme Court of India",
+  "year": 1978,
+  "judges": [
+    "P. S. Kailasam"
+  ],
+  "bench": [],
+  "petitioner": "G. P. Nayyar",
+  "respondent": "State (Delhi Admn.)\nSupreme Court of India\n\n14 December 1978\nCriminal Appeal Nos. 274-275 of 1974\nThe Judgment was delivered by : P. S. Kailasam, J.\n1. These appeals are by special leave against the judgment of the High Court of Delhi in Criminal Appeal No. 78 of 1967 and Order dated 11th January, 1974 in Cr. Misc. (S.C.A.) No. 80 of 1973.\n2. The appellant was charge sheeted on 26th December, 1963 for an offence under section 120-B, Indian Penal Code, for entering into a criminal conspiracy with one Sirajuddin and one Rehman to accept from them illegal gratification in the discharge of his official duties. He was also charged with specific offences of accepting Rs. 6000 and Rs. 4000 from Sirajuddin and Rehman being offences punishable under section 161, Indian Penal Code, read with section 5(2) and Section 5(1) (d) of the Prevention of Corruption Act, 1947. He was also charged for the offence punishable under section 5(2) read with section 5(1) (a) of the Prevention of C",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code",
+      "section": "161"
+    },
+    {
+      "act": "The Act",
+      "section": "2"
+    },
+    {
+      "act": "Prevention Of Corruption Act",
+      "section": "5"
+    },
+    {
+      "act": "1947 Act",
+      "section": "5"
+    },
+    {
+      "act": "Interpretation Act",
+      "section": "32"
+    },
+    {
+      "act": "General Clauses Act",
+      "section": "6"
+    },
+    {
+      "act": "As It Stood Before The Commencement Of 1964 Act",
+      "section": "5"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "14 December 1978",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant was charge sheeted on 26th December, 1963 for an offence under section 120-B, Indian Penal Code, for entering into a criminal conspiracy with one Sirajuddin and one Rehman to accept from them illegal gratification in the discharge of his official duties.",
+    "He was also charged with specific offences of accepting Rs. 6000 and Rs. 4000 from Sirajuddin and Rehman being offences punishable under section 161, Indian Penal Code, read with section 5(2) and Section 5(1) (d) of the Prevention of Corruption Act, 1947.",
+    "The Special Judge who tried the case acquitted the appellant by his order dated 19th January, 1967 holding that neither the charge of conspiracy nor any other charge against the accused was proved.",
+    "But the Special Judge held that the assets of the appellant from 1st July, 1955 to 30th April, 1961 had exceeded his income by Rs. 33,588.34 and they were disproportionate to the known sources of income of the petitioner."
+  ],
+  "issues": [
+    "Whether Act No. 16 of 1967 which gave retrospective operation to section 5(3) of the Prevention of Corruption Act, 1947 is violative of Arts. 14 and 20(1) of the Constitution.",
+    "Whether the repeal of section 5(3) of the Prevention of Corruption Act, 1947 has any effect on the trial of the case."
+  ],
+  "petitioner_arguments": [
+    "The learned counsel for the appellant submitted that since section 5(3) of the Prevention of Corruption Act, 1947 was repealed on 18th December, 1964; the Courts below cannot take into account the provisions of section 5(3) of the Act after the date of its repeal on 18th December, 1964.",
+    "It was further submitted that Act No. 16 of 1967 which gave retrospective operation to section 5(3) of the Act is violative of Arts. 14 and 20(1) of the Constitution."
+  ],
+  "respondent_arguments": [
+    "The respondent/defending party did not present any arguments in this case."
+  ],
+  "court_reasoning": [
+    "The court held that the repeal of section 5(3) of the Prevention of Corruption Act, 1947 does not obliterate it completely from the records of Parliament as if it had never been passed.",
+    "It was held that the law existed and was good at the time when it was passed but that since the date of its repeal it has no longer any effect whatsoever."
+  ],
+  "holding": [
+    "The court allowed the appeal upholding the validity of Act No. 16 of 1967 and remanded the case to be tried from the stage at which it was pending on 18th December, 1964."
+  ],
+  "cases_cited": [
+    "G. P. Nayyar v State (Delhi Admn",
+    "In the well-known case of Phillips v. Eyre",
+    "and also in the American case of Calder v. Bull",
+    "and in Surajpal Singh v. State of U",
+    "by this Court in several decisions. In Sajjan Singh v. The",
+    "court followed the view held by this Court in C.D.S. Swamy v. The",
+    "dissenting judgment of Fazal Ali J. in Keshavan Madhava Menon v. The",
+    "under ex post facto laws. In Rao Shiv Bahadur Singh & Anr. v. The"
+  ]
+}

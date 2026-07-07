@@ -1,0 +1,55 @@
+{
+  "case_id": "C2844",
+  "case_name": "Sk. Rafiq S/O Karim v State of Maharashtra",
+  "court": "Supreme Court of India",
+  "year": 1978,
+  "judges": [
+    "PATHAK, J."
+  ],
+  "bench": [],
+  "petitioner": "Sk. Rafiq S/O Karim",
+  "respondent": "State of Maharashtra\nSupreme Court of India\n\n10 November 1978\nCr.A. No. 372 of 1974.\nThe Judgment was delivered by: PATHAK, J.\n1.   This appeal by special leave is directed against the judgment and order of the Bombay High Court dismissing an appeal filed by the appellant against his conviction and sentence u/s. 302 and S. 307 of the Indian Penal Code.\n2.  The case of the prosecution is that the appellant and certain other persons were on inimical terms with one Mannu because of a dispute in respect of land, that Mannu's son, Nasir, was threatened by the appellant with violence and some days later when Nasir was proceeding with Kadir to his field, they were met by the appellant, Karim, Habib",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "10 November 1978",
+  "outcome": "Unknown",
+  "facts": [
+    "The case of the prosecution is that the appellant and certain other persons were on inimical terms with one Mannu because of a dispute in respect of land, that Mannu's son, Nasir, was threatened by the appellant with violence and some days later when Nasir was proceeding with Kadir to his field, they were met by the appellant, Karim, Habib and others.",
+    "A quarrel ensued in which the appellant attempted to assault Nasir fatally with a pen-knife and after the blow missed he stabbed Kadir who, however, succeeded in inflicting some injuries on the appellant with a stick.",
+    "The six accused, including the appellant, were committed to stand trial. The learned Sessions Judge found the appellant guilty of the offence u/s. 302 and sentenced him to imprisonment for life.",
+    "He was also found guilty of the offence under S. 307 and sentenced to rigorous imprisonment for seven years."
+  ],
+  "issues": [
+    "Whether the offence u/s. 302 is made out",
+    "The nature of the offence and the quantum of sentence"
+  ],
+  "petitioner_arguments": [
+    "The offence u/s. 302 is not made out",
+    "This is a case where the provisions of the first part of S. 304 can be said to be attracted",
+    "The appellant acted in the exercise of his right of self-defence",
+    "At worst, this is a case where the appellant exceeded his right of private defence"
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "There is no dispute that the appellant suffered a number of injuries when Kadir set upon him with a stick.",
+    "The question in whether the injuries were inflicted by Kadir on the appellant before or after the appellant had stabbed him with a knife.",
+    "It seems to us reasonable to accept the contention raised on behalf of the appellant.",
+    "We are impressed by the force of these submissions."
+  ],
+  "holding": [
+    "The appellant is guilty of an offence under the first part of S. 304 of the Indian Penal Code",
+    "Sentence him to rigorous imprisonment for five years and a fine in the sum of Rs. 2600.",
+    "Reduce the sentence of imprisonment from a period of seven years to a period of five years."
+  ],
+  "cases_cited": []
+}

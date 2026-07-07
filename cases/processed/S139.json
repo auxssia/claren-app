@@ -1,0 +1,63 @@
+{
+  "case_id": "S139",
+  "case_name": "Special powers in cases of urgency",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "9"
+    },
+    {
+      "section": "24"
+    },
+    {
+      "section": "31"
+    },
+    {
+      "section": "11"
+    },
+    {
+      "section": "5A"
+    },
+    {
+      "section": "6"
+    },
+    {
+      "section": "4"
+    },
+    {
+      "section": "13(A)"
+    },
+    {
+      "section": "13(B)"
+    },
+    {
+      "section": "13(C)"
+    },
+    {
+      "section": "13(D)"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "In cases of urgency, whenever the Appropriate Government so directs, the Collector may take possession of any land needed for a public purpose.",
+    "Whenever it becomes necessary to acquire the immediate possession of any land for the maintenance of traffic or for the purpose of making thereon a river-side or ghat station, or of providing convenient connection with or access to any such station,"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The land shall vest absolutely in the Government, free from all encumbrances."
+  ],
+  "cases_cited": []
+}

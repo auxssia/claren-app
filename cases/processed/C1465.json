@@ -1,0 +1,82 @@
+{
+  "case_id": "C1465",
+  "case_name": "Dev Sharan and another v State Of U.P. & Ors",
+  "court": "Supreme Court of India",
+  "year": 2011,
+  "judges": [
+    "Hon'ble Mr. Justice A.K. Ganguly"
+  ],
+  "bench": [],
+  "petitioner": "Dev Sharan and another",
+  "respondent": "State Of U.P. &",
+  "citations": [
+    "1973 2 SCC 337",
+    "1979 3 SCC 466",
+    "2003 5 SCC 622",
+    "2003 7 SCC 336",
+    "2004 8 SCC 14",
+    "2005 7 SCC 627",
+    "2007 8 SCC 705",
+    "2009 2 SCC 377",
+    "AIR 1964 SC 1217"
+  ],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "5A"
+    },
+    {
+      "act": "Said Act",
+      "section": "5A"
+    },
+    {
+      "act": "Was Not There In The Land Acquisition Act",
+      "section": "5A"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "7 March 2011",
+  "outcome": "Unknown",
+  "facts": [
+    "Leave granted.",
+    "These appeals have been preferred from the judgment and order of the High Court dated 25.11.2009 in Writ Petitions (Civil) No.46457/2009.",
+    "The appellants challenge the acquisition of their agricultural lands by the State of Uttar Pradesh for the construction of the district jail of Shahjahanpur.",
+    "The existing district jail of Shahjahanpur, constructed in 1870, was one of the oldest and required shifting to new premises.",
+    "The Government case is that the district jail is located in a densely populated area of the city and is overcrowded, housing as many as 1869 prisoners, while having a capacity of only 511."
+  ],
+  "issues": [
+    "Whether or not the State Government was justified in acquiring the said pieces of fertile agricultural land, when there were alternative sites of unfertile banjar land available?",
+    "Whether or not the State Government was justified in dispensing with the inquiry which is mandated to be conducted under Section 5A of the Act?"
+  ],
+  "petitioner_arguments": [
+    "The appellants themselves are bhumidar with transferable rights and are residents of village Murchha, tehsil Puwayan in the district of Shahjahanpur, Uttar Pradesh.",
+    "The State Government explained that this was done in view of the pressing urgency in the matter of construction of the jails."
+  ],
+  "respondent_arguments": [
+    "The concept of public purpose cannot remain static for all time to come.",
+    "Any attempt by the State to acquire land by promoting a public purpose to benefit a particular group of people or to serve any particular interest at the cost of the interest of a large section of people especially of the common people defeats the very concept of public purpose."
+  ],
+  "court_reasoning": [
+    "This Court finds a lot of substance in the contentions of the appellants.",
+    "The Courts must examine these questions very carefully when little Indians lose their small property in the name of mindless acquisition at the instance of the State.",
+    "While examining these questions of public importance, the Courts, especially the Higher Courts, cannot afford to act as mere umpires."
+  ],
+  "holding": [
+    "The concept of public purpose on this broad horizon must also be read into the provisions of emergency power u/s.17 with the consequential dispensation of right of hearing under Section 5A of the said Act.",
+    "The Courts, before sanctioning an acquisition, must in exercise of its power of judicial review, focus its attention on the concept of social and economic justice."
+  ],
+  "cases_cited": [
+    "Court also held that in view of the ratio in Union of India vs. Mukesh Hans",
+    "Dev Sharan and another v State Of U",
+    "In DLF Qutab Enclave Complex Educational Charitable Trust vs. State of Haryana",
+    "In Hindustan Petroleum Corporation Limited vs. Darius Shahpur Chennai",
+    "Judge Bench of this Court in State of Maharashtra and Anr. vs. B.E",
+    "by this Court in Authorised Officer, Thanjavur and another vs. S. Naganatha Ayyar",
+    "decision of this Court in Chairman, Indore Vikas Pradhikaran vs. Pure Industrial Coke",
+    "guidelines given in Essco Fabs Private Limited and another vs. State of Haryana",
+    "of the Division Bench of Calcutta High Court in J.E.D. Ezra vs. The Secretary of",
+    "this Court in Nandeshwar Prasad and Ors. vs. U.P"
+  ]
+}

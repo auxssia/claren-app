@@ -1,0 +1,89 @@
+{
+  "case_id": "C4",
+  "case_name": "Budh Singh and Others v State of Uttar Pradesh",
+  "court": "Supreme Court of India",
+  "year": 2006,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "Budh Singh and Others",
+  "respondent": "State of Uttar Pradesh\nSupreme Court of India\n\n12  May  2006\nAppeal (crl.) 1123 of 1999\nThe Judgment was delivered by : S. B. Sinha, J.\n1. The Appellants have preferred this appeal being aggrieved by and dissatisfied with the judgment and order dated 01 September 1999 passed by the High Court of Allahabad in Criminal Appeal No. 2079/93, whereby and whereunder the judgment and order dated 13 August 1993 passed by the IVth Additional Sessions Judge, Moradabad in S.T. No. 604/2002 acquitting the Appellants herein for commission of offences under Sections 148, 302 and 307/149 of the Indian Penal Code (\"IPC\", for short) and under Section 27 of the Arms Act, 1959 was reversed convicting them under Sections 148, 307/149 and 302/149 of the Indian Penal Code for intentionally causing death of one Ram Gopal (deceased) and his wife Chatarvati, as also for attempt to commit murder of their son Rajveer Singh (the first informant).\n2. Appellant No. 1-Budh Singh, Appellant No",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Arms Act",
+      "section": "27"
+    },
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "157"
+    },
+    {
+      "act": "Code Of Criminal Procedure In",
+      "section": "172"
+    },
+    {
+      "act": "Police Act",
+      "section": "44"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "12 May 2006",
+  "outcome": "Unknown",
+  "facts": [
+    "The Appellants have preferred this appeal being aggrieved by and dissatisfied with the judgment and order dated 01 September 1999 passed by the High Court of Allahabad...",
+    "Appellant No.1-Budh Singh, Appellant No.2-Prem Singh and Appellant No.3-Jagan Singh are real brothers.",
+    "The deceased Ram Gopal owned agricultural land towards west side of the village Lalapur Pipalsana.",
+    "At about 9.00 p.m. on 12 April 1992, the deceased and his wife Chatarvati were said to be irrigating their sugarcane field with the help of motor pump.",
+    "The Appellants, at that point of time, allegedly came to the agricultural land of the deceased.",
+    "They stopped running of the motor, as a result whereof there had been exchange of abuses.",
+    "On receiving injuries on their person, both Ram Gopal and his wife Chatarvati ran a few paces, but fell down dead at some distance.",
+    "P.W.1Rajveer Singh, who was, at the material time, about 16 years old, thereafter went to the house of one Hori Singh and scribed a First Information Report (FIR).",
+    "The said FIR was dispatched to the Court at about 6.25 a.m. on 13 April 1992, but the same reached the Court on 18 April 1992.",
+    "At the police station, one R.A. Singh, Sub-Inspector was present.",
+    "A wireless message was also allegedly sent at about 1.00 a.m. to P.W.7-S.P.S. Thomar, S.I. of the police station, who was, at the relevant point of time, posted at the police outpost Suraj Nagar."
+  ],
+  "issues": [
+    "The First Information Report was ante-timed and ante-dated;",
+    "The exact time of occurrence has not been proved;",
+    "The injuries on the person of P.W.1 was doubtful;",
+    "The evidences of P.W.2 and P.W.3, who were chance witnesses, were not reliable;",
+    "The medical evidence does not support the prosecution case."
+  ],
+  "petitioner_arguments": [
+    "The First Information Report was ante-timed and ante-dated;",
+    "The exact time of occurrence has not been proved;",
+    "The injuries on the person of P.W.1 was doubtful;",
+    "The evidences of P.W.2 and P.W.3, who were chance witnesses, were not reliable;",
+    "The medical evidence does not support the prosecution case."
+  ],
+  "respondent_arguments": [
+    "The prosecution has failed to prove that the injuries suffered by P.W.1 was a gunshot injury.",
+    "The prosecution failed to prove its case from all angles.",
+    "The mode and manner in which the occurrence took place cannot be said to have been proved.",
+    "The FIR, which is said to have been lodge on 13 April 1992 at about 00.25 hours, was received by the Court of Chief Judicial Magistrate on 18 April 1992."
+  ],
+  "court_reasoning": [
+    "The High Court committed a manifest error in interfering with the judgment of the Trial Court without assigning sufficient and cogent reasons therefor.",
+    "The prosecution has failed to explain as to why the FIR, which is said to have been lodge on 13 April 1992 at about 00.25 hours, was received by the Court of Chief Judicial Magistrate on 18 April 1992."
+  ],
+  "holding": [
+    "The judgment and order dated 01 September 1999 passed by the High Court of Allahabad in Criminal Appeal No.2079/93 is reversed convicting them under Sections 148, 307/149 and 302/149 of the Indian Penal Code for intentionally causing death of one Ram Gopal (deceased) and his wife Chatarvati, as also for attempt to commit murder of their son Rajveer Singh (the first informant)."
+  ],
+  "cases_cited": [
+    "Court in Meharaj Singh v. State of U",
+    "In Balak Ram v. State of U",
+    "In Narendra Singh & Anr. v. State of M",
+    "In Shambhoo Missir & Anr. v. State of Bihar",
+    "Raju Chandulal Gandhi & Anr. v. State of Gujarat",
+    "Relying upon the judgment of Meharaj Singh v. State of U",
+    "Yet again in Shailendra Pratap & Anr. v. State of U",
+    "and Bijoy Singh & Anr. v. State of Bihar",
+    "and also in, Rajeevan & Anr. v. State of Kerala",
+    "by a Three Judge Bench of this Court in Thanedar Singh v. State of M",
+    "view has been reiterated in Ranjitsing Brahmajeetsing Sharma v. State of Maharashtra &"
+  ]
+}

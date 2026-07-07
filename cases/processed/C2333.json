@@ -1,0 +1,83 @@
+{
+  "case_id": "C2333",
+  "case_name": "Rakesh and Another v State of Haryana",
+  "court": "Supreme Court of India",
+  "year": 2001,
+  "judges": [
+    "M. B. Shah, J."
+  ],
+  "bench": [],
+  "petitioner": "Rakesh and Another",
+  "respondent": "State of Haryana\nSupreme Court of India\n\n25 July 2001\nAppeal (crl.) 744 of 2001, Special Leave Petition (crl.) 395 of 2001\nThe Judgment was delivered by : M. B. Shah, J.\nLeave granted.\n1. For deciding the question involved, facts are on 16 March 1998, Shri Sat Pal, father of the prosecutrix Manju Bala lodged an FIR at police station Gharaunda, District Karnal, Haryana under Sections 363, 366 and 376 IPC on the allegation that his minor daughter Manju Bala aged about 16 years had gone from the house on 15 March 1998 about 7.30 p.m. at 'Bara' (the place where cattles are tethered), but did not return thereafter. He complained that his daughter was taken away by Prem Chand, Rakesh and Jai Bhagwan due to previous enmity with the object of committing rape. On 17 March 1998, the girl and accused Prem Chand were found in Noida by the police. After investigation, the police found that the appellants Rakesh and Jai Bhagwan were not involved in the case. Therefore on 11 Augu",
+  "citations": [
+    "1979 1 SCC 345",
+    "1983 1 SCC 1",
+    "1998 7 SCC 149",
+    "2000 2 SCC 396"
+  ],
+  "statutes": [
+    {
+      "act": "Criminal Procedure Code",
+      "section": "319"
+    },
+    {
+      "act": "The Code",
+      "section": "319"
+    },
+    {
+      "act": "Evidence Act",
+      "section": "3"
+    },
+    {
+      "act": "Is An Extraordinary Power And Should Be Used Very Sparingly And Only For Some Compelling Reasons For Taking Cognizance Of Other Persons Against Whom Act",
+      "section": "319"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "25 July 2001",
+  "outcome": "Unknown",
+  "facts": [
+    "On 16 March 1998, Shri Sat Pal, father of the prosecutrix Manju Bala lodged an FIR at police station Gharaunda, District Karnal, Haryana under Sections 363, 366 and 376 IPC on the allegation that his minor daughter Manju Bala aged about 16 years had gone from the house on 15 March 1998 about 7.30 p.m. at 'Bara' (the place where cattles are tethered), but did not return thereafter.",
+    "On 17 March 1998, the girl and accused Prem Chand were found in Noida by the police.",
+    "After investigation, the police found that the appellants Rakesh and Jai Bhagwan were not involved in the case.",
+    "Therefore on 11 August 1998, charges were framed only against Prem Chand.",
+    "On 15 April 1999, PWs 1, 2 and 3 were examined by the prosecution.",
+    "On 20 May 1999, the prosecutrix was examined as PW 4 and her cross examination had begun, when the Public Prosecutor moved an application under section 319 of the Cr.P.C. for arraigning the appellants as additional accused.",
+    "The learned trial Judge, by an order dated 15 July 2000 arraigned the appellants as additional accused and summoned them to stand trial."
+  ],
+  "issues": [
+    "Whether the statement of a prosecution witness without the said witness having been cross-examined, constitutes 'evidence' within the meaning of Section 319 of Cr.P.C., 1973."
+  ],
+  "petitioner_arguments": [
+    "The term 'evidence' mentioned in Section 319 in reference would mean examination-in-chief and cross-examination of the witnesses.",
+    "In a case where the name of the accused is mentioned in the FIR and after investigation in the report submitted by the Investigating Officer, the said person is not added as accused and the case is committed to the Sessions Court, before adding that person as an accused, the sessions Court ought to have permitted cross-examination of the witnesses."
+  ],
+  "respondent_arguments": [
+    "The term 'evidence' in Section 319 Cr.P.C. does not contemplate cross-examination by persons who are to be summoned as accused to join trial.",
+    "Once a person is added as an accused, then the proceedings against him are required to be commenced afresh and the witnesses re-heard."
+  ],
+  "court_reasoning": [
+    "The Court arrived at the conclusion that the word 'evidence' used in Section 319 of the Code means admissible evidence and the statement of a witness when he is yet to be cross-examined cannot be treated as evidence in the eyes of law.",
+    "Prior to summoning such person to face trial, there would not be any question of calling him to cross-examine the witness.",
+    "Once the deposition is recorded, no doubt there being no cross-examination, it would be a prima facie material which would enable the sessions court to decide whether powers under Section 319 should be exercised or not."
+  ],
+  "holding": [
+    "The Court held that once a person is added as an accused, then the proceedings against him are required to be commenced afresh and the witnesses re-heard.",
+    "The Court negatived the said contention by holding that at the time of investigation or inquiry into an offence, the accused cannot claim any right under law to cross-examine the witness."
+  ],
+  "cases_cited": [
+    "As against this, the High Court of Delhi in State Vs. Kishori etc",
+    "Court of Punjab and Haryana in the cases of Balvinder Singh Vs. State of Haryana",
+    "Dharam Pal Vs. Hardial Singh",
+    "High Court of Punjab and Haryana in Chanan Vs. State of Punjab",
+    "Joginder Singh Vs. State of Punjab",
+    "and Rakesh Batra Vs. State of Haryana",
+    "and the High Court of Allahabad in Ram Gopal Vs. State of U",
+    "any question of cross-examining the witness. In State of H.P. v. Surinder Mohan",
+    "has not been taken. For this purpose, he referred to MCD vs. Ram Kishan Rohtagi",
+    "referred to the decision of this Court in Joginder Singh vs. State of Punjab",
+    "was considered by this Court in Ranjit Singh vs. State of Punjab"
+  ]
+}

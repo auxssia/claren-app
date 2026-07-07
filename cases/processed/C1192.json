@@ -1,0 +1,87 @@
+{
+  "case_id": "C1192",
+  "case_name": "Komal v State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [
+    "Dr. Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Komal",
+  "respondent": "State of Madhya Pradesh\nSupreme Court of India\n\n9 February 2009\nCr.A. No. 243 of 2009 [Arising out of S.L.P. (Cr.) No. 4634 of 2007] [From the Judgement and Order Dt. 09.01.2007 of the High Court of Madhya Pradesh at Jabalpur in Cr.A. No. 245 of 1993]\nThe Judgment was delivered by: Dr. Arijit Pasayat, J.\n1. Leave granted.\n2. Challenge in this appeal is to the judgment of a Division Bench of the Madhya Pradesh High Court at Jabalpur allowing the appeal filed by the State of M.P. upholding the appellant guilty for offence punishable u/s. 304 Part I read with S. 34 of the Indian Penal Code, 1860 (in short the 'IPC') and sentencing him to undergo imprisonment for 7 years.\nHowever, his acquittal for offences punishable under Sections 147, 148, 302 read with S. 149 IPC was upheld. Eight persons faced trial for alleged commission of offences. Gubdu and Ishwar A-1 and A-2 respectively were charged for commission of offences punishable under s.s 147, 148, 323, 149 and 302 IPC. Rest of t",
+  "citations": [
+    "AIR 1977 SC 109",
+    "AIR 1993 SC 1899"
+  ],
+  "statutes": [
+    {
+      "section": "304"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "500"
+    },
+    {
+      "section": "294"
+    },
+    {
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "9 February 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "The case arose out of a dispute between the complainant Shrilal and some accused persons over payment for services rendered.",
+    "All the accused are residents of village Doomar, where complainant Shrilal (PW7) father of Daulat (hereinafter referred to as the 'deceased') also resided.",
+    "On the auspicious occasion of 'Akshay Tritiya' that fell on 19th April, 1988, a number of marriages were proposed to be solemnized in village-Doomar.",
+    "Shrilal (PW7) was working in the Pangat (community feast) at the residence of one Komal Kachhi.",
+    "He had deputed his son deceased Daulat to render service in the marriage ceremony organized at the residence of one Balram Ahir.",
+    "At about 3:00 p.m., when the guests were taking meals at the residence of Bairam, Al called Daulat through Narayan Singh to a place near Mata ki Madiya (place of worship of the Goddess).",
+    "Al and A2 gave Kharerua (piece of wood used in bullock cart) blows on Daulat's head.",
+    "He fell down and was rendered unconscious.",
+    "His younger brother Harlal (PW8) immediately went to the house of Komal Kachhi and informed his father Shrilal (PW7) about the incident.",
+    "Shri and his wife Phoolabai rushed to the spot, where he was also assaulted by Al and A2 with Kharerua.",
+    "A3 & A4 wielded lathies on his wife Phoolabai and his younger son Harlal was also struck with lathies by A5 and A8."
+  ],
+  "issues": [
+    "What is the true interpretation of Section 34 IPC?",
+    "Can a person be held liable for an offence committed by another in furtherance of a common intention?",
+    "Do the facts of this case establish a common intention amongst the accused persons to commit the offence?"
+  ],
+  "petitioner_arguments": [
+    "The High Court has erroneously come to the conclusion about the role of appellant.",
+    "There was no evidence that the present appellant caused any injury on the person of Daulat.",
+    "The evidence of Shrilal (PW-7) and his son Jagdish (PW-9) was held to be not acceptable.",
+    "It was pointed out that the trial Court formulated the question as to whether the accused persons in furtherance of their common intention caused injuries on the complainants Shrilal, Phoolabai and Harlal intentionally.",
+    "There was no appeal filed by A-4 Komal against his conviction."
+  ],
+  "respondent_arguments": [
+    "The true parameters of S. 149 IPC were not kept in view.",
+    "The High Court accepted the stand and directed conviction as noted above.",
+    "It was submitted that there is lack of clarity as to what the High Court wanted to observe.",
+    "The High Court has observed that there was common object and the appellant was not a member of the unlawful assembly."
+  ],
+  "court_reasoning": [
+    "S. 34 has been enacted on the principle of joint liability in the commission of a criminal act.",
+    "The s. is only a rule of evidence and does not create a substantive offence.",
+    "The distinctive feature of the s. is the element of participation in action.",
+    "In order to bring home the charge of common intention, the prosecution has to establish by evidence, whether direct or circumstantial, that there was plan or meeting of mind of all the accused persons to commit the offence for which they are charged with the aid of S. 34.",
+    "The true contents of the s. are that if two or more persons intentionally do an act jointly, the position in law is just the same as if each of them has done it individually by himself.",
+    "As observed in Ashok Kumar v. State of Punjab [AIR 1977 SC 109], the existence of a common intention amongst the participants in a crime is the essential element for application of this Section."
+  ],
+  "holding": [
+    "The appeal is allowed.",
+    "The order of the trial Court vis--vis the present appellant is restored and that of the High Court vis--vis the present appellant stands quashed.",
+    "If the appellant has served the sentence as imposed by the trial Court, the bail bonds executed for giving effect to order dated 8.1.2008 shall stand discharged.",
+    "Otherwise, the appellant shall surrender forthwith to serve the remainder of sentence."
+  ],
+  "cases_cited": [
+    "by each of them. As was observed in Ch. Pulla Reddy and Ors. v. State of Andhra Pradesh",
+    "done it individually by himself. As observed in Ashok Kumar v. State of Punjab"
+  ]
+}

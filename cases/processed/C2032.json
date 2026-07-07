@@ -1,0 +1,71 @@
+{
+  "case_id": "C2032",
+  "case_name": "D. Ganesh Rao Patnaik and others v State of Jharkhand and others",
+  "court": "Supreme Court of India",
+  "year": 2005,
+  "judges": [
+    "G. P. Mathur"
+  ],
+  "bench": [],
+  "petitioner": "D. Ganesh Rao Patnaik and others",
+  "respondent": "State of Jharkhand",
+  "citations": [
+    "1990 2 SCC 715",
+    "2000 8 SCC 25",
+    "AIR 1975 SC 483",
+    "AIR 1989 PATNA 276",
+    "AIR 1991 SC 1202"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "309"
+    },
+    {
+      "act": "Constitution of India"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "6 October 2005",
+  "outcome": "Unknown",
+  "facts": [
+    "The Bihar Superior Judicial Service Rules, 1946 provide for appointment to the post of Additional District and Sessions Judge by two sources, namely, by direct recruitment from amongst members of the Bar and by promotion from amongst members of the Bihar Civil Service (Judicial Branch).",
+    "One K.P. Verma then filed a writ petition in Patna High Court praying that a writ of mandamus be issued to the State Government and to the High Court on the administrative side to observe the Constitutional mandate of Art. 233 of the Constitution.",
+    "A written examination was thereafter held, which was followed by interview and a merit list containing names of 129 candidates was declared on 24.11.1990.",
+    "The State Government did not take immediate steps to issue the appointment orders in favour of the persons whose names had been recommended by the High Court.",
+    "One Madan Mohan Singh then filed a writ petition before the Patna High Court being C.W.J.C. No. 945 of 1991 wherein several prayers were made and one of the prayers was that direct recruitment should also be made to temporary posts and the quota of direct recruits should be determined by also taking into account the temporary posts of Additional District and Sessions Judges.",
+    "The State Government thereafter issued two separate notifications on the same date, i.e., on 30.4.1991.",
+    "The promotee officers, including respondent No. 4 and Nos. 6 to 11, duly submitted their consent letters/undertakings to be bound by the above conditions and joined at their respective places of postings some time after the appellants had joined.",
+    "Factually, thus the promotion of respondent Nos. 4 to 11 came into effect much after 30.4.1991."
+  ],
+  "issues": [
+    "Whether the one-third quota of direct recruitment from the Bar had to be calculated by taking into account permanent as well as temporary posts?",
+    "Whether the same merit list prepared could be utilized for making further appointments or not?"
+  ],
+  "petitioner_arguments": [
+    "The appellants, who are nine in number, were amongst those 32 candidates, whose names had been recommended to the State Government for appointment.",
+    "Some of the appellants (direct recruits) preferred a representation before the Patna High Court claiming seniority over 24 promotee officers, including the contesting respondents."
+  ],
+  "respondent_arguments": [
+    "The State Government did not take immediate steps to issue the appointment orders in favour of the persons whose names had been recommended by the High Court.",
+    "The State Government was proceeding on the basis that the cadre of Additional District and Sessions Judges would consist only of permanent posts and, therefore, the temporary posts could not be taken into consideration for making appointment by direct recruitment."
+  ],
+  "court_reasoning": [
+    "This Court decided only one question in the appeal, namely, having regard to the fact that the advertisement had been issued to fill in only 32 vacancies and 129 candidates having been called for interview in the ratio of 1:4, whether the said selection process could be availed of for making further appointments.",
+    "It was observed that if the same merit list had to be kept subsisting for the purpose of filling up other vacancies also, it would naturally amount to deprivation of rights of other candidates, who had become eligible subsequent to the advertisement and selection process."
+  ],
+  "holding": [
+    "The appeals were accordingly allowed, the direction of the Division Bench of the High Court to fill in other vacancies from the same merit list was set aside and the State Government was directed to issue a fresh advertisement calling for applications and completing the selection process as early as possible."
+  ],
+  "cases_cited": [
+    "D. Ganesh Rao Patnaik and others v State of Jharkhand",
+    "High Court rendered in Bihar Judicial Services Association vs. The",
+    "Madan Mohan Singh vs. State of Bihar",
+    "in O.P. Garg and others etc. vs. State of U",
+    "of the Patna High Court rendered in Madan Mohan Singh vs. State of Bihar remained intact",
+    "of the judgment in O.P. Garg vs. State of U",
+    "question was considered in Keshav Chandra Joshi and others vs. Union of India"
+  ]
+}

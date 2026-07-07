@@ -1,0 +1,59 @@
+{
+  "case_id": "C1436",
+  "case_name": "Hansraj Moolji v State of Bombay",
+  "court": "Supreme Court of India",
+  "year": 1957,
+  "judges": [
+    "Natwarlal H. Bhagwati"
+  ],
+  "bench": [],
+  "petitioner": "Hansraj Moolji",
+  "respondent": "State of Bombay\nSupreme Court of India\n\n12 February 1957\nCriminal Appeal No. 93 of 1956\nThe Judgment was delivered by : Natwarlal H. Bhagwati, J.\n1.  This appeal with special leave under Art. 136 of the Constitution raises the question whether the High Denomination Bank Notes (Demonetisation) Ordinance, 1946 (Ordinance No. III of 1946) promulgated by the Governor- General of India on January 12, 1946, was in operation on July 11, 1953, when the offence under s. 7 read with s. 4 thereof was committed by the appellant herein.\n2.  The appellant who was the accused No. 1 before the Additional Chief Presidency Magistrate's Court, Bombay, was charged along with the accused Nos. 2, 3, 5 and 6 with having on or about July II, 1953, transferred by sale 10 High Denomination Bank Notes of the Denomination of Rs. 1,000 each to one Velji Lakhamshi Joshi for Rs. 1,800 at the rate of Rs. 180 per note and thus contravened the provisions of s. 4 of the Ordinance and committed an offenc",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "72"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "26A"
+    },
+    {
+      "section": "26"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "12 February 1957",
+  "outcome": "Unknown",
+  "facts": [
+    "The appeal raises the question whether the High Denomination Bank Notes (Demonetisation) Ordinance, 1946 was in operation on July 11, 1953 when the offence under s.7 read with s.4 thereof was committed by the appellant.",
+    "The appellant was charged along with others with having transferred by sale 10 High Denomination Bank Notes of Rs.1,000 each to one Velji Lakhamshi Joshi for Rs.1,800 at the rate of Rs.180 per note and thus contravened the provisions of s.4 of the Ordinance.",
+    "A preliminary objection was urged by the learned counsel for the appellant that the said Ordinance was not in operation at the date when the offence was alleged to have been committed and that therefore the prosecution was not maintainable."
+  ],
+  "issues": [
+    "Whether the High Denomination Bank Notes (Demonetisation) Ordinance, 1946 was in operation on July 11, 1953"
+  ],
+  "petitioner_arguments": [
+    "The said Ordinance was not in operation at the date when the offence was alleged to have been committed and that therefore the prosecution was not maintainable."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The power of making ordinances under s.72 of the Government of India Act, 1935 is subject to the like restrictions as the power of the Indian Legislature to make laws.",
+    "Any ordinance made under s.72 of the Government of India Act, 1935 is subject to the like disallowance as an Act passed by the Indian Legislature."
+  ],
+  "holding": [
+    "The High Court agreed with the learned Presidency Magistrate in regard to the finding of fact and held that the appellant had in fact transferred by sale 10 High Denomination Bank Notes of Rs.1,000 each to the possession of Velji Lakhamshi and his act fell within the prohibition enacted in s.4 of the Ordinance."
+  ],
+  "cases_cited": [
+    "J. K. Gas Plant Manufacturing Co., (Rampur) Ltd. and others v. King Emperor",
+    "also had expressed himself to the same effect in King Emperor v. Sibnath Banerjee",
+    "on the observations of Vardachariar C. J. in King Emperor v. Benoari Lall Sharma"
+  ]
+}

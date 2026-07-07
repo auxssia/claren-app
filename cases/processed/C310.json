@@ -1,0 +1,63 @@
+{
+  "case_id": "C310",
+  "case_name": "Hanuman v State Of Rajasthan",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Hanuman",
+  "respondent": "State Of Rajasthan\nSupreme Court of India\n\n25 November 1993\nCr.A. No. 860 of 1985\nThe Order of the Court was as follows :\n1.   Eight persons, namely, Basti Ram, Samander, Hanuman, Chunnilal, Dhyala, Harnath, Sultan and Godu Ram were prosecuted for offences under Sections 302 and 201 IPC. They were tried by the learned Sessions Judge who convicted Basti Ram and Hanuman under Section 302 IPC and sentenced each one of them to suffer imprisonment for life. Samander and Dhyala were convicted for offence under Section 201 IPC and were sentenced to suffer rigorous imprisonment for three years and to pay a fine of Rs 200 each and in default of payment of fine to undergo rigorous imprisonment for a further period of six months. The remaining four accused, namely, Harnath, Sultan, Godu Ram and Chunnilal were acquitted.\n2.   Basti Ram, Hanuman, Samander and Dhyala filed an appeal challenging their conviction and sentence while the State of Rajasthan filed an appeal against the acquittal",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "201"
+    },
+    {
+      "section": "307"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "25 November 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "Eight persons, namely, Basti Ram, Samander, Hanuman, Chunnilal, Dhyala, Harnath, Sultan and Godu Ram were prosecuted for offences under Sections 302 and 201 IPC.",
+    "They were tried by the learned Sessions Judge who convicted Basti Ram and Hanuman under Section 302 IPC and sentenced each one of them to suffer imprisonment for life.",
+    "Samander and Dhyala were convicted for offence under Section 201 IPC and were sentenced to suffer rigorous imprisonment for three years and to pay a fine of Rs 200 each and in default of payment of fine to undergo rigorous imprisonment for a further period of six months.",
+    "The remaining four accused, namely, Harnath, Sultan, Godu Ram and Chunnilal were acquitted."
+  ],
+  "issues": [
+    "Whether the appellants are guilty of an offence under Section 201 IPC?"
+  ],
+  "petitioner_arguments": [
+    "There is no direct evidence of murder in this case.",
+    "The circumstances under which the conviction under Section 201 IPC has been recorded by the Sessions Judge and the High Court alone need a notice at this stage, since the charge under Section 302 IPC has in any case failed and there is no appeal filed by the State against that acquittal."
+  ],
+  "respondent_arguments": [
+    "The condition of the dead body as noticed by the witnesses showed that Chandgi Ram had been murdered;",
+    "that the accused persons had taken part in giving bath to the dead body even though they were aware of the condition of the dead body and had not waited for the police;",
+    "that even though the accused were asked to wait for the arrival of the police, they were in a hurry to get the dead body cremated and despite protestations took away the body for cremation and cremated the same."
+  ],
+  "court_reasoning": [
+    "The mere fact that Chandgi Ram allegedly died an unnatural death would not be sufficient to bring home a charge under Section 201 IPC, unless the prosecution was further able to establish that the accused persons knew or had reason to believe that an offence had been committed, causing the evidence of the commission of the offence to disappear.",
+    "We have gone through the evidence of the witnesses produced by the prosecution in detail.",
+    "The widow of the deceased Ramkauri, PW 7 did not in her statement state that she had seen any blood coming out of the ear of the deceased.",
+    "Even with regard to the question of giving bath to the deceased by the accused persons she is silent in her deposition, even though the brother of the deceased, Basti, must have taken part in the giving of the bath to the dead body before cremation.",
+    "Manbhari, PW 11, the sister of the deceased did not disclose to the police the names of those who are alleged to have given a bath to the deceased although she tried to improve upon her statement in the court by naming the acquitted accused besides Dhyala and others as the persons as who had given bath to the deceased.",
+    "We are not satisfied that it was only the appellants before this Court who participated in giving bath to the deceased before cremation as according to the evidence on record, many neighbours had joined in giving a bath to the deceased, which is customary before a dead body is taken for cremation.",
+    "Giving of bath, therefore, by itself could not be treated as a circumstance, much less a clinching one, to connect the appellants with an offence under Section 201 IPC."
+  ],
+  "holding": [
+    "The prosecution has failed to establish the charge under Section 201 IPC against the appellants.",
+    "We find that both the learned Sessions Judge and the High Court also overlooked another important aspect in the case.",
+    "Section 201 IPC reads as under:"
+  ],
+  "cases_cited": []
+}

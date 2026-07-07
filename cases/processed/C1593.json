@@ -1,0 +1,78 @@
+{
+  "case_id": "C1593",
+  "case_name": "State of Delhi v Gyan Devi and Others",
+  "court": "Supreme Court of India",
+  "year": 2000,
+  "judges": [
+    "D. P. Mohapatra, J."
+  ],
+  "bench": [],
+  "petitioner": "State of Delhi",
+  "respondent": "Gyan Devi",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "304"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "482"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "173"
+    },
+    {
+      "section": "498"
+    },
+    {
+      "section": "240"
+    },
+    {
+      "section": "227"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "18 October 2000",
+  "outcome": "Unknown",
+  "facts": [
+    "On receipt of a report regarding the murder of one Smt. Sudesh, who was the daughter-in-law of respondent 1 and wife of respondent 2, the police made an investigation and laid a challan against the three respondents u/s. 173 (2) Cr.P.C.",
+    "The Additional Sessions Judge, Karkardooma, on consideration of the challan and the papers filed along with it, framed charges under Section 498-A/34 IPC against all the three respondents and under Section 304/34 I.P.C. against respondents 1 and 2 vide the order dated 19 February, 1996.",
+    "The charge under Section 304/34 I.P.C. which is relevant for the purpose of this proceeding is to the following effect :",
+    "Shortly after the said order was passed, the accused persons filed a revision being Criminal Revision No.l 13 of 1996 in the High Court seeking quashing of the charge under Section 304/34 I.P.C.",
+    "The learned single Judge accepted the suggestion and accordingly issued direction to the Addl. Sessions Judge to record the medical evidence first and till that part of the prosecution evidence is concluded to exempt the aforementioned accused persons from personal appearance in Court."
+  ],
+  "issues": [
+    "Whether the High Court committed any illegality / error in quashing the charge framed u/s. 304 read with S. 34 of the Indian Penal Code (for short 'I.P.C.') against respondents 1 to 3 by the Sessions Judge in exercise of its powers u/s. 482 of the Code of Criminal Procedure (for short 'Cr.P.C.')?"
+  ],
+  "petitioner_arguments": [
+    "Shri Altaf Ahmed, learned Additional Solicitor General, appearing for the appellant, contended that High Court has clearly erred in passing the order quashing the charge as it has approached the case as if to determine whether the said charge framed against respondents 1 and 2 will succeed or not.",
+    "This question, according to the learned Addl. Solicitor general, should not have been considered at a stage when before the entire prosecution evidence has not come on record."
+  ],
+  "respondent_arguments": [
+    "Shri S.L. Aneja, learned counsel appearing for the respondents, on the other hand contended that the High Court, in the facts and circumstances of the case, has rightly quashed the charge under Section 304/34 I.P.C. against respondents 1 and 2."
+  ],
+  "court_reasoning": [
+    "The legal position is well settled that at the stage of framing of charge the Trial Court is not to examine and assess in detail the materials placed on record by the prosecution nor is it for the Court to consider the sufficiency of the materials to establish the offence alleged against the accused persons.",
+    "At the stage of charge the Court is to examine the materials only with a view to be satisfied that prima facie case of commission of offence alleged has been made out against the accused person.",
+    "It is also well settled that when the petition is filed by the accused u/s. 482 Cr.P.C. seeking for the quashing of charge framed against them the Court should not interfere with the order unless there are strong reasons to hold that in the interest of justice and to avoid abuse of the process of the Court a charge framed against the accused needs to be quashed."
+  ],
+  "holding": [
+    "We find that the High Court's conclusion about the inadequacy of the evidence against respondents 1 to 3, besides being a premature assessment of evidence, is also attributable to the wrong premises on which the High Court's reasoning is based.",
+    "We, therefore, find that there was no warrant for the High Court to quash the charge against respondents 1 to 3 in exercise of its powers u/s. 482 Cr.P.C."
+  ],
+  "cases_cited": [
+    "In a recent decision in State of M.P. v. S.B",
+    "In the case of Minakshi Bala v. Sudhir Kumar &",
+    "In this connection we may refer to the case of Radhey Shyam v. Kunj Behari &",
+    "State of Delhi v Gyan Devi",
+    "and referred in that behalf to the decision in State of Bihar v. Ramesh Singh",
+    "this Court referring to the decision in Mohd. Akbar Dar Ors. v. State of Jammu"
+  ]
+}

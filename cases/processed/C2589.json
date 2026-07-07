@@ -1,0 +1,88 @@
+{
+  "case_id": "C2589",
+  "case_name": "S.V. Muzumdar and others v Gujarat State Fertilizers Company Limited",
+  "court": "Supreme Court of India",
+  "year": 2005,
+  "judges": [
+    "Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "S.V. Muzumdar and others",
+  "respondent": "Gujarat State Fertilizers Company Limited and\nSupreme Court of India\n\n25 April 2005\nAppeal (Crl.) 609 of 2005\nThe Judgment was delivered by : Arijit Pasayat, J.\nLeave granted.\n1.  In all these appeals the appellants have questioned correctness of the judgment rendered by a Single Judge of the Gujarat High Court refusing to accept the prayer by the appellants to quash the proceedings initiated on the basis of a complaint filed by the respondents alleging commission of offence in terms of Section 138 of the Negotiable Instruments Act, 1881 (in short the 'Act') and other connected offences.\n2.  The facts as projected by the respondents in the complaint were to the effect that the respondent no. 1 (hereinafter referred to as the 'complainant') supplied goods on credit to M/s. Garware Nylons Ltd. (hereinafter referred to as the 'Company') (accused no. 14). Cheques issued by the company were not honoured by the drawee bank on the gound of insufficient funds. Paymen",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Negotiable Instruments Act",
+      "section": "138"
+    },
+    {
+      "act": "Act Read With Section 420 And 114 Of The Indian Penal Code",
+      "section": "138"
+    },
+    {
+      "act": "The Act",
+      "section": "141"
+    },
+    {
+      "act": "The Act",
+      "section": "138"
+    },
+    {
+      "act": "The Code",
+      "section": "205"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "25 April 2005",
+  "outcome": "Unknown",
+  "facts": [
+    "In all these appeals the appellants have questioned correctness of the judgment rendered by a Single Judge of the Gujarat High Court refusing to accept the prayer by the appellants to quash the proceedings initiated on the basis of a complaint filed by the respondents alleging commission of offence in terms of Section 138 of the Negotiable Instruments Act, 1881 (in short the 'Act') and other connected offences.",
+    "The facts as projected by the respondents in the complaint were to the effect that the respondent no. 1 (hereinafter referred to as the 'complainant') supplied goods on credit to M/s. Garware Nylons Ltd. (hereinafter referred to as the 'Company') (accused no. 14).",
+    "Cheques issued by the company were not honoured by the drawee bank on the gound of insufficient funds.",
+    "Payments were not made even after legal notices.",
+    "There were 14 accused persons includings the company named in the complaint.",
+    "Some of the accused persons were Directors and while others were employees.",
+    "Learned Chief Judicial Magistrate, Vadodara after recording statement of marketing manager who had filed the complaint for himself and on behalf of the complainant-company, issued summons to all the accused persons for facing trial for alleged commission of offences punishable under Section 138 of the Act read with Section 420 and 114 of the Indian Penal Code, 1860 (in short the 'IPC').",
+    "The order issuing summons was challenged by filing criminal revision application which were dismissed by order dated 21.3.1996.",
+    "Said common judgment and order was challenged before the High Court by filing special criminal applications and these applications were permitted to be withdrawn to enable the appellants to move applications before the learned Chief Judicial Magistrate as stated by the petitioners.",
+    "Application was filed with prayer to drop proceedings.",
+    "That application was rejected by order dated 21.8.1997.",
+    "Same was questioned before the High Court.",
+    "The challenge before the High Court was primarily on the ground that there was no material to show that the accused persons at the time of offence as allegedly committed were in charge, and/or responsible to the company for the conduct of the business as required under Section 141(1) of the Act.",
+    "It was also submitted that the deeming provision under sub-section (2) of Section 141 which covers persons with whose consent or connivance or any attributable negligence for commission of the offence by the company was also not applicable.",
+    "The High Court did not accept the pleas and held that the controversy was to be adjudicated at the trial.",
+    "It considered the petition to be unacceptable attempt to stall the criminal proceedings at the threshold."
+  ],
+  "issues": [
+    "Whether a person is in charge of or is responsible to the company for conduct of business is to be adjudicated on the basis of materials to be placed by the parties.",
+    "Whether the requirements for the application of the deeming provision exist or not is again a matter for adjudication during trial.",
+    "Whether the allegations contained are sufficient to attract culpability is a matter for adjucation at the trial."
+  ],
+  "petitioner_arguments": [
+    "It was on merits pointed out that even the complaint read as a whole does not disclose commission of any offence, more particularly, so far as the appellants are concerned.",
+    "Some of the appellants are lawyers and/or other professionals who had no scope for direct participation in the conduct of business and are not involved in the conduct of business and, therefore, no offence can be attributed to them in terms of Section 141 of the Act."
+  ],
+  "respondent_arguments": [
+    "There is no challenge to the constitutional validity of the provisions and that can never be subject matter of challenge in the proceedings under the Code of Criminal Procedure, 1973 (in short the 'Code').",
+    "The allegations against the accused persons were covered by Section 141 of the Act.",
+    "There were specific allegations against the appellants and, therefore, the courts below were justified in refusing to accept the prayer made by the appellants to drop the proceedings."
+  ],
+  "court_reasoning": [
+    "We find that the prayers before the courts below essentially were to drop the proceedings on the ground that the allegations would not constitute a foundation for action in terms of Section 141 of the Act.",
+    "These questions have to be adjudicated at the trial.",
+    "The burden in this regard has to be discharged by the accused.",
+    "Whether or not the evidence to be led would establish the accusations is a matter for trial.",
+    "It needs no reiteration that proviso to sub-section (1) of Section 141 enable the accused to prove his innocene by discharging the burden which lies on him.",
+    "The decision to be rendered by the larger Bench obviously would govern the trial.",
+    "As rightly submitted by the respondents in these appeals, there is no challenge to the validity of any provision and grievance essentially related to the prayer for dropping the proceedings.",
+    "Therefore, we find no substance in the plea for tagging these matters with those pending before the large Bench."
+  ],
+  "holding": [
+    "The appeals are accordingly dismissed."
+  ],
+  "cases_cited": [
+    "S.V. Muzumdar and others v Gujarat"
+  ]
+}

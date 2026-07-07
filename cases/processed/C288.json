@@ -1,0 +1,62 @@
+{
+  "case_id": "C288",
+  "case_name": "Sukhlal Sarkar v Union Of India & Ors",
+  "court": "Supreme Court of India",
+  "year": 2012,
+  "judges": [
+    "K. S. Radhakrishnan"
+  ],
+  "bench": [],
+  "petitioner": "Sukhlal Sarkar",
+  "respondent": "Union Of India &",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "304"
+    },
+    {
+      "section": "300"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "24 April 2012",
+  "outcome": "Unknown",
+  "facts": [
+    "The Appellant Sukhlal Sarkar was working as a constable in Border Security Force (BSF). He was convicted u/ss. 302 and 307 IPC for offences committed in the intervening night of 13/14th July, 1996.",
+    "The General Security Force Court (GSFC) after conducting the full dress trial convicted him u/s. 302 IPC and sentenced him to undergo rigorous imprisonment for life.",
+    "Dissatisfied with the order, the appellant filed the writ petition (W.P.(C) No. 562/1999) which was partly allowed by an order dated 13.09.2001 by the learned Single Judge by converting the conviction from S. 302 IPC to Section 304-I, IPC reducing the sentence from life term to 10 years rigorous imprisonment.",
+    "Aggrieved by the said judgment, Writ Appeal No. 172 of 2001 was filed by the respondent herein, which was allowed by the High Court vide order dated 9.2.2005 setting aside the judgment of the learned Single Judge and confirming the judgment of GSFC."
+  ],
+  "issues": [
+    "Whether Division Bench of the High Court in Writ Appeal No. 172 of 2001 was correct in holding that no case has been made out attracting the first exception to S. 300 IPC so as to convert the conviction u/s. 302 to 304-I IPC"
+  ],
+  "petitioner_arguments": [
+    "Sufficient grounds exist for converting the conviction from S. 302 IPC to Section 304-I, IPC",
+    "The learned Single Judge was justified in holding that there was no motive on the part of the appellant to do away with the life of his colleague Sanjay Kumar Dubey but it was due to grave and sudden provocation he opened fire from his rifle resulting in the death of Sanjay Kumar Dubey.",
+    "The evidence of P.W 1 would clearly indicate that the deceased Sanjay Kumar Dubey had slapped and pushed the appellant down and provoked him to open fire from his rifle. Further it was submitted that the evidence of P.W 1 would clearly indicate that the deceased shook the appellant's leg with his hand in order to wake him up and all those deeds committed by the deceased caused grave and sudden provocation to commit the offence."
+  ],
+  "respondent_arguments": [
+    "The Division Bench of the High Court had correctly appreciated the evidence of PW 1 and came to the right conclusion that ingredients of offence of murder punishable u/s. 302 IPC were clearly made out.",
+    "There was no grave and sudden provocation for the appellant to claim the first exception of S. 300 IPC warranting conviction under Section 304-I IPC."
+  ],
+  "court_reasoning": [
+    "The expression 'grave' indicate that provocation be of such a nature so as to give cause for alarm to the appellant. 'Sudden' means an action which must be quick and unexpected so far as to provoke the appellant.",
+    "The question whether provocation was grave and sudden is a question of fact and not one of law. Each case is to be considered according to its own facts.",
+    "Under Exception 1 of Section 300, provocation must be grave and sudden and must have by gravity and suddenness deprived the appellant of the power of self-control, and not merely to set up provocation as a defence.",
+    "We have critically gone through the evidence of PW 1, the eye witness, and we are of the considered view that the deceased had not provoked the appellant in inviting him to fire from his rifle so as to kill him. The deceased, it may be noted was unarmed."
+  ],
+  "holding": [
+    "The appeal is dismissed."
+  ],
+  "cases_cited": [
+    "Sukhlal Sarkar v Union Of India &"
+  ]
+}

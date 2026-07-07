@@ -1,0 +1,103 @@
+{
+  "case_id": "C188",
+  "case_name": "S. V. Chandra Pandian and Others v S. V. Sivalinga Nadar and Others",
+  "court": "Supreme Court of India",
+  "year": 1993,
+  "judges": [
+    "Hon'ble Justice A. M. Ahmadi"
+  ],
+  "bench": [],
+  "petitioner": "S",
+  "respondent": "Chandra Pandian",
+  "citations": [
+    "1966 3 SCR 400",
+    "1967 1 SCR 784",
+    "1968 2 SCR 173",
+    "1974 3 SCR 109",
+    "1980 1 SCR 696",
+    "AIR 1947 LAHORE 13",
+    "AIR 1967 SC 401",
+    "AIR 1968 SC 676",
+    "AIR 1971 SC 2270",
+    "AIR 1980 SC 176"
+  ],
+  "statutes": [
+    {
+      "section": "30"
+    },
+    {
+      "section": "17(1)"
+    },
+    {
+      "section": "18"
+    },
+    {
+      "section": "19"
+    },
+    {
+      "section": "48"
+    },
+    {
+      "section": "26"
+    },
+    {
+      "section": "33"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "11 January 1993",
+  "outcome": "Unknown",
+  "facts": [
+    "The four appellants and respondents 1 and 2 are brothers. They were carrying on business in partnership in the name and style of Messers Sivalinga Nadar and Brothers and S.V.S. Oil Mills, both partnerships being registered under the Partnership Act, 1932.",
+    "Most of the properties were acquired by the firm of Sivalinag Nadar and Brothers. The firm of Messers S.V.S. Oil Mills merely had leasehold rights in the parcel of land belonging to the first-named firm on which the superstructure of the oil miff stood.",
+    "All the three arbitrators were fairly well-conversant with the business carried on in different names by the aforesaid two partnership firms; the first two being their Tax Consultants and the third being their Chartered Accountant.",
+    "The parties, therefore, had complete faith and trust in their objectivity and impartiality.",
+    "Disputes arose between the six brothers in regard to the business carried on 'in partnership in the aforesaid two names.",
+    "For the resolution of these disputes the six brothers entered into an arbitration agreement dated 8th October, 1981, which was as under :",
+    "The arbitrators accepted and entered upon the reference and after giving the disputants full and complete opportunity to place their rival points of view before them, circulated a draft award and after considering the response and reaction of the disputants thereon made their final award on 9th July, 1984.",
+    "The concluding part of the award reads as under :",
+    "We hereby direct that each of the parties be allotted the schedule of properties mentioned in the various schedules A to F annexed to this award.",
+    "Various points were raised and decided by the learned Single Judge but it would be sufficient for our purpose to refer to the one which we are called upon to decide in these group of appeals.",
+    "It was submitted by the learned counsel for the respondents that the contentions with regard to stamp and registration put forward by the petitioner cannot be accepted.",
+    "The parties in all these proceedings are directed to bear their own costs."
+  ],
+  "issues": [
+    "What is the requirement for an arbitration award to be registered?",
+    "Can a court entertain a decree based on an unregistered arbitration award?",
+    "Is the allocation of properties owned by a partnership firm on dissolution to the erstwhile partners considered partition of immoveable properties?"
+  ],
+  "petitioner_arguments": [
+    "The Award has been submitted for registration long ago on 27-10.1984 itself and it is stamped and if there is any deficiency, the Registering Authority could direct proper stamp to be affixed.",
+    "It was submitted by the learned counsel for the respondents that the contentions with regard to stamp and registration put forward by the petitioner cannot be accepted.",
+    "The parties in all these proceedings are directed to bear their own costs."
+  ],
+  "respondent_arguments": [
+    "The contention urged was that having regard to the allotment of partnership properties under the award, it was incumbent that the award should have been registered as required by S. 17(1) of the Registration Act and since it lacked registration, the Court had no jurisdiction to make it the rule of the Court and grant a decree in terms thereof.",
+    "The learned counsel for the respondents placed reliance in the decision reported in which decision has been confirmed in Addanki Narayanappa V. Bhaskara Kiishnappa.",
+    "It was submitted by the learned counsel for the respondents that the contentions with regard to stamp and registration put forward by the petitioner cannot be accepted."
+  ],
+  "court_reasoning": [
+    "The learned Single Judge answered the aforesaid contention in his judgment as under :",
+    "The Division Bench of the High Court reversed the aforesaid finding recorded by the learned Single Judge and came to the conclusion that the award required registration u/s. 17(1) of the Registration Act.",
+    "It, however, took note of the fact that the award was presented for registration but on account of the conduct of one of the disputants it could not be registered as the Registering Authority was threatened with civil consequences.",
+    "It, therefore, made the following observation in the judgment:",
+    "It, however, does not mean that if the award is validly registered and presented to be made a rule of the Court in accordance with law, the Court cannot entertain the same."
+  ],
+  "holding": [
+    "The Division Bench allowed the appeal and set aside the impugned judgment of the learned Single Judge and held that as the award was not registered it could not be made the rule of the Court.",
+    "It made no order as to costs."
+  ],
+  "cases_cited": [
+    "In Commissioner of Income-Tax, West Bengal, Calcutta v. Juggilal Kamalapat",
+    "Lachman Das v. Ram Lal andanr",
+    "Ratan Lal Sharma v. Purshottam Harit",
+    "S. V. Chandra Pandian and Others v S. V",
+    "Supra). Again in CIT Madhya Pradesh v. Dawas Cine Corporation",
+    "in which decision has been confirmed in Addanki Narayanappa V. Bhaskara Kiishnappa",
+    "passage from the decision in Ajudhia Pershad Ram Pershad v. Sham Sunder",
+    "supra). Again in Malabar Fisheries Co. Calicut v. CIT",
+    "this court in Addanki Narayanappa & Anr. (supra) In CIT. U.P. v. Bankey Lal Vaidya"
+  ]
+}

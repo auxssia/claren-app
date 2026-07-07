@@ -1,0 +1,66 @@
+{
+  "case_id": "C2687",
+  "case_name": "Krishna Reddy and Others v State of Karnataka",
+  "court": "Supreme Court of India",
+  "year": 1994,
+  "judges": [
+    "K.JAYACHANDRA REDDY"
+  ],
+  "bench": [],
+  "petitioner": "Krishna Reddy and Others",
+  "respondent": "State of Karnataka\nSupreme Court of India\n\n3 August 1994\nCr.A. No. 551 of 1984, (From the Judgment and Order Dt. 6 January 1984 of the Karnataka High Court in Cr. A. No. 23 of 1982)\nThe Judgment was delivered by: K.JAYACHANDRA REDDY, J.\n1.  This is an appeal under Section 2 of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970 read with Section 379 CrPC. All the original accused 1 to 6 are the appellants. They were tried for offences punishable under Sections 148 and 302 read with 149 IPC. The trial court acquitted them. The State preferred an appeal and the High Court reversed the order of acquittal and convicted the appellants under Sections 302/34 IPC and also alternatively under Sections 302/149 IPC and sentenced each of them to suffer rigorous imprisonment for life. Among them, A-1, A-3, A-4 and A-5 were also convicted under Section 148 IPC and sentenced to undergo one year's RI and A-2 and A-6 were held guilty under Section 147",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "2"
+    },
+    {
+      "section": "379"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "148"
+    },
+    {
+      "section": "147"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "CrPC",
+  "court_level": "Supreme Court",
+  "decision_date": "3 August 1994",
+  "outcome": "Unknown",
+  "facts": [
+    "The case involves an appeal by Krishna Reddy and others against their conviction for murder.",
+    "The accused were tried for offences punishable under Sections 148 and 302 read with 149 IPC.",
+    "The trial court acquitted them, but the State preferred an appeal and the High Court reversed the order of acquittal and convicted the appellants.",
+    "The prosecution case is that the accused assaulted PW 2's brother, Chandrappa, and killed him in a dispute over a site called 'Kana'.",
+    "PW 2 and his family members were highly interested witnesses and their evidence was scrutinised with great care and caution by the trial court."
+  ],
+  "issues": [
+    "Whether the prosecution has established the guilt of the accused beyond reasonable doubt.",
+    "Whether the trial court's findings on the place of occurrence are correct.",
+    "Whether the delay in giving the FIR is a material issue."
+  ],
+  "petitioner_arguments": [
+    "The appellants argued that the trial court's findings were based on flawed reasoning and that there was no evidence to establish their guilt beyond reasonable doubt.",
+    "They also argued that the prosecution's case was based on interested witnesses and that the trial court should have been more cautious in evaluating their testimony."
+  ],
+  "respondent_arguments": [
+    "The State argued that the prosecution had established the guilt of the accused beyond reasonable doubt through the evidence of direct witnesses and circumstantial evidence.",
+    "They also argued that the trial court's findings on the place of occurrence were correct and that there was no delay in giving the FIR."
+  ],
+  "court_reasoning": [
+    "The Supreme Court held that the trial court's findings on the place of occurrence were flawed and that the prosecution had not established the guilt of the accused beyond reasonable doubt.",
+    "The Court also noted that the evidence of interested witnesses should be scrutinised with great care and caution."
+  ],
+  "holding": [
+    "The Supreme Court allowed the appeal and acquitted the appellants, holding that the prosecution had failed to establish their guilt beyond reasonable doubt."
+  ],
+  "cases_cited": []
+}

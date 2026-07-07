@@ -1,0 +1,105 @@
+{
+  "case_id": "C1409",
+  "case_name": "University Of Kerala v Council, Principals', Colleges, Kerala & Others",
+  "court": "Supreme Court of India",
+  "year": 2009,
+  "judges": [],
+  "bench": [],
+  "petitioner": "University Of Kerala",
+  "respondent": "Council, Principals', Colleges, Kerala &",
+  "citations": [
+    "1980 3 SCC 625",
+    "1984 3 SCC 161",
+    "1989 4 SCC 187",
+    "1995 6 SCC 614",
+    "1996 5 SCC 647",
+    "1997 6 SCC 241",
+    "1998 1 SCC 226",
+    "2002 5 SCC 294",
+    "2003 6 SCC 195",
+    "2005 13 SCC 287",
+    "2005 3 SCC 281",
+    "2005 3 SCC 284",
+    "2006 2 SCC 670",
+    "2008 1 SCC 683",
+    "2008 5 SCC 511",
+    "AIR 1955 SC 549",
+    "AIR 1967 SC 1643",
+    "AIR 1982 SC 710",
+    "AIR 1987 SC 232",
+    "AIR 1989 SC 1899",
+    "AIR 1990 SC 334",
+    "AIR 1991 SC 101",
+    "AIR 1992 SC 96",
+    "AIR 2002 SC 2112",
+    "AIR 2003 SC 2612",
+    "AIR 2006 SC 767"
+  ],
+  "statutes": [
+    {
+      "section": "24296"
+    },
+    {
+      "section": "1"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "50"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "142"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Fundamental Rights",
+  "court_level": "Supreme Court",
+  "decision_date": "11 November 2009",
+  "outcome": "Unknown",
+  "facts": [
+    "The Council of Principals of Colleges in Kerala filed a writ petition before the High Court challenging various universities in the State of Kerala had issued directions by way of letters/circulars to conduct election to the colleges' unions.",
+    "The main challenge was that the impugned circulars/letters had no statutory basis, and hence were invalid.",
+    "The Kerala High Court allowed the writ petition and quashed those letters/circulars directing following the presidential system of election in the students' union election and left it free to the colleges to follow the system of their choice."
+  ],
+  "issues": [
+    "Whether after getting the recommendations of some expert body by a court order, the Court itself can implement the said recommendations by passing a judicial order or whether the Court can only send it to the Legislature or its delegate to consider making a law for implementation of these recommendations",
+    "Whether the judiciary should seek to perform legislative or executive functions"
+  ],
+  "petitioner_arguments": [
+    "The impugned circulars/letters had no statutory basis, and hence were invalid.",
+    "The Court should not encroach into the sphere of the other organs of the State."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "Judicial powers is not immune against this human weakness. It also must be on guard against encroaching beyond its proper bounds, and not the less so since the only restraint upon it is self-restraint.",
+    "The Court should have thereafter, instead of passing a judicial order directing implementation of the recommendations, sent it to the appropriate Legislature or its delegate (which in this case is the University which can make delegated legislation in the form of Statutes or Ordinances)."
+  ],
+  "holding": [
+    "The interim order of this Court dated 22nd September, 2006, prima facie, amounts to judicial legislation and the question before us is whether this is legally permissible.",
+    "I am prima facie of the opinion that it is not."
+  ],
+  "cases_cited": [
+    "Hegde J. refers to the decisions in Visaka vs. State of Rajasthan",
+    "In Union of India vs. Assn",
+    "Nand Kishore v. State of Punjab",
+    "Placitum 'g'), Duport Steels Limited and Others vs. Sirs",
+    "Similarly, in Asif Hameed vs. State of Jammu",
+    "Suresh Seth vs. Commr",
+    "University Of Kerala v Council",
+    "Verareddy Kumaraswamy Reddy vs. State of A",
+    "and Vineet Narain vs. Union of India",
+    "and it cannot legislate vide Sanjay Kumar vs. State of U",
+    "coextensive' as viewed by Chief Justice Marshall in Osborn V. Bank of U",
+    "devise new remedies while discussing Vellore Citizens' Forum vs. Union of India",
+    "inter country adoptions, Bhagwati J., in Laxmikant Pandey vs. Union of India",
+    "makers', (placitum 'c') and the view of Lord Templeman in M vs. Home Office",
+    "observations made by Chief Justice Subba Rao in Golak Nath vs. State of Punjab",
+    "reiterated by Chief Justice A. N. Ray in Indira Nehru Gandhi vs. Raj Narain",
+    "that this Court cannot direct legislation vide Union of India vs. Prakash P",
+    "the observations made by Hegde J. in Kalyan Chandra Sarkar vs. Rajesh Ranjan",
+    "the sphere of the other organs of the State vide N.K. Prasada vs. Govt",
+    "then was) in the Constitution Bench decision in Minerva Mills vs. Union of India",
+    "view is of primary importance. In Delhi Transport Corporation vs. D.T",
+    "which are not covered by any law. The decision in Visaka vs. State of Rajasthan"
+  ]
+}

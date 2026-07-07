@@ -1,0 +1,64 @@
+{
+  "case_id": "C80",
+  "case_name": "Laxmi Smt v Om Prakash and Others",
+  "court": "Supreme Court of India",
+  "year": 2001,
+  "judges": [
+    "R. C. Lahoti"
+  ],
+  "bench": [],
+  "petitioner": "Laxmi Smt",
+  "respondent": "Om Prakash",
+  "citations": [
+    "1993 2 SCC 684",
+    "AIR 1957 SC 589",
+    "AIR 1976 SC 2199",
+    "AIR 1979 SC 1173",
+    "AIR 1981 SC 1571",
+    "AIR 1982 SC 1021",
+    "AIR 1983 SC 554"
+  ],
+  "statutes": [
+    {
+      "act": "Ipc And Section 4 Of Dowry Prohibition Act",
+      "section": "385"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "9 July 2001",
+  "outcome": "Unknown",
+  "facts": [
+    "Nemo moriturus praesumitur mentire No one at the point of death is presumed to lie.",
+    "A man will not meet his Maker with a lie in his mouth is the philosophy in law underlying admittance in evidence of dying declaration.",
+    "The shadow of impending death is by itself the guarantee of the truth of the statement made by the deceased regarding the causes or circumstances leading to his death.",
+    "Once the statement of the dying person and the evidence of the witnesses testifying to the same passes the test of careful scrutiny of the Courts, it becomes a very important and a reliable piece of evidence...",
+    "The law is well settled: dying declaration is admissible in evidence.",
+    "A dying declaration, if found reliable, can form the basis of conviction.",
+    "All the three accused persons were arrested by the police on 7 March 1982 itself.",
+    "Janak Kumari succumbed to her injuries and died at about 12 noon on 8 March 1982.",
+    "The prosecution case opened with the statement of PW1 Trishla Kumari, aged 23 years, a close neighbour of the accused persons."
+  ],
+  "issues": [
+    "Admissibility of dying declaration as evidence",
+    "Reliability of dying declarations"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "A dying declaration made by person on the verge of his death has a special sanctity as at that solemn moment, a person is most unlikely to make any untrue statement.",
+    "The admissibility is founded on principle of necessity.",
+    "It has to be judged and appreciated in the light of the surrounding circumstances and its weight determined by reference to the principles governing the weighing of evidence."
+  ],
+  "holding": [
+    "The Court added - such a statement, called the dying declaration, is relevant and admissible in evidence provided it has been made by the deceased while in a fit mental condition.",
+    "The Additional Sessions Judge having meticulously examined the prosecution evidence and having subjected each of the dying declarations to judicial scrutiny found none of them worthy of reliance so as to base conviction thereon either collectively or individually."
+  ],
+  "cases_cited": [
+    "Laxmi Smt v Om Prakash",
+    "Surendra Singh Vs State of M",
+    "of law summed up by this Court in Kundula Bala Subrahmanyam Vs. State of A",
+    "on relied on as dying declaration. In Munnu Raja and Anr. Vs. The"
+  ]
+}

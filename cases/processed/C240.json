@@ -1,0 +1,47 @@
+{
+  "case_id": "C240",
+  "case_name": "Ram Singh and Another v State of Haryana",
+  "court": "Supreme Court of India",
+  "year": 1987,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Ram Singh and Another",
+  "respondent": "State of Haryana\nSupreme Court of India\n\n11 December 1987\nCr.A. No. 165 of 1987\nThe Order of the Court was as follows:\n1.  The two appellants along with many",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Read With Section 149 And The Provisions Of The Indian Penal Code",
+      "section": "302"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "11 December 1987",
+  "outcome": "Unknown",
+  "facts": [
+    "The two appellants along with many others were convicted under Section 302 read with Section 149 and the provisions of the Indian Penal Code for causing death of one Manohar Lal and injuring other persons.",
+    "The High Court came to hold that the alleged common object had not been established and it was a free fight rising out of hurling of abuses. It was not possible to find as to which party was the aggressor.",
+    "When special leave was granted it was confined to the question relating to the nature of offence and sentence.",
+    "According to him since the jaili was used as a lathi and not as a piercing instrument but the metallic sharp ends attached to it have been found to have caused two injuries on the head.",
+    "The evidence is clear that lathi and jaili were used and both of them were aimed at the head.",
+    "There is material to show that similar injuries which caused the death of Manohar Lal were suffered by some of the accused parsons in the free fight."
+  ],
+  "issues": [
+    "Whether an offence of murder has been committed",
+    "Whether an offence under Section 302 has been established"
+  ],
+  "petitioner_arguments": [
+    "An offence under Section 302 has not been established"
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "It is difficult for us in these circumstances to accept the contention of Mr Mulla that only one person caused the fatal injuries on Manohar Lal.",
+    "We are of the view that the proper section under which the two appellants should be convicted is Section 304-A of the Indian Penal Code and not Section 302 IPC."
+  ],
+  "holding": [
+    "The appellants be convicted under Section 304 IPC instead of under Section 302 IPC",
+    "The sentence of imprisonment for life"
+  ],
+  "cases_cited": []
+}

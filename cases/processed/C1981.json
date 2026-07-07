@@ -1,0 +1,80 @@
+{
+  "case_id": "C1981",
+  "case_name": "Sharad Kumar v Government of NCT of Delhi and Others",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [
+    "D. P. Mohapatra, J."
+  ],
+  "bench": [],
+  "petitioner": "Sharad Kumar",
+  "respondent": "Government of NCT of Delhi",
+  "citations": [
+    "1978 2 SCC 353",
+    "1985 2 SCC 103",
+    "1994 3 SCC 510",
+    "AIR 1964 SC 1617",
+    "AIR 1967 SC 678"
+  ],
+  "statutes": [
+    {
+      "section": "2(S)"
+    },
+    {
+      "section": "10(1)"
+    },
+    {
+      "section": "1600"
+    },
+    {
+      "section": "20"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "11 April 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant was holding the post of 'Area Sales Executive' when his service was terminated vide the order dated 20 December 1995.",
+    "No show cause notice was served nor any enquiry was held before the order terminating appellant's service was passed.",
+    "However, one month's salary was sent to him alongwith the termination letter.",
+    "The matter was taken up for conciliation.",
+    "The Conciliation Officer submitted a failure report to the State Government on 23 October 1996.",
+    "On receipt of the conciliation Officer's report the State Government declined to refer the dispute to the Industrial Tribunal or the Labour Court for adjudication vide order dated 14 July 1998."
+  ],
+  "issues": [
+    "Whether the State Government was right in rejecting the appellant's request for a reference and thereby nipping the proceeding at the threshold.",
+    "Is it a just and proper exercise of the jurisdiction vested under the statute ?"
+  ],
+  "petitioner_arguments": [
+    "The State Government committed error in declining to refer the dispute to the Industrial Tribunal/Labour Court for adjudication merely going by the designation of the post held by the appellant.",
+    "According to him the appellant was performing multifarious duties which came within the purview of definition of the expression workman in s. 2(s) of the Act and the nature of his duties did not come within any of the exceptions provided in the said section.",
+    "The question whether the appellant was a workman within the meaning of s. 2(s) or not involves inquiry into facts which could not be finally decided by the State Government while exercising the power u/s. 10(1) of the Act."
+  ],
+  "respondent_arguments": [
+    "On the materials produced by the appellant himself in the conciliation proceeding it is clear that he did not come within any of the categories of employees mentioned in the first part of s. 2(s) of the Act, and therefore, he was not a 'workman' as defined in s. 2(s).",
+    "According to Shri Reddy, on the materials produced by the appellant himself in the conciliation proceeding it is clear that he did not come within any of the categories of employees mentioned in the first part of s. 2(s) of the Act, and therefore, he was not a 'workman' as defined in s. 2(s).",
+    "It was absolutely necessary for the Government to satisfy itself whether the appellant was a workman within the meaning of s. 2(s) of the Act, and that was done by the authority in the case."
+  ],
+  "court_reasoning": [
+    "The order did not call for any interference by the High Court and the writ petition filed by the appellant was rightly dismissed.",
+    "It is clear that 'workman' means any person employed in any industry to do any manual, unskilled, skilled, technical, operational, clerical or supervisory work for hire or reward including any such person who has been dismissed, discharged or retrenched."
+  ],
+  "holding": [
+    "The order of refusal of reference of the dispute was passed by the respondent in exercise of the power u/s. 10(1) read with s. 12(5) of the Act.",
+    "The State Government was right in refusing to refer the dispute to the Industrial Tribunal/Labour Court for adjudication."
+  ],
+  "cases_cited": [
+    "Constitution Bench in the case of H.R. Adyanthaya and others vs. Sandoz (India",
+    "In M.P. Irrigation Karamchari Sangh vs. State of M",
+    "In Nirmal Singh vs. State of Punjab",
+    "In S.K. Maini Vs. M/s Carona Sahu Company limited",
+    "In the case of Telco Convoy Drivers Mazdoor Sangh and another vs. State of Bihar",
+    "M.P. Irrigation Karamchari Sangh vs. State of M",
+    "Shambhu Nath Goyal vs. Bank of Baroda",
+    "Sharad Kumar v Government of NCT of Delhi",
+    "Shell Oil Storage and Distribution Company of India Ltd. vs. The Burma Shell Management Staff Association",
+    "The Rajasthan High Court in the case of S.L.Soni vs. Rajasthan Mineral Development Corporation Ltd"
+  ]
+}

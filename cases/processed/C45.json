@@ -1,0 +1,58 @@
+{
+  "case_id": "C45",
+  "case_name": "State of Madhya Pradesh v S. B. Johari and Others",
+  "court": "Supreme Court of India",
+  "year": 2000,
+  "judges": [
+    "M. B. Shah, J."
+  ],
+  "bench": [],
+  "petitioner": "State of Madhya Pradesh",
+  "respondent": "S. B. Johari",
+  "citations": [
+    "1977 4 SCC 39",
+    "1979 3 SCC 4",
+    "1979 4 SCC 274",
+    "1990 4 SCC 76"
+  ],
+  "statutes": [
+    {
+      "act": "Criminal Procedure Code",
+      "section": "319"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "17 January 2000",
+  "outcome": "Unknown",
+  "facts": [
+    "FIR was lodged at the Police Station Bhopal to the effect that there was criminal conspiracy in purchase of medicines for S.G. Cancer Hospital, Indore.",
+    "At the relevant time, Dr. C.P. Tiwari was posted as Dean, Medical College, Dr. M.S. Dwivedi was working as Superintendent, Mr. S.B. Johari (Respondent No.1 in SLP No.2854/99) was working as Medical Officer In charge of Stores and Mr. Sudhir Pingle (Sole Respondent in SLP No.2855/99) was working as Accountant in the hospital.",
+    "It is alleged that all the aforesaid accused entered into criminal conspiracy with some local businessmen of Indore by misusing their posts and also by using some forged documents that caused wrongful loss to the Government."
+  ],
+  "issues": [
+    "Whether at the stage of framing the charge, trial court should marshal the materials on the record of the case as he would do on the conclusion of the trial?",
+    "Whether the Court is required to appreciate the evidence and arrive at the conclusion that the materials produced are sufficient or not for convicting the accused?"
+  ],
+  "petitioner_arguments": [
+    "The entire approach of the High Court appears to be as if the Court was deciding the case as to whether accused are guilty or not.",
+    "It was done without considering the allegations of conspiracy relating to the charge under Section 120-B."
+  ],
+  "respondent_arguments": [
+    "The role of Dr. Johri in purchase of the medicines was limited to the extent that he prepared only a comparative statement of tenders and that the other two persons were members of the Purchase Committee.",
+    "Comparison of different prices at different places at different periods on the basis of different transactions between different persons cannot straightway be made the basis for alleging corruption or corrupt practice on the part of the accused."
+  ],
+  "court_reasoning": [
+    "The Court may peruse the records for that limited purpose, but it is not required to marshal it with a view to decide the reliability thereof.",
+    "From the above discussion it seems well settled that at the Sections 227-228 stage the court is required to evaluate the material and documents on record with a view to finding out if the facts emerging therefrom taken at their face value disclose the existence of all the ingredients constituting the alleged offence."
+  ],
+  "holding": [
+    "The appeals are allowed accordingly.",
+    "The impugned orders passed by the High Court require to be quashed and set aside and we do so."
+  ],
+  "cases_cited": [
+    "State of Madhya Pradesh v S. B",
+    "with the trial. In Niranjan Singh Karam Singh Punjabi etc. v. Jitendra Bhimraj Bijjayya"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "case_id": "C2889",
+  "case_name": "Panchdeo Singh v State of Bihar",
+  "court": "Supreme Court of India",
+  "year": 2001,
+  "judges": [
+    "C. Umesh Banerjee"
+  ],
+  "bench": [],
+  "petitioner": "Panchdeo Singh",
+  "respondent": "State of Bihar\nSupreme Court of India\n\n7 December 2001\nAppeal (crl.) 497 of 2000\nThe Judgment was delivered by :  C. Umesh Banerjee, J.\n1.  Admissibility of a dying declaration has had judicial scrutiny for over five decades. Whereas the earlier view in Ramnath's case (Ramnath Madhoprasad",
+  "citations": [
+    "1999 7 SCC 695",
+    "AIR 1962 SC 130",
+    "AIR 1976 SC 2199"
+  ],
+  "statutes": [
+    {
+      "act": "Read With Section 149 Of The Indian Penal Code",
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code",
+      "section": "148"
+    },
+    {
+      "act": "Read With Section 149 Of The Indian Penal Code",
+      "section": "324"
+    },
+    {
+      "act": "Criminal Procedure Code",
+      "section": "313"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "7 December 2001",
+  "outcome": "Unknown",
+  "facts": [
+    "The case involves a murder investigation in which the deceased, Sriram Singh, was killed by a bomb attack.",
+    "On 20.12.1980, around 8 a.m., the informant Ramsumer Singh (PW-8) and Sriram Singh were going to Modidih Colliery Office when they spotted the appellants standing with their car No.BHW 98.",
+    "Sakaldeo Singh hurled a bomb on Sriram Singh, which hit in his abdomen, and thereafter Nagender Singh and Dun Bahadur Singh threw bombs, causing injuries to the deceased and the informant too sustained wounds.",
+    "The motive behind the occurrence is alleged to be the previous enmity.",
+    "The formal First Information Report (Exhibit 2) was drawn up and the investigation commenced.",
+    "During investigation, the injured Sriram Singh succumbed to the wounds on the next day of the occurrence, around 10.30 a.m., at Sadar Hospital, Dhanbad, and after completion of the investigation, charge-sheet was laid in court against the appellants and other accused in the case."
+  ],
+  "issues": [
+    "Admissibility of a dying declaration",
+    "Whether a declaration by itself would tantamount to substantial evidence against the appellant warranting conviction and sentence"
+  ],
+  "petitioner_arguments": [
+    "The dying declaration does not involve the appellant with the crime.",
+    "The conviction under Section 302 IPC and sentence to undergo rigorous imprisonment for life were based on the dying declaration, which does not involve the appellant herein with the crime."
+  ],
+  "respondent_arguments": [
+    "The dying declaration is trustworthy and should be treated as such.",
+    "The court must not look out for corroboration unless it comes to the conclusion that a dying declaration suffered from any infirmity."
+  ],
+  "court_reasoning": [
+    "A dying declaration ought otherwise to be treated as trustworthy.",
+    "The confidence of the court is the summum-bonum, and in the event of there being some infirmity, howsoever, negligible it be, the Court unless otherwise satisfied about the credibility thereof, ought to look for some corroboration."
+  ],
+  "holding": [
+    "The conviction under Section 302 IPC and sentence to undergo rigorous imprisonment for life were sustained by the High Court on the basis of the dying declaration."
+  ],
+  "cases_cited": [
+    "Dun Bahadur Singh v. State of Bihar",
+    "Paparambaka Rosamma and others vs. State of A",
+    "This Court, a decade later in Munnu Raja and another v. The",
+    "to the subject find place in the decision of Arvind Singh v. State of Bihar (J",
+    "view in Ramnath's case (Ramnath Madhoprasad and others v. State of Madhya Pradesh"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "case_id": "C476",
+  "case_name": "Icds Limited v Beena Shabeer and Another",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [
+    "Umesh C. Banerjee"
+  ],
+  "bench": [],
+  "petitioner": "Icds Limited",
+  "respondent": "Beena Shabeer and Another\nSupreme Court of India\n\n12 August 2002\nAppeal (Crl.) 797 of 2002\nThe Judgment was delivered by : Umesh C. Banerjee, J.\nLeave granted.\n1.  A short but an interesting question falls for consideration in this appeal to the effect as to the maintainability of a proceeding under Section 138 of the Negotiable Instruments Act, 1881, vis-a-vis a guarantor. The High Court negated it and hence the matter before this Court under Article 136 of the Constitution. In order, however, to appreciate the contentions raised in the matter, it would be worthwhile at this juncture to notice Section 138 for its true terms, scope and effect as also to assess the situation ourselves. Section 138 of the Negotiable Instruments Act, 1881 reads as below :\n\"138. Dishonour of cheque for insufficiency, etc., of funds in the account. Where any cheque drawn by a person on an account maintained by him with a banker for payment of any amount of money to another person from out of",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Negotiable Instruments Act",
+      "section": "138"
+    },
+    {
+      "act": "The Act",
+      "section": "138"
+    },
+    {
+      "act": "Code Of Criminal Procedure For",
+      "section": "482"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "12 August 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "A Company incorporated under the provisions of the Companies Act, 1956, having its registered and administrative office at Syndicate House, P.B. No.46, Upendra Nagar, Manipal-576119 and branches among other places at Palayam, Trivandrum.",
+    "The husband of respondent No.1 entered into a hire purchase agreement with the appellant for the purposes of the purchase of a Maruti car on hire purchase basis.",
+    "The respondent No.1, his wife stood as a guarantor in respect of the hire purchase facilities being made available to her husband.",
+    "Admittedly, the said cheque was dishonoured and returned to the appellant with a remark 'insufficient funds'.",
+    "The factual matrix depict that the appellant issued a statutory notice on 2.9.1998 as contemplated under Section 138 of the Negotiable Instruments Act, calling upon the respondent No.1 to pay the amount covered under the cheque within a period of 15 days and since the respondent No.1 did not think it fit and proper to reply to the said notice in spite of receipt thereof, the appellant thereafter filed a complaint under Section 138 of the Act before the Chief Judicial Magistrate's Court, Thiruvananthapuram."
+  ],
+  "issues": [
+    "The maintainability of a proceeding under Section 138 of the Negotiable Instruments Act, vis-a-vis a guarantor.",
+    "Whether issuance of a cheque by a guarantor can be said to have been issued for the purpose of discharging any debt or liability."
+  ],
+  "petitioner_arguments": [
+    "The language of the Statute depicts the intent of the law-makers to the effect that wherever there is a default on the part of one in favour of another and in the event a cheque is issued in discharge of any debt or other liability there cannot be any restriction or embargo in the matter of application of the provisions of Section 138 of the Act.",
+    "Any contra interpretation would defeat the intent of the legislature."
+  ],
+  "respondent_arguments": [
+    "The High Court has also placed reliance on a decision of the Kerala High Court in the case of Sreenivasan v. State of Kerala (1999 (3) K.L.T. 849 1999 Indlaw KER 316).",
+    "Incidentally, a learned Single Judge of the High Court in the decision last noted (supra) also placed reliance on a decision of Andhra Pradesh High Court in Taher N. Khambati v. Vinayak Enterprises (1995 (1) KLT SN 5 1994 Indlaw AP 150)."
+  ],
+  "court_reasoning": [
+    "The legislature has been careful enough to record not only discharge in whole or in part of any debt but the same includes other liability as well.",
+    "This aspect of the matter has not been appreciated by the High Court, neither been dealt with or even referred to in the impugned judgment."
+  ],
+  "holding": [
+    "The appeal succeeds and is thus allowed."
+  ],
+  "cases_cited": [
+    "Icds Limited v Beena Shabeer"
+  ]
+}

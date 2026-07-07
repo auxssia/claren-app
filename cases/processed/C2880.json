@@ -1,0 +1,88 @@
+{
+  "case_id": "C2880",
+  "case_name": "Dhaneswar Mahakud and Others v State of Orissa",
+  "court": "Supreme Court of India",
+  "year": 2006,
+  "judges": [
+    "P. P. Naolekar"
+  ],
+  "bench": [],
+  "petitioner": "Dhaneswar Mahakud and Others",
+  "respondent": "State of Orissa\nSupreme Court of India\n\n5 April 2006\nAppeal (Cr.) 596 of 2005\nThe Judgment was delivered by: P. P. Naolekar, J.\n1. The appellants herein namely, Dhaneshwar Mahakud, Ganeshwar Mahakud, Dasratha Mahakud and Kamala Kanta Mahakud (originally A-2 to A-5) alongwith two other persons, namely, Pitabash Mahakud (A-1) and Sanjeeb Kumar Mahakud (A-6) were tried for the offences punishable under Sections 148, 302/149 and 323/149 of the Indian Penal Code (IPC). The Court of Sessions convicted and sentenced all the six accused to undergo life imprisonment for causing death of two persons, namely, Biswanath Barik and Umakant Barik. In an appeal filed in the High Court, A-1 and A-6 were acquitted, whereas the accused appellants (A-2 to A-5) were not found guilty u/ss. 148 and 149, IPC, but their conviction u/ss. 302 and 323, IPC and the sentence of life imprisonment for the offence u/s. 302 IPC was confirmed. No separate sentence had been passed u/s. 323",
+  "citations": [
+    "AIR 1954 SC 204",
+    "AIR 1972 SC 254"
+  ],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "148"
+    },
+    {
+      "section": "302"
+    },
+    {
+      "section": "323"
+    },
+    {
+      "section": "313"
+    },
+    {
+      "section": "149"
+    },
+    {
+      "section": "34"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "5 April 2006",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants were tried for the offences punishable under Sections 148, 302/149 and 323/149 of the Indian Penal Code (IPC).",
+    "On 23 March 1992 at about 7.30 a.m., Dhaneshwar (A-2) Ganeswar Mahakud (A-3), Dasratha Mahakud (A-4) and Kamala Mahakud (A-5), the appellants herein, went to the disputed piece of land situated by the side of Palasapanga-Bamebari road located in village Malda.",
+    "Umakant Barik (deceased) along with Kanduru Barik (his father) and Biswanath Barik (deceased) (his uncle) reached the spot and objected to the said act of the accused persons.",
+    "The incident was witnessed by Mangaraj Barik (PW-5), a hotel owner, who was having his hotel nearby the place of incident."
+  ],
+  "issues": [
+    "Whether the appellants can be convicted under Section 302 IPC despite not being charged under Section 34 IPC?",
+    "Whether the High Court erred in convicting the appellants under Section 302 IPC on the basis of the evidence led by the prosecution?"
+  ],
+  "petitioner_arguments": [
+    "The plea of right of self-defence and property, whereas Dasratha Mahakud by examining DW-2 (Bimbadhar Mahanta) had set up the defence of alibi.",
+    "The High Court having rightly found that the accused-appellants could not be convicted u/s. 302 read with Section 149, IPC, has erred in convicting the appellants under Section 302, IPC on the basis of the evidence led by the prosecution as the evidence on record does not prove the factum of death being caused by each and every appellant by their individual separate act."
+  ],
+  "respondent_arguments": [
+    "The High Court has recorded the findings in the appeal preferred by the accused that PW-5 who was the owner of hotel nearby the place of occurrence was a natural witness to incident and PW-5's statement is corroborated by the evidence of injured eye-witness (PW-7).",
+    "Although the High Court has not found the appellants guilty under section 149, IPC in the facts proved by the prosecution, the conviction imposed on them u/s. 302 IPC could very well be supported with the aid of S. 34 IPC as there was common intention of all the accused-appellants to cause death of Umakant Barik and Biswanath Barik with the use of deadly weapons."
+  ],
+  "court_reasoning": [
+    "The Court has held that the offence u/s. 302 IPC was found proved against the accused-appellants and convicted them on the basis.",
+    "If the Court reaches to the conclusion on the basis of the material placed before it that the injuries were sufficient in the ordinary course of nature to cause death and the nature of injuries was homicidal, the Court can convict each and every accused u/s. 302 IPC, but if the Court cannot conclusively reach to the finding that each and every individual involved in commission of the offence has caused such injuries which are sufficient in the ordinary course of nature to cause death, the accused cannot be convicted u/s. 302 IPC."
+  ],
+  "holding": [
+    "The appellants were convicted under Section 302 IPC for causing the death of two persons, namely, Biswanath Barik and Umakant Barik."
+  ],
+  "cases_cited": [
+    "Bhoor Singh v. State of Punjab",
+    "IPC would not result in any prejudice to them (Dalip Singh v. State of Punjab",
+    "In Hamlet alias Sasi & Ors. v. State of Kerela",
+    "In Malhu Yadav and Ors. v. State of Bihar",
+    "Lachhman Singh Ors. v. The",
+    "Mannam Venkatadri and Ors. v. State of Andhra Pradesh",
+    "Nethala Pothuraju and Ors. v. State of Andhra Pradesh",
+    "Recently in Gurpreet Singh v. State of Punjab",
+    "Similarly in Chittarmal v. State of Rajasthan",
+    "This court in Nethala Pothuraju v. State of A",
+    "and Karnail Singh and Anr. v. State of Punjab",
+    "and Ram Tahal and Ors. v. State of U",
+    "cleared by the constitution Bench in Willie (William) Slaney v. State of M",
+    "followed by this Court in later decision also. (Amar Singh v. State of Haryana",
+    "the Supreme Court a number of times. We may refer to Dhanna v. State of Madhya Pradesh",
+    "the common intention of them all. (See Barendra Kumar Ghose v. King Emperor",
+    "this Court has relied upon the case of Ramji Singh and Anr. v. State of Bihar"
+  ]
+}

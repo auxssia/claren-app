@@ -1,0 +1,89 @@
+{
+  "case_id": "C1222",
+  "case_name": "Government of West Bengal v Tarun K. Roy and Others",
+  "court": "Supreme Court of India",
+  "year": 2003,
+  "judges": [
+    "S. B. Sinha"
+  ],
+  "bench": [],
+  "petitioner": "Government of West Bengal",
+  "respondent": "Tarun K. Roy",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "14"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "39"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "226"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "136"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "142"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 226",
+  "court_level": "Supreme Court",
+  "decision_date": "18 November 2003",
+  "outcome": "Unknown",
+  "facts": [
+    "In the Irrigation Department of the state of west Bengal inter alia there existed two posts-operator-cum-Mechanic and Sub-Assistant Engineer.",
+    "The First pay commission of the State of west Bengal in its report dated 31.12.1969 recommended the following pay-scales relating thereto.",
+    "By a notification No. 10303 F dated 19th November, 1974 in modification of ROPA Rules, 1970 it was laid down:",
+    "The Sub-Assistant Engineers, it is not disputed, are directly recruited through Public Service commission whereas no such procedure is laid down for appointment in the post of operator-Cum-Mechanic.",
+    "Some persons in the category of employees of operator-cum-Mechanic who were possessing Diploma in Engineering claimed entitlement to the nomenclature of the Sub-Assistant Engineer and the scale of pay prescribed therefor by filing two writ petitions in Calcutta High Court."
+  ],
+  "issues": [
+    "Applicability of the doctrine of 'equal pay for equal work' is the question involved in this appeal",
+    "Whether the post of Sub-Assistant Engineer is a direct recruitment post or a promotional post for operators-cum-Mechanics"
+  ],
+  "petitioner_arguments": [
+    "The High Court committed a manifest error in passing the impugned judgment insofar as it failed to take into consideration that the order passed in the case of Nazimuddin Ahmed (supra) could not be treated as a precedent",
+    "Non-filing of an appeal could not be a ground to pass the same order without considering the merit of the matter"
+  ],
+  "respondent_arguments": [
+    "As indisputably the earlier judgment passed by a learned Single Judge of the Calcutta High Court was acted upon by the appellant they cannot be permitted now to turn round and contend that similar scale of pay would not be granted",
+    "The respondents being graduates in science should be given the same relief as the minimum qualification laid down for holding the post of Operator-cum-Mechanic is merely matriculate"
+  ],
+  "court_reasoning": [
+    "It has been contended for the appellants that by construing the notification as including operators-cum-Mechanics in the lower time scale as Sub-Assistant-Engineer and giving them a higher scale, there would be a division amongst the Operators-cum-Mechanics in the matter of their pay scale and such an anomaly would not have been contemplated by the rule makers.",
+    "The post of Sub- Assistant Engineer is a direct recruitment post. It appears that the Division Bench assumed that the post of Sub-Assistant Engineers were ultimately a promotional post for the operators-cum-Mechanics through intermediary promotions in intermediary grades."
+  ],
+  "holding": [
+    "The respondents herein became entitled to grant of similar relief holding: When the Diploma Holder Operator-cum-Mechanics got the above benefits, those who were regularly appointed as Operator-cum-Mechanics four d that in their category of service those who were having Diploma in Engineering, were placed in higher scale of pay."
+  ],
+  "cases_cited": [
+    "Director, National Textiles Corporation Ltd. and Ors. v. N.T",
+    "Further in State of Punjab and Anr. v. Rajesh Syal",
+    "Government of West Bengal v Tarun K",
+    "In Common Cause. A Registered Society v. Union of India",
+    "In M.C. Mehta v. Kamal Nath",
+    "In Orissa University of Agriculture & Technology and Anr. v. Manoj K",
+    "In State of Bihar and Ors. v. Ramdeo Yadav",
+    "In State of Jammu & Kashmir v. Triloki Nath Khosa",
+    "Nazimuddin Ahmed and Ors. v. State of West Bengal",
+    "Nemai Chand Ghosh and Ors. v. State of West Bengal",
+    "Supreme Court Bar Asson. v Union of India",
+    "Tarun Kumar Roy and Ors. v. State of West Bengal",
+    "Yet, in mother decision in State Bank of India and Anr. v. M.R",
+    "a matter on its own merits. (See State of Maharashtra v. Digambar",
+    "and in State of West Bengal v. Debdas Kumar",
+    "court in its judgment titled State of West Bengal and Ors. v. Debdas Kumar",
+    "pay for equal work'. The Court in State of Haryana and Ors. v. Jasmer Singh",
+    "the similar circumstances, this court in State of Maharashtra v. Digambar"
+  ]
+}

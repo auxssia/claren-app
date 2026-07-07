@@ -1,0 +1,38 @@
+{
+  "case_id": "S62",
+  "case_name": "Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment",
+  "court": "",
+  "year": 0,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "161"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "Whoever abets any offence shall, if the act abelted is committed in consequence of the abetment,",
+    "An act or offence is said to be committed in consequence of abetment, when it is committed in consequence of the instigation, or in pursuance of the conspiracy, or with the aid which constitutes the abetment.",
+    "A offers a bribe to B, a public servant, as a reward for showing A some favour in the exercise of B's official functions. B accepts the bribe.",
+    "A instigates B of give false evidence. B, in consequence of the instigation, commits that offence.",
+    "A and B conspire to poison Z. A in pursuance of the conspiracy, procures the poison and delivers it to B in order that he may administer it to Z.",
+    "B, in pursuance of the conspiracy, administers the poison to Z in A's absence and thereby causes Z's death."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "be punished with the punishment provided for the offence",
+    "A is guilty of abetting that offence, and is liable to the same punishment as B"
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,60 @@
+{
+  "case_id": "C2679",
+  "case_name": "Narain Singh v State of Punjab",
+  "court": "Supreme Court of India",
+  "year": 1962,
+  "judges": [
+    "J. C. Shah"
+  ],
+  "bench": [],
+  "petitioner": "Narain Singh",
+  "respondent": "State of Punjab\nSupreme Court of India\n\n21 August 1962\nCriminal Appeal No. 218 of 1959.\nThe Judgment was delivered by : J. C. Shah, J.\n1.  After arguments were concluded in this appeal we ordered that the appellant Narain Singh be acquitted of the offence under s. 304 Part II of the Indian Penal Code of which he was convicted and the sentence passed on him be set aside. We proceed to set out our reasons in support of the order.\n2.  Narain Singh and his three nephews-Mehar Singh, Mewa Singh and Pakhar Singh-were tried before the Court of Session, Ludhiana for offences punishable under s. 302 read with s. 34 of the Indian Penal Code, on the charge that on October 31, 1958, they had in furtherance of their common intention caused the death of one Bachan Singh by making a murderous assault on him.\n3.  The prosecution case was that in the evening of October 31, 1958, when Narain Singh and his three nephews were irrigating their field, Bachan Singh diverted the flow of water i",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "304"
+    },
+    {
+      "section": "342"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "21 August 1962",
+  "outcome": "Unknown",
+  "facts": [
+    "Narain Singh and his three nephews-Mehar Singh, Mewa Singh and Pakhar Singh-were tried before the Court of Session, Ludhiana for offences punishable under s.302 read with s.34 of the Indian Penal Code.",
+    "The prosecution case was that in the evening of October 31, 1958, when Narain Singh and his three nephews were irrigating their field, Bachan Singh diverted the flow of water into his own filed.",
+    "Narain Singh and his nephews made an attack upon Bachan Singh with a kaholi, caused him serious injuries.",
+    "Bachan Singh died on November 3, 1958.",
+    "The Sessions Judge held that the evidence of Jagir Singh was unreliable and That Johri could not have witnessed the assault."
+  ],
+  "issues": [
+    "Whether Narain Singh acted in exercise of the right of self-defence",
+    "Whether the injuries on the person of Bachan Singh were caused by Narain Singh"
+  ],
+  "petitioner_arguments": [
+    "Narain Singh pleaded that he had acted in exercise of the right of self-defence and had caused injuries to Bachan Singh because the latter had thrown him down and had attempted to strangulate him.",
+    "He explained that he caused the injuries when he was thrown down and Bachan Singh was attempting to strangulate him."
+  ],
+  "respondent_arguments": [
+    "The prosecution argued that Narain Singh, when he participated in the assault on Bachan Singh, was armed with a stick."
+  ],
+  "court_reasoning": [
+    "The Sessions Judge held that the evidence of Jagir Singh was unreliable and That Johri could not have witnessed the assault.",
+    "He observed that the marks of injuries on the person of Narain Singh 'bore out his suggestion that Bachan Singh had obtained strong hold upon him with a view to strangulate him'.",
+    "The Sessions Judge accordingly acquitted Mewa Singh, Mehar Singh and Pakhar Singh of the offence charged and convicted Narain Singh of the offence punishable under s.304 Part II of the Indian Penal Code."
+  ],
+  "holding": [
+    "Narain Singh was acquitted of the offence under s.304 Part II of the Indian Penal Code",
+    "The sentence passed on him was set aside"
+  ],
+  "cases_cited": []
+}

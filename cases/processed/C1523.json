@@ -1,0 +1,52 @@
+{
+  "case_id": "C1523",
+  "case_name": "Satinder Singh Arora v State Bank of Patiala and Others",
+  "court": "Supreme Court of India",
+  "year": 1991,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Satinder Singh Arora",
+  "respondent": "State Bank of Patiala",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Writ",
+  "court_level": "Supreme Court",
+  "decision_date": "1 October 1991",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner joined service of the State Bank of Patiala as a Clerk in 1968 and was promoted to the post of Trainee Officer with effect from August 1, 1974.",
+    "By letter No. Staff/Genl/3749 dated August 1, 1974 the petitioner was informed that the Bank's Board of Directors had approved his promotion as Trainee Officer under Group B Grade II with effect from August 1, 1974 in the scale of Rs 500-1030.",
+    "By a subsequent letter dated August 14, 1975 he was informed that the Board of Directors had confirmed him as Officer Grade II with effect from August 1, 1975 in the said scale.",
+    "When the petitioner was working as Branch Manager at Birhana Road, Kanpur, he is alleged to have committed some misdemeanour.",
+    "By a letter dated January 9, 1980 he was called upon to explain the purchase bills in excess of his discretionary power of Rs 1 lakh."
+  ],
+  "issues": [
+    "Whether the Managing Director was competent to remove the petitioner from service",
+    "Whether the impugned order of removal was violative of Article 14 of the Constitution"
+  ],
+  "petitioner_arguments": [
+    "The Board of Directors alone could punish him since it had initiated the enquiry.",
+    "Under Service Regulation 68(1)(ii) only the Board of Directors i.e. the authority which appointed him could terminate his employment and not the Managing Director who was a lower authority."
+  ],
+  "respondent_arguments": [
+    "The Managing Director, as the Appointing Authority, had the power to remove the petitioner from service",
+    "The impugned order of removal was valid under Regulation 55(2)(a) of the General Regulations"
+  ],
+  "court_reasoning": [
+    "The expression 'competent authority' as it stood before the Regulations were amended in 1979 read as under.",
+    "Regulation 68(1)(ii) which is relevant for our purpose reads as under.",
+    "It is, therefore, clear from the above that on October 10, 1980 when impugned order of removal was passed the appointing authority qua officers of the rank of the petitioner was the Managing Director."
+  ],
+  "holding": [
+    "The impugned order of removal passed by the Managing Director is unassailable.",
+    "We are, therefore, inclined to think that the impugned order of removal passed by the Managing Director is unassailable."
+  ],
+  "cases_cited": [
+    "Satinder Singh Arora v State Bank of Patiala"
+  ]
+}

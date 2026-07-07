@@ -1,0 +1,52 @@
+{
+  "case_id": "S140",
+  "case_name": "None",
+  "court": "None",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "80"
+    },
+    {
+      "section": "3"
+    },
+    {
+      "section": "27"
+    },
+    {
+      "section": "2"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "No suit shall be instituted against the Government or against a public officer in respect of any act purporting to be done by such public officer in his official capacity, until the expiration of two months next after notice in writing has been delivered to, or left at the office of-",
+    "A suit to obtain an urgent or immediate relief against the Government or any public officer may be instituted, with the leave of the Court, without serving any notice as required by sub-section (1); but the Court shall not grant relief in the suit, whether interim or otherwise, except after giving to the Government or public officer, as the case may be, a reasonable opportunity of showing cause in respect of the relief prayed for in the suit",
+    "No suit instituted against the Government or against a public officer in respect of any act purporting to be done by such public officer in his official capacity shall be dismissed merely by reason of any error or defect in the notice referred to in sub-section (1), if in such notice-"
+  ],
+  "issues": [
+    "What constitutes a valid notice under this section",
+    "Whether a suit can be instituted without serving any notice as required by sub-section (1)",
+    "Under what circumstances a suit may be dismissed merely by reason of any error or defect in the notice referred to in sub-section (1)"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The Court shall not grant relief in the suit, whether interim or otherwise, except after giving to the Government or public officer, as the case may be, a reasonable opportunity of showing cause in respect of the relief prayed for in the suit",
+    "A suit instituted against the Government or against a public officer in respect of any act purporting to be done by such public officer in his official capacity shall not be dismissed merely by reason of any error or defect in the notice referred to in sub-section (1), if in such notice-"
+  ],
+  "holding": [
+    "No suit shall be instituted against the Government or against a public officer in respect of any act purporting to be done by such public officer in his official capacity, until the expiration of two months next after notice in writing has been delivered to, or left at the office of-",
+    "A suit to obtain an urgent or immediate relief against the Government or any public officer may be instituted, with the leave of the Court, without serving any notice as required by sub-section (1); but the Court shall not grant relief in the suit, whether interim or otherwise, except after giving to the Government or public officer, as the case may be, a reasonable opportunity of showing cause in respect of the relief prayed for in the suit",
+    "No suit instituted against the Government or against a public officer in respect of any act purporting to be done by such public officer in his official capacity shall be dismissed merely by reason of any error or defect in the notice referred to in sub-section (1), if in such notice-"
+  ],
+  "cases_cited": []
+}

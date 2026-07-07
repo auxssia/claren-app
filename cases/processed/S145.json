@@ -1,0 +1,40 @@
+{
+  "case_id": "S145",
+  "case_name": "Power to grant exemption from duty",
+  "court": "",
+  "year": 0,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "6"
+    },
+    {
+      "section": "7"
+    }
+  ],
+  "legal_domain": "Administrative",
+  "legal_subdomain": "Tribunal",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The Central Government has the power to grant exemption from duty in certain circumstances.",
+    "If the Central Government is satisfied that it is necessary in the public interest so to do, it may, by notification in the Official Gazette, exempt generally either absolutely or subject to such conditions (to be fulfilled before or after clearance) as may be specified in the notification goods of any specified description from the whole or any part of duty of customs leviable thereon.",
+    "The Central Government may also grant exemption from the payment of duty under circumstances of an exceptional nature."
+  ],
+  "issues": [
+    "What is the scope and applicability of the power to grant exemption from duty?",
+    "How does the power to grant exemption from duty relate to the statutory duty of customs?"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The mineral oils extracted or produced in the continental shelf of India or exclusive economic zone of India shall be deemed to be and shall always be deemed to have been exempted from the whole of the duties of customs leviable on such mineral oils."
+  ],
+  "cases_cited": []
+}

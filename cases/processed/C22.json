@@ -1,0 +1,63 @@
+{
+  "case_id": "C22",
+  "case_name": "State of Uttar Pradesh v Mohammad Naim",
+  "court": "Supreme Court of India",
+  "year": 1963,
+  "judges": [
+    "S. K. DAS J."
+  ],
+  "bench": [],
+  "petitioner": "State of Uttar Pradesh",
+  "respondent": "Mohammad Naim\nSupreme Court of India\n\n15 March 1963\nCriminal Appeal No. 81 of 1962\nThe Judgment was delivered by S. K. DAS J.\n1. This is an appeal by special leave, and it Presents some unusual features. The short facts are these. The Additional Sessions judge of Hardoi in the State of Uttar Pradesh tried Zafar Ali Khan and three other persons on charges under ss. 452 and 307 read with s. 34, Indian Penal Code, 1860. The case against the aforesaid accused persons started on a first information report lodged at a police station called Shahabad, purporting to have been so lodged at about 3.30 A. M. by one Farasat Ali Khan on the night between the 7th and 8th November, 1958. The case was investigated by one Mohammad Naim who was then the Station Officer of Shahabad police station. The learned Additional Sessions judge convicted the accused persons though he found, on the evidence given in the case, that it was more probable that the first information was lodged at",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "195"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "act": "Constitution of India"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "15 March 1963",
+  "outcome": "Unknown",
+  "facts": [
+    "The Additional Sessions judge of Hardoi in the State of Uttar Pradesh tried Zafar Ali Khan and three other persons on charges under ss. 452 and 307 read with s. 34, Indian Penal Code, 1860.",
+    "The case against the aforesaid accused persons started on a first information report lodged at a police station called Shahabad, purporting to have been so lodged at about 3.30 A. M. by one Farasat Ali Khan on the night between the 7th and 8th November, 1958.",
+    "The case was investigated by one Mohammad Naim who was then the Station Officer of Shahabad police station.",
+    "The learned Additional Sessions judge convicted the accused persons though he found, on the evidence given in the case, that it was more probable that the first information was lodged at the police station at about 7 or 8 A. M. rather than at 3.30 A. M."
+  ],
+  "issues": [
+    "Whether the State of Uttar Pradesh had locus standi to make an application under s. 561-A Cr. P. C.",
+    "Whether the High Court has inherent power to expunge the remarks made by it or by a lower court to prevent abuse of the process of any court or otherwise to secure the ends of justice."
+  ],
+  "petitioner_arguments": [
+    "The State Government could not be said to have been aggrieved by the observations made by him.",
+    "The State represented the executive as well as the judiciary and therefore it would be anomalous if it made an application under s. 561-A Cr. P. C., for such an application would be by the State through its executive to expunge remarks made by it as the judiciary."
+  ],
+  "respondent_arguments": [
+    "If the State Government considers that the observations made by a court in respect of a department or officers through whom the State Government exercises its executive powers are such as require invoking the inherent power of the High Court under s. 561-A Cr. P. C., it is difficult to see why the State Government cannot be considered to be the party aggrieved by such observations."
+  ],
+  "court_reasoning": [
+    "The section confers no new powers on the High Court. It merely safeguards all existing inherent powers possessed by a High Court necessary (among other purposes) to secure the ends of justice.",
+    "We fail to see why the State Government cannot make an application under s. 561-A. We see nothing anomalous in the State Government moving the court for redress when it feels aggrieved by remarks made against it."
+  ],
+  "holding": [
+    "The finding of the learned judge that the State Government has no locus standi to make the application under s. 561-A Cr. P. C. is erroneous in law.",
+    "We have, therefore, come to the conclusion that the State Government may make an application to the High Court under s. 561-A in the same way as it may direct the Public Prosecutor to present an appeal on its behalf to the High Court under s. 417 or may invoke through one of its officers the jurisdiction of the High Court under s. 439 of the Code."
+  ],
+  "cases_cited": [
+    "In State of U. P. v. J. N",
+    "Lalit Kumar v. S. S",
+    "and order of the Allahabad High Court. In State of U. P. v. Ibrar Hussain (Judgment of this court in Cr",
+    "and prevent abuse of the process of the court lsee Emperor v. Ch. Mohd"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "case_id": "C2562",
+  "case_name": "Bannareddy and others v State of Karnataka and others",
+  "court": "Supreme Court of India",
+  "year": 2018,
+  "judges": [
+    "N.V. Ramana, J."
+  ],
+  "bench": [],
+  "petitioner": "Bannareddy and others",
+  "respondent": "State of Karnataka",
+  "citations": [
+    "2008 11 SCC 186",
+    "2011 2 SCC 490"
+  ],
+  "statutes": [
+    {
+      "act": "Read With Section 149 Of The Indian Penal Code",
+      "section": "148"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "12 March 2018",
+  "outcome": "Unknown",
+  "facts": [
+    "On 29.08.2008, when the village fair was ongoing, the accused no-2 (Dharmareddy) picked up quarrel with P.W.2 (Hemaraddi), wherein the second accused threatened to finish P.W.2 (Hemaraddi), but this was pacified with the intervention of the persons present there.",
+    "On the same day when P.W.5 (Sanjeevareddy), P.W.2 (Hemaraddi) & P.W.3 (Lingareddy) were walking to the house, at around 09:30 pm, the accused persons armed with iron rods, clubs etc. approached them and started abusing them and restrained them.",
+    "Certain witnesses intervened and rescued the complainant and other victims immediately.",
+    "As the P.W.2 and P.W.3 were injured, they were taken to Navalgund Government Hospital and later to KIMS Hospital, Hubli, thereafter they were transferred to the Sushruta Multi Speciality Nursing Home."
+  ],
+  "issues": [
+    "The power and jurisdiction of the High Court while interfering in an appeal against acquittal.",
+    "Whether the prosecution case is full of contradictions and the material evidence available on record is highly inconsistent",
+    "Whether the order of the High Court, reversing an order of acquittal, is unsustainable"
+  ],
+  "petitioner_arguments": [
+    "The prosecution case is full of contradictions and the material evidence available on record is highly inconsistent.",
+    "The order of the High Court, reversing an order of acquittal, is unsustainable."
+  ],
+  "respondent_arguments": [
+    "The impugned judgment of the High Court convicting the accused-appellants is supported."
+  ],
+  "court_reasoning": [
+    "The High Court should not interfere in the well reasoned order of the trial court which has been arrived at after proper appreciation of the evidence.",
+    "If two views are reasonably possible from the evidence on record, one favouring the accused and one against the accused, the High Court is not expected to reverse the acquittal merely because it would have taken the view against the accused had it tried the case."
+  ],
+  "holding": [
+    "The appeal by special leave is directed against the judgment dated 29th November, 2017 passed by the High Court of Karnataka, Bench at Dharwad in Criminal Appeal No.100108 of 2014.",
+    "The appellants were convicted under Sections 148, 341, 504 and 326 read with 149 of IPC."
+  ],
+  "cases_cited": [
+    "Bannareddy and others v State of Karnataka",
+    "Dara Singh vs. Republic of India",
+    "elucidated in the case of Sambhaji Hindurao Deshmukh and Ors. vs. State of Maharashtra"
+  ]
+}

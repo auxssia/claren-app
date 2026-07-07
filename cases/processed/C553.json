@@ -1,0 +1,58 @@
+{
+  "case_id": "C553",
+  "case_name": "Karunakaran v State of Tamil Nadu",
+  "court": "Supreme Court of India",
+  "year": 1975,
+  "judges": [
+    "P. K. Goswami, J."
+  ],
+  "bench": [],
+  "petitioner": "Karunakaran",
+  "respondent": "State of Tamil Nadu\nSupreme Court of India\n\n12 November 1975\nCRIMINAL APPELLATE JURISDICTION: Cr.A. No. 425 1974. Appeal by Special Leave from the Judgment and order Dt. 22 July 1974 of the Madras High Court at Madras in Cr.A. No. 24 of 1974 and Referred Trial No. 3 of 1974.\nThe Judgment was delivered by : P. K. Goswami, J.\n1. This appeal by special leave is directed against the 4 judgments and order of the, High Court of Madras convicting the appellant (hereinafter to be described as the accused) under section 302 IPC and sentencing him to death.\n2. The police had submitted charge-sheet under section 302/34 IPC against the present accused and accused Jabamani Nadar alias Kanyakumari Comrade alias Ramu and Thamizharasan alias Ramaswami, who was shown as an absconder. On the prayer of the prosecution the case against the first two accused without the absconding accused, was taken up for trial. The two accused were charged under section 120B read with sections 302 and 109 I",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "120B"
+    },
+    {
+      "act": "Constitution of India",
+      "section": "136"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Murder",
+  "court_level": "Supreme Court",
+  "decision_date": "12 November 1975",
+  "outcome": "Unknown",
+  "facts": [
+    "The deceased, Viswanatham Pillai, was the village Munsif (Headman).",
+    "On April 26, 1971, at about 10.00 P.M., he was sleeping on a bench outside his cattle-shed in the open space.",
+    "Pandurangam woke up at about 11.15 P.M. On hearing the shout of his deceased brother crying 'Karunakaran is running after stabbing me with knife.'Catch him'.",
+    "He got up and saw the accused Karunakaran running on the eastern bank of the channel with a knife 8 inches long."
+  ],
+  "issues": [
+    "Whether the testimony of PW 4, the sole witness, is reliable",
+    "Whether the High Court correctly assessed the quality of the testimony"
+  ],
+  "petitioner_arguments": [
+    "The accused has no motive to implicate the first accused",
+    "PW 4 gave a 'candid, natural and truthful version' at the earliest opportunity"
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The High Court rejected the evidence of eye witnesses PW 1, 2, 3 and 5 as 'a bunch of liars', 'unashamed liars and perjurers'",
+    "PW 4's testimony has been contradicted by medical evidence",
+    "There is no corroboration for PW 4's testimony"
+  ],
+  "holding": [
+    "The conviction and sentence of death are set aside",
+    "The appeal is allowed and the accused shall be released from detention forthwith"
+  ],
+  "cases_cited": []
+}

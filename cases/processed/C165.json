@@ -1,0 +1,51 @@
+{
+  "case_id": "C165",
+  "case_name": "State of Bihar and Another v Ranchi Zila Samta Party and Anr",
+  "court": "Supreme Court of India",
+  "year": 1996,
+  "judges": [],
+  "bench": [],
+  "petitioner": "State of Bihar and Another",
+  "respondent": "Ranchi Zila Samta Party",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Delhi Special Police Act",
+      "section": "6"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 226",
+  "court_level": "Supreme Court",
+  "decision_date": "19 March 1996",
+  "outcome": "Unknown",
+  "facts": [
+    "A large-scale defalcation of public funds, fraudulent transactions and falsification of accounts, to the tune of around Rs.500 crores, came to light in the Animal Husbandry Department of the State of Bihar.",
+    "This had taken place during the years 1977-78 to 1995-96.",
+    "A similar situation prevailed in the Education, Cooperation and Fisheries Departments."
+  ],
+  "issues": [
+    "Whether the High Court could take the investigation away from the State police and entrust it to the Central Bureau of Investigation [CBI]."
+  ],
+  "petitioner_arguments": [
+    "The power was traceable to Entry 39 of the Government of India Act, 1935.",
+    "The State police could not be divested of the power.",
+    "The investigation by the Central agency could not have been ordered by the High Court without the consent of the State Government."
+  ],
+  "respondent_arguments": [
+    "The power of the High Court was unlimited",
+    "There were self-imposed limitations on the exercise or that power.",
+    "In view of the enormity fraudulent transactions that had taken place within the administration of the State, they needed to be investigated and the erring officers brought to book by an independent agency."
+  ],
+  "court_reasoning": [
+    "The direction given by the High Court appears to be just and proper and calls for no real interference.",
+    "To alleviate the apprehensions of the State about the control of the investigation by the CBI, it should be under the overall control and supervision of the Chief Justice of the Patna High Court."
+  ],
+  "holding": [
+    "The appeals are disposed of accordingly.",
+    "No costs. Appeal disposed of"
+  ],
+  "cases_cited": [
+    "State of Bihar and Another v Ranchi Zila Samta Party"
+  ]
+}

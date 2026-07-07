@@ -1,0 +1,45 @@
+{
+  "case_id": "C1363",
+  "case_name": "Hirdai Singh and another v State of Bihar and Others",
+  "court": "Supreme Court of India",
+  "year": 1988,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Hirdai Singh and another",
+  "respondent": "State of Bihar",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Read With Section 149 Ipc But On Appeal The High Court Set Aside The Conviction Of All The Respondents Excepting The Respondent Aside The Conviction Of All The Respondents Excepting The Respondent Ramanuj Singh Holding That There Was No Convincing Or Reliable Evidence On Which It Could Be Said That They Had Act",
+      "section": "307"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "11 April 1988",
+  "outcome": "Unknown",
+  "facts": [
+    "The accused respondents were convicted by the trial court under Section 307 read with Section 149 IPC",
+    "On appeal, the High Court set aside the conviction of all the respondents excepting Ramanuj Singh holding that there was no convincing or reliable evidence on which it could be said that they had actually participated in the assault",
+    "So far as respondent Ramanuj Singh is concerned, the High Court agreed with the trial court that there was cogent and reliable evidence to establish that he had struck Sita Ram Singh (PW 7) with a 'bhala' in the stomach",
+    "The High Court reduced the sentence of rigorous imprisonment for 10 years passed by the trial court to imprisonment for the period already undergone with a fine of Rs. 500 or in default to undergo rigorous imprisonment for a period of six months"
+  ],
+  "issues": [
+    "Whether the reasoning of the High Court for reducing the sentence of Ramanuj Singh is valid",
+    "What is the appropriate sentence commensurate with the seriousness of the offence"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "It is the duty of a court to pass an appropriate sentence having regard to the facts and circumstances of each case keeping in view the seriousness or otherwise of the offence",
+    "The reasoning of the High Court for reducing the sentence of Ramanuj Singh is difficult to support"
+  ],
+  "holding": [
+    "Appeals partly allowed",
+    "Set aside the sentence passed by the High Court against the respondent Ramanuj Singh and direct the High Court to impose appropriate sentence commensurate with the seriousness of the offence after hearing the parties"
+  ],
+  "cases_cited": [
+    "Hirdai Singh and another v State of Bihar"
+  ]
+}

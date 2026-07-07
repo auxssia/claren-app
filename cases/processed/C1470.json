@@ -1,0 +1,59 @@
+{
+  "case_id": "C1470",
+  "case_name": "Pampapathy v State of Mysore",
+  "court": "Supreme Court of India",
+  "year": 1966,
+  "judges": [
+    "V. Ramaswami"
+  ],
+  "bench": [],
+  "petitioner": "Pampapathy",
+  "respondent": "State of Mysore\nSupreme Court of India\n\n28 July 1966\nCriminal Appeals Nos. 121\nand 122 of 1966\nThe Judgment was delivered by : V. Ramaswami, J.\n1.  The appellants Pampapathy and Shekarappa were tried in the Court of Sessions at Chitradurga for offences under ss. 147, 148, 307, 323, 302 read with s. 149 and s. 325 read with s. 149 of the Indian Penal Code; and convicted of all the offences other than under s. 307 and s. 302 read with s. 149, Indian Penal Code.\n2.  The case of the prosecution was that the appellants, along with",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Was Added To The Code",
+      "section": "561A"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "28 July 1966",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants Pampapathy and Shekarappa were tried in the Court of Sessions at Chitradurga for offences under ss. 147, 148, 307, 323, 302 read with s. 149 and s. 325 read with s. 149 of the Indian Penal Code; and convicted of all the offences other than under s. 307 and s. 302 read with s. 149, Indian Penal Code.",
+    "The case of the prosecution was that the appellants, along with others, some of whom were dismissed workers of Devangiri Cotton Mills and Shri Ganeshar Textiles Mills and some of whom were office bearers and members of the Devangiri Cotton Mills Employees' Association and Shri Ganeshar Textiles Mills Workers Union, conspired with the common object of committing murder and other offences with a view to strengthen their Associations and to weaken the rival Unions which had the sympathy of the Mill Managements.",
+    "It was alleged that they intended to create fear in the mind of the Management of the Mills in order to gain their object of getting more bonus and get the dismissed workers reinstated.",
+    "The Sessions Judge, by his judgment dated December 7, 1964 convicted both the appellants for offences under ss. 147, 148, 322 .324 and 325 read with s. 149, Indian Penal Code.",
+    "On March 7, 1966, the State made two applications under ss. 498(2) and 561A, Criminal Procedure Code for cancellation of the bail granted to the two appellants.",
+    "The appellants filed a counteraf fidavit denying that they were acting in a manner likely to cause breach of peace or endanger the lives of the workers."
+  ],
+  "issues": [
+    "Whether, in the case of a person convicted of a bailable offence where bail has been granted to him under s. 426 of the Criminal Procedure Code, it can be cancelled in a proper case by the High Court in exercise of its inherent power under s. 561A of the Crimitial Procedure Code?"
+  ],
+  "petitioner_arguments": [
+    "It was argued by Mr. Ramamurthy on behalf of the appellants that after the High Court had once made an order suspending the sentence and granting bail to the appellants under s. 426, Criminal Procedure Code it had no power to cancel that order subsequently and recommit the appellants to jail custody.",
+    "It was submitted that there was no express power granted to the appellate court to cancel its order regarding the suspension of sentence pending the appeal and the order of release of the appellants on bail."
+  ],
+  "respondent_arguments": [
+    "It was argued by Mr. Ramamurthy on behalf of the respondents that if the legislature intended to confer such a power on the appellate court under s. 426 it would have been very easy for it to add an appropriate subsection and make an express provision for such a power.",
+    "The argument put forward on behalf of the appellants is that if the legislature intended to confer such a power on the appellate court under s. 426 it would have been very easy for it to add an appropriate subsection and make an express provision for such a power."
+  ],
+  "court_reasoning": [
+    "In our opinion, there is no justification for the argument put forward on behalf of the appellants.",
+    "It is true that in s. 498 and ss. 497(5) and 498 the legislature has made express provision for the cancellation of a bail bond in the case of accused persons released on bail during the course of the trial but no such express provision has been made by the legislature in the case of a convicted person whose sentence has been suspended under s. 426 and there has been an order of release of the appellant on bail.",
+    "There is obviously a lacuna but the omission of the legislature to make a specific provision in that behalf is clearly due to oversight or inadvertence and cannot be regarded as deliberate."
+  ],
+  "holding": [
+    "The High Court's order cancelling the bail granted to the appellants was upheld."
+  ],
+  "cases_cited": [
+    "A of the Code (Mirza Mohammad Ibrahim v. Emperor",
+    "Bachchu Lal v. State",
+    "Munshi Singh v. State",
+    "Seoti v. Rex",
+    "and The Crown Prosecutor, Madras v. Krishnan",
+    "the decision of the Judicial Committee in Lala Jairam Das v. KingEmperor"
+  ]
+}

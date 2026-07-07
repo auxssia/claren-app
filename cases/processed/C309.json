@@ -1,0 +1,76 @@
+{
+  "case_id": "C309",
+  "case_name": "Srinivasa Cooperative House Building Society Limited v Madam G.Sastry",
+  "court": "Supreme Court of India",
+  "year": 1994,
+  "judges": [
+    "K. Ramaswamy"
+  ],
+  "bench": [],
+  "petitioner": "Srinivasa Cooperative House Building Society Limited",
+  "respondent": "Madam G.Sastry\nSupreme Court of India\n\n3  May  1994\nC.A. Nos. 2339 to 2346 of 1989 (From the Judgment and Order Dt. 6 December 1986 of the Andhra Pradesh High Court in W.A. Nos. 316, 561-64, 575, 576 and 577 of 1986)\nThe Judgment was delivered by : K. Ramaswamy, J.\n1. Admittedly the appellant was registered under the Andhra Pradesh Cooperative Societies Act. Its object appears to be to develop the land and allot plots thereof to its members for construction of houses. Notification under Section 4(1) of the Land Acquisition Act, 1894 for short 'the Act' was published in the State Gazette on 8-2-1979, acquiring an extent of 71 acres 56 cents of land situated in Moolasagaram near Nandyal in Kurnool District for the aforesaid purpose. A report under Section 5-A, of the inquiry, was submitted to the Government. The appellant entered into an agreement under Section 41 of the Act dated 12-12-1981 with the Government treating the appellant",
+  "citations": [
+    "1963 SUPP 2",
+    "1975 1 SCC 824",
+    "1978 2 SCC 373",
+    "1980 4 SCC 271",
+    "1983 4 SCC 553",
+    "AIR 1961 SC 343",
+    "AIR 1963 SC 151",
+    "AIR 1963 SC 849"
+  ],
+  "statutes": [
+    {
+      "act": "The Act",
+      "section": "41"
+    },
+    {
+      "act": "The Act",
+      "section": "6"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "3 May 1994",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellant was registered under the Andhra Pradesh Cooperative Societies Act.",
+    "Notifying under Section 4(1) of the Land Acquisition Act, 1894 for short 'the Act' was published in the State Gazette on 8-2-1979, acquiring an extent of 71 acres 56 cents of land situated in Moolasagaram near Nandyal in Kurnool District for the aforesaid purpose.",
+    "The appellant entered into an agreement under Section 41 of the Act dated 12-12-1981 with the Government treating the appellant as a company and it was published in the Gazette dated 4-2-1982.",
+    "It is not necessary to mention the previous history of the litigation but suffice to state that a Single Judge dismissed one writ petition and allowed other writ petitions on 9-12-1985 on the ground that the procedure prescribed in Part VII of the Act had not been followed holding when the acquisition was for public purpose."
+  ],
+  "issues": [
+    "The procedure prescribed in Part VII of the Act had not been followed",
+    "The acquisition was for a public purpose or private purpose",
+    "The mandatory requirements in Chapter VII need not be followed"
+  ],
+  "petitioner_arguments": [
+    "Once the Government contributed Rs 200 from the public exchequer, the public purpose envisaged under Section 3(f) of the Act is satisfied and the requirements envisaged in Chapter VII need not be followed.",
+    "Once the acquisition was found to be for providing house sites to the members of the Cooperative Society, it was a public purpose and that, therefore, mandatory requirement of Chapter VII was not required to be followed."
+  ],
+  "respondent_arguments": [
+    "The respondents are small farmers",
+    "The appellant-society consists of members who could afford to construct houses by themselves",
+    "Acquiring the lands of the poor small farmers for the benefit of the rich is arbitrary and the contribution of Rs 100 each by the Government is a colourable exercise of the power to avoid the mandatory requirements in Chapter VII of the Act."
+  ],
+  "court_reasoning": [
+    "The interest of a section of the society may be public purpose when it is benefited by the acquisition.",
+    "The acquisition must indicate that it was towards the welfare of the people and not to benefit a private individual or group of individuals joined collectively.",
+    "Therefore, acquisition for anything which is not for a public purpose cannot be done compulsorily."
+  ],
+  "holding": [
+    "The High Court was wrong in quashing the notification and the declarations on the ground that the acquisition of the small farmers inferentially offends Articles 14 and proviso to Article 31-A of the Constitution is unwarranted.",
+    "If a company, namely a Cooperative Society registered under the Central or State Cooperative Societies Act, preceding 1984 Amendment Act, had to acquire the land it had to do so in strict compliance with Chapter VII."
+  ],
+  "cases_cited": [
+    "In Manubhai Jehtalal Patel v. State of Gujarat",
+    "In Somavanti Smt v. State of Punjab",
+    "Srinivasa Cooperative House Building Society Limited v Madam G",
+    "This Court in Virupaxappa Veerappa Kadampur v. State of Mysore",
+    "exercise of the power. In Land Acquisition Collector v. Durga Pada Mukherjee",
+    "held to be colourable exercise of the power. In Bai Malimabu v. State of Gujarat",
+    "illusory so as to invalidate the acquisition. In Jhandulal v. State of Punjab",
+    "not colourable exercise of such powers. In Indrajit C. Parekh v. State of Gujarat"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "case_id": "C2385",
+  "case_name": "Sat Pal Gupta and Another v State of Haryana and Another",
+  "court": "Supreme Court of India",
+  "year": 1982,
+  "judges": [
+    "Y. V. Chandrachud"
+  ],
+  "bench": [],
+  "petitioner": "Sat Pal Gupta and Another",
+  "respondent": "State of Haryana and Another\nSupreme Court of India\n\n5 February 1982\nCIVIL APPELLATE JURISDICTION : Civil Appeal No. 1099(N) of 1972. Appeal by special leave from the judgment and order dated the 12th October, 1971 of the Punjab and Haryana High Court in Civil Writ No. 3400 of 1971.\nThe Judgment was delivered by : Y. V. Chandrachud, J.\n1. The appellants, in this appeal by special leave, are dealers in rice, paddy and rice bran. They also have an associate rice milling and husking plant which is run under the name and style of Jagdamba Rice Mills, Traori.\n2. Section 3 of the Essential Commodities Act, 10 of 1955, empowers the Central Government, under the circumstances stated in that section, to issue notified orders providing for the regulation of production, supply and distribution of any essential commodity. Under Section 5, the Central Government can delegate its powers to a State Government or an officer or authority subordinate to it. In exercise of tha",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Essential Commodities Act",
+      "section": "3"
+    },
+    {
+      "act": "The Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 226",
+  "court_level": "Supreme Court",
+  "decision_date": "5 February 1982",
+  "outcome": "Unknown",
+  "facts": [
+    "The appellants, Sat Pal Gupta and Another, are dealers in rice, paddy, and rice bran.",
+    "They also have an associate rice milling and husking plant which is run under the name and style of Jagdamba Rice Mills, Traori.",
+    "Section 3 of the Essential Commodities Act, 10 of 1955, empowers the Central Government to issue notified orders providing for the regulation of production, supply, and distribution of any essential commodity.",
+    "The appellants filed a writ petition under Article 226 of the Constitution in the High Court of Punjab and Haryana, challenging clause 3 of the Haryana Rice Bran (Distribution and Price) Control Order, 1967."
+  ],
+  "issues": [
+    "Whether rice bran is an essential commodity",
+    "Whether the power conferred by section 3(1) of the Essential Commodities Act can be exercised for regulating the sale or supply of rice bran"
+  ],
+  "petitioner_arguments": [
+    "Rice bran is not an essential commodity and therefore, the power conferred by section 3 cannot be exercised for regulating its sale or supply."
+  ],
+  "respondent_arguments": [
+    "Rice bran is a foodstuff within the meaning of section 2(a)(v) of the Act and therefore, it is an essential commodity."
+  ],
+  "court_reasoning": [
+    "The word 'foodstuffs' which occurs in clause (v) of Section 2(a) is not defined in the Act and therefore it must receive its ordinary and natural meaning.",
+    "Cattle feed and poultry feed are food to the cattle and the poultry, and therefore they are foodstuffs.",
+    "If what the human beings eat is food, so is what the other living beings eat."
+  ],
+  "holding": [
+    "We are of the opinion that rice bran being a foodstuff within the meaning of section 2(a)(v) of the Act, it is an essential commodity and therefore, the power conferred by section 3 can be used to regulate its production, sale or supply.",
+    "The appeal is dismissed but without costs."
+  ],
+  "cases_cited": [
+    "Sat Pal Gupta and Another v State of Haryana",
+    "and Shriniwas Pannalal Chockani v. The Crown which were cited by Shri Maheshwari",
+    "to a decision of this Court in M/s Sachdeva & Sons & Ors v. State of Punjab &"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "case_id": "C1792",
+  "case_name": "Jayant Achyut Sathe v Joseph Bain D'Souza and Others",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "Arijit Pasayat"
+  ],
+  "bench": [],
+  "petitioner": "Jayant Achyut Sathe",
+  "respondent": "Joseph Bain D'Souza",
+  "citations": [
+    "2006 3 SCC 434"
+  ],
+  "statutes": [
+    {
+      "section": "88(3)"
+    },
+    {
+      "section": "1200"
+    },
+    {
+      "section": "88"
+    },
+    {
+      "section": "82"
+    },
+    {
+      "section": "84"
+    },
+    {
+      "section": "103"
+    },
+    {
+      "section": "37"
+    },
+    {
+      "section": "154"
+    },
+    {
+      "act": "Constitution of India"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Property",
+  "court_level": "Supreme Court",
+  "decision_date": "4 September 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "The three writ petitioners (respondent Nos. 1, 2 and 3 herein) claiming to be public spirited citizens filed a writ petition before the Bombay High Court.",
+    "The 1st petitioner is a former Municipal Commissioner of Mumbai, who is also a former Chief Secretary of the State of Maharashtra.",
+    "The 2nd petitioner has been a member of various committees concerning urban development.",
+    "The 3rd petitioner is a Civil Engineer by profession and for many years was an Executive Committee Member of the Bombay Metropolitan Authority.",
+    "He was also a member of the Slum Rehabilitation Committee constituted by the State of Maharashtra.",
+    "Several parties intervened in the matter. Two of them were the property owners. One was the Property Owners' Association and one claimed to be a tenant in pre 1940 building.",
+    "One of the interveners was Property Redevelopers' Association. Intervener No.6 was an Architect by profession who supported the petition while others opposed the petition."
+  ],
+  "issues": [
+    "Challenge to Regulation 33 (7) of the Development Control Regulations, 1991",
+    "Maintainability of the writ petitions"
+  ],
+  "petitioner_arguments": [
+    "The petitioners are concerned with the problem of congestion of the population in the island city of Mumbai.",
+    "The existing infrastructure in the island city, particularly with respect to roads, water supply, sewage system, open areas and gardens, is already over stretched and under extreme strain."
+  ],
+  "respondent_arguments": [
+    "Respondent No.3 was a statutory authority constituted under the Maharashtra Housing and Area Development Act, 1976 (in short the 'Development Act').",
+    "The concerned authority is Maharashtra Housing and Area Development Authority (MHADA)."
+  ],
+  "court_reasoning": [
+    "We hold that the petition is very much maintainable and we read the provisions of the first part of D.C. Regulation 33 (7) to cover only the privately owned dilapidated buildings which require reconstruction and where the cost of structural repairs exceeds the monetary requirement specified u/s. 88(3) of the MHAD Act.",
+    "The requirement of reducing side spaces for the buildings to be reconstructed is bad in law and they will have to be provided with the minimum side spaces as required in the buildings on small plots, vis. 3.6 metres."
+  ],
+  "holding": [
+    "We direct, with a view not to cause prejudice to the investors, that those projects of reconstruction, which have already been approved, will proceed as it is.",
+    "However, the buildings not having the certificate of the cost of structural repairs exceeding Rs. 1200/- per sq.m. u/s. 88 (3) of the MHAD Act will not be permitted reconstruction henceforth."
+  ],
+  "cases_cited": [
+    "Court in Peerless General Finance and Investment Co. Ltd. v. Reserve Bank of India in which Kasliwal",
+    "In Premium Granites v. State of T",
+    "In State of M.P. v. Nandlal Jaiswal",
+    "Jayant Achyut Sathe v Joseph Bain D'Souza",
+    "Supreme Court of the United States in Metropolis Theater Co. v. State of Chicago",
+    "Vivian Joseph Ferreira and Anr. v. The Municipal Corporation of Greater Bombay",
+    "in Commissioner of Income Tax, New Delhi (now Rajasthan) v. M/s East West Import",
+    "need to be looked into. In Balco Employees Union (Regd.) v. Union of India",
+    "the following admonition given by frankfurter J in morey v. Doud",
+    "was impugned, came up for consideration in G.B. Mahajan v. Jalgaon Municipal Council",
+    "with laws relating to economic activities in R.K. Garg v. Union of India"
+  ]
+}

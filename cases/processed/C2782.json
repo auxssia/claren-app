@@ -1,0 +1,106 @@
+{
+  "case_id": "C2782",
+  "case_name": "Chandra Babu @ Moses v State, through Inspector of Police and others",
+  "court": "Supreme Court of India",
+  "year": 2015,
+  "judges": [
+    "Dipak Misra"
+  ],
+  "bench": [],
+  "petitioner": "Chandra Babu @ Moses",
+  "respondent": "State, through Inspector of Police",
+  "citations": [
+    "1985 2 SCC 537",
+    "1993 2 SCC 16",
+    "1997 1 SCC 361",
+    "2001 7 SCC 536",
+    "2004 5 SCC 347",
+    "2009 11 SCC 299",
+    "2009 9 SCC 129",
+    "2010 9 SCC 479",
+    "2012 9 SCC 460",
+    "2013 5 SCC 762",
+    "2013 9 SCC 199",
+    "2014 3 SCC 306"
+  ],
+  "statutes": [
+    {
+      "section": "173(8)"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "section": "147"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "190(1)"
+    },
+    {
+      "section": "173(2)"
+    },
+    {
+      "section": "154"
+    },
+    {
+      "section": "173"
+    },
+    {
+      "section": "482"
+    },
+    {
+      "act": "Constitution of India"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "7 July 2015",
+  "outcome": "Unknown",
+  "facts": [
+    "The informant-appellant calls in question the defensibility of the order dated 13.12.2011 passed by the learned Single Judge of the High Court of Judicature of Madras at Madurai.",
+    "The appellant filed an FIR with the Sub-Inspector of Police, Kulasekaram Police Station, upon which Crime No. 119/2007 was registered u/s 147, 148, 341, 324, 323 and 307 of Indian Penal Code (IPC).",
+    "The informant had alleged that on 05.06.2007 about 2 p.m., Manikandan, Jegan, Murugan, Vijayan, Sunil and some others attacked him with 'Vettu Kathi', knife and iron rod and in the said attack he sustained multiple injuries.",
+    "The motive behind the assault, as per the FIR, was due to business rivalry that existed between the appellant and Manikandan, as both are contractors.",
+    "In the meantime, the appellant had filed a protest petition dated 5.1.2009 forming the subject matter of Crl. M.P. no. 1974/2009 on the file of the learned Judicial Magistrate praying therein to direct CBCID to re-open the case and file a fresh report.",
+    "The High Court called for the report from the Magistrate's Court and, thereafter, set aside the order accepting the final report and directed the Magistrate to consider the final report along with the protest petition.",
+    "The learned Magistrate vide order dated 29.07.2009 dismissed the protest petition.",
+    "Being aggrieved by the said order, the appellant preferred Criminal Revision Petition, i.e., Crl. R.C. No. 458 of 2009 in the High Court.",
+    "After the remit, the Chief Judicial Magistrate, Nagercoil, took up the case for further enquiry.",
+    "The Court after hearing both the appellant and the Assistant Public Prosecutor came to the conclusion that the investigation by the Inspector of Police, District Crime Branch had been conducted in a biased manner and the said authority had laboured hard to save the accused persons and hence, the final report submitted by the investigating officer was not acceptable."
+  ],
+  "issues": [
+    "Whether the High Court, in exercise of the revisional jurisdiction, should have adverted to the merits of the case in extenso.",
+    "Whether the learned Chief Judicial Magistrate could have directed for reinvestigation and secondly, whether it could have directed for reinvestigation by another investigating agency."
+  ],
+  "petitioner_arguments": [
+    "The High Court has absolutely flawed by entering into the merits of the case when the learned Chief Judicial Magistrate had only directed for reinvestigation by different investigating agency.",
+    "If the order passed by the Chief Judicial Magistrate is read in entirety, it would convey that he in actuality has directed for further investigation, but has used the expression 'reinvestigation' as it was directing investigation to be carried out by another agency."
+  ],
+  "respondent_arguments": [
+    "The learned Magistrate has no power for directing reinvestigation, and hence, the order passed by the High Court is absolutely impregnable.",
+    "When a protest petition is filed and it has been directed to be treated as a private complaint, the appellant, in no manner, is prejudiced and, therefore, there is no warrant for interference in this appeal."
+  ],
+  "court_reasoning": [
+    "It is well settled in law that inherent as well as revisional jurisdiction should be exercised cautiously.",
+    "Normally, a revisional jurisdiction should be exercised on a question of law. However, when factual appreciation is involved, then it must find place in the class of cases resulting in a perverse finding.",
+    "The power is required to be exercised so that justice is done and there is no abuse of power by the Court."
+  ],
+  "holding": [
+    "The High Court's conclusion with regard to the factual score is unsustainable.",
+    "The order passed by the Chief Judicial Magistrate is wholly unsustainable.",
+    "The scheme of S. 173(8) CrPC only enables the investigating officer to request for further investigation."
+  ],
+  "cases_cited": [
+    "It took note of the decisions in Hasanbhai Valibhai Quareshi vs State of Gujarat",
+    "Moses v State",
+    "amongst others in Reeta Nag v. State of W",
+    "and Hemant Dhasmana vs CBI",
+    "and Randhir Singh Rana v. State (Delhi Admn",
+    "passage from a three-Judge Bench decision in Bhagwant Singh v. Commr",
+    "supra), Sonalai Soni vs State of Chattisgarh"
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "case_id": "C2804",
+  "case_name": "State of Telangana v Habib Abdullah Jeelani and others",
+  "court": "Supreme Court of India",
+  "year": 2017,
+  "judges": [
+    "Dipak Misra, J."
+  ],
+  "bench": [],
+  "petitioner": "State of Telangana",
+  "respondent": "Habib Abdullah Jeelani",
+  "citations": [
+    "1970 1 SCC 595",
+    "1972 1 SCC 452",
+    "1977 4 SCC 137",
+    "1977 4 SCC 451",
+    "1980 2 SCC 565",
+    "1988 1 SCC 692",
+    "1988 4 SCC 655",
+    "1994 3 SCC 569",
+    "1994 4 SCC 260",
+    "2003 6 SCC 175",
+    "2005 6 SCC 1",
+    "2006 1 SCC 479",
+    "2006 13 SCC 737",
+    "2009 4 SCC 437",
+    "2009 8 SCC 325",
+    "2012 5 SCC 690",
+    "2013 16 SCC 797",
+    "2014 2 SCC 1",
+    "2014 4 SCC 453",
+    "AIR 1945 PC 18",
+    "AIR 1974 SC 1146",
+    "AIR 1976 SC 1947",
+    "AIR 1977 SC 2185",
+    "AIR 1977 SC 2229",
+    "AIR 1980 SC 1632",
+    "AIR 1980 SC 326",
+    "AIR 1982 SC 949",
+    "AIR 1988 SC 709",
+    "AIR 1989 SC 1",
+    "AIR 1992 SC 604"
+  ],
+  "statutes": [
+    {
+      "act": "Code Of Criminal Procedure",
+      "section": "482"
+    },
+    {
+      "act": "Criminal Procedure Code",
+      "section": "491"
+    },
+    {
+      "act": "In Any Other Form Would Not Only Be Detrimental To The Scheme Of The Code",
+      "section": "154"
+    },
+    {
+      "act": "The Code",
+      "section": "154"
+    },
+    {
+      "act": "Code Will Not Be In Contravention Of Article 21 Of The Constitution",
+      "section": "154"
+    },
+    {
+      "act": "Crpc Or Under Article 226 Of The Constitution",
+      "section": "482"
+    },
+    {
+      "act": "Crpc As Expressed By The Constitution",
+      "section": "438"
+    },
+    {
+      "act": "The Code",
+      "section": "438"
+    },
+    {
+      "act": "Crpc In The State Of Uttar Pradesh Is Constitution",
+      "section": "438"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "6 January 2017",
+  "outcome": "Unknown",
+  "facts": [
+    "On the basis of a report by the informant under Section 154 CrPC, FIR No. 205/2014 dated 26.07.2014 was registered at Chandrayanagutta Police Station, Hyderabad for the offences punishable under Sections 147, 148 149 and 307 of the Indian Penal Code (IPC).",
+    "Challenging the initiation of criminal action, the three accused persons, namely, accused Nos. 1, 2 and 5, (respondent Nos. 1, 2 and 3 herein) invoked inherent jurisdiction of the High Court in Criminal Petition No. 10012 of 2014 for quashing of the FIR and consequential investigation.",
+    "However, as a submission had been raised that the accused persons were innocent and there had been allegation of false implication, it would be appropriate to direct the police not to arrest the petitioners during the pendency of the investigation and, accordingly, it was so directed."
+  ],
+  "issues": [
+    "whether the High Court while refusing to exercise inherent powers under Section 482 of the Code of Criminal Procedure (CrPC) to interfere in an application for quashment of the investigation, can restrain the investigating agency not to arrest the accused persons during the course of investigation"
+  ],
+  "petitioner_arguments": [
+    "the informant had sustained grievous injuries and was attacked by dangerous weapons and custodial interrogation of the accused persons is absolutely essential",
+    "the High Court in exercise of inherent power under Section 482 CrPC can quash an FIR on certain well known parameters but while declining to quash the same, it cannot extend the privilege to the accused persons which is in the nature of an anticipatory bail"
+  ],
+  "respondent_arguments": [
+    "custodial interrogation is not necessary in the facts of the case",
+    "the plentitude of power conferred on the High Court under Section 482 CrPC empowers it to pass such an order and there being no infirmity in the order, no interference is warranted by this Court"
+  ],
+  "court_reasoning": [
+    "The functions of the judiciary and the police are complementary, not overlapping, and the combination of individual liberty with a due observance of law and order is only to be obtained by leaving each to exercise its own function, always of course subject to the right of the Court to intervene in an appropriate case when moved under Section 491 of the Criminal Procedure Code to give directions in the nature of habeas corpus.",
+    "Section 154(1) CrPC admits of no other construction but the literal construction. Thereafter it referred to the legislative intent of Section 154 which has been elaborated in State of Haryana and Ors. v. Bhajan Lal and Ors. AIR 1992 SC 604 1990 Indlaw SC 91 and various other authorities.",
+    "what is necessary is only that the information given to the police must disclose the commission of a cognizable offence."
+  ],
+  "holding": [
+    "mandatory registration of FIRs under Section 154 of the Code will not be in contravention of Article 21 of the Constitution as purported by various counsel",
+    "registration of an FIR is mandatory if the information given to the police under Section 154 of the Code discloses the commission of a cognizable offence"
+  ],
+  "cases_cited": [
+    "All) and Natho Mal v. State of U",
+    "All), Ajeet Singh v. State of U",
+    "All), Kamlesh Singh v. State of U",
+    "All), Lalji Yadav v. State of U",
+    "In Ranjit Singh v. State of Madhya Pradesh",
+    "Kurukshetra University v. State of Haryana",
+    "Madhavrao Jiwajirao Scindia v. Sambhajira",
+    "State of Bihar v. J.A",
+    "State of Bihar v. Murad Ali Khan",
+    "State of Telangana v Habib Abdullah Jeelani",
+    "and CBI v. Tapa",
+    "grant of anticipatory bail. In Rashmi Rekha Thatoi and Anr. v. State of Orissa",
+    "has been affirmed by this Court in Lal Kamlendra Pratap Singh v. State of U",
+    "on a decision of the Allahabad High Court in Amarawati v. State of U",
+    "reliance on the decision of this Court in Joginder Kumar v. State of U",
+    "supra) the Court referred to the decision in Ama.ra.wati v. State of U",
+    "taken similar view in several judgments, namely, Satya Pal v. State of U",
+    "to refer to the Constitution Bench decision in Lalita Kumari v. Government of Uttar Pradesh",
+    "was challenged before the Constitution Bench in Kartar Singh v. State of Punjab",
+    "we are obliged to refer to the decision in Hema Mishra v. State of Uttar Pradesh",
+    "which has been elaborated in State of Haryana and Ors. v. Bhajan Lal"
+  ]
+}

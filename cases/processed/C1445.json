@@ -1,0 +1,84 @@
+{
+  "case_id": "C1445",
+  "case_name": "State of Maharashtra v Bharat Shanti Lal Shah and Others",
+  "court": "Supreme Court of India",
+  "year": 2008,
+  "judges": [
+    "Hon'ble Justice Dr. Mukundakam Sharma"
+  ],
+  "bench": [],
+  "petitioner": "State of Maharashtra",
+  "respondent": "Bharat Shanti Lal Shah",
+  "citations": [
+    "1973 1 SCC 471",
+    "1975 2 SCC 148",
+    "1979 2 SCC 249",
+    "1981 4 SCC 391",
+    "1983 4 SCC 166",
+    "1989 3 SCC 698",
+    "1990 2 SCC 562",
+    "1994 3 SCC 569",
+    "1997 1 SCC 301",
+    "1997 2 SCC 453",
+    "2004 2 SCC 553",
+    "2005 2 SCC 515",
+    "2005 8 SCC 534",
+    "2007 6 SCC 236",
+    "AIR 1954 SC 92",
+    "AIR 1955 SC 504",
+    "AIR 1955 SC 58",
+    "AIR 1959 SC 544"
+  ],
+  "statutes": [
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "14"
+    },
+    {
+      "section": "20"
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "act": "Indian Penal Code"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "1 September 2008",
+  "outcome": "Unknown",
+  "facts": [
+    "In all these appeals the issue that falls for our consideration is the Constitutional validity of the Maharashtra Control of Organised Crime Act, 1999 (for short the 'MCOCA' or the 'Act') on the ground that the State Legislature did not have the legislative competence to enact such a law and also that the aforesaid law is unreasonable and is violative of the provisions of Art. 14 of the Constitution of India.",
+    "Respondent Nos. 2 and 3 were arrested under the provisions of the MCOCA and cases were registered against them.",
+    "The Bombay High Court heard the above mentioned writ petitions together and passed a common judgment and order on 05.03.2003 whereby it upheld the Constitutional validity of S. 2(d), (e) and (f) and also the provisions of Ss. 3 and 4 but struck down Ss. 13 to 16 as unConstitutional as being beyond the legislative competence of the State Legislature.",
+    "Being aggrieved by the aforesaid common order the State of Maharashtra has filed the present appeals."
+  ],
+  "issues": [
+    "The Constitutional validity of the Maharashtra Control of Organised Crime Act, 1999 (for short the 'MCOCA' or the 'Act')",
+    "The legislative competence to enact such a law",
+    "The reasonableness and constitutionality of the provisions of Art. 14 of the Constitution of India"
+  ],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "The power to grant a licence on such conditions and in considerations of such payments as it thinks fit, to any person to establish, maintain or work a telegraph in any part within India is also vested with the Central Government.",
+    "S. 5(2) of the Act provides that on the occurrence of any public emergency, or in the interest of public safety the Central or the State Government or any officer specially authorized in that behalf by the Central or the State Government may, if satisfied that it is necessary or expedient to do so in the interest of the sovereignty and integrity of India, the security of the State, friendly relations with foreign states or public order or for preventing incitement to the commission of offence and for the reasons to be recorded in writing by order, direct that any message or class of messages to or from any person or class of persons, or relating to any particular subject, brought for transmission by or transmitted or received by any telegraphs, shall not be transmitted, or shall be intercepted or detained, or shall be disclosed to the Government making the order or an officer thereof mentioned in the order."
+  ],
+  "holding": [
+    "The Bombay High Court upheld the Constitutional validity of S. 2(d), (e) and (f) and also the provisions of Ss. 3 and 4 but struck down Ss. 13 to 16 as unConstitutional as being beyond the legislative competence of the State Legislature."
+  ],
+  "cases_cited": [
+    "It was stated in the case of Gobind v. State of M",
+    "Judges' Bench of this Court in Godfrey Phillips India Ltd. v. State of U",
+    "State of Maharashtra v Bharat Shanti Lal Shah",
+    "five Judges' Bench of this court in the case of A.S. Krishna v. State of Madras",
+    "held in the case of People's Union for Civil Liberties (PUCL) v. Union of India",
+    "in the case of Gujarat v. Mirzapur Moti Kureshi Kassab Jamat",
+    "of State legislature. In M/s Burrakur Coal Co. Ltd. v. The",
+    "of this Court titled Greater Bombay Cooperative Bank Ltd. v. United Yarn Tex (P"
+  ]
+}

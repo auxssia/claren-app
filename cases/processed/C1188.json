@@ -1,0 +1,52 @@
+{
+  "case_id": "C1188",
+  "case_name": "Joginder Singh v State of Punjab and Others",
+  "court": "Supreme Court of India",
+  "year": 2001,
+  "judges": [
+    "N. Santosh Hegde"
+  ],
+  "bench": [],
+  "petitioner": "Joginder Singh",
+  "respondent": "State of Punjab",
+  "citations": [
+    "2000 3 SCC 394",
+    "2000 3 SCC 409",
+    "2000 3 SCC 514",
+    "2000 5 SCC 170"
+  ],
+  "statutes": [
+    {
+      "section": "3"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "326"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Bail",
+  "court_level": "Supreme Court",
+  "decision_date": "11 September 2001",
+  "outcome": "Unknown",
+  "facts": [],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [],
+  "holding": [
+    "The judgments cited by the appellant are distinguishable.",
+    "Therefore, we cannot be persuaded to interpret the remission notification of the Punjab Government to run counter to the judgment of this Court referred to hereinabove.",
+    "In our opinion, while applying the period of remission granted by the Government under any remission notification the period during which an accused person was on bail cannot be taken into account.",
+    "The appeals are accordingly allowed."
+  ],
+  "cases_cited": [
+    "Joginder Singh v State of Punjab",
+    "State of Haryana v. Nauratta Singh &",
+    "Sunil Fulchand Shah v. Union of India &",
+    "and Satpal & Anr. v. State of Haryana &",
+    "upon the judgments of this Court in State of Haryana & Ors. v. Mohinder Singh"
+  ]
+}

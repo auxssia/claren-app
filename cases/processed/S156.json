@@ -1,0 +1,46 @@
+{
+  "case_id": "S156",
+  "case_name": "",
+  "court": "",
+  "year": 2026,
+  "judges": [],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Indian Evidence Act",
+      "section": "145"
+    },
+    {
+      "act": "Indian Evidence Act",
+      "section": "32"
+    },
+    {
+      "act": "That Act",
+      "section": "27"
+    }
+  ],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "No statement made by any person to a police officer in the course of an investigation under this Chapter, shall, if reduced to writing, be signed by the person making it;",
+    "nor shall any such statement or any record thereof, whether in a police diary or otherwise, or any part of such statement or record, be used for any purpose, save as hereinafter provided, at any inquiry or trial in respect of any offence under investigation at the time when such statement was made"
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "An omission to state a fact or circumstance in the statement referred to in sub-section (1) may amount to contradiction if the same appears to be significant and otherwise relevant having regard to the context in which such omission occurs",
+    "whether any omission amounts to a contradiction in the particular context shall be a question of fact"
+  ],
+  "holding": [
+    "(1) No statement made by any person to a police officer in the course of an investigation under this Chapter, shall, if reduced to writing, be signed by the person making it;",
+    "(2) Nothing in this section shall be deemed to apply to any statement falling within the provisions of clause (1) of section 32 of the Indian Evidence Act, 1872 (1 of 1872), or to affect the provisions of section 27 of that Act"
+  ],
+  "cases_cited": []
+}

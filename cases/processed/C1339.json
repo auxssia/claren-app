@@ -1,0 +1,66 @@
+{
+  "case_id": "C1339",
+  "case_name": "Shanmugam @ Kulandaivalu v State of Tamil Nadu",
+  "court": "Supreme Court of India",
+  "year": 2002,
+  "judges": [
+    "P. VENKATARAMA REDDI, J."
+  ],
+  "bench": [],
+  "petitioner": "Shanmugam @ Kulandaivalu",
+  "respondent": "State of Tamil Nadu\nSupreme Court of India\n\n12 November 2002\nCr.A. No. 256 of 2002\nThe Judgment was delivered by: P. VENKATARAMA REDDI, J.\n1.  This is a case in which the accused-appellant killed his younger brother after picking up quarrel on a petty issue and all the eye witnesses including the wife of the deceased have turned hostile. The conviction of the appellant by the Sessions Judge, Salem is on the basis of two dying declarations - the first one made to the police constable (PW9) and the second one recorded by PW11, the Judicial Magistrate, Erode. The High Court confirmed the conviction under S.302 IPC relying on the 1st dying declaration.\n2.   According to prosecution, on the evening of 17.11.1989, the deceased went to the land close to his fields to fetch water from the bore well. When he found his elder brother i.e. the accused whistling at that place, he questioned him as to why he was whistling at a place frequented by ladies. The accused having",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "307"
+    },
+    {
+      "section": "27"
+    },
+    {
+      "act": "Indian Evidence Act, 1872"
+    },
+    {
+      "section": "304"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Arrest",
+  "court_level": "Supreme Court",
+  "decision_date": "12 November 2002",
+  "outcome": "Unknown",
+  "facts": [
+    "This is a case in which the accused-appellant killed his younger brother after picking up quarrel on a petty issue and all the eye witnesses including the wife of the deceased have turned hostile.",
+    "The conviction of the appellant by the Sessions Judge, Salem is on the basis of two dying declarations - the first one made to the police constable (PW9) and the second one recorded by PW11, the Judicial Magistrate, Erode.",
+    "According to prosecution, on the evening of 17.11.1989, the deceased went to the land close to his fields to fetch water from the bore well.",
+    "The victim was conscious at the time he was brought to the hospital.",
+    "PW5 also stated that as the wounds not infected, the death occurred and if it had not been infected, there was no chance of his death."
+  ],
+  "issues": [
+    "Whether the dying declarations can be relied upon for conviction?",
+    "Whether the accused acted in self-defence or exceeded his right of private defence?"
+  ],
+  "petitioner_arguments": [
+    "The dying declarations - both Ex. P.14 and P.16 ought not to be relied upon as the Doctor was not examined and the endorsement on Ex. P.16 merely refers to the consciousness of the patient without indicating his state of mind at the time of making the statement.",
+    "Even if the broad version of attack as per the dying declarations is believed, in view of the prosecution's failure to explain injuries on the person of the accused coupled with the fact that there was a quarrel, it could be reasonably inferred that the accused, if at all, exceeded his right of private defence."
+  ],
+  "respondent_arguments": [
+    "The conviction can be based solely upon the dying declaration, that the omission to examine the Doctor does not vitiate the dying declaration especially the one recorded by the Magistrate, that the dying declaration cannot be ignored merely on the ground that it did not give an account of the injuries received by the accused."
+  ],
+  "court_reasoning": [
+    "The mere fact that the doctor, in whose presence Ex.P.16 was recorded, was not examined does not effect the evidentiary value to be attached to the dying declaration.",
+    "Thus the theoretical distinction that was made in P. Rosamma's case between consciousness and state of mind was not accepted by the Five Judge bench."
+  ],
+  "holding": [
+    "The conviction is upheld."
+  ],
+  "cases_cited": [
+    "dying declaration. The proposition laid down in P. Rosamma vs. State of Andra Pradesh that"
+  ]
+}

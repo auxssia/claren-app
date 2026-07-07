@@ -1,0 +1,72 @@
+{
+  "case_id": "C1502",
+  "case_name": "Gupta Sugar Works v State Of U.P. And Ors.",
+  "court": "Supreme Court of India",
+  "year": 1987,
+  "judges": [
+    "K. Jagannatha Shetty"
+  ],
+  "bench": [],
+  "petitioner": "Gupta Sugar Works",
+  "respondent": "State Of U.P.",
+  "citations": [
+    "1973 2 SCR 882",
+    "1978 3 SCR 293",
+    "1981 3 SCR 29"
+  ],
+  "statutes": [
+    {
+      "act": "Essential Commodities Act",
+      "section": "3"
+    },
+    {
+      "act": "Said Act",
+      "section": "5"
+    },
+    {
+      "act": "Section 3 Of The Essential Commodities Act",
+      "section": "3C"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Fundamental Rights",
+  "court_level": "Supreme Court",
+  "decision_date": "26 October 1987",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner is engaged in the manufacture of Khandsari sugar.",
+    "The petitioner challenges the validity of the U.P. Khandsari Sugar (Levy) order, 1981 ('Levy order').",
+    "The levy order requires Khandsari manufacturing units to surrender levy of 50% of the production by sulphitation units in the first process.",
+    "The balance 50% of that process with the total production by subsequent processes was left free to be sold in the open market by the manufacturing units.",
+    "The price fixed for the levy Khandsari sugar was Rs. 320 per quintal."
+  ],
+  "issues": [
+    "Whether the State Government has taken into consideration the guidelines in-built in sub-section 3C of section 3 of the Essential Commodities Act, 1955",
+    "Whether the levy order is unreasonable or excessive restriction on the fundamental rights guaranteed under Articles 19(1)(g) and 14 of the Constitution"
+  ],
+  "petitioner_arguments": [
+    "The State Government has not taken into consideration the guidelines in-built in sub-section 3C of section 3 of the Essential Commodities Act, 1955",
+    "The levy order is unreasonable or excessive restriction on the fundamental rights guaranteed under Articles 19(1)(g) and 14 of the Constitution"
+  ],
+  "respondent_arguments": [
+    "The State Government has taken into consideration the guidelines in-built in sub-section 3C of section 3 of the Essential Commodities Act, 1955",
+    "The levy order is reasonable restriction on the fundamental rights guaranteed under Articles 19(1)(g) and 14 of the Constitution"
+  ],
+  "court_reasoning": [
+    "Price fixation is neither the function nor the forte of the Court.",
+    "The primary consideration in the fixation of price would be the interest of consumers rather than that of the producers.",
+    "The object is to secure equitable distribution and availability at fair price so that it is the interest of the consumer and not of the producer which is the determining factor."
+  ],
+  "holding": [
+    "The Writ Petition fails and is dismissed with costs."
+  ],
+  "cases_cited": [
+    "Gupta Sugar Works v State Of U",
+    "and Anakapalle Coop. Agrl. & Industrial Society Ltd. v. Union of India &",
+    "by this Court in (i) The Panipat Co-operative Sugar Mills v. Union of India",
+    "by this Court in the case of Prag Ice and oil Mills & Anr. v. Union of India",
+    "matter of decision of this Court in New India Sugar Works v. State of Uttar Pradesh &",
+    "observation of o. Chinnappa Reddy, J. in Union of India v. Cynamide India Ltd",
+    "petitioners being unreasonable. In Shree Meenakshi Mills Ltd. v. U.O"
+  ]
+}

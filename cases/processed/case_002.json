@@ -1,0 +1,36 @@
+{
+  "case_id": "case_002",
+  "case_name": "Alpha Corp v. Beta Electronics Ltd",
+  "court": "HIGH COURT OF DELHI AT NEW DELHI",
+  "year": 2023,
+  "judges": [
+    "MR. JUSTICE SANJEEV SACHDEVA"
+  ],
+  "bench": [],
+  "petitioner": "Unknown",
+  "respondent": "Unknown",
+  "citations": [],
+  "statutes": [],
+  "legal_domain": "Civil",
+  "legal_subdomain": "Contract",
+  "court_level": "Supreme Court",
+  "decision_date": "Unknown",
+  "outcome": "Unknown",
+  "facts": [
+    "The petitioner seeks relief regarding an ongoing corporate lease Contract dispute.",
+    "Reviewing the commercial terms, we find no merit in the present petition."
+  ],
+  "issues": [],
+  "petitioner_arguments": [],
+  "respondent_arguments": [
+    "highlight a material breach of performance under the Companies Act."
+  ],
+  "court_reasoning": [
+    "We find no merit in the present petition.",
+    "The petition stands dismissed with no order as to costs."
+  ],
+  "holding": [
+    "The petition stands dismissed with no order as to costs."
+  ],
+  "cases_cited": []
+}

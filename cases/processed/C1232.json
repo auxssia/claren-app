@@ -1,0 +1,60 @@
+{
+  "case_id": "C1232",
+  "case_name": "Anil Dey v State of West Bengal",
+  "court": "Supreme Court of India",
+  "year": 1974,
+  "judges": [
+    "KRISHNA IYER"
+  ],
+  "bench": [],
+  "petitioner": "Anil Dey",
+  "respondent": "State of West Bengal\nSupreme Court of India\n\n22 February 1974\nW.P. No. 20 of 1973 (Under Article 32 of the Constitution of India for issue of a Writ in the nature of habeas corpus).\nThe Judgment was delivered by: KRISHNA IYER, J.\n1. The writ petitioner who has moved for his release from jail was detained by an order of the District Magistrate, 24 Parganas, u/s. 3(2) of the Maintenance of Internal Security Act, 1971. The grounds of detention communicated u/s. 8(1) of the Act read thus :\n2. That on August 1, 1972 at about 12.30 hrs. you and your associates committed theft in respect of signal materials from SPH type location box No. 513 which is situated in between up main and UP CCR line at Dum Dum Junction North Yard (near S.S.P) and 2 Nos feed and transformer from the junction box near signal No. 35 on the said place. The value of the stolen property is valued at Rs. 600. Your action caused disruption of train service for a considerable time affecting supplies and services",
+  "citations": [],
+  "statutes": [
+    {
+      "act": "Constitution of India",
+      "section": "32"
+    },
+    {
+      "act": "Constitution of India"
+    },
+    {
+      "section": "3(2)"
+    },
+    {
+      "section": "8(1)"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Theft",
+  "court_level": "Supreme Court",
+  "decision_date": "22 February 1974",
+  "outcome": "Unknown",
+  "facts": [
+    "The writ petitioner was detained by an order of the District Magistrate, 24 Parganas, under section 3(2) of the Maintenance of Internal Security Act, 1971.",
+    "The grounds of detention communicated under section 8(1) of the Act read that on August 1, 1972, the petitioner and his associates committed theft in respect of signal materials from SPH type location box No. 513 situated in a strategic spot at the Dum Dum junction North Yard.",
+    "The value of the stolen property was valued at Rs. 600."
+  ],
+  "issues": [
+    "Whether the detention order is too flimsy, too alien or too remote to bear a reasonable nexus with the two-fold requirement of subjective satisfaction and activity prejudicial to the maintenance of supplies and services essential to the community.",
+    "Whether the factual components constituting the real grounds for detention have been fairly and fully put across to the detenu so as to enable him to make an effective answer."
+  ],
+  "petitioner_arguments": [
+    "The ratio in Shaik Hanif v. State of West Bengal (supra) applied to the present instance of detention, and the detenu was therefore entitled to be enlarged.",
+    "The ground intimated was that 'you have been acting in a manner prejudicial to the maintenance of supplies and services essential to the community'."
+  ],
+  "respondent_arguments": [
+    "The District Magistrate has derived his subjective satisfaction from the circumstance that the detenu is a 'notorious stealer of railway stores' operating in Dum Dum Railway yard.",
+    "The key fact at the core of the statute is that, given subjective satisfaction of the appropriate authority, judicial review is excluded except within a narrow area."
+  ],
+  "court_reasoning": [
+    "The opinion of the officer must be honest and real, and not so fanciful or imaginary that one the facts alleged no rational individual will entertain the opinion necessary to justify detention.",
+    "Even if the incident attributed to the detenu has some connection with the obnoxious activities, it should not be too trivial in substance nor too stale in point of time as to snap the rational link that must exist between the vicious episode and the prejudicial activity sought to be interdicted."
+  ],
+  "holding": [
+    "The impugned order of detention is thus violative of Art. 22(5) of the Constitution, and is liable to be quashed on that score alone."
+  ],
+  "cases_cited": [
+    "was, therefore, entitled to be enlarged. In Shaik Hanif v. State of West Bengal (supra"
+  ]
+}

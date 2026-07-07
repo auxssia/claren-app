@@ -1,0 +1,137 @@
+{
+  "case_id": "C435",
+  "case_name": "Municipal Committee, Hoshiarpur v Punjab State Electricity Board and others",
+  "court": "Supreme Court of India",
+  "year": 2010,
+  "judges": [
+    "Balbir Singh Chauhan"
+  ],
+  "bench": [],
+  "petitioner": "Municipal Committee, Hoshiarpur",
+  "respondent": "Punjab State Electricity Board",
+  "citations": [
+    "1988 2 SCC 602",
+    "1999 4 SCC 468",
+    "2001 7 SCC 494",
+    "2005 1 SCC 598",
+    "2007 5 SCC 669",
+    "2009 14 SCC 216",
+    "2009 7 SCC 311",
+    "2010 2 SCC 250",
+    "AIR 1963 SC 1633",
+    "AIR 1970 SC 679",
+    "AIR 1975 SC 1234",
+    "AIR 1977 SC 965",
+    "AIR 1978 SC 1329",
+    "AIR 1979 SC 798",
+    "AIR 1980 SC 2097",
+    "AIR 1981 SC 136",
+    "AIR 1985 SC 1416",
+    "AIR 1988 SC 2010",
+    "AIR 1991 SC 909",
+    "AIR 1992 SC 1604",
+    "AIR 1992 SC 2279",
+    "AIR 1993 SC 398",
+    "AIR 1994 SC 1074",
+    "AIR 1999 SC 2213",
+    "AIR 1999 SC 3067",
+    "AIR 2001 SC 1273",
+    "AIR 2001 SC 965",
+    "AIR 2002 SC 1428",
+    "AIR 2004 SC 1591",
+    "AIR 2005 SC 1777",
+    "AIR 2006 SC 2172",
+    "AIR 2006 SC 2234",
+    "AIR 2008 SC 1749",
+    "AIR 2010 SC 2679",
+    "AIR 2010 SC 2685"
+  ],
+  "statutes": [
+    {
+      "act": "Code Of Civil Procedure",
+      "section": "100"
+    },
+    {
+      "act": "The Code",
+      "section": "100"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Theft",
+  "court_level": "Supreme Court",
+  "decision_date": "19 October 2010",
+  "outcome": "Unknown",
+  "facts": [
+    "Facts and circumstances giving rise to this appeal are that the Municipal Committee, Hoshiarpur (hereinafter called the 'appellant') had taken an electricity connection on 15.6.1992, for running a tubewell, from the Punjab State Electricity Board (hereinafter called the 'Board'), for supplying water for daily use to the public of the locality at large.",
+    "The average bill for the consumption of electricity of the said connection used to be around Rs.5,000/- per month and the said amount was paid regularly by the appellant.",
+    "A bill dated 11.3.1994 to the tune of Rs.82,300/- was served upon the appellant by the Board.",
+    "As the bill was very high, the appellant instead of making the payment, filed suit No.304 of 1994 before the Civil Court challenging the said bill.",
+    "The trial Court vide its judgment and decree dated 22.5.1995, decreed the suit.",
+    "Being aggrieved, the respondent-Board preferred an appeal before the District Judge and the same was dismissed vide judgment and decree dated 30.9.1997, holding that there was no justification for the respondent-Board to issue a supplementary bill arbitrarily.",
+    "Being aggrieved, the respondent-Board preferred Second Appeal No.1618 of 1998 before the High Court which has been allowed vide impugned judgment and decree dated 12.1.2001, observing that after correcting the wrong connection, the reading of the meter jumped three times and therefore, from the very beginning only 1/3rd of the electric energy actually consumed stood recorded by the meter."
+  ],
+  "issues": [
+    "Second Appeal: Sections 100 & 103 C.P.C.",
+    "The conditions precedent for entertaining a Second Appeal",
+    "The specific manner of its disposal"
+  ],
+  "petitioner_arguments": [
+    "The High Court committed a grave error in deciding the Second Appeal without meeting the mandatory requirement of Section 100 of the Code of Civil Procedure, 1908 (hereinafter called 'CPC') as no substantial question of law had been framed by the High Court.",
+    "The bill was revised without giving any show cause notice or opportunity of hearing to the appellant.",
+    "The High Court recorded a perverse finding that after the correct/proper connection was made, the meter reading jumped to three times the previous readings."
+  ],
+  "respondent_arguments": [
+    "It was not that the appellant had made any attempt to commit theft of energy or tampered with the meter.",
+    "It was merely a fault/negligence on the part of the respondent-Board that the proper connection of the meter had not been made and after connecting the meter properly the meter readings had shown 3 times the consumption of electricity shown earlier.",
+    "The High Court was justified in re-appreciating the facts without formulating a substantial question of law in view of the provisions of Section 103 CPC."
+  ],
+  "court_reasoning": [
+    "We have considered the rival submissions made by the learned counsel for the parties and perused the record.",
+    "In Kondiba Dagadu Kadam v. Savitribai Sopan Gujar & Ors., AIR 1999 SC 2213 1999 Indlaw SC 1093, this Court held as under:...",
+    "Further, there can be no quarrel that the right of appeal/revision cannot be absolute and the legislature can impose conditions for maintaining the same.",
+    "A similar view has been reiterated by this Court in Anant Mills Co. Ltd. v. State of Gujarat, AIR 1975 SC 1234 1975 Indlaw SC 604; and Shyam Kishore & Ors. v. Municipal Corporation of Delhi & Anr., AIR 1992 SC 2279 1992 Indlaw SC 416.",
+    "In Gujarat Agro Industries Co. Ltd. v. Municipal Corporation of the City of Ahmedabad & Ors., (1999) 4 SCC 468 1999 Indlaw SC 1551, this Court held that the right of appeal though statutory, can be conditional/qualified and such a law cannot be held to be violative of Article 14 of the Constitution."
+  ],
+  "holding": [
+    "The appeal deserves to be allowed.",
+    "Thus, no interference is called for and the appeal is liable to be dismissed."
+  ],
+  "cases_cited": [
+    "A Constitution Bench of this court in Nandlal & Anr. v. State of Haryana",
+    "Bharatha Matha & Anr. v. R. Vijaya Renganathan &",
+    "C.P.C. to go into the question. (See also Achintya Kumar Saha v. M/s Nanee Printers &",
+    "Haryana State Electronics Development Corporation Ltd. & Ors. v. Seema Sharma &",
+    "Hero Vinoth (Minor) v. Seshammal",
+    "In Gujarat Agro Industries Co. Ltd. v. Municipal Corporation of",
+    "In Jadu Gopal Chakravarty v. Pannalal Bhowmick &",
+    "In Jai Singh v. Shakuntala",
+    "In Kondiba Dagadu Kadam v. Savitribai Sopan Gujar &",
+    "In Kulwant Kaur & Ors. v. Gurdial Singh Mann (dead",
+    "In Madamanchi Ramappa & Anr. v. Muthaluru Bojjappa",
+    "In Mahindra & Mahindra Ltd. v. Union of India &",
+    "In Shri Bhagwan Sharma v. Smt",
+    "Jagdish Singh v. Natthu Singh",
+    "Karnataka Board of Wakf v. Anjuman- E-Ismail Madris-Un-Niswan",
+    "Kashmir Singh v. Harnam Singh &",
+    "Manicka Poosali (Deceased by L.Rs.) & Ors. v. Anjalai Ammal &",
+    "Mst. Sugani v. Rameshwar Das &",
+    "Municipal Committee, Hoshiarpur v Punjab",
+    "P. Chandrasekharan & Ors. v. S. Kanakarajan &",
+    "S.L. Kapoor v. Jagmohan &",
+    "Santosh Hazari v. Purshottam Tiwari (dead",
+    "Sarjas Rai & Ors. v. Bakshi Inderjeet Singh",
+    "State of U.P. v. Om Prakash Gupta",
+    "Union of India & Anr. v. Tulsiram Patel",
+    "V. Ramaswamy v. Ramachandran &",
+    "While dealing with the issue, this Court in Leela Soni & Ors. v. Rajesh Goyal &",
+    "and Bhag Singh v. Jaskirat Singh &",
+    "and Dinesh Kumar v. Yusuf Ali",
+    "and Managing Director, ECIL, Hyderabad v. B. Karunakar",
+    "and Shyam Kishore & Ors. v. Municipal Corporation of Delhi &",
+    "and U.P. Junior Doctors' Action Committee v. Dr. B",
+    "has been reiterated by this Court in Anant Mills Co. Ltd. v. State of Gujarat",
+    "of Mining Examination and Chief Inspector of Mines & Anr. v. Ramjee",
+    "proof of prejudice is not required at all. In A.R. Antulay v. R.S",
+    "the same. In Vijay Prakash D. Mehta & Jawahar D. Mehta v. Collector of Customs (Preventive"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case_id": "C666",
+  "case_name": "Hari Ram v State of Haryana",
+  "court": "Supreme Court of India",
+  "year": 1982,
+  "judges": [
+    "PATHAK, J."
+  ],
+  "bench": [],
+  "petitioner": "Hari Ram",
+  "respondent": "State of Haryana\nSupreme Court of India\n\n17 December 1982\nCr.A. No. 307 of 1975 (Cr.A. No. 597 of 1972, D/- 24 February 1975 (Punj. & Har.))\nThe Judgment was delivered by : PATHAK, J.\nThis appeal by special leave is directed against the judgment dated February 24, 1975 of the High Court of Punjab and Haryana dismissing an an appeal by the appellant against his conviction under section 302, S. 325 read with S. 149, S. 323 read with S. 149 and S. 148 of the Indian Penal Code and the sentence of life imprisonment for the offence under S. 302, and of six months' rigorous imprisonment for each of the remaining offences, the sentences to run concurrently\nIt appears that on June 2, 1971, as the deceased Ran Singh was pushing his cart through the chowk in village Mundakhera (situated in the district of Rohtak) it struck against the platform belonging to a resident Hukum Chand. Hukum Chand, the appellant Hari Ram and some",
+  "citations": [],
+  "statutes": [
+    {
+      "section": "302"
+    },
+    {
+      "act": "Indian Penal Code"
+    },
+    {
+      "section": "304"
+    }
+  ],
+  "legal_domain": "Criminal",
+  "legal_subdomain": "Penal Code",
+  "court_level": "Supreme Court",
+  "decision_date": "17 December 1982",
+  "outcome": "Unknown",
+  "facts": [
+    "On June 2, 1971, as the deceased Ran Singh was pushing his cart through the chowk in village Mundakhera (situated in the district of Rohtak) it struck against the platform belonging to a resident Hukum Chand.",
+    "Hukum Chand, the appellant Hari Ram and some others were sitting at some distance from the platform and an altercation ensued between them and Ran Sing.",
+    "The prosecution case is that while Hukum Chand held the arms of Ran Singh, the appellant Hari Ram thrust the prongs of the jelli into Ran Singh's chest and that when the jelli was withdrawn Ran Singh fell down. He died later.",
+    "A fight followed between the appellant and his comrades on one side and a number of persons who came in aid of Ran Singh."
+  ],
+  "issues": [],
+  "petitioner_arguments": [
+    "The facts do not make out an offence u/s. 302 against the appellant and that a conviction under the second part of S. 304 is called for instead."
+  ],
+  "respondent_arguments": [],
+  "court_reasoning": [
+    "It does seem that in the heat of the altercation between Ran Singh on the one hand and the appellant and his comrades on the other, the appellant seized a jelli and thrust it into the chest of Ran Singh.",
+    "On the evidence it does not appear that there was any intention to kill Ran Singh. We are, therefore, satisfied that the conviction under S. 302 cannot be sustained and that, on the contrary, the facts make out an offence under the second part of Section 304"
+  ],
+  "holding": [
+    "The appeal is allowed in so far that we set aside the conviction u/s. 302 of the Indian Penal Code and instead convict the appellant under the second part of S. 304 of the Code.",
+    "We substitute therefor a sentence of rigorous imprisonment for the period already undergone."
+  ],
+  "cases_cited": []
+}

@@ -1,0 +1,66 @@
+{
+  "case_id": "C360",
+  "case_name": "Ichhu Devi Choraria v Union of India and Others",
+  "court": "Supreme Court of India",
+  "year": 1980,
+  "judges": [
+    "P. N. Bhagwati"
+  ],
+  "bench": [],
+  "petitioner": "Ichhu Devi Choraria",
+  "respondent": "Union of India",
+  "citations": [
+    "1974 2 SCR 2581974",
+    "1974 3 SCR 3791974",
+    "1975 2 SCR 5931974",
+    "1975 2 SCR 8321974",
+    "1975 3 SCR 1861975",
+    "AIR 1971 SC 2215"
+  ],
+  "statutes": [
+    {
+      "act": "Cofeposa Act",
+      "section": "3"
+    }
+  ],
+  "legal_domain": "Constitutional",
+  "legal_subdomain": "Article 32",
+  "court_level": "Supreme Court",
+  "decision_date": "9 September 1980",
+  "outcome": "Unknown",
+  "facts": [
+    "The petition for a writ of habeas corpus challenges the continued detention of one Mahendra Chordia under sub-s.(1) of s.3 of the Conservation of Foreign Exchange and Prevention of Smuggling Activities Act, 1974 (hereinafter referred to as COFEPOSA Act).",
+    "On 4th June, 1980 an order of detention dated 27th May 1980 was served on Mahendra Chordia (hereinafter referred to as the detenu) and he was taken under detention.",
+    "The order of detention recited that the Governor of Maharashtra was satisfied with respect to the detenu that, with a view to preventing him from smuggling goods and abetting the smuggling of goods, it was necessary to make an order directing him to be detained and by the order of detention, the Governor of Maharashtra in exercise of the powers conferred under sub-s.(1) of s.3 of the COFEPOSA Act read with the Order of the President of India in the notification of the Government of India dated 17 February, 1980 directed that the detenu be detained under that Act.",
+    "Simultaneously with the order of detention, another order dated 27th May was also issued by the Governor of Maharashtra directing that the detenu be detained in the Nasik Road Central Prison.",
+    "When the petitioner was arrested and taken under detention, he was also served with a document dated 27 May 1980 containing the grounds of detention as required by sub-s.(3) of the COFEPOSA Act read with cl.(5) of Article 22 of the Constitution."
+  ],
+  "issues": [
+    "Whether the continued detention of the detenu is valid under the Conservation of Foreign Exchange and Prevention of Smuggling Activities Act, 1974.",
+    "Whether the detaining authority complied with the requirements of sub-s.(3) of s.3 of the COFEPOSA Act and cl.(5) of Article 22 of the Constitution."
+  ],
+  "petitioner_arguments": [
+    "The contention of the petitioner under the ground was that though several statements and documents were relied upon in the grounds of detention and considerable reliance was also placed on two tape recorded conversations in the grounds of detention, the detaining authority did not serve on the detenu along with the grounds of detention, copies of those statements, documents and tapes and it could not therefore be said that the grounds of detention were duly served on the detenu as required by sub-s.(3) of s.3 of the COFEPOSA Act and cl.(5) of Article 22 of the Constitution.",
+    "The petitioner urged that sub-s.(3) of s.3 of the COFEPOSA Act and cl.(5) of Article 22 of the Constitution required that the detaining authority should as soon as may be, communicate to the detenu the grounds on which the order of detention has been made and such grounds would comprise not merely a bare recital of the grounds of detention but also all statements and documents relied upon in the grounds of detention, because these latter would also form part of such grounds.",
+    "It was also contended by the petitioner in the alternative that, in any event, the detaining authority was bound to give copies of the statements, documents and tapes relied upon in the grounds of detention to the detenu without any avoidable delay in order that the detenu should have the earliest opportunity of making an effective representation against the order of detention."
+  ],
+  "respondent_arguments": [
+    "The respondent did not present any arguments as the judgment does not mention any specific points made by the respondent."
+  ],
+  "court_reasoning": [
+    "We may point out straightway that we are not at all happy at the thought that our order may have resulted in setting free a possible smuggler.",
+    "But at the same time we cannot forget that the power of preventive detention is a draconian power justified only in the interest of public security and order and it is tolerated in a free society only as a necessary evil."
+  ],
+  "holding": [
+    "We allowed the petition and directed that the detenue be set at liberty forthwith."
+  ],
+  "cases_cited": [
+    "Ichhu Devi Choraria v Union of India",
+    "V. J. Jain v. Pradhan here in",
+    "and Dulal Roy v. The District Magistrate",
+    "and Khudiram Das v. State of West Bengal &",
+    "decisions of this court commencing from Ramachandra A. Kamat v. Union of India",
+    "ground is not taken in the petition. Vide Nazamuddin v. The",
+    "otherwise than in accordance with law. Vide Mohd. Alam v. State of West Bengal"
+  ]
+}
