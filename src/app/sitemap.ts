@@ -39,7 +39,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   ];
 
   // 2. Dynamic Blog Post Routes
-  const slugs = getAllPostSlugs();
+  // Added 'await' so TypeScript knows the Promise resolves into an array of strings
+  const slugs = await getAllPostSlugs();
   const blogRoutes: MetadataRoute.Sitemap = slugs.map((slug) => ({
     url: `${baseUrl}/blog/${slug}`,
     lastModified: new Date(),
